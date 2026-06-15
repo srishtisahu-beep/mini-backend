@@ -1,0 +1,2 @@
+*.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/Users/admin/Desktop/mini-backend/kb_chroma/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
