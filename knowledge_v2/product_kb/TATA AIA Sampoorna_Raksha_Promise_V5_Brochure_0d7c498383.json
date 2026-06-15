@@ -1,0 +1,249 @@
+{
+  "product_name": "Tata AIA Sampoorna Raksha Promise",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Non-linked, non-participating, pure risk, individual life insurance product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Term Insurance",
+  "summary": "A non-linked, non-participating, pure risk, individual life insurance product designed to provide comprehensive financial protection and security to the policyholder's family. It offers flexibility with four unique Death Benefit options, including joint life coverage for a spouse, and ensures dependents are financially taken care of in the event of the insured's passing.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "Varies by option (Other than POS): Life Promise: 65 years, Life Promise Plus: 55 years, Joint Life Promise: 60 years, Joint Life Promise Plus: 55 years.",
+    "sum_insured": "Minimum: ₹ 25,00,000. Maximum: No limit, subject to Board approved underwriting policy (BAUP).",
+    "policy_term": "Varies by option and channel (PoS vs Other than PoS). Whole of life cover up to 100 years of age is available.",
+    "waiting_period": "A 90-day waiting period from the date of commencement of risk is applicable if the product is bought under PoS for non-accidental death. This is not applicable for death due to accident."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the life assured during the policy term, a death benefit is payable to the nominee. The amount is the highest of 1.25x Single Premium or a specified multiple of Annualised Premium, 105% of Total Premiums Paid, or the Effective Sum Assured."
+    },
+    {
+      "name": "Terminal Illness Benefit (Payor Accelerator Benefit)",
+      "description": "An inbuilt benefit that accelerates the payout of 50% of the Base Sum Assured on diagnosis of a terminal illness. Upon payment, all future premiums are waived."
+    },
+    {
+      "name": "Accidental Death Benefit (Joint Life Options)",
+      "description": "Under Joint Life options, in case of simultaneous death of both lives due to an accident, an additional amount equal to the Base Sum Assured is paid to the nominee."
+    },
+    {
+      "name": "Maturity Benefit (Plus Options)",
+      "description": "Applicable only to 'Life Promise Plus' and 'Joint Life Promise Plus' options. An amount equal to 100% of the Total Premiums Paid is returned if the insured(s) survive till the end of the policy term."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexible Plan Options",
+      "description": "Choice of four unique options: Life Promise, Life Promise Plus, Joint Life Promise, and Joint Life Promise Plus."
+    },
+    {
+      "name": "Joint Life Cover",
+      "description": "Option to cover the policyholder's spouse under the same policy with 'Joint Life Promise' and 'Joint Life Promise Plus' options."
+    },
+    {
+      "name": "Flexible Payout Option",
+      "description": "Death benefit can be received as a lump sum, in monthly/quarterly/half-yearly/annual instalments (staggered benefit), or a combination of both."
+    },
+    {
+      "name": "Cover Enhancement Options",
+      "description": "Flexibility to increase life cover on key life events like marriage or childbirth (Life Stage option) or annually by a fixed percentage (Top-Up SA option), subject to additional premium and underwriting."
+    },
+    {
+      "name": "FlexiPay Benefit",
+      "description": "Allows the policyholder to defer premium payments for up to 12 months after completing 5 full premium payment years, while the risk cover remains active."
+    },
+    {
+      "name": "Instant Payout on Claim Intimation",
+      "description": "For eligible policies, an accelerated benefit of ₹3 Lacs is paid within 1 working day from claim registration to provide immediate financial support."
+    },
+    {
+      "name": "Premium Discounts",
+      "description": "Offers various discounts, including a 15% lower premium for female lives, and special discounts for salaried customers, staff, existing customers, and for specific life milestones."
+    },
+    {
+      "name": "Renewability Option at Maturity",
+      "description": "Policyholders can choose to extend the policy term at maturity, exercisable up to five times, subject to underwriting and payment of additional premium."
+    },
+    {
+      "name": "Family Plan Option",
+      "description": "An optional benefit to transfer the Legacy Sum Assured to a child if the primary insured survives the policy term."
+    },
+    {
+      "name": "Super Retirement Benefit",
+      "description": "An optional feature to receive a percentage of the total premiums paid back, starting from the 30th policy year or attainment of age 70."
+    },
+    {
+      "name": "Rider Availability",
+      "description": "Option to enhance protection with riders like Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider and Tata AIA Life Insurance Non-Linked Comprehensive Health Rider."
+    },
+    {
+      "name": "Health Management Services",
+      "description": "Eligible customers can avail complimentary services like medical consultations, second opinions, and personal medical case management."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "details": "18 years (as on last birthday) for all plan options."
+    },
+    {
+      "criteria": "Maximum Entry Age (Other than POS)",
+      "details": "Life Promise: 65 years, Life Promise Plus: 55 years, Joint Life Promise: 60 years, Joint Life Promise Plus: 55 years."
+    },
+    {
+      "criteria": "Maximum Maturity Age (Other than POS)",
+      "details": "100 years for all plan options, allowing for whole of life cover."
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "details": "Single Pay, Yearly, Half-Yearly, Quarterly, or Monthly."
+    },
+    {
+      "criteria": "Basic Sum Assured",
+      "details": "Minimum of ₹ 25,00,000. No maximum limit, subject to Board Approved Underwriting Policy."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of risk commencement or revival, the nominee is entitled to at least 80% of the Total Premiums Paid or the surrender value available, whichever is higher."
+    },
+    {
+      "type": "Terminal Illness",
+      "description": "No claim is payable if the condition arises from attempted suicide in the first year. The benefit also has a waiting period and will not commence until two years are completed from the policy issuance date."
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "description": "Not payable for losses caused by disease, infection, pre-existing conditions, suicide, influence of drugs or alcohol, war, participation in hazardous activities or sports, breach of law with criminal intent, or nuclear/chemical/biological attacks."
+    }
+  ],
+  "claims_information": [
+    {
+      "topic": "Instant Payout",
+      "details": "An accelerated death benefit of ₹3 Lacs is paid within 1 working day from claim registration. Eligibility requires the policy to be in force for at least 3 years with a minimum Sum Assured of ₹1 Crore."
+    },
+    {
+      "topic": "Required Documents for Instant Payout",
+      "details": "Death Certificate, Cancelled Cheque / Bank account details, Claim intimation form, KYC of nominee, and Policy document."
+    },
+    {
+      "topic": "Claim Settlement",
+      "details": "The remaining Sum Assured is payable after the completion of the claim investigation. The instant payout is an acceleration and not a final acceptance of the claim."
+    },
+    {
+      "topic": "Contact Information",
+      "details": "For any information including claims, contact your Insurance Advisor, visit the nearest Tata AIA Life branch, call 1-860-266-9966, or email customercare@tataaia.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Sampoorna Raksha Promise?",
+      "answer": "It is a non-linked, non-participating, pure risk, individual life insurance product designed to provide financial protection for your family against life's uncertainties."
+    },
+    {
+      "question": "What are the different plan options available under this product?",
+      "answer": "There are four options to choose from: Life Promise, Life Promise Plus, Joint Life Promise, and Joint Life Promise Plus."
+    },
+    {
+      "question": "Can I include my spouse in this policy?",
+      "answer": "Yes, you can cover your spouse under the same policy by choosing the 'Joint Life Promise' or 'Joint Life Promise Plus' options."
+    },
+    {
+      "question": "What is the minimum age to be eligible for this policy?",
+      "answer": "The minimum age at entry is 18 years for all plan options."
+    },
+    {
+      "question": "Does this plan offer any money back at the end of the policy term?",
+      "answer": "Yes, the 'Life Promise Plus' and 'Joint Life Promise Plus' options offer a maturity benefit where 100% of the total premiums paid are returned if the life assured survives the policy term."
+    },
+    {
+      "question": "What is the Payor Accelerator Benefit?",
+      "answer": "It is an inbuilt feature that provides an accelerated lump sum payment of 50% of the Base Sum Assured upon the diagnosis of a Terminal Illness. All future premiums are also waived off after the claim is accepted."
+    },
+    {
+      "question": "How can my nominee receive the death benefit payout?",
+      "answer": "You can choose for the death benefit to be paid as a single lump sum, in regular installments (staggered benefit), or a combination of both, providing flexibility to your family."
+    },
+    {
+      "question": "What is the minimum Sum Assured I can opt for?",
+      "answer": "The minimum Basic Sum Assured you can choose is ₹25,00,000."
+    },
+    {
+      "question": "Are there any discounts available on the premium?",
+      "answer": "Yes, the plan offers several discounts, including a 15% lower premium for female lives, and special discounts for salaried customers, staff members, existing Tata AIA customers, and upon achieving certain life milestones."
+    },
+    {
+      "question": "Can I increase my insurance cover later on?",
+      "answer": "Yes, the policy offers 'Cover Enhancement Options'. You can increase your Sum Assured on specific life events like marriage or childbirth ('Life Stage' option) or increase it annually ('Top-Up SA' option), subject to conditions and additional premium."
+    },
+    {
+      "question": "What is the FlexiPay Benefit?",
+      "answer": "The FlexiPay Benefit allows you to defer your premium payment for up to 12 months without the policy lapsing. This option is available after you have paid premiums for 5 full years."
+    },
+    {
+      "question": "What is the 'Instant Payout on Claim Intimation' feature?",
+      "answer": "For eligible policies with a Sum Assured of ₹1 Crore or more and in force for at least 3 years, an accelerated payment of ₹3 Lacs is made within one working day of claim registration to provide immediate financial assistance."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "The policy provides a grace period (15 days for monthly mode, 30 days for others) to pay the premium. If not paid within the grace period, the policy may lapse or acquire a paid-up value, depending on the plan option and premiums paid."
+    },
+    {
+      "question": "Is there a Free Look Period if I change my mind after purchase?",
+      "answer": "Yes, there is a 30-day Free Look Period from the date of receiving the policy document. During this time, you can cancel the policy if you are not satisfied with the terms and conditions and get a refund of premiums paid, subject to certain deductions."
+    },
+    {
+      "question": "What is the policy's stance on death due to suicide?",
+      "answer": "If death by suicide occurs within 12 months of the policy's start date or revival date, the nominee will be entitled to at least 80% of the total premiums paid or the surrender value, whichever is higher, instead of the full sum assured."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed policy can be revived within a period of 5 years from the due date of the first unpaid premium, subject to company underwriting and payment of all due premiums with interest."
+    },
+    {
+      "question": "What is the 'Family Plan Option'?",
+      "answer": "This is an optional feature where, upon the survival of the primary insured till their policy term end, the Sum Assured can be transferred to their child, providing the child with life cover until they turn 60."
+    },
+    {
+      "question": "What is the 'Super Retirement Benefit'?",
+      "answer": "This is an optional feature for certain plan options that allows the policyholder to receive a percentage of the total premiums paid back, starting from the 30th policy year or age 70, whichever is earlier."
+    },
+    {
+      "question": "What premium payment frequencies are available?",
+      "answer": "You can pay premiums through Single Pay, or on a Yearly, Half-Yearly, Quarterly, or Monthly basis."
+    },
+    {
+      "question": "Can I add riders to this plan?",
+      "answer": "Yes, you can enhance your protection by attaching optional riders like the Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider and Health Rider for an additional premium."
+    },
+    {
+      "question": "Is a loan available against this policy?",
+      "answer": "No, a policy loan facility is not available under this plan."
+    },
+    {
+      "question": "What happens in the case of simultaneous accidental death of both spouses under a Joint Life plan?",
+      "answer": "In addition to the standard death benefit, an additional amount equal to the Base Sum Assured will be paid to the nominee."
+    },
+    {
+      "question": "What are the Health Management Services mentioned in the brochure?",
+      "answer": "These are complimentary services for eligible policyholders that may include medical consultations, second opinions, and personal medical case management to aid in health improvement and management."
+    },
+    {
+      "question": "Is there a waiting period for the Terminal Illness benefit to become active?",
+      "answer": "Yes, the Payor Accelerator Benefit for Terminal Illness will only commence after two years have been completed from the date the policy was issued."
+    },
+    {
+      "question": "What is the 'Renewability option at Maturity'?",
+      "answer": "For certain options like 'Life Promise', this feature allows you to extend the term of your policy at maturity by paying an additional premium. This can be done a maximum of five times and is subject to underwriting."
+    },
+    {
+      "question": "What documents are needed to initiate the 'Instant Payout' on a claim?",
+      "answer": "The documents required are the Death Certificate, Cancelled Cheque/Bank account details, Claim intimation form, KYC of the nominee, and the Policy document."
+    },
+    {
+      "question": "Are there any exclusions for the Accidental Death Benefit?",
+      "answer": "Yes, the benefit is not payable for deaths caused by disease, suicide, influence of alcohol/drugs, participation in hazardous activities or war, among other specified exclusions."
+    }
+  ],
+  "source_file": "TATA AIA Sampoorna_Raksha_Promise_V5_Brochure_0d7c498383.txt",
+  "category": "LI Plan Brochure"
+}

@@ -1,0 +1,200 @@
+{
+  "product_name": "Axis Max Life Smart VIBE (Value Income & Benefit Enhancer) Plan",
+  "company": "Axis Max Life Insurance Limited",
+  "product_type": "Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A guaranteed life insurance savings plan designed for flexibility, protection, and rewards. It offers instant liquidity from policy issuance, life cover, and the ability to customize benefits like income payouts and policy terms. The plan has two variants, Insta Wealth and Insta Wealth Boost, to cater to different financial goals like milestone planning or corpus creation.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "",
+    "policy_term": "15, 20, 30, 35 years (as per scenarios provided)",
+    "waiting_period": ""
+  },
+  "coverage": [
+    {
+      "name": "Life Insurance Coverage",
+      "description": "Comprehensive life insurance protection is available with this product."
+    },
+    {
+      "name": "Policy Continuance Benefit (PCB)",
+      "description": "Available with each variant to provide added protection and ensure the policy continues."
+    },
+    {
+      "name": "Add-on Riders",
+      "description": "Option to enhance protection by choosing from a selection of add-on riders."
+    },
+    {
+      "name": "Flexible Death Benefits",
+      "description": "The plan allows for customization of death benefits, with options for death multiples like 7 or 11 times the annualized premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Returns",
+      "description": "The plan offers assured returns and guaranteed benefits, provided all due premiums are paid."
+    },
+    {
+      "name": "Instant Liquidity",
+      "description": "Income benefits can be paid within 7 days of policy issuance if the 'Income in Advance' mode is chosen."
+    },
+    {
+      "name": "Loan Option",
+      "description": "Policyholders have the flexibility to take a loan against their policy."
+    },
+    {
+      "name": "Accumulation of Benefits",
+      "description": "Option to accumulate survival and future income benefits for greater value instead of receiving them as payouts."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Entitlement to applicable tax benefits on premiums paid and benefits received, subject to prevailing tax laws."
+    },
+    {
+      "name": "Enhanced Maturity Boosters",
+      "description": "Additional boosters at maturity, applicable for Female Life insured and Existing Customers as per illustrated scenarios."
+    },
+    {
+      "name": "Variant Specific Benefits",
+      "description": "The plan offers two variants: 'Insta Wealth' for income and milestone planning, and 'Insta Wealth Boost' for early liquidity and large corpus creation."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Gender",
+      "details": "Available for both Male and Female lives."
+    },
+    {
+      "criteria": "Existing Customers",
+      "details": "Existing customers may be eligible for special benefits like Enhanced Maturity Boosters."
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [
+    {
+      "type": "Customer Helpline",
+      "details": "1860 120 5577"
+    },
+    {
+      "type": "Website",
+      "details": "www.axismaxlife.com"
+    },
+    {
+      "type": "Corporate Office",
+      "details": "11th Floor, DLF Square Building, Jacaranda Marg, DLF City Phase II, Gurugram(Haryana) - 122 002."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the full name of the Smart VIBE plan?",
+      "answer": "The full name is Axis Max Life Smart VIBE (Value Income & Benefit Enhancer) Plan, with UIN 104N159V01."
+    },
+    {
+      "question": "What type of insurance plan is this?",
+      "answer": "It is a Non-Linked Non-Participating Individual Life Insurance Savings Plan."
+    },
+    {
+      "question": "Who is the insurance provider for this plan?",
+      "answer": "The provider is Axis Max Life Insurance Limited."
+    },
+    {
+      "question": "Are the returns in this plan guaranteed?",
+      "answer": "Yes, it is a guaranteed offering. The benefits mentioned are guaranteed, provided all due premiums are paid and the policy is inforce."
+    },
+    {
+      "question": "Does this plan offer life insurance coverage?",
+      "answer": "Yes, life insurance coverage is available in this product."
+    },
+    {
+      "question": "What are the different variants available under the Smart VIBE plan?",
+      "answer": "There are two variants: Insta Wealth and Insta Wealth Boost."
+    },
+    {
+      "question": "What is the main purpose of the Insta Wealth variant?",
+      "answer": "The Insta Wealth variant is best suited for income and milestone planning."
+    },
+    {
+      "question": "What is the main purpose of the Insta Wealth Boost variant?",
+      "answer": "The Insta Wealth Boost variant is best suited for achieving early liquidity and building a large corpus."
+    },
+    {
+      "question": "What is the Flexi Income Benefit?",
+      "answer": "It is a benefit available in both variants that allows you to customize your income. The scenarios show a Level 3 providing 50% of the annualized premium as an income benefit in the first year."
+    },
+    {
+      "question": "What is the Insta Income Benefit?",
+      "answer": "It's a guaranteed income benefit that starts from the second policy year. Its payout duration depends on the variant chosen."
+    },
+    {
+      "question": "What is the key difference in the Insta Income Benefit between the two variants?",
+      "answer": "In the Insta Wealth variant, the Insta Income Benefit is paid until the end of the policy term. In the Insta Wealth Boost variant, it is paid only until the end of the premium payment term."
+    },
+    {
+      "question": "Which variant offers a benefit for long-term goals?",
+      "answer": "The Insta Wealth variant offers a Future Income Benefit and a Future Milestone Benefit at the end of the Future Income Period, which is designed for milestone planning."
+    },
+    {
+      "question": "Which variant provides a large lump sum at maturity?",
+      "answer": "The Insta Wealth Boost variant provides a Guaranteed Maturity Benefit at the maturity date, which is designed for creating a large corpus."
+    },
+    {
+      "question": "How quickly can I start receiving income from this policy?",
+      "answer": "You can enjoy instant liquidity. Income benefits can be paid within 7 days of policy issuance if you choose the Advance Mode for income payout."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, the plan offers the flexibility to take a loan against your policy."
+    },
+    {
+      "question": "Can I customize this plan to my needs?",
+      "answer": "Yes, you can customize the plan by choosing your policy term, premium payment term, death benefit, and the level of certain income benefits."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The available premium payment terms mentioned for both variants are 8, 10, 12, and 15 years."
+    },
+    {
+      "question": "Can I choose how I receive my income payouts?",
+      "answer": "Yes, you can select the frequency of income payouts and choose whether to receive them in advance or in arrears."
+    },
+    {
+      "question": "What if I don't want to receive the income payouts immediately?",
+      "answer": "You can opt to accumulate survival and future income benefits for greater value."
+    },
+    {
+      "question": "What is the Policy Continuance Benefit (PCB)?",
+      "answer": "The Policy Continuance Benefit (PCB) is a feature available with each variant that provides added protection to help continue the policy."
+    },
+    {
+      "question": "Can I increase my protection under this plan?",
+      "answer": "Yes, you can boost your cover with a choice of add-on riders."
+    },
+    {
+      "question": "Are there any special benefits for female policyholders?",
+      "answer": "Yes, the provided scenarios show that 'Enhanced Maturity Boosters' can be applicable for a Female Life, providing an additional benefit."
+    },
+    {
+      "question": "Are there any benefits for existing customers of Axis Max Life?",
+      "answer": "Yes, the scenarios indicate that 'Enhanced Maturity Boosters' can be applicable for an Existing Customer."
+    },
+    {
+      "question": "Are the premiums paid and benefits received taxable?",
+      "answer": "You may be entitled to certain applicable tax benefits on your premiums and policy benefits, but these are subject to the tax laws prevailing at the time of payment of premium or receipt of benefits."
+    },
+    {
+      "question": "How can I contact customer support for more details?",
+      "answer": "You can call the Customer Helpline Number at 1860 120 5577 or visit the website www.axismaxlife.com."
+    },
+    {
+      "question": "What is a Future Milestone Benefit?",
+      "answer": "It is a benefit offered under the Insta Wealth variant, paid as a lump sum at the end of the Future Income Period to help with milestone planning."
+    },
+    {
+      "question": "Does the Insta Wealth Boost variant have a Future Income Period?",
+      "answer": "No, the Future Income Period and its associated benefits are features of the Insta Wealth variant, not the Insta Wealth Boost variant."
+    }
+  ],
+  "source_file": "max-life-smart-value-income-benefit-enhancer.txt",
+  "category": "LI Plan Brochure"
+}

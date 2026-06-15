@@ -1,0 +1,167 @@
+{
+  "product_name": "Comprehensive Personal Accident Cover with TTD plus",
+  "product_type": "Personal Accident Insurance",
+  "summary": "A comprehensive personal accident cover that addresses concerns arising from serious accidents. Provides coverage for accidental death, permanent total disablement, permanent partial disablement, fractures, burns, and various optional covers. Offers weekly coverage up to 1% of Sum Insured in case of Temporary Total Disablement with optional cover available on payment of additional premium.",
+  "coverage": [
+    "Accidental Death - 100% of Sum Insured",
+    "Permanent Total Disablement (PTD) - 50% to 100% of Sum Insured based on severity",
+    "Permanent Partial Disablement (PPD) - Pre-defined percentage based on severity",
+    "Fractures - 30% to 100% of Sum Insured",
+    "Burns - 10% to 100% of Sum Insured depending on degree",
+    "Reconstructive Surgery - Coverage for surgery expenses",
+    "Child Education - In case of death or PTD",
+    "Nursing Care - For qualified nurse expenses if prescribed",
+    "Major Diagnostics Tests - CT scan, MRI etc. within 3 months of injury",
+    "Domestic Road Ambulance - Emergency medical evacuation expenses",
+    "Accidental Hospitalization Expenses - Room charges, nursing, ICU, surgeon fees etc.",
+    "Mobility Cover - Prosthetic devices, wheelchairs, hospital beds",
+    "Disappearance - If missing for more than 1 year due to accident",
+    "Temporary Total Disablement/TTD Plus - Weekly coverage up to 1% of Sum Insured",
+    "Repatriation of Mortal Remains - Transportation costs to city of residence"
+  ],
+  "waiting_periods": [],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Cashless service available at 21,700+ healthcare providers pan India",
+    "Alternative reimbursement option available",
+    "Claims can be filed through claim genie portal",
+    "Direct interaction with company for claim processing",
+    "Hassle-free clearance and speedy settlements"
+  ],
+  "exclusions": [
+    "Pre-existing injury or disability",
+    "Intentional self-inflicted injury, suicide or attempted suicide",
+    "Sexually transmitted conditions",
+    "Mental or nervous conditions, insanity, disorder or depression",
+    "Flying in aircraft other than as fare paying passenger in Scheduled Airline",
+    "Sporting activities involving professional sports training or participation unless declared and agreed",
+    "Service in military, navy, air-force or armed forces or paramilitary forces",
+    "Hazardous Activities",
+    "Working in underground mines, with explosives, press activities",
+    "Racing on wheels or horseback, winter sports, canoeing with white water rapids",
+    "Bodily contact sports",
+    "Mental illness, psychiatric or psychological disorders"
+  ],
+  "faqs": [
+    {
+      "question": "What is the minimum entry age for this policy?",
+      "answer": "The minimum entry age is 18 years."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "The maximum entry age is 64 years."
+    },
+    {
+      "question": "Can I renew this policy lifelong?",
+      "answer": "Yes, the policy offers lifelong renewability and can be renewed under the prevailing Health Insurance product or its nearest substitute approved."
+    },
+    {
+      "question": "What are the available policy tenure options?",
+      "answer": "Policy tenure options are 1, 2 or 3 years."
+    },
+    {
+      "question": "How much is paid in case of accidental death?",
+      "answer": "100% of the Sum Insured is paid as lumpsum amount to the nominated family member in case of accidental death."
+    },
+    {
+      "question": "What percentage is paid for Permanent Total Disablement?",
+      "answer": "50% to 100% of the sum insured is paid based on severity of injury and loss due to the accident."
+    },
+    {
+      "question": "What coverage is provided for fractures?",
+      "answer": "Coverage within the range of 30% to 100% of sum insured is provided for fractures."
+    },
+    {
+      "question": "What coverage is available for burns?",
+      "answer": "Coverage of 10% to 100% of sum insured is provided depending on the degree of burn."
+    },
+    {
+      "question": "Is Temporary Total Disablement Plus an optional cover?",
+      "answer": "Yes, Temporary Total Disablement Plus is an optional cover available on payment of additional premium."
+    },
+    {
+      "question": "How much weekly coverage is provided under TTD Plus?",
+      "answer": "Weekly coverage up to 1% of Sum Insured is provided in case of Temporary Total Disablement."
+    },
+    {
+      "question": "Can I opt for both TTD and TTD Plus covers?",
+      "answer": "No, either Temporary Total Disablement or Temporary Total Disablement Plus optional cover can be opted but not both."
+    },
+    {
+      "question": "What is covered under Child Education benefit?",
+      "answer": "In the event of an accident resulting in insured's demise or PTD, the child's education expenses are covered to ensure their future is not compromised."
+    },
+    {
+      "question": "When should diagnostic tests be done to be covered?",
+      "answer": "Diagnostic tests such as CT scan, MRI etc. should be done within 3 months of occurrence of injury as advised by a Medical Practitioner."
+    },
+    {
+      "question": "What is the Disappearance benefit?",
+      "answer": "If an accident leaves the insured missing for more than 1 year due to forced landing, stranding, sinking, wrecking of a Common Carrier and demise has been reasonably established, the sum insured is paid to the nominee."
+    },
+    {
+      "question": "What is covered under Mobility Cover?",
+      "answer": "If PTD requires prosthetic devices like artificial arms, legs or eyes, orthopaedic braces and medical equipment like wheelchairs or hospital beds, the expenses are reimbursed."
+    },
+    {
+      "question": "How many healthcare providers are in the cashless network?",
+      "answer": "There are more than 21,700+ healthcare providers pan India in the cashless network."
+    },
+    {
+      "question": "What is the Loyalty Benefit?",
+      "answer": "For each continuous and completed Policy Year, on subsequent renewal, the Coverage amount of AD, PTD, PPD is enhanced by flat 5% of the Sum Insured on a cumulative basis, up to maximum 50% of Sum Insured."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "The policy comes with a free-look period of 30 days from the date of receipt of policy during which you can cancel and return the policy if found unsuitable."
+    },
+    {
+      "question": "Are pre-existing injuries covered?",
+      "answer": "No, any pre-existing injury or disability is not covered under this policy."
+    },
+    {
+      "question": "Is coverage available for professional sports?",
+      "answer": "Professional sports activities are excluded unless declared beforehand and agreed by the Company in writing subject to additional premium."
+    },
+    {
+      "question": "Are military personnel eligible for this policy?",
+      "answer": "No, persons serving in any branch of military, navy, air-force, armed forces or paramilitary forces are excluded."
+    },
+    {
+      "question": "What sum insured options are available?",
+      "answer": "Sum insured options include 30 lac, 50 lac, and 100 lac, with other plans/sum insured also available."
+    },
+    {
+      "question": "Is there a discount for longer policy terms?",
+      "answer": "Yes, you can avail a discount on premium if you opt for a longer policy term of two or three years."
+    },
+    {
+      "question": "What is covered under Accidental Hospitalization Expenses?",
+      "answer": "Coverage includes room charges, nursing expenses, intensive care unit charges, surgeon's fee, doctor's fee, anesthesia, oxygen, operation theater charges etc. up to specified amount."
+    },
+    {
+      "question": "How can claims be filed?",
+      "answer": "Claims can be filed through cashless service at network hospitals, reimbursement option, or through the claim genie portal by notifying and sending specified documents."
+    },
+    {
+      "question": "What is the maximum coverage for Major Diagnostics Tests in 30 lac plan?",
+      "answer": "Up to ₹15,000 is covered for Major Diagnostics Tests in the 30 lac sum insured plan."
+    },
+    {
+      "question": "What is the maximum coverage for Domestic Road Ambulance in 50/100 lac plans?",
+      "answer": "Up to ₹25,000 is covered for Domestic Road Ambulance in the 50 lac and 100 lac sum insured plans."
+    },
+    {
+      "question": "Are mental health conditions covered?",
+      "answer": "No, mental or nervous conditions, insanity, disorder, depression, mental illness, psychiatric or psychological disorders are excluded."
+    },
+    {
+      "question": "What award did Care Health Insurance receive in March 2025?",
+      "answer": "Care Health Insurance was awarded 'Best Claim Settlement Company of The Year' Award at the 9th Annual India Insurance Summit & Awards 2025 in March 2025."
+    }
+  ],
+  "source_file": "secure-plus---brochure.txt",
+  "category": "Hi Document"
+}

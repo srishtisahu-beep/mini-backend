@@ -1,0 +1,189 @@
+{
+  "product_name": "HDFC Life Click 2 Invest - ULIP",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "Unit Linked Non-Participating Individual Life Insurance Savings Policy",
+  "insurance_type": "Life Insurance",
+  "plan_category": "ULIP",
+  "summary": "HDFC Life Click 2 Invest - ULIP is a Unit Linked Non-Participating Individual Life Insurance Savings Policy. It offers a combination of life insurance coverage and investment opportunities in various funds. The investment risk in the portfolio is borne by the policyholder. The policy provides a lump sum benefit on maturity or in the unfortunate event of the life assured's death during the policy term. Key features include a lock-in period of five years, options for fund switches, partial withdrawals after the lock-in period, and a settlement option for benefits.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As per the Policy Schedule",
+    "policy_term": "As per the Policy Schedule",
+    "waiting_period": "Lock-in period of 5 consecutive completed years from the date of commencement of the policy. Suicide exclusion is applicable for 12 months from policy commencement or revival."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "Upon survival of the Life Assured till the Maturity Date, the Unit Fund Value is payable to the Policyholder. The benefit can be taken as a lump sum or through a Settlement Option."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "On the death of the Life Assured during the Policy Term, the benefit payable is the highest of: i. Sum Assured, ii. Fund Value, or iii. 105% of Total Premiums Paid. For a reduced paid-up policy, it is the highest of: i. Paid up Sum Assured, ii. Unit Fund Value, or iii. 105% of Total Premiums Paid."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Settlement Option",
+      "description": "Allows receiving maturity or death proceeds in periodical instalments over a settlement period of up to 5 years. During this period, the investment risk is borne by the policyholder."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "Allowed after the completion of the 5-year lock-in period, provided the Life Assured is at least 18 years of age. Withdrawals should not result in the termination of the policy."
+    },
+    {
+      "name": "Fund Switches",
+      "description": "Policyholder can switch their investments from one segregated fund to another among the available options. The first four switches in a policy year are free of charge."
+    },
+    {
+      "name": "Premium Redirection",
+      "description": "Allows the policyholder to modify the allocation of future renewal premiums into different available funds. The first four premium redirection requests in a policy year are free."
+    },
+    {
+      "name": "Free-Look Cancellation",
+      "description": "The policyholder has the option to return the policy within 30 days from the date of receipt if not agreeable to the terms and conditions. A refund will be processed subject to certain deductions."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age of Life Assured",
+      "details": "As per the age declared in the Proposal and accepted by the company. The policy is issued based on the company's Board Approved Underwriting Policy (BAUP)."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement or revival of the policy, the nominee or beneficiary shall be entitled to the Fund Value as available on the date of intimation of death."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Maturity Claim Process",
+      "description": "The Maturity Benefit will be paid if the Life Assured is alive on the Maturity Date and the policy is in force. Required documents include the original policy document, NEFT mandate, and KYC documents."
+    },
+    {
+      "type": "Death Claim Process",
+      "description": "The Death Benefit claim must be intimated to the company, preferably within 90 days from the date of death. Basic required documents include a completed claim form, original policy document, death certificate, and claimant's identity/residence proof. For unnatural deaths, additional documents like FIR, Police Panchnama, and Post-mortem report are required."
+    },
+    {
+      "type": "Grievance Redressal",
+      "description": "For any grievance, contact the Grievance Redressal Officer at HDFC Life. If not satisfied, one can escalate the issue or approach the IRDAI's Grievance Cell or the Insurance Ombudsman."
+    },
+    {
+      "type": "Contact for Claims and Queries",
+      "description": "Address: HDFC Life Insurance Company Limited, 11th Floor, Lodha Excelus, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi, Mumbai-400011. Email: service@hdfclife.com. Helpline: 022-68446530 (Call Charges apply)."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click 2 Invest - ULIP?",
+      "answer": "It is a Unit Linked Non-Participating Individual Life Insurance Savings Policy that offers both life insurance cover and investment benefits by investing premiums in various market-linked funds."
+    },
+    {
+      "question": "Who bears the investment risk in this ULIP policy?",
+      "answer": "In this policy, the investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "What is the lock-in period for this policy?",
+      "answer": "The policy has a lock-in period of five consecutive completed years from the date of commencement."
+    },
+    {
+      "question": "Can I withdraw my money during the first five years of the policy?",
+      "answer": "No, the policyholder will not be able to surrender or withdraw the money invested, either completely or partially, until the end of the fifth year, except in the case of death."
+    },
+    {
+      "question": "What is the Free-Look period?",
+      "answer": "You have a Free-Look period of 30 days from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation and a refund."
+    },
+    {
+      "question": "What is the Maturity Benefit payable under this policy?",
+      "answer": "If the Life Assured survives until the maturity date, the Unit Fund Value will be paid. This can be received as a lump sum or through periodical instalments via the Settlement Option."
+    },
+    {
+      "question": "What is the Death Benefit payable?",
+      "answer": "On the death of the Life Assured during the policy term, the benefit payable is the highest of: Sum Assured, Fund Value, or 105% of total premiums paid."
+    },
+    {
+      "question": "What is the grace period for paying premiums?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other frequencies (quarterly, half-yearly, annual)."
+    },
+    {
+      "question": "What happens if I stop paying premiums during the lock-in period?",
+      "answer": "If you stop paying premiums during the first five years, the fund value (after discontinuance charges) is moved to a Discontinued Policy Fund, and the life cover ceases. The proceeds are paid out at the end of the lock-in period."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the lock-in period?",
+      "answer": "The policy will be converted into a reduced paid-up policy with a lower Sum Assured. You will have a revival period of three years to revive the policy or you can opt to completely withdraw the fund value."
+    },
+    {
+      "question": "When can I make partial withdrawals from my policy fund?",
+      "answer": "Partial withdrawals are allowed only after the completion of the 5-year lock-in period, provided the Life Assured is at least 18 years old."
+    },
+    {
+      "question": "What is a Fund Switch?",
+      "answer": "A fund switch is a facility that allows you to move your accumulated funds from one investment fund to another among the options available under the policy."
+    },
+    {
+      "question": "How many free Fund Switches are available in a year?",
+      "answer": "The first four fund switch requests in each policy year are free of charge. Subsequent switches will attract a charge of Rs 250 per request, or Rs 25 if done through the company's web portal."
+    },
+    {
+      "question": "What is Premium Redirection?",
+      "answer": "Premium Redirection allows you to change the allocation of your future premiums into different funds without affecting your existing fund units."
+    },
+    {
+      "question": "Are there any charges for Premium Redirection?",
+      "answer": "The first four premium redirection requests in a policy year are free. Thereafter, a charge of Rs 250 per request (or Rs 25 via web portal) applies."
+    },
+    {
+      "question": "What are the main charges in this policy?",
+      "answer": "The main charges include Fund Management Charge and Mortality Charge. Other charges like Switching, Partial Withdrawal, and Miscellaneous charges are applicable for specific transactions. There are no Premium Allocation or Policy Administration charges."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "It is a charge levied daily as a percentage of the fund's value for managing the investment funds. It is appropriated by adjusting the Net Asset Value (NAV) of the fund. For most funds, it is 1.35% p.a., and for the Discontinued Policy Fund, it is 0.50% p.a."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the Life Assured dies due to suicide within 12 months from the policy's start date or revival date, the nominee will only receive the Fund Value as on the date of death intimation, and not the full death benefit."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "No, there is no loan facility available under this policy."
+    },
+    {
+      "question": "How do I file a maturity claim?",
+      "answer": "To claim the maturity benefit, you need to provide the original policy document, an NEFT mandate for electronic payment, and KYC documents to the company after the policy matures."
+    },
+    {
+      "question": "What are the basic documents needed for a death claim?",
+      "answer": "The basic documents required are the completed claim form, original policy document, death certificate issued by the municipal authority, and the claimant's identity and residence proof."
+    },
+    {
+      "question": "What happens if the Life Assured's age was declared incorrectly?",
+      "answer": "If the correct age makes the Life Assured ineligible, the policy will be cancelled and the fund value returned. If eligible, the mortality charges will be revised as per the correct age from the next policy anniversary."
+    },
+    {
+      "question": "Can I change the policy term or sum assured after the policy is issued?",
+      "answer": "The Sum Assured and Premium cannot be changed. The Policy Term cannot be decreased but can be increased subject to boundary conditions. The premium paying term can be reduced after payment of 5 years' premiums."
+    },
+    {
+      "question": "What is the Settlement Option?",
+      "answer": "The Settlement Option allows you to receive the maturity or death benefit in periodical instalments over a maximum period of 5 years, instead of a lump sum. The fund remains invested and is subject to market risks during this period."
+    },
+    {
+      "question": "What is the revival period for a discontinued policy?",
+      "answer": "A discontinued policy can be revived within a period of three consecutive complete years from the date of the first unpaid premium."
+    },
+    {
+      "question": "How are units allocated if I make a payment?",
+      "answer": "If your transaction request is received before the cut-off time of 3 p.m., units are allocated at the same day's Net Asset Value (NAV). If received after 3 p.m., the next day's NAV is applicable."
+    },
+    {
+      "question": "What happens in case of a Force Majeure event like a market closure?",
+      "answer": "In extreme circumstances like market closures or civil unrest, the company may defer the valuation of assets for up to 30 days. During this period, all policy servicing requests, including payments, will be kept in abeyance."
+    }
+  ],
+  "source_file": "HDFC-Life-Click-2-Invest-ULIP-V05-Policy-Bond.txt",
+  "category": "LI Policy Bond Documents"
+}

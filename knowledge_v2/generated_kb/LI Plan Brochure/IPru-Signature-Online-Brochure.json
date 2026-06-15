@@ -1,0 +1,237 @@
+{
+  "product_name": "ICICI Pru Signature",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Unit Linked Insurance Plan (ULIP)",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings and Protection",
+  "summary": "ICICI Pru Signature is a savings and protection oriented unit linked insurance plan that offers a life cover to secure the policyholder's family, along with flexible savings options to help achieve financial goals. In this plan, the investment risk in the investment portfolio is borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum: 7 x Annualised Premium (age 0-49) or 5 x Annualised Premium (age 50+). Maximum: 10 x Annualized Premium. For Top-ups, Sum Assured is 1.25 x Top-up premium.",
+    "policy_term": "15-30 years, or Whole Life option (99 minus age at entry).",
+    "waiting_period": "5-year lock-in period during which surrender or withdrawal of monies is not possible."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In the event of the unfortunate death of the Life Assured during the policy term, the claimant receives the highest of: A) Sum Assured, including Top-up Sum Assured, if any, B) Minimum Death Benefit (105% of total premiums paid), or C) Fund Value as available on the date of intimation of death."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival till the end of the policy term, the policyholder receives the Fund Value. This benefit can be received either as a lump sum or as a structured payout using the Settlement Option."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Wealth Boosters",
+      "description": "Extra units are allocated to the policy at the end of every 5th policy year, starting from the end of the 10th policy year. Each Wealth Booster equals 3.25% of the average of the Fund Values on the last business day of the last eight policy quarters."
+    },
+    {
+      "name": "Return of Mortality and Policy Administration Charges",
+      "description": "An amount equal to the total of all mortality and policy administration charges deducted during the policy term will be added back to the fund value at maturity. This benefit is not applicable for the Whole Life option."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "After the 5-year lock-in period, policyholders can make unlimited, free partial withdrawals as long as the total amount withdrawn in a year does not exceed 20% of the Fund Value."
+    },
+    {
+      "name": "Systematic Withdrawal Plan (SWP)",
+      "description": "A facility to withdraw a pre-determined percentage of the fund value regularly (monthly, quarterly, half-yearly, or yearly) after the lock-in period to meet specific financial needs."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive the Maturity Benefit in installments over a period of one to five years post-maturity, on a yearly, half-yearly, quarterly, or monthly basis."
+    },
+    {
+      "name": "Choice of Portfolio Strategies",
+      "description": "Flexibility to choose from four portfolio strategies: Target Asset Allocation Strategy, Trigger Portfolio Strategy 2, Fixed Portfolio Strategy, and Lifecycle based Portfolio Strategy 2."
+    },
+    {
+      "name": "Unlimited Free Switches",
+      "description": "Under the Fixed Portfolio Strategy, policyholders can switch units between funds an unlimited number of times, free of cost. The minimum switch amount is ₹2,000."
+    },
+    {
+      "name": "Top-up Premiums",
+      "description": "Option to invest surplus money as Top-up premiums, over and above the base premium. The minimum Top-up premium is ₹2,000."
+    },
+    {
+      "name": "Flexibility in Policy Terms",
+      "description": "Options to increase or decrease the Sum Assured, increase the Policy Term, and increase or decrease the Premium Payment Term, subject to policy conditions."
+    },
+    {
+      "name": "Whole Life Option",
+      "description": "Provides the option to enjoy policy benefits up to 99 years of age, allowing for long-term wealth creation and protection."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be applicable on premiums paid and benefits received as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "value": "0 years"
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "value": "60 years"
+    },
+    {
+      "criteria": "Minimum Maturity Age (for non-Whole Life)",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Maturity Age (for non-Whole Life)",
+      "value": "75 years"
+    },
+    {
+      "criteria": "Maturity Age (for Whole Life)",
+      "value": "99 years"
+    },
+    {
+      "criteria": "Minimum Premium (non-Whole Life)",
+      "value": "₹30,000 per annum"
+    },
+    {
+      "criteria": "Minimum Premium (Whole Life)",
+      "value": "₹60,000 per annum"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Clause",
+      "description": "If the Life Assured, whether sane or insane, commits suicide for any reason whatsoever within 12 months from the date of commencement or revival of the policy, only the Fund Value as available on the date of intimation of death would be payable to the claimant."
+    },
+    {
+      "name": "Settlement Period Limitations",
+      "description": "During the settlement period for maturity benefits, partial withdrawals and Change in Portfolio Strategy (CIPS) are not allowed. Rider cover shall also not be available during this period."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "In case of the unfortunate death of the Life Assured during the policy term, the nominee or legal heir should intimate the company to receive the death benefit as per the policy terms."
+    },
+    {
+      "type": "Maturity Claim",
+      "description": "On maturity of the policy, the policyholder will receive the Fund Value either as a lump sum or through the settlement option."
+    },
+    {
+      "type": "Grievance Redressal",
+      "description": "For any clarification or assistance, customers can contact their advisor or the customer service center. If a resolution is not satisfactory, the issue can be escalated to the company's Grievance Redressal Officer (GRO), the internal grievance redressal committee, and finally to the Insurance Regulatory and Development Authority of India (IRDAI)."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru Signature?",
+      "answer": "It is a savings and protection oriented Unit Linked Insurance Plan (ULIP) from ICICI Prudential Life Insurance, where the investment risk in the investment portfolio is borne by the Policyholder."
+    },
+    {
+      "question": "What is the lock-in period for this policy?",
+      "answer": "This policy has a lock-in period of five years. During this period, the policyholder cannot surrender or withdraw money, completely or partially."
+    },
+    {
+      "question": "What are the key benefits of this plan?",
+      "answer": "Key benefits include a life cover for financial security, Wealth Boosters to enhance savings, Return of Mortality and Policy Administration charges at maturity, a choice of four portfolio strategies, and flexible withdrawal options."
+    },
+    {
+      "question": "What is a Wealth Booster?",
+      "answer": "A Wealth Booster is an allocation of extra units to your policy at the end of every 5th policy year, starting from the end of the 10th policy year. Each Wealth Booster is equal to 3.25% of the average of the Fund Values over the last eight policy quarters."
+    },
+    {
+      "question": "What is the 'Return of Mortality and Policy Administration Charges' benefit?",
+      "answer": "At maturity, an amount equal to the total of all mortality and policy administration charges deducted during the policy term will be added back to the fund value. This benefit is not applicable for the Whole Life option."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for ICICI Pru Signature?",
+      "answer": "The minimum entry age is 0 years and the maximum entry age is 60 years."
+    },
+    {
+      "question": "What policy terms are available?",
+      "answer": "Policy terms range from 15 to 30 years. There is also a Whole Life option where the policy term is equal to 99 minus the age at entry."
+    },
+    {
+      "question": "What is the minimum annual premium?",
+      "answer": "For policies other than Whole Life, the minimum premium is ₹30,000 per annum. For the Whole Life option, it is ₹60,000 per annum."
+    },
+    {
+      "question": "What is the death benefit payable under this plan?",
+      "answer": "The death benefit is the highest of: Sum Assured (including Top-up Sum Assured), Minimum Death Benefit (which is 105% of total premiums paid), or the Fund Value on the date of death intimation."
+    },
+    {
+      "question": "What will I receive on maturity?",
+      "answer": "On maturity, you will receive the entire Fund Value. You can choose to receive this as a lump sum or as structured payouts via the Settlement Option."
+    },
+    {
+      "question": "Can I withdraw money from my policy before maturity?",
+      "answer": "Yes, after the 5-year lock-in period, you can make partial withdrawals. The total amount of partial withdrawals in a policy year cannot exceed 20% of the Fund Value."
+    },
+    {
+      "question": "What is the minimum amount for a partial withdrawal?",
+      "answer": "The minimum value of each partial withdrawal is ₹2,000."
+    },
+    {
+      "question": "What is the Systematic Withdrawal Plan (SWP)?",
+      "answer": "SWP is a facility that allows you to withdraw a pre-determined percentage of your fund value regularly (monthly, quarterly, half-yearly, or yearly) after the lock-in period is complete."
+    },
+    {
+      "question": "How many portfolio strategies does this plan offer?",
+      "answer": "The plan offers four portfolio strategies: Target Asset Allocation Strategy, Trigger Portfolio Strategy 2, Fixed Portfolio Strategy, and Lifecycle based Portfolio Strategy 2."
+    },
+    {
+      "question": "Can I switch between funds?",
+      "answer": "If you have chosen the Fixed Portfolio Strategy, you can make unlimited free switches between the available funds. Switches are not applicable for other portfolio strategies."
+    },
+    {
+      "question": "Is it possible to change my portfolio strategy during the policy term?",
+      "answer": "Yes, you can change your portfolio strategy up to four times in a policy year, and this facility is provided free of cost."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "The Premium Allocation Charge is Nil. This means the entire premium you pay is allocated to the funds of your choice without any deductions for allocation."
+    },
+    {
+      "question": "What are the Fund Management Charges (FMC)?",
+      "answer": "The FMC is a percentage of the Fund Value, adjusted from the NAV on a daily basis. The charge varies by fund, with many equity funds at 1.35% p.a. The charge for the Discontinued Policy Fund is 0.50% p.a."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums during the lock-in period, the Fund Value moves to the Discontinued Policy Fund. If discontinued after the lock-in period, the policy converts to a reduced paid-up policy, and you get a revival period of three years."
+    },
+    {
+      "question": "What is the suicide exclusion clause in this policy?",
+      "answer": "If the life assured commits suicide within 12 months of the policy's start date or revival date, the nominee will only receive the Fund Value as on the date of death intimation."
+    },
+    {
+      "question": "Can I add extra funds to my policy?",
+      "answer": "Yes, you can invest surplus money as a Top-up premium, over and above your regular premiums. The minimum Top-up premium is ₹2,000."
+    },
+    {
+      "question": "Can I change my Sum Assured during the policy term?",
+      "answer": "Yes, you can choose to increase or decrease your Sum Assured during the policy term, subject to underwriting and applicable limits. An increase is allowed before the life assured is aged 60 years."
+    },
+    {
+      "question": "Is a loan available against this policy?",
+      "answer": "No, the company will not provide loans under this policy."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 30-day free-look period from the date you receive the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay premiums in Yearly, Half-Yearly, and Monthly modes."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly mode of premium payment and 30 days for other modes of premium payment."
+    },
+    {
+      "question": "Are there any charges for making partial withdrawals?",
+      "answer": "No, the partial withdrawals are free of cost."
+    }
+  ],
+  "source_file": "IPru-Signature-Online-Brochure.txt",
+  "category": "LI Plan Brochure"
+}

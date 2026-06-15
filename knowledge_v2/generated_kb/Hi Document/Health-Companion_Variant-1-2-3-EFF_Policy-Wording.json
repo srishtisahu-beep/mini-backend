@@ -1,0 +1,175 @@
+{
+  "product_name": "Health Companion",
+  "product_type": "Health Insurance",
+  "summary": "Health Companion is a comprehensive health insurance policy offered by Niva Bupa Health Insurance Company Limited with Product UIN NBHHLIP26051V092526. The policy covers medical expenses for illness and injury through various benefits including inpatient care, day care treatment, alternative treatments, and optional benefits. Available in Individual Policy, Family Floater Policy, and Family First Policy variants.",
+  "coverage": [
+    "Inpatient Care - Medical expenses for hospitalization including room rent, nursing charges, medical practitioner fees, medicines, operation theatre charges, ICU charges",
+    "Pre-hospitalization Medical Expenses - Up to 30 days before admission",
+    "Post-hospitalization Medical Expenses - Up to 60 days after discharge",
+    "Alternative Treatments - AYUSH treatments (Ayurveda, Unani, Sidha, Homeopathy) in AYUSH hospitals",
+    "Day Care Treatment - Medical procedures requiring less than 24 hours hospitalization",
+    "Domiciliary Hospitalization - Treatment at home for minimum 3 consecutive days when hospital admission not possible",
+    "Living Organ Donor Transplant - Medical expenses for organ donor's treatment",
+    "Emergency Ambulance - Surface transport expenses to nearest hospital",
+    "Vaccination for Animal Bite - OPD treatment for animal bite vaccinations",
+    "Health Checkup - Annual health checkup from 2nd policy year onwards",
+    "Modern Treatments - Advanced procedures like robotic surgeries, stem cell therapy, immunotherapy"
+  ],
+  "waiting_periods": [
+    "Pre-existing diseases have waiting periods as specified in Schedule of Insurance Certificate",
+    "Specific waiting periods apply for certain conditions as mentioned in policy terms"
+  ],
+  "room_rent": [
+    "Room rent coverage as per eligibility specified in Product Benefits Table",
+    "Pro-rated payment if admitted in higher room category than entitled",
+    "Associated Medical Expenses included with room rent"
+  ],
+  "co_pay": [
+    "Co-payment is cost-sharing requirement where policyholder bears specified percentage of admissible claim amount",
+    "Co-payment does not reduce Sum Insured",
+    "20% co-payment applies for treatment in metro cities under Tiered Network option",
+    "Co-payment does not apply to Health Checkup and Hospital Cash benefits"
+  ],
+  "deductible": [
+    "Annual Aggregate Deductible option available where insured bears specified amount before insurance liability begins",
+    "Deductible amount specified in Schedule of Insurance Certificate",
+    "Deductible does not reduce Sum Insured",
+    "Deductible does not apply to Health Checkup and Hospital Cash benefits"
+  ],
+  "claims_information": [
+    "Claims must be made in accordance with process defined under Section 7.2 (XIII)",
+    "Cashless facility available at network providers",
+    "Reimbursement basis for non-network providers",
+    "Pre-authorization required for cashless treatment",
+    "Claims reduce Sum Insured except for Health Checkup and Hospital Cash",
+    "Grace period: 15 days for monthly premium, 30 days for other payment modes"
+  ],
+  "exclusions": [
+    "All tumors in presence of HIV infection excluded from cancer coverage",
+    "OPD treatment and diagnostic services not covered under Day Care Treatment",
+    "Private nursing charges excluded from inpatient care",
+    "Standby services charges excluded",
+    "Experimental or investigational organ transplants excluded",
+    "Organ transportation or preservation costs excluded"
+  ],
+  "faqs": [
+    {
+      "question": "What is the Product UIN for Health Companion?",
+      "answer": "The Product UIN for Health Companion is NBHHLIP26051V092526."
+    },
+    {
+      "question": "What types of policy variants are available under Health Companion?",
+      "answer": "Health Companion is available in three variants: Individual Policy, Family Floater Policy, and Family First Policy."
+    },
+    {
+      "question": "What is the minimum hospitalization period required for inpatient care coverage?",
+      "answer": "The minimum hospitalization period required is 24 consecutive hours, except for specified procedures where admission could be for less than 24 consecutive hours."
+    },
+    {
+      "question": "How many days of pre-hospitalization expenses are covered?",
+      "answer": "Pre-hospitalization medical expenses are covered for up to 30 days immediately preceding the hospital admission."
+    },
+    {
+      "question": "What is the coverage period for post-hospitalization expenses?",
+      "answer": "Post-hospitalization medical expenses are covered for up to 60 days immediately following discharge from hospital."
+    },
+    {
+      "question": "What does AYUSH treatment include?",
+      "answer": "AYUSH treatment refers to medical and/or hospitalization treatments given under Ayurveda, Yoga and Naturopathy, Unani, Sidha and Homeopathy systems."
+    },
+    {
+      "question": "What is the minimum period required for domiciliary hospitalization coverage?",
+      "answer": "Domiciliary hospitalization must continue for at least 3 consecutive days, and payment is made from the first day of domiciliary hospitalization."
+    },
+    {
+      "question": "When can an insured person avail health checkup benefit?",
+      "answer": "Health checkup can be availed from the 2nd policy year onwards if the policy is renewed without break, and the insured person is above age 18."
+    },
+    {
+      "question": "What is the No Claim Bonus percentage?",
+      "answer": "No Claim Bonus increases the Sum Insured by 20% of the Base Sum Insured each claim-free year, up to a maximum of 100% of the expiring Base Sum Insured."
+    },
+    {
+      "question": "What is the re-fill benefit percentage?",
+      "answer": "The re-fill benefit provides up to 100% of the Base Sum Insured if the original sum insured is exhausted due to claims during the policy year."
+    },
+    {
+      "question": "How many times can re-fill benefit be used in a policy year?",
+      "answer": "Re-fill benefit is provided only once in a policy year and cannot be carried forward to subsequent policy years if unused."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for monthly premium payment mode and 30 days for all other payment modes."
+    },
+    {
+      "question": "What is considered an accident under the policy?",
+      "answer": "Accident means a sudden, unforeseen and involuntary event caused by external, visible and violent means."
+    },
+    {
+      "question": "What is the minimum bed requirement for a hospital to be eligible?",
+      "answer": "A hospital must have at least 10 inpatient beds in towns with population less than 10,00,000 and at least 15 inpatient beds in all other places."
+    },
+    {
+      "question": "What defines a pre-existing disease?",
+      "answer": "Pre-existing disease means any condition diagnosed by a physician or for which medical advice/treatment was received not more than 36 months prior to policy commencement date."
+    },
+    {
+      "question": "What is the maximum number of children that can be covered under Family Floater Policy?",
+      "answer": "Maximum 4 children who are less than 21 years of age can be covered under a Family Floater Policy."
+    },
+    {
+      "question": "What modern treatments are covered under the policy?",
+      "answer": "Modern treatments include robotic surgeries, stem cell therapy for bone marrow transplant, immunotherapy, deep brain stimulation, balloon sinuplasty, and stereotactic radio surgeries among others."
+    },
+    {
+      "question": "What is the minimum continuous hospitalization required for Hospital Cash benefit?",
+      "answer": "The insured person must be admitted in hospital for a minimum period of 48 hours continuously to be eligible for Hospital Cash benefit."
+    },
+    {
+      "question": "What is the maximum number of days covered under Hospital Cash benefit?",
+      "answer": "Hospital Cash benefit is payable for up to a maximum of 30 days of hospitalization during the policy year."
+    },
+    {
+      "question": "What percentage is paid for complete loss of one limb under Permanent Total Disability?",
+      "answer": "50% of the Accidental Death Sum Insured is paid for complete and irrecoverable loss of one limb."
+    },
+    {
+      "question": "What percentage is paid for loss of both eyes under Permanent Total Disability?",
+      "answer": "125% of the Accidental Death Sum Insured is paid for complete and irrecoverable loss of sight of both eyes."
+    },
+    {
+      "question": "What is the time limit for Permanent Total Disability to occur after an accident?",
+      "answer": "Permanent Total Disability must occur within 365 days from the date of the accident during the policy period."
+    },
+    {
+      "question": "Can health checkup amount be carried forward to next policy year?",
+      "answer": "No, any unutilized test or amount under health checkup benefit cannot be carried forward to the next policy year."
+    },
+    {
+      "question": "What tests are covered under the health checkup benefit?",
+      "answer": "Health checkup covers Complete Blood Count, Urine Routine, ESR, HBA1C, S Cholesterol, Sr. HDL, Sr LDL, Urea and Kidney Function Test."
+    },
+    {
+      "question": "What is the co-payment percentage for metro city treatments under Tiered Network option?",
+      "answer": "20% co-payment applies for treatment in Delhi NCR, Mumbai, Chennai, Bengaluru, Hyderabad, Kolkata, Pune, Ahmedabad, and Surat under Tiered Network option."
+    },
+    {
+      "question": "Which family members can be covered under Family First Policy?",
+      "answer": "Family First Policy can cover spouse, son, daughter-in-law, daughter, son-in-law, father, mother, father-in-law, mother-in-law, grandfather, grandmother, grandson, granddaughter, brother, sister, sister-in-law, brother-in-law, nephew, and niece."
+    },
+    {
+      "question": "What happens to room rent coverage if admitted in higher category room?",
+      "answer": "If admitted in higher room category than entitled, only a pro-rated proportion of total associated medical expenses is paid in proportion to the entitled room category."
+    },
+    {
+      "question": "Are ambulance expenses covered and what is the limit?",
+      "answer": "Emergency ambulance expenses are covered for surface transport to nearest hospital, limited to one transfer per hospitalization, up to the amount specified in Product Benefits Table."
+    },
+    {
+      "question": "What is the coverage for alternative treatments pre and post hospitalization?",
+      "answer": "For alternative treatments, pre-hospitalization expenses up to 30 days and post-hospitalization expenses up to 60 days are covered, but only for alternative treatments, not allopathy."
+    }
+  ],
+  "source_file": "Health-Companion_Variant-1-2-3-EFF_Policy-Wording.txt",
+  "category": "Hi Document"
+}

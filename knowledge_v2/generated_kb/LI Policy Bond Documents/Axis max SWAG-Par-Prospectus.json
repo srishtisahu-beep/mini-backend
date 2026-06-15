@@ -1,0 +1,229 @@
+{
+  "product_name": "Axis Max Life Smart Wealth Advantage Growth Par Plan",
+  "company": "Axis Max Life Insurance",
+  "product_type": "Non-Linked Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A comprehensive life insurance savings plan that offers a combination of protection, liquidity, and flexibility. It provides lifelong assurance with options to build a regular income stream through three variants: Insta Income, Insta Income Boost, and Future Income. The plan offers flexibility in premium payment and policy terms, enhanced protection through riders, and various payout customization options, along with a life cover for the entire policy term.",
+  "quick_facts": {
+    "minimum_age": "91 days (without Policy Continuance Benefit), 18 years (with Policy Continuance Benefit)",
+    "maximum_age": "Varies based on plan variant, policy term, and Policy Continuance Benefit option, going up to 70 years less the premium payment term.",
+    "sum_insured": "Minimum Sum Assured on Maturity is Rs. 300,000. There is no maximum limit, subject to board approved underwriting policy.",
+    "policy_term": "Fixed policy term options from 10 to 40 years, and options to have coverage up to maturity age 85 or 100.",
+    "waiting_period": "No specific waiting period for general benefits. A 12-month waiting period applies for suicide from the date of commencement or revival of the policy."
+  },
+  "coverage": [
+    {
+      "name": "Survival Benefit",
+      "description": "Payable during the policy term in the form of Cash Bonus (if declared) and Guaranteed Income (if applicable as per the chosen variant)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable on completion of the policy term, comprising Sum Assured on Maturity, accrued survival benefits, an additional benefit for female lives, and a Terminal Bonus (if declared)."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the unfortunate demise of the Life Insured during the policy term. The benefit amount and structure vary depending on whether the Policy Continuance Benefit is opted for."
+    },
+    {
+      "name": "Additional Accidental Death Benefit",
+      "description": "An additional amount equal to 50% of the Sum Assured on Death is payable if death occurs due to an accident after the premium payment term is over."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Three Plan Variants",
+      "description": "Choice of Insta Income, Insta Income Boost, or Future Income to build an income stream as per individual needs."
+    },
+    {
+      "name": "Flexible Terms",
+      "description": "Flexibility to choose from various premium payment terms (6, 7, 8, 10, 12 years) and policy terms (10 to 40 years, or up to age 100)."
+    },
+    {
+      "name": "Payout Customization",
+      "description": "Options like 'Save the date' to receive annual payouts on a special date, 'Accrual' to accumulate survival benefits, and 'Premium Offset' to use survival benefits to pay future premiums."
+    },
+    {
+      "name": "Guaranteed Payouts",
+      "description": "The Insta Income Boost and Future Income variants offer guaranteed income streams for added financial security."
+    },
+    {
+      "name": "Policy Continuance Benefit (PCB)",
+      "description": "If opted, upon the death of the Life Insured, the death benefit is paid, and all future survival and maturity benefits continue to be paid to the nominee without any need for future premium payments."
+    },
+    {
+      "name": "Additional Benefit for Female Lives",
+      "description": "An additional benefit equal to 10% of the Sum Assured on Maturity is payable for female lives."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans up to 80% of the policy's surrender value to meet financial emergencies."
+    },
+    {
+      "name": "Optional Riders",
+      "description": "Option to enhance protection by adding riders like Term Plus Rider, Waiver of Premium Plus Rider, Accidental Death and Dismemberment Rider, and Critical Illness and Disability Rider."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "details": "91 days (without Policy Continuance Benefit); 18 years (with Policy Continuance Benefit)"
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "details": "Varies depending on variant, policy term, and premium payment term. For example, for the Insta Income variant with a fixed policy term, it is 70 minus the premium payment term."
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "Minimum 10 years for Insta Income variant; Minimum 20 years for Insta Income Boost and Future Income variants. Fixed terms from 10 to 40 years, or coverage up to maturity age 85 or 100."
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "details": "Available options are 6, 7, 8, 10, and 12 years for all variants."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "details": "Annual: Rs. 25,000; Semi-annual: Rs. 12,750; Quarterly: Rs. 6,500; Monthly: Rs. 2,175."
+    },
+    {
+      "criteria": "Gender",
+      "details": "Male, Female, and Transgender."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the nominee will receive the higher of the surrender value or total premiums paid. The full death benefit will not be payable."
+    },
+    {
+      "type": "Accidental Death Benefit Exclusions",
+      "description": "No benefit is payable for accidental death caused by intentional self-inflicted injury, influence of drugs or alcohol, war, military operations, participation in flying activity (except as a fare-paying passenger), criminal acts, hazardous pursuits, or nuclear contamination."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Process",
+      "description": "In case of death of the Life Insured, the nominee will be entitled to receive the benefits. The nominee will be required to produce all necessary documents and provide a valid discharge for the payment of the benefits."
+    },
+    {
+      "type": "Incontestability Clause (Section 45)",
+      "description": "A policy cannot be called into question on any ground after 3 years from its issuance, commencement of risk, or revival, except on the ground of fraud. Within the first 3 years, it can be questioned on grounds of fraud or misstatement/suppression of a material fact."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Axis Max Life Smart Wealth Advantage Growth Par Plan?",
+      "answer": "It is a Non-Linked Participating Individual Life Insurance Savings Plan that provides life insurance coverage along with savings benefits. It offers three variants to build an income stream and provides flexibility in policy terms and premium payments."
+    },
+    {
+      "question": "Who is the insurer for this plan?",
+      "answer": "The insurer is Axis Max Life Insurance Limited."
+    },
+    {
+      "question": "What are the different variants available under this plan?",
+      "answer": "The plan offers three variants: Insta Income, Insta Income Boost, and Future Income."
+    },
+    {
+      "question": "How does the 'Insta Income' variant work?",
+      "answer": "Under the Insta Income variant, a Cash Bonus (if declared) as a percentage of the Annualized Premium is payable from the 1st policy year until the end of the policy term."
+    },
+    {
+      "question": "What benefits does the 'Insta Income Boost' variant provide?",
+      "answer": "This variant provides both a Cash Bonus (if declared) from the 1st policy year and a Guaranteed Income from the 1st policy year until the end of the premium payment term."
+    },
+    {
+      "question": "What is the 'Future Income' variant?",
+      "answer": "The Future Income variant provides a Cash Bonus (if declared) and a Guaranteed Income starting from the policy year after the premium payment term ends (PPT+1). The Guaranteed Income is payable for up to 25 years or until the end of the policy term, whichever is earlier."
+    },
+    {
+      "question": "What is the minimum age to be insured under this policy?",
+      "answer": "The minimum entry age is 91 days if the Policy Continuance Benefit is not chosen. If the Policy Continuance Benefit is chosen, the minimum entry age is 18 years."
+    },
+    {
+      "question": "What is the Policy Continuance Benefit (PCB)?",
+      "answer": "PCB is an optional benefit where, upon the death of the Life Insured, a lump sum death benefit is paid to the nominee, and all future survival and maturity benefits continue as scheduled without the need to pay any more premiums."
+    },
+    {
+      "question": "Can I get a loan against this policy?",
+      "answer": "Yes, you can avail a loan against the policy, up to a maximum of 80% of the surrender value. The minimum loan amount is Rs. 10,000."
+    },
+    {
+      "question": "What is paid on maturity of the policy?",
+      "answer": "On maturity, the policy pays the Sum Assured on Maturity, any accrued survival benefits, an Additional Benefit on Maturity for female lives, and a Terminal Bonus (if declared)."
+    },
+    {
+      "question": "Is there a special benefit for female policyholders?",
+      "answer": "Yes, for female lives, an Additional Benefit on Maturity equal to 10% of the Sum Assured on Maturity is payable."
+    },
+    {
+      "question": "What is the death benefit if PCB is not opted?",
+      "answer": "The death benefit is the higher of: (i) Sum Assured on Death plus Terminal Bonus (if declared) or (ii) 105% of total premiums paid as on the date of death."
+    },
+    {
+      "question": "Is there an additional benefit for accidental death?",
+      "answer": "Yes, an Additional Accidental Sum Assured, equal to 50% of the Sum Assured on Death (up to a maximum of Rs. 1 crore), is payable if death occurs due to an accident after the premium payment term is over."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The available premium payment terms are 6, 7, 8, 10, and 12 years."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 30 days (15 for monthly mode) is provided. If you stop paying after the first year's premiums are fully paid, the policy acquires a surrender value and becomes a Reduced Paid-Up (RPU) policy by default."
+    },
+    {
+      "question": "How long do I have to revive a lapsed or RPU policy?",
+      "answer": "You can revive a lapsed or RPU policy within a revival period of five consecutive years from the due date of the first unpaid premium, subject to payment of all due premiums with interest and providing evidence of insurability."
+    },
+    {
+      "question": "What is the 'Save the Date' option?",
+      "answer": "This option allows you to receive your annual survival benefits on any special date of your choice within a year, instead of on the policy anniversary. This is available only for annual payout mode."
+    },
+    {
+      "question": "What is the 'Premium Offset' option?",
+      "answer": "This feature allows you to use your receivable survival benefits (Guaranteed Income and Cash Bonus) to pay your future premiums. If the benefit amount is less than the premium, you must pay the balance."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "The policy comes with a free-look period of 30 days from the date of receipt of the policy document, during which you can review the terms and cancel the policy if you disagree with them."
+    },
+    {
+      "question": "What happens if the insured's death is due to suicide?",
+      "answer": "If death by suicide occurs within 12 months from the policy's start date or revival date, the policy terminates. The nominee will receive the higher of the surrender value or the total premiums paid up to the date of death."
+    },
+    {
+      "question": "Can I add riders to this policy for extra coverage?",
+      "answer": "Yes, you can customize your protection by opting for riders such as Axis Max Life Term Plus Rider, Waiver of Premium Plus Rider, Accidental Death and Dismemberment Rider, and Critical Illness and Disability Rider by paying an extra premium."
+    },
+    {
+      "question": "What does 'Accrual of Survival Benefits' mean?",
+      "answer": "This is a flexibility option where you can choose to accumulate your survival benefits (both Guaranteed Income and Cash Bonus) with the company instead of receiving them as payouts. These accrued benefits will earn interest and can be withdrawn fully or partially at any time during the policy term."
+    },
+    {
+      "question": "How are bonuses determined in this plan?",
+      "answer": "The plan is a participating policy, which means it is eligible for bonuses declared by the company. Bonuses, which include Cash Bonus and Terminal Bonus, are based on the performance of the company's participating fund and are not guaranteed."
+    },
+    {
+      "question": "Can I change the frequency of my survival benefit payouts?",
+      "answer": "Yes, you can choose to receive your survival benefits annually, semi-annually, quarterly, or monthly. This frequency can be chosen at inception or changed anytime during the policy term by submitting a request 30 days before the policy anniversary."
+    },
+    {
+      "question": "What is the difference between Sum Assured on Maturity and Sum Assured on Death?",
+      "answer": "Sum Assured on Maturity is the guaranteed amount payable at the end of the policy term if the insured survives. Sum Assured on Death is the guaranteed amount payable to the nominee upon the death of the insured during the policy term."
+    },
+    {
+      "question": "What is a Reduced Paid-Up (RPU) policy?",
+      "answer": "If you stop paying premiums after the policy has acquired a surrender value, it converts into an RPU policy. The Sum Assured on Death and Maturity are reduced proportionately, but the policy continues with these reduced benefits without further premium payments."
+    },
+    {
+      "question": "Are the survival benefits guaranteed?",
+      "answer": "Survival benefits consist of two parts: Guaranteed Income and Cash Bonus. The Guaranteed Income component is guaranteed for the Insta Income Boost and Future Income variants. The Cash Bonus component is not guaranteed as it depends on the profits of the company's participating fund and is declared annually."
+    }
+  ],
+  "source_file": "Axis max SWAG-Par-Prospectus.txt",
+  "category": "LI Policy Bond Documents"
+}

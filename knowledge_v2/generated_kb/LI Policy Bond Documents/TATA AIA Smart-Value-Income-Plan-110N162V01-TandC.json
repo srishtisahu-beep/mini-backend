@@ -1,0 +1,217 @@
+{
+  "product_name": "TATA AIA Life Insurance Smart Value Income Plan",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Individual, Non-linked, Participating, Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "An Individual, Non-linked, Participating, Life Insurance Savings Plan that offers non-guaranteed bonuses (Regular, Interim, and Terminal). Policyholders can choose between two plan options at inception: Option 1 (Cash Bonus) provides regular cash payouts, and Option 2 (Accumulating Cash Bonus) accumulates the declared bonuses. The plan provides maturity and death benefits, along with optional features like Health Management Services and a Life Protect Feature.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Sum Assured on Death is the highest of specified multiples of premium or the Basic Sum Assured, varying by pay type (Regular, Limited, Single). Sum Assured on Maturity is a multiple of Total Premiums Payable, based on the policy term.",
+    "policy_term": "Policy terms range from 10 years to over 40 years.",
+    "waiting_period": "12 months for suicide claims from the date of commencement or revival."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Insured during the policy term, provided the policy is in force. The benefit includes Sum Assured on Death, applicable bonuses (Interim and Terminal), and any accumulated cash value (Balance in Sub-wallet or Accumulated Cash Bonus)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable if the Life Insured survives until the policy maturity date, provided the policy is in force and all due premiums have been paid. The benefit includes Sum Assured on Maturity, applicable Terminal Bonus, and any accumulated cash value."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Applicable only under Option 1 (Cash Bonus). Provides regular cash bonus payouts during the policy term as long as the policy is in force and all due premiums have been paid."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Options",
+      "description": "Policyholders must choose one of two options at inception: Option 1 (Cash Bonus) for regular payouts or Option 2 (Accumulating Cash Bonus) where bonuses accumulate over time."
+    },
+    {
+      "name": "Non-Guaranteed Bonuses",
+      "description": "The plan may declare three types of non-guaranteed bonuses: Regular Bonus (annual), Interim Bonus (on death), and Terminal Bonus (on death, surrender, or maturity)."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan of up to 80% of the Surrender Value can be availed once the policy acquires a surrender value. The policy must be assigned to the company."
+    },
+    {
+      "name": "Health Management Services",
+      "description": "An optional value-added service for eligible Life Insureds (minimum total Sum Assured of Rs. 30 lakhs) to avail second opinion/medical consultation services from affiliated service providers at no additional cost."
+    },
+    {
+      "name": "Life Protect Feature",
+      "description": "An optional feature for policies in Reduced Paid-Up status, which allows restoration of the full Sum Assured on Death component, subject to underwriting and monthly mortality charges."
+    },
+    {
+      "name": "Surrender Benefit",
+      "description": "The policy acquires a Surrender Value after payment of at least 2 full years' premiums (for Regular/Limited pay) or throughout the term (for Single pay). The payable amount is the higher of Guaranteed Surrender Value (GSV) and Special Surrender Value (SSV)."
+    }
+  ],
+  "eligibility": [
+    {
+      "criterion": "Plan Type",
+      "details": "The plan is for Individuals."
+    },
+    {
+      "criterion": "Health Management Services",
+      "details": "Eligibility requires a minimum total Sum Assured of Rs. 30 lakhs under the base plan and any attached riders."
+    },
+    {
+      "criterion": "Underwriting",
+      "details": "Issuance of the policy is subject to the company's Board-approved Underwriting Policy based on disclosures in the proposal form."
+    }
+  ],
+  "exclusions": [
+    {
+      "exclusion_type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or date of revival, the claimant will be entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Notice of Claim",
+      "details": "All cases of death must be notified to the company in writing within 90 days. Delay may be condoned on merit for reasons beyond the claimant's control."
+    },
+    {
+      "type": "Death Claim Requirements",
+      "details": "Primary documents include: Claimant Statement, Copy of Death Certificate, Original Policy Document, Claimant's Photo ID & Address Proof, and a cancelled cheque. Additional documents like FIR and Post Mortem report are required for unnatural deaths."
+    },
+    {
+      "type": "Maturity Claim Requirements",
+      "details": "To process the maturity payout, the company requires: NEFT Form, a cancelled cheque or copy of passbook, and a self-attested photo ID proof, if bank details need to be updated."
+    },
+    {
+      "type": "Claims Intimation Process",
+      "details": "Claimants can intimate a claim through various channels: Online portal (tataaia.com), WhatsApp (SMS CLAIM to 7045669966), Email (claims@tataaia.com), Helpline (1-860-266-9966), visiting a branch office, or by writing to the company's head office."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the TATA AIA Life Insurance Smart Value Income Plan?",
+      "answer": "It is an Individual, Non-linked, Participating, Life Insurance Savings Plan that provides life insurance coverage along with savings benefits through non-guaranteed bonuses."
+    },
+    {
+      "question": "What are the two main options available under this plan?",
+      "answer": "The two options are: Option 1 – Cash Bonus, where declared bonuses are paid out regularly, and Option 2 – Accumulating Cash Bonus, where declared bonuses vest and accumulate over time."
+    },
+    {
+      "question": "Can I switch between Option 1 and Option 2 during the policy term?",
+      "answer": "No, the plan option must be selected at the inception of the policy and cannot be changed later."
+    },
+    {
+      "question": "What is the difference between Regular, Interim, and Terminal bonuses?",
+      "answer": "A Regular Bonus may be declared annually. An Interim Bonus may be payable on death. A Terminal Bonus may be payable upon death, surrender, or maturity."
+    },
+    {
+      "question": "Are the bonuses under this plan guaranteed?",
+      "answer": "No, the bonuses (Regular, Interim, and Terminal) are not guaranteed and depend on the company's declaration. However, once a bonus is declared, it becomes guaranteed to be paid as per the policy terms."
+    },
+    {
+      "question": "What is the 'Cash Bonus' benefit under Option 1?",
+      "answer": "Under Option 1, the Regular Bonus, if declared, is payable as a cash bonus at the chosen frequency (Annual, Half-Yearly, Quarterly, or Monthly)."
+    },
+    {
+      "question": "How does the 'Accumulating Cash Bonus' work under Option 2?",
+      "answer": "Under Option 2, the Regular Bonus, if declared, vests and accumulates daily at a benchmark-linked rate. The total Accumulated Cash Bonus is payable on death, maturity, or surrender."
+    },
+    {
+      "question": "What benefit is paid on the maturity of the policy?",
+      "answer": "On maturity, the benefit paid is the Sum Assured on Maturity, plus the balance in the Sub-wallet (Option 1) or Accumulated Cash Bonus (Option 2), plus any Terminal Bonus declared."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is a lumpsum payment of the Sum Assured on Death, plus balance in Sub-wallet (Option 1) or Accumulated Cash Bonus (Option 2), plus Interim Bonus (if any), and Terminal Bonus on death (if declared). The minimum death benefit is 105% of Total Premiums Paid."
+    },
+    {
+      "question": "What is a 'Lapsed Policy'?",
+      "answer": "A Lapsed Policy is one where the due premium has not been paid by the end of the Grace Period and where at least the first two full years’ premiums have not been paid."
+    },
+    {
+      "question": "What is the grace period for paying the premium?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for all other modes (Quarterly, Half-yearly, Annual)."
+    },
+    {
+      "question": "What happens if the life insured dies during the grace period?",
+      "answer": "If the life insured dies during the grace period before paying the overdue premium, the policy is still valid and the death benefit will be paid after deducting the said unpaid premium."
+    },
+    {
+      "question": "How can I revive a lapsed or reduced paid-up policy?",
+      "answer": "A policy can be revived within the Revival Period of 5 years from the due date of the first unpaid premium, subject to a written application, proof of insurability, and payment of all overdue premiums with interest."
+    },
+    {
+      "question": "What is the Revival Period?",
+      "answer": "The Revival Period is a period of 5 years from the due date of the first unpaid premium during which a policyholder can revive a lapsed or reduced paid-up policy."
+    },
+    {
+      "question": "What is a 'Reduced Paid-up Policy'?",
+      "answer": "A policy becomes a Reduced Paid-up Policy if it has acquired Surrender Value but a subsequent premium remains unpaid at the end of the Grace Period. The policy continues with reduced benefits."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, you can apply for a policy loan once the policy acquires a Surrender Value."
+    },
+    {
+      "question": "What is the maximum loan amount I can avail?",
+      "answer": "You can avail a loan up to 80% of the Surrender Value of the policy."
+    },
+    {
+      "question": "What is the 'Life Protect Feature'?",
+      "answer": "It is an optional feature for a Reduced Paid-up Policy that allows the policyholder to restore the full Sum Assured on Death by paying a monthly mortality charge."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "The free look period is 15 days from the date of receipt of the policy document. This is extended to 30 days if the policy is sourced through electronic or Distance Marketing mode."
+    },
+    {
+      "question": "What is the procedure if I want to surrender my policy?",
+      "answer": "You can surrender the policy anytime after it has acquired a Surrender Value. The surrender value payable will be the higher of the Guaranteed Surrender Value (GSV) and the Special Surrender Value (SSV)."
+    },
+    {
+      "question": "When does a policy acquire a Surrender Value?",
+      "answer": "For a Single Pay policy, it acquires surrender value throughout the policy term. For a Regular/Limited Premium Policy, it acquires surrender value after at least the first two full years’ premiums have been paid."
+    },
+    {
+      "question": "What happens in case of death due to suicide?",
+      "answer": "If death by suicide occurs within 12 months from the policy's commencement or revival, the beneficiary will receive at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "How do I notify the company about a claim?",
+      "answer": "You must notify the company in writing within 90 days of the event. You can do this online, via WhatsApp, email, helpline, by visiting a branch, or by post."
+    },
+    {
+      "question": "What are the primary documents required for a death claim?",
+      "answer": "The key documents are the Claimant Statement, copy of the Death Certificate issued by a local Municipal Authority, the original Policy Document, and the claimant's photo ID and address proof."
+    },
+    {
+      "question": "What documents are needed for a maturity claim?",
+      "answer": "For a maturity claim, you need to submit an NEFT form, a cancelled cheque or a copy of your bank passbook, and a self-attested photo ID proof if your bank details have changed."
+    },
+    {
+      "question": "How can I change my premium payment frequency?",
+      "answer": "You can change the frequency of premium payments (monthly, quarterly, half-yearly, or annual) by submitting a written request to the company. The change will be effective from the next policy anniversary."
+    },
+    {
+      "question": "What is the 'Sub-wallet' feature under Option 1?",
+      "answer": "Under Option 1, you can choose to receive your cash bonus into a 'Sub-wallet'. The balance in the sub-wallet earns a loyalty addition and can be withdrawn partially or in full anytime during the policy term."
+    },
+    {
+      "question": "How can I withdraw money from the Sub-wallet?",
+      "answer": "You can apply for withdrawal from the Sub-wallet by visiting a branch, contacting the company through specified modes, or using the online customer portal. The money will be transferred to your designated bank account."
+    },
+    {
+      "question": "What happens if the Policyholder has provided an incorrect age?",
+      "answer": "Any misstatement of age will be dealt with in accordance with Section 45 of the Insurance Act, 1938, which may lead to an adjustment of policy terms or repudiation depending on the circumstances."
+    },
+    {
+      "question": "What happens if I lose my policy document?",
+      "answer": "If the policy document is lost or destroyed, you can request a duplicate by paying a fee of Rs. 250 plus applicable taxes. The original document will cease to have any validity upon issuance of the duplicate."
+    }
+  ],
+  "source_file": "TATA AIA Smart-Value-Income-Plan-110N162V01-TandC.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,216 @@
+{
+  "product_name": "Kotak Guaranteed Fortune Builder",
+  "company": "Kotak Mahindra Life Insurance Company Limited",
+  "product_type": "A Non-Participating, Non-Linked, Individual, Savings, Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "Kotak Guaranteed Fortune Builder is a non-participating, non-linked, individual savings and life insurance plan. It offers guaranteed benefits through four distinct plan options: Long Term Income, Early Income, Assured Wealth, and Bright Future, catering to different financial goals. The plan provides life cover, maturity benefits, and optional benefits like Spouse Cover and various riders.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "For policies issued through POS channel, Sum Assured on Death shall not exceed ₹ 25,00,000.",
+    "policy_term": "As mentioned in the policy Schedule. The term varies based on the plan option and premium payment term chosen.",
+    "waiting_period": "90 days from the Date of Commencement of Risk."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Provides a payment to the beneficiary upon the death of the life insured during the policy term. The benefit calculation and payout method (lump sum or installments) vary depending on the chosen plan option (Long Term Income, Early Income, Assured Wealth, Bright Future)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable if the life insured survives until the end of the policy term. The benefits, such as income payouts or a lump sum including Basic Sum Assured and Loyalty Additions, depend on the selected plan option."
+    },
+    {
+      "name": "Spouse Cover",
+      "description": "An optional benefit providing life cover for the spouse of the primary life insured. A Sum Assured on Death for Spouse is payable upon the death of the spouse during the policy term."
+    },
+    {
+      "name": "Rider Benefits",
+      "description": "Option to enhance coverage with riders such as Kotak Accidental Death Benefit Rider, Kotak Permanent Disability Benefit Rider, Kotak Term Benefit Rider, and Kotak Critical Illness Plus Benefit Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Multiple Plan Options",
+      "description": "Policyholders can choose one of four options at inception: Long Term Income, Early Income, Assured Wealth, or Bright Future."
+    },
+    {
+      "name": "Guaranteed Payouts",
+      "description": "Offers various guaranteed payouts like Guaranteed Income, Guaranteed Early Income, Milestone Payouts, and Guaranteed Yearly Additions depending on the plan option chosen."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Payable at maturity as a percentage of Basic Sum Assured under the Assured Wealth plan option, provided the policy is in-force."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans for a minimum amount of ₹10,000 and up to 80% of the surrender value once the policy acquires a surrender value."
+    },
+    {
+      "name": "Premium Break",
+      "description": "A feature for female life insureds to take a one-year premium break upon childbirth or diagnosis of specified women-specific illnesses, subject to conditions."
+    },
+    {
+      "name": "Value Added Services",
+      "description": "Access to health & wellbeing management services like telemedicine consultation, personal medical care, lifestyle management programs, and emergency response services."
+    },
+    {
+      "name": "Wellness Application Access",
+      "description": "Policyholders get complete access to a wellness mobile application to encourage and manage a healthy lifestyle."
+    }
+  ],
+  "eligibility": [],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the life insured commits suicide within 12 months from the date of commencement of risk, 80% of the total premiums paid will be payable. If suicide occurs within 12 months of a major revival, the higher of 80% of total premiums paid or the surrender value is payable."
+    },
+    {
+      "type": "Women Specific Illnesses (for Premium Break feature)",
+      "description": "Specific exclusions apply for each illness. For example, for Breast Cancer, pre-malignant tumours and Ductal/Lobular carcinoma in situ are excluded. For Uterine/Cervical Cancer, carcinoma in situ (including CIN-1, 2, and 3) is excluded."
+    },
+    {
+      "type": "Burns (for Premium Break feature)",
+      "description": "Radiation-induced burns are specifically excluded from the 'Burns' condition that allows for a premium break."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Notification",
+      "description": "The company must be notified in writing within 90 days of the claim event. Delay may be condoned on merit for genuine reasons beyond the claimant's control."
+    },
+    {
+      "type": "Maturity Claim Procedure",
+      "description": "The Maturity Benefit will be paid if the policy has matured and the life insured is alive. Required documents include Valid Bank Documents (Personalized Cheque/Bank Statement), Copy of PAN Card or Form 60, and NRE declaration (if applicable)."
+    },
+    {
+      "type": "Death Claim Procedure",
+      "description": "The claimant must submit the claim intimation form along with necessary documents at any branch or the head office. The benefit is paid to the Policyholder/Nominee/Legal Heir/Assignee."
+    },
+    {
+      "type": "Required Documents for Death Claim",
+      "description": "Primary documents include: Claim Intimation Form, Original Death Certificate, Medical Cause of Death/relevant medical records, Original policy document, Claimant's ID and address proof, and bank details (cancelled cheque/passbook copy)."
+    },
+    {
+      "type": "Additional Documents for Accidental Death",
+      "description": "In case of death due to an accident, certified copies of the First Information Report (FIR), Post Mortem Report, autopsy report, and Final Police Closure Report are required."
+    },
+    {
+      "type": "Claim Submission Address",
+      "description": "Claims Department, Kotak Mahindra Life Insurance Company Ltd, Kotak Tower, 7th Floor, Zone II, Building no. 21, Infinity Park, Off Western Express Highway, Malad (East), Mumbai - 400097."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Kotak Guaranteed Fortune Builder?",
+      "answer": "It is a non-participating, non-linked, individual, savings, life insurance plan that provides guaranteed returns and life cover."
+    },
+    {
+      "question": "What are the different plan options available under this policy?",
+      "answer": "There are four plan options: Long Term Income, Early Income, Assured Wealth, and Bright Future. The policyholder must choose one option at the inception of the policy."
+    },
+    {
+      "question": "Can I change my plan option after the policy has started?",
+      "answer": "No, the plan option once chosen at inception cannot be changed during the policy term."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "The Grace Period is the extra time granted for premium payment from the due date. It is 30 days for annual, half-yearly, and quarterly modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "Is there a waiting period for this policy?",
+      "answer": "Yes, there is a waiting period of 90 days from the Date of Commencement of Risk. For policies issued through the POS channel, if death occurs during this period (not due to an accident), 100% of the premium paid is returned."
+    },
+    {
+      "question": "Does the waiting period apply to death due to an accident?",
+      "answer": "No, the waiting period is not applicable on death due to an accident."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums for the first two consecutive years are not paid, the policy will lapse and no benefits will be payable. If the policy has acquired a surrender value (after two full years' premiums), it will convert into a Reduced Paid-Up policy by default."
+    },
+    {
+      "question": "How can I revive a lapsed or reduced paid-up policy?",
+      "answer": "You can apply for revival within five years from the due date of the first unpaid premium by paying all outstanding premiums along with interest (currently 9% p.a. simple interest). Evidence of good health may be required for revival after six months."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a loan for a minimum of ₹10,000 and up to a maximum of 80% of the surrender value."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "For Limited/Regular Premium policies, you can surrender after payment of two consecutive full years' premiums. For Single Premium policies, surrender value is acquired immediately."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life insured commits suicide within 12 months of the policy's risk commencement date, 80% of the total premiums paid will be returned. Specific conditions also apply if suicide occurs within 12 months of a major revival."
+    },
+    {
+      "question": "What is the 'Spouse Cover' option?",
+      "answer": "It is an optional benefit that provides life cover for the spouse of the primary life insured. It must be selected at the inception of the policy and cannot be altered later."
+    },
+    {
+      "question": "What happens if both the life insured and the spouse die simultaneously under the Spouse Cover option?",
+      "answer": "If the policy is in-force, the death benefit applicable to both lives independently shall be payable, and the policy will terminate."
+    },
+    {
+      "question": "What is the 'Premium Break' option?",
+      "answer": "It is an option for a female life insured to take a one-year break from paying premiums due to childbirth or the occurrence of certain listed 'Women Specific Illnesses'. The policy remains in-force during this period."
+    },
+    {
+      "question": "What are the conditions to avail the Premium Break?",
+      "answer": "The premium break can be availed once during the premium payment term, only after the first 12 months' premiums have been paid. The company must be informed within six months of the event (childbirth or diagnosis)."
+    },
+    {
+      "question": "How do I file a death claim?",
+      "answer": "You need to submit the filled 'Claim Intimation Form' along with necessary documents like the original death certificate and original policy document at the nearest Kotak Life Insurance branch or send them to the head office."
+    },
+    {
+      "question": "What is the time limit for informing the company about a claim?",
+      "answer": "Claims should be notified to the company in writing within ninety (90) days from the claim event."
+    },
+    {
+      "question": "What is the Free Look period?",
+      "answer": "It is a period during which you can review the policy's terms and conditions and return it if you are not satisfied. The period is 15 days from receipt of the policy, or 30 days if purchased through Distance Marketing or in electronic form."
+    },
+    {
+      "question": "What happens if I return the policy during the Free Look period?",
+      "answer": "You will be entitled to a refund of the premium paid after deducting the proportionate risk premium, stamp duty, and cost of medical examination, if any."
+    },
+    {
+      "question": "Can I add riders to this policy?",
+      "answer": "Yes, you can opt for riders like Kotak Accidental Death Benefit Rider and Kotak Critical Illness Plus Benefit Rider, subject to their terms and conditions. Riders are not applicable for policies issued through the POS Channel."
+    },
+    {
+      "question": "What is the 'Assured Wealth' plan option?",
+      "answer": "Under this option, Guaranteed Yearly Additions accrue during the premium payment term (or first 5 years for single pay) and are paid at maturity or death. A Loyalty Addition is also paid at maturity."
+    },
+    {
+      "question": "Can I change my address or nominee details?",
+      "answer": "Yes, minor alterations such as change of address, nominee, and contact details are allowed as per the company's prevailing policy servicing manual."
+    },
+    {
+      "question": "What are 'Guaranteed Yearly Additions' in the Assured Wealth plan?",
+      "answer": "These are additions calculated as a percentage of total premiums paid, which accrue on each policy anniversary while the policy is in-force during the premium payment term. They are paid out at maturity or on death."
+    },
+    {
+      "question": "Can I encash my Guaranteed Yearly Additions before maturity?",
+      "answer": "Yes, under the Assured Wealth plan, you have the option to encash part or all of the cash value of accrued Guaranteed Yearly Additions any time after the end of the premium payment term (or after 5th year for single pay)."
+    },
+    {
+      "question": "What happens if the Life Insured dies during the Income Benefit Period under the Long Term Income plan?",
+      "answer": "No additional death benefit is payable. However, the Guaranteed Income payouts will continue to be paid to the nominee for the remainder of the Income Benefit Period."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "It is the total premium payable in one policy year, excluding any extra premiums for mortality risk, modal loadings, GST, Cess, and rider premiums."
+    },
+    {
+      "question": "What is the 'Bright Future' plan option?",
+      "answer": "Under this option, Milestone Payouts, calculated as a percentage of the Basic Sum Assured, are paid during the Income Benefit Period after the policy term ends."
+    }
+  ],
+  "source_file": "PD-KotakGuaranteedFortuneBuilder-107N128V01.txt",
+  "category": "LI Policy Bond Documents"
+}

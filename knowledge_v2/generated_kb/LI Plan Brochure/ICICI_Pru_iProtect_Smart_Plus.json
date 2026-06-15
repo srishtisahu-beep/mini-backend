@@ -1,0 +1,217 @@
+{
+  "product_name": "ICICI Pru iProtect Smart Plus",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Individual Pure Risk Insurance Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Non-Participating Non-linked",
+  "summary": "ICICI Pru iProtect Smart Plus is a non-participating, non-linked pure risk life insurance plan that provides financial protection to the insured's family against death and terminal illness. It offers flexible options for premium payment and benefit payouts, including lump sum and monthly income. Policyholders can enhance protection with an optional Accidental Death Benefit and other riders. The plan also features special premium rates for non-tobacco users, discounts for salaried customers, and complimentary wellbeing services.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "65 years",
+    "sum_insured": "Minimum: Subject to the minimum premium. Maximum: Unlimited.",
+    "policy_term": "Minimum 5 years, up to Whole Life (99 years less age at entry), varies by premium payment option.",
+    "waiting_period": "Insta Payment on Claim Intimation is not applicable for death during the first three policy years. Complimentary health services can be availed after 30 days from the date of policy issuance."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Pays the Sum Assured to the nominee on the death of the Life Assured."
+    },
+    {
+      "name": "Terminal Illness Benefit",
+      "description": "Death Benefit is paid out upon diagnosis of a terminal illness, defined as a condition highly likely to lead to death within 6 months. This benefit is not payable if the policy is sourced through POS personnel."
+    },
+    {
+      "name": "Accidental Death Benefit",
+      "description": "An additional benefit paid as a lump sum in case of death due to an accident. This is available under the Life Plus option and is up to ₹3 crores."
+    },
+    {
+      "name": "Critical Illness Benefit (Optional Rider)",
+      "description": "Optional coverage for 20 or 60 specified illnesses, available through the ICICI Pru Non-Linked Health Protect Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexible Payout Options",
+      "description": "Death benefit can be received as a 100% lump sum, as monthly income for 10 years, as a combination of lump sum and income, or as an increasing monthly income."
+    },
+    {
+      "name": "Choice of Protection Level",
+      "description": "Two benefit options are available: 'Life' (Death + Terminal Illness) and 'Life Plus' (Death + Terminal Illness + Accidental Death Benefit)."
+    },
+    {
+      "name": "Special Premium Rates",
+      "description": "Lower premium rates are offered to non-tobacco users."
+    },
+    {
+      "name": "Discount for Salaried Customers",
+      "description": "A discount on the first year's premium is available for salaried customers: 15% for Limited Pay and 12.5% for Regular Pay options."
+    },
+    {
+      "name": "Complimentary Services",
+      "description": "Access to a suite of inbuilt health management and wellbeing services through the ICICI Pru Life Customer app."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Flexibility to pay premiums once (Single Pay), for a limited period (Limited Pay), or throughout the policy term (Regular Pay)."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Premiums paid and benefits received may be eligible for tax benefits as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "value": "65 years (subject to premium payment term and option chosen)"
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "Ranges from 5 years to Whole Life (99 years less age at entry), depending on the premium payment option."
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "value": "Single, Yearly, Half-yearly, and Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "condition": "Terminal Illness Benefit",
+      "description": "Not payable if the policy is sourced through POS personnel."
+    },
+    {
+      "condition": "Insta Payment on Claim Intimation",
+      "description": "Not payable for death occurring within the first three policy years from the date of commencement or revival of the policy."
+    },
+    {
+      "condition": "Premium Break Feature",
+      "description": "Cannot be availed during the last 3 policy years of the premium payment term."
+    },
+    {
+      "condition": "Maturity/Survival Benefit",
+      "description": "There is no maturity, paid-up value or survival benefit available under this product."
+    }
+  ],
+  "claims_information": [
+    {
+      "process": "Payout Options",
+      "description": "The death benefit is paid out to the beneficiary as per the option selected at inception: Lump Sum, Income, Lump sum and Income, or Increasing Income."
+    },
+    {
+      "process": "Insta Payment",
+      "description": "An accelerated death benefit of Rs. 3,00,000 is payable within one working day of claim registration for policies with a Sum Assured of Rs. 1 crore or more, subject to conditions."
+    },
+    {
+      "process": "Income to Lumpsum Conversion",
+      "description": "The claimant has the option to convert outstanding monthly income payments into a lump sum at any time."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru iProtect Smart Plus?",
+      "answer": "It is a Non-Participating, Non-linked Life Individual Pure Risk Insurance Product that provides coverage against death and terminal illness."
+    },
+    {
+      "question": "What are the main benefit options available in this plan?",
+      "answer": "There are two benefit options: 'Life' which covers Death and Terminal Illness, and 'Life Plus' which covers Death, Terminal Illness, and Accidental Death."
+    },
+    {
+      "question": "What is the Terminal Illness Benefit?",
+      "answer": "If the Life Assured is diagnosed with a terminal illness, which is a condition highly likely to lead to death within 6 months, the Death Benefit will be paid out."
+    },
+    {
+      "question": "Is the Terminal Illness benefit always available?",
+      "answer": "No, the Terminal Illness benefit is not payable if the policy is sourced through POS personnel."
+    },
+    {
+      "question": "How can the Death Benefit be received?",
+      "answer": "The Death Benefit can be received in four ways: as a lump sum, as a monthly income for 10 years, as a combination of lump sum and income, or as an increasing monthly income."
+    },
+    {
+      "question": "What is the 'Increasing Income' payout option?",
+      "answer": "Under this option, the benefit is paid in monthly instalments for 10 years, starting at 10% of the benefit amount per year in the first year and increasing by 10% simple interest each subsequent year."
+    },
+    {
+      "question": "Can the nominee convert monthly income payments to a lump sum?",
+      "answer": "Yes, at the time of claim approval or anytime after the start of monthly income, the claimant has the option to convert the outstanding monthly income into a lump sum."
+    },
+    {
+      "question": "What is the minimum and maximum age to purchase this policy?",
+      "answer": "The minimum age at entry is 18 years and the maximum age is 65 years, depending on the chosen policy and premium payment term."
+    },
+    {
+      "question": "What are the available premium payment options?",
+      "answer": "You can choose to pay premiums once (Single Pay), for a limited period (Limited Pay: 5, 7, 10, 15 years, or up to age 60), or throughout the policy term (Regular Pay)."
+    },
+    {
+      "question": "Are there any special rates for non-smokers?",
+      "answer": "Yes, the plan offers special premium rates for non-tobacco users."
+    },
+    {
+      "question": "Is there a discount for salaried individuals?",
+      "answer": "Yes, salaried customers get a discount on the first year's premium: 15% for Limited Pay and 12.5% for Regular Pay options."
+    },
+    {
+      "question": "What is the 'Premium Break' feature?",
+      "answer": "It allows you to defer paying your premium for a period of 12 months while your risk cover continues. The deferred premium must be paid later with the next due premium."
+    },
+    {
+      "question": "How often can I use the Premium Break?",
+      "answer": "This benefit can be availed multiple times, but there must be at least 5 policy years between two Premium Break periods. It is not available in the last 3 years of the premium payment term."
+    },
+    {
+      "question": "What is 'Insta Payment on Claim Intimation'?",
+      "answer": "It is an accelerated payment of Rs. 3,00,000 on registration of a death claim for policies with a Sum Assured of Rs. 1 crore or more, subject to terms and conditions."
+    },
+    {
+      "question": "Does this plan offer any maturity or survival benefits?",
+      "answer": "No, there is no maturity, paid-up value, or survival benefit available under this product."
+    },
+    {
+      "question": "What happens if I cancel my policy?",
+      "answer": "For Single Pay and certain Limited Pay policies, a Policy Cancellation Value equal to the Unexpired Risk Premium Value may be payable. For Regular Pay policies, the value is zero."
+    },
+    {
+      "question": "Can I add a Critical Illness cover to this policy?",
+      "answer": "Yes, you can add Critical Illness benefit as an optional rider (ICICI Pru Non-Linked Health Protect Rider), covering either 20 or 60 illnesses."
+    },
+    {
+      "question": "What is the maximum Accidental Death Benefit available?",
+      "answer": "The Accidental Death Benefit (ADB) is available up to ₹3 crores, subject to underwriting guidelines, and is part of the Life Plus option."
+    },
+    {
+      "question": "What are the complimentary services offered with the plan?",
+      "answer": "The policy provides access to a suite of inbuilt health management and well-being services through the ICICI Pru Life Customer app at no additional cost."
+    },
+    {
+      "question": "When can I start using the complimentary health and wellbeing services?",
+      "answer": "These services can be availed after 30 days from the date of issuance of the policy, provided the policy is in force."
+    },
+    {
+      "question": "What is the maximum Sum Assured I can opt for?",
+      "answer": "The maximum Sum Assured is unlimited, subject to underwriting."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay premiums through Single, Yearly, Half-yearly, and Monthly modes."
+    },
+    {
+      "question": "Are there any tax benefits on this policy?",
+      "answer": "Yes, tax benefits may be applicable on premiums paid and benefits received as per the prevailing tax laws, subject to conditions and amendments."
+    },
+    {
+      "question": "What is the policy term for the Accidental Death Benefit?",
+      "answer": "The Accidental Death Benefit policy term is equal to the policy term of the death benefit or (85 - Age at entry), whichever is lower."
+    },
+    {
+      "question": "What is the policy term for the optional Critical Illness (CI) Benefit rider?",
+      "answer": "The CI Benefit term is equal to the policy term or 20 years or (75 - Age at entry), whichever is lower."
+    }
+  ],
+  "source_file": "ICICI_Pru_iProtect_Smart_Plus.txt",
+  "category": "LI Plan Brochure"
+}

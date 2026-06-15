@@ -1,0 +1,229 @@
+{
+  "product_name": "Bajaj Life Magnum Fortune Plus III",
+  "product_type": "Unit-linked Non-Participating Individual Life Savings Insurance Plan",
+  "summary": "A unit-linked life insurance plan that provides life cover along with investment opportunities. The policy offers death benefit, maturity benefit, surrender value and loyalty advantages including Loyalty Addition, Return of Mortality Charge (ROMC) and Maturity Booster. Investment risk is borne by the policyholder.",
+  "definitions": [
+    {
+      "term": "Age",
+      "definition": "Age at last birthday"
+    },
+    {
+      "term": "Annualized Premium",
+      "definition": "The amount of Regular Premium payable by the Policyholder in a Policy Year, excluding the taxes, Rider premiums, and underwriting extra premium on riders if any"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "A period of fifteen (15) days for a monthly Premium Payment Frequency and thirty (30) days for any Premium Payment Frequency other than monthly Premium Payment Frequency, from the due date of Regular Premium payment, without any penalty or late fee"
+    },
+    {
+      "term": "Lock-in Period",
+      "definition": "The period of five consecutive completed years from the Policy Commencement Date, during which period the proceeds of the Policy cannot be paid by the Company to the Policyholder, except in the case of death"
+    },
+    {
+      "term": "Revival Period",
+      "definition": "The period of three (3) consecutive complete years from the date of first unpaid Regular Premium during which period the Policyholder is entitled to revive the Policy which was discontinued due to the non-payment of Regular Premium"
+    },
+    {
+      "term": "Guaranteed Benefit",
+      "definition": "105% of the all the Regular Premiums plus Top-Up Premiums (if any) received under the Policy until the date of death of the Life Assured"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "type": "Free Look Period",
+      "duration": "30 days",
+      "description": "Period beginning from the date of receipt of Policy Document to review the terms and conditions"
+    },
+    {
+      "type": "Lock-in Period",
+      "duration": "5 consecutive completed years",
+      "description": "Period during which proceeds cannot be paid except in case of death"
+    },
+    {
+      "type": "Revival Period",
+      "duration": "3 consecutive complete years",
+      "description": "Period from first unpaid premium during which policy can be revived"
+    }
+  ],
+  "exclusions": [
+    {
+      "description": "Death Benefit shall not be payable if the Policy has been terminated"
+    },
+    {
+      "description": "Maturity Benefit shall not be payable if the Policy has been terminated"
+    },
+    {
+      "description": "No partial withdrawal allowed before Life Assured attains Age of 18 years for minor policies"
+    },
+    {
+      "description": "No Maturity Booster available in Discontinued Policy or paid-up Policy"
+    },
+    {
+      "description": "No ROMC available in terminated, surrendered, discontinued or paid-up policies"
+    },
+    {
+      "description": "No Loyalty Additions available in surrendered, discontinued or paid-up policies"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": 1,
+      "description": "Intimate the Company of death of Life Assured"
+    },
+    {
+      "step": 2,
+      "description": "Submit required claim documents"
+    },
+    {
+      "step": 3,
+      "description": "Death Benefit calculated based on policy status - In-Force, paid-up, or discontinued"
+    },
+    {
+      "step": 4,
+      "description": "Payment made to Claimant/Beneficiary as per policy terms"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Investment risk is borne by the policyholder"
+    },
+    {
+      "condition": "Regular Premium must be paid in full on due dates or within Grace Period"
+    },
+    {
+      "condition": "Policy converts to Discontinued Life Policy if premiums not paid during Lock-in Period"
+    },
+    {
+      "condition": "Policy converts to paid-up if premiums not paid after Lock-in Period"
+    },
+    {
+      "condition": "All taxes including GST will be charged extra"
+    },
+    {
+      "condition": "Policy issued subject to section 45 of Insurance Act, 1938"
+    },
+    {
+      "condition": "Minimum RPFV of 2 times Annualized Premium must be maintained after partial withdrawal"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "You get a Free Look Period of 30 days from the date of receipt of Policy Document to review the terms and conditions, except if policy tenure is less than a year."
+    },
+    {
+      "question": "What happens if I don't pay my premium on time?",
+      "answer": "You have a Grace Period of 15 days for monthly frequency and 30 days for other frequencies. If premium is not paid even within Grace Period, the policy will be subject to non-payment conditions."
+    },
+    {
+      "question": "What is the Lock-in Period?",
+      "answer": "The Lock-in Period is 5 consecutive completed years from Policy Commencement Date, during which proceeds cannot be paid except in case of death."
+    },
+    {
+      "question": "Can I revive my lapsed policy?",
+      "answer": "Yes, you can revive within the Revival Period of 3 consecutive complete years from the date of first unpaid premium, subject to company's underwriting policy."
+    },
+    {
+      "question": "What is the death benefit under this policy?",
+      "answer": "Death Benefit is Higher of (Prevailing Sum Assured or RPFV) PLUS Higher of (Top-Up Sum Assured or Top-Up Premium Fund Value), subject to minimum Guaranteed Benefit of 105% of all premiums paid."
+    },
+    {
+      "question": "What is the maturity benefit?",
+      "answer": "On maturity, you will receive the Fund Value, which is the sum of Regular Premium Fund Value and Top-Up Premium Fund Value if any."
+    },
+    {
+      "question": "What are the loyalty advantages available?",
+      "answer": "The policy offers Maturity Booster, Return of Mortality Charge (ROMC), and Loyalty Additions as loyalty advantages."
+    },
+    {
+      "question": "When do I get Loyalty Additions?",
+      "answer": "Loyalty Additions of 0.5% of average RPFV of previous 3 years are added annually from 10th Policy Year till end of policy term."
+    },
+    {
+      "question": "What is Maturity Booster?",
+      "answer": "Maturity Booster is a percentage of average RPFV of last 3 policy years added at maturity, available for auto-pay, existing customers, online sales, or staff policies."
+    },
+    {
+      "question": "What is Return of Mortality Charge (ROMC)?",
+      "answer": "ROMC is the total mortality charges deducted during policy term that are added back to RPFV at maturity date."
+    },
+    {
+      "question": "Can I surrender my policy?",
+      "answer": "Yes, you can surrender anytime. If surrendered during Lock-in Period, you get Discontinuance Value at end of Lock-in Period. After Lock-in Period, you get immediate Surrender Value."
+    },
+    {
+      "question": "What is partial withdrawal facility?",
+      "answer": "After Lock-in Period, you can partially withdraw from your funds. Minimum withdrawal is Rs. 5,000 and maximum is 50% of RPFV at any one time."
+    },
+    {
+      "question": "What are the premium allocation charges?",
+      "answer": "For Annual Mode: Prime (<1L) - 4% for years 1-3, 4% for years 4-5, Nil from year 6. Prestige (1L-2.4L) - 3% for years 1-5, Nil from year 6. Priority (>=2.4L) - 2% for years 1-5, Nil from year 6."
+    },
+    {
+      "question": "Can I switch between funds?",
+      "answer": "Yes, under Investor Selectable Portfolio Strategy, you can switch between funds. Minimum switching amount is Rs. 5,000 and unlimited free switches are allowed."
+    },
+    {
+      "question": "What happens if Life Assured is a minor?",
+      "answer": "Policy issued to minor will mature only after attaining age 18. No partial withdrawal allowed before age 18. Policy vests on Life Assured upon attaining majority."
+    },
+    {
+      "question": "What is Family Benefit?",
+      "answer": "If available in your policy, Family Benefit is a percentage of last 3 years average RPFV added to RPFV and paid on maturity date."
+    },
+    {
+      "question": "Can I change my portfolio strategy?",
+      "answer": "Yes, you can change portfolio strategy at any Policy Anniversary by giving 30 days prior written notice. You can choose between Investor Selectable, Target Asset Allocation, or Automatic Transfer strategies."
+    },
+    {
+      "question": "What is the minimum guaranteed rate for Discontinued Life Policy Fund?",
+      "answer": "The current minimum guaranteed rate of investment return is 4% per annum as per IRDAI regulations."
+    },
+    {
+      "question": "Are there any charges for partial withdrawal?",
+      "answer": "No, there are no charges for partial withdrawal from the policy."
+    },
+    {
+      "question": "What happens during Grace Period if Life Assured dies?",
+      "answer": "If death occurs during Grace Period, full Death Benefit as applicable to In-Force policy will be payable."
+    },
+    {
+      "question": "Can I get refund during Free Look Period?",
+      "answer": "Yes, you can return the policy during Free Look Period and get refund of premiums paid minus proportionate risk premium, medical expenses, stamp duty, and unit repurchase adjustment."
+    },
+    {
+      "question": "What is Top-Up Premium?",
+      "answer": "Top-Up Premium is any additional premium paid voluntarily by you other than Regular Premium under the policy."
+    },
+    {
+      "question": "What is the Fund Management Charge for Discontinued Life Policy Fund?",
+      "answer": "The current cap on Fund Management Charge for Discontinued Life Policy Fund is 0.50% per annum as per IRDAI regulations."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "Policy terminates on death of Life Assured (if settlement option not chosen), on Maturity Date (if settlement option not chosen), or upon payment of Surrender Value."
+    },
+    {
+      "question": "What is Paid-up Sum Assured?",
+      "answer": "Paid-up Sum Assured is a proportion of Prevailing Sum Assured, where proportion is ratio of total Regular Premiums paid to total Regular Premiums payable under policy."
+    },
+    {
+      "question": "How is Unit Price/NAV calculated?",
+      "answer": "Unit Price/NAV = (Market value of investments + Current Assets - Current Liabilities and Provisions) divided by number of Units existing on Valuation Date."
+    },
+    {
+      "question": "What is the UIN of this product?",
+      "answer": "The Unique Identification Number (UIN) for Bajaj Life Magnum Fortune Plus III is 116L207V02."
+    },
+    {
+      "question": "How long do I need to pay premiums?",
+      "answer": "You need to pay Regular Premium during the entire Premium Paying Term as specified in your policy schedule."
+    },
+    {
+      "question": "What is Discontinuance Value?",
+      "answer": "Discontinuance Value is higher of: Fund Value less discontinuance charge accumulated at Discontinued Life Policy Fund return, OR Fund Value less discontinuance charge accumulated at minimum guaranteed rate (currently 4% p.a.)."
+    }
+  ],
+  "source_file": "Bajaj life insurance magnum-fortune-plus-pd.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,181 @@
+{
+  "product_name": "ManipalCigna Lifestyle Protection - Critical Care",
+  "product_type": "Critical Illness Insurance",
+  "summary": "A global plan that assures you financial support during critical times to ensure you get access to premium medical care. ManipalCigna Lifestyle Protection-Critical Care offers you payment of the entire Sum Insured on first diagnosis of 15 or 30 major illnesses and procedures. With this you also have the benefit of medical second opinion and access to our online wellness programme.",
+  "coverage": [
+    "Cancer of Specified Severity",
+    "Myocardial Infarction (First Heart Attack – of Specific Severity)",
+    "Open Chest CABG",
+    "Open Heart Replacement or Repair of Heart Valves",
+    "Coma of Specified Severity",
+    "Kidney Failure Requiring Regular Dialysis",
+    "Stroke Resulting in Permanent Symptoms",
+    "Major Organ / Bone Marrow Transplant",
+    "Permanent Paralysis of Limbs",
+    "Motor Neuron Disease with Permanent Symptoms",
+    "Multiple Sclerosis with Persisting Symptoms",
+    "Primary (Idiopathic) Pulmonary Hypertension",
+    "Aorta Graft Surgery",
+    "Deafness",
+    "Loss of Sight",
+    "Coronary Artery Disease",
+    "Aplastic Anaemia",
+    "End Stage Lung Failure",
+    "End Stage Liver Failure",
+    "Third Degree Burns",
+    "Fulminant Hepatitis",
+    "Alzheimer's Disease",
+    "Bacterial Meningitis",
+    "Benign Brain Tumor",
+    "Apallic Syndrome",
+    "Parkinsons Disease",
+    "Medullary Cystic Disease",
+    "Muscular Dystrophy",
+    "Loss of Speech",
+    "Systemic Lupus Erythematous"
+  ],
+  "waiting_periods": [
+    "First 90 days waiting period will apply",
+    "Benefit payment will be subject to survival period of 30 days following first diagnosis of critical illness or surgical procedure"
+  ],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Lump Sum Payout – Under this, the full Sum Insured will be paid upon diagnosis of the covered Critical Illness",
+    "Staggered Payout – On occurrence of a Critical Illness, 25% of the SI will be paid as lump sum. Balance 75% and additional 10% of SI will be paid in 60 equated monthly installments",
+    "You also have the flexibility to opt for a lump sum payout at the time of claim settlement, if you so desire",
+    "You get the entire Sum Insured on the first diagnosis of any of the 30 critical illnesses. You also get the benefit of additional 10% of the Sum Insured in case you opt for staggered claim payment"
+  ],
+  "exclusions": [
+    "Any illness other than specified critical illnesses",
+    "Any pre-existing diseases",
+    "HIV/AIDS and its complications",
+    "Foreign Invasion",
+    "Suicide or drug abuse"
+  ],
+  "faqs": [
+    {
+      "question": "What are the two plan options available?",
+      "answer": "Basic Plan covers 15 Critical Illnesses and Enhanced Plan covers additional critical illnesses in addition to those under Basic Plan, totaling 30 critical illnesses."
+    },
+    {
+      "question": "What is the minimum and maximum age to enter this policy?",
+      "answer": "The minimum age to enter this policy is 18 years while the maximum age is 65 years."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A fixed period of 30 days is allowed as grace period and for monthly mode of payment a fixed period of 15 days is allowed as grace period."
+    },
+    {
+      "question": "What is the revival period for the policy?",
+      "answer": "For instalment (Half-yearly and Quarterly) premium policies, the revival period shall be 30 days and for monthly premium payment mode, the revival period shall be 15 days from the due date of next instalment."
+    },
+    {
+      "question": "What tax benefits are available?",
+      "answer": "This plan entitles you to Income Tax Benefit under Sec.80D of Income Tax Act. Tax benefits are subject to changes in tax laws."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "A period of 30 days from the date of receipt of the Policy document is available to review the terms and conditions of this Policy. Free look cancellation & refund will be made within 7 days from the date of receipt of request."
+    },
+    {
+      "question": "How can I cancel the policy?",
+      "answer": "Request for cancellation shall be notified by giving 15 days' written notice in which case premium for the unexpired term will be refunded as per the short period. The company may cancel the Policy by giving 15 days' notice in writing on grounds of misrepresentation, established fraud, non-disclosure of material fact or for non-cooperation without any refund of premium."
+    },
+    {
+      "question": "What are the premium payment modes available?",
+      "answer": "Premium can be paid on Single, Yearly, Half yearly, Quarterly and Monthly basis. Loading will be applicable for Half yearly, Quarterly and Monthly payment mode."
+    },
+    {
+      "question": "What is the loading percentage for different payment modes?",
+      "answer": "Monthly payment mode has 5.50% loading, Quarterly has 3.50% loading, and Half yearly has 2.50% loading on premium."
+    },
+    {
+      "question": "What is the maximum Sum Insured available?",
+      "answer": "You can choose from a wide range of Sum Insured options up to ₹3 cr. Sum Insured above ₹3cr will be considered on case-to-case basis."
+    },
+    {
+      "question": "How much protection can I take in relation to my income?",
+      "answer": "You can take protection up to 10 times of your gainful annual income."
+    },
+    {
+      "question": "Is there any discount for covering multiple family members?",
+      "answer": "You can avail a discount of 10% for covering more than 2 family members under the same policy."
+    },
+    {
+      "question": "What discounts are available for multi-year policies?",
+      "answer": "You can enjoy a discount of 7.5% and 10% on selecting a 2 and 3 years single premium policy respectively."
+    },
+    {
+      "question": "What wellness programs are included?",
+      "answer": "The plan offers customized health and wellness programs available on the website. It consists of programs like Health Risk Assessment, Lifestyle Management, Nutrition and Access to Health Articles."
+    },
+    {
+      "question": "When is pre-policy medical check-up required?",
+      "answer": "Pre-Policy Medical Check-Up would be required on the basis of age, plan, Sum Insured and medical history."
+    },
+    {
+      "question": "How is premium determined?",
+      "answer": "Premium will depend on Sum Insured, policy tenure, age as on last birthday, gender and health status of the individual."
+    },
+    {
+      "question": "How is age calculated for premium purposes?",
+      "answer": "For premium calculation, age as on last birthday would be considered."
+    },
+    {
+      "question": "What is the waiting period for critical illness coverage?",
+      "answer": "First 90 days waiting period will apply for critical illness coverage."
+    },
+    {
+      "question": "What is the survival period requirement?",
+      "answer": "Benefit payment will be subject to survival period of 30 days following first diagnosis of critical illness or surgical procedure."
+    },
+    {
+      "question": "Are pre-existing diseases covered?",
+      "answer": "No, any pre-existing diseases are excluded from coverage."
+    },
+    {
+      "question": "Is HIV/AIDS covered under the policy?",
+      "answer": "No, HIV/AIDS and its complications are excluded from coverage."
+    },
+    {
+      "question": "What happens in case of suicide?",
+      "answer": "Suicide or drug abuse are excluded from coverage under the policy."
+    },
+    {
+      "question": "How can I get a quote?",
+      "answer": "You can SMS 'HEALTHY' TO 56161 or speak to a health advisor. The toll-free number is 1800-102-4462."
+    },
+    {
+      "question": "What is the customer care contact information?",
+      "answer": "You can contact customer care at 1800-102-4462 or email customercare@manipalcigna.com or visit www.manipalcigna.com."
+    },
+    {
+      "question": "What is the UIN of this product?",
+      "answer": "ManipalCigna Lifestyle Protection - Critical Care UIN: MCIHLIP21125V022021."
+    },
+    {
+      "question": "What additional benefit do you get with staggered payout?",
+      "answer": "You get the benefit of additional 10% of the Sum Insured in case you opt for staggered claim payment."
+    },
+    {
+      "question": "How are staggered payments made?",
+      "answer": "On occurrence of a Critical Illness, 25% of the SI will be paid as lump sum. Balance 75% and additional 10% of SI will be paid in 60 equated monthly installments."
+    },
+    {
+      "question": "Can I switch from staggered to lump sum payout during claim?",
+      "answer": "Yes, you have the flexibility to opt for a lump sum payout at the time of claim settlement, if you so desire."
+    },
+    {
+      "question": "What is the IRDAI registration number of the company?",
+      "answer": "IRDAI Reg. No.: 151."
+    },
+    {
+      "question": "What services does the company provide beyond claims?",
+      "answer": "The company provides Claims Handling, Personalised Services, Reliable Information through Health Relationship Managers, and Prevention and Well-Being programs including lifestyle programmes."
+    }
+  ],
+  "source_file": "4bbb94d70060ed9d2eb18b04c3674fb19f4e4262.txt",
+  "category": "Hi Document"
+}

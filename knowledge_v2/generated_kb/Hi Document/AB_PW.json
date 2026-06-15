@@ -1,0 +1,192 @@
+{
+  "product_name": "ACTIVATE BOOSTER",
+  "product_type": "Health Insurance",
+  "summary": "ACTIVATE BOOSTER is a comprehensive health insurance policy offered by ICICI Lombard General Insurance Company Limited that provides coverage for hospitalization, day care treatments, technological advancements, pre and post hospitalization expenses, AYUSH treatments, ambulance services, donor expenses, domiciliary hospitalization, bariatric surgery, and specialized coverage for surrogate mother and oocyte donor hospitalization.",
+  "coverage": [
+    "In-patient Treatment including room rent up to Single Private AC room, ICU charges, nursing charges, medical practitioner fees, medicines and surgical appliances",
+    "Day Care Procedures/Treatment for less than 24 hours hospitalization",
+    "Technological Advancements and Treatments including robotic surgeries, stem cell therapy, immunotherapy",
+    "Pre-Hospitalization Medical Expenses for specified number of days",
+    "Post-Hospitalization Medical Expenses including physiotherapy",
+    "In-Patient AYUSH Hospitalization at Government Recognized AYUSH Hospital",
+    "Domestic Road Ambulance services",
+    "Donor Expenses for organ harvesting",
+    "Domiciliary Hospitalization for minimum 3 consecutive days",
+    "Bariatric Surgery Cover for obesity treatment",
+    "In-patient Hospitalization for Surrogate mother up to Rs 5 Lakhs",
+    "In-patient Hospitalization for Oocyte donor up to Rs 5 Lakhs"
+  ],
+  "waiting_periods": [
+    "Initial waiting period of 30 days for surrogate mother coverage",
+    "Bariatric surgery has waiting period of 24 months from date of inception",
+    "Bariatric surgery waiting period reduced to 30 days if Jumpstart add-on is opted",
+    "Specific waiting period up to 24 months for specified diseases/treatments except due to accident",
+    "Pre-existing diseases waiting period as per policy terms"
+  ],
+  "room_rent": [
+    "Coverage up to Single Private AC room",
+    "Single Private Room means air conditioned room with attached toilet, most basic and economical single room accommodation",
+    "Twin Sharing Room means air conditioned room where at least two patients are accommodated",
+    "Proportionate deduction applies if admitted in higher room category than entitled",
+    "Proportionate deductions not applicable for ICU charges",
+    "Proportionate deductions not applicable for hospitals not following differential billing"
+  ],
+  "co_pay": [
+    "Co-Payment means cost sharing requirement where policy holder bears specified percentage of admissible claims amount",
+    "Co-payment does not reduce the Sum Insured"
+  ],
+  "deductible": [
+    "Deductible means cost-sharing requirement before any benefits are payable by insurer",
+    "Deductible does not reduce the Sum Insured",
+    "Deductible applies on aggregate basis for all hospitalization expenses during policy year",
+    "Deductible applies on individual basis for individual policy and floater basis for floater policy",
+    "Claim amount under optional covers not considered for deductible",
+    "Coverage only if aggregate of covered medical expenses exceed the deductible"
+  ],
+  "claims_information": [
+    "Cashless facility available at network providers with pre-authorization",
+    "Reimbursement basis available for covered treatments",
+    "Notification of claim through recognized modes of communication",
+    "Claims assessed as per terms, conditions and exclusions",
+    "Pre-authorization required for bariatric surgery",
+    "Coverage limited to geographical boundaries of India",
+    "TPA services available for policy and claims facilitation"
+  ],
+  "exclusions": [
+    "Coverage limited to geographical boundaries of India only",
+    "Expenses associated with automation machine for peritoneal dialysis not payable",
+    "Out Patient Treatment or diagnostic services not covered under Day Care",
+    "Pre-hospitalization nursing care at home excluded",
+    "Bariatric surgery for cosmetic reasons excluded",
+    "Delivery expenses for surrogate mother excluded",
+    "Delivery expenses for oocyte donor excluded",
+    "Domiciliary hospitalization excluded for asthma, bronchitis, arthritis, diabetes, hypertension and other specified conditions",
+    "Donor screening expenses excluded",
+    "Organ transportation or preservation expenses excluded",
+    "Experimental or investigational organ transplants excluded"
+  ],
+  "faqs": [
+    {
+      "question": "What is the contact number for customer support?",
+      "answer": "Toll free number is 1800 2666 and alternate chargeable number is 86552 22666"
+    },
+    {
+      "question": "What is the company's website?",
+      "answer": "The website is www.icicilombard.com"
+    },
+    {
+      "question": "What is the email for customer support?",
+      "answer": "The email is customersupport@icicilombard.com"
+    },
+    {
+      "question": "What does accident mean in this policy?",
+      "answer": "Accident means a sudden, unforeseen and involuntary event caused by external, visible and violent means"
+    },
+    {
+      "question": "What is the definition of any one illness?",
+      "answer": "Any one Illness means continuous period of Illness and includes a relapse within 45 days from the date of last consultation with the Hospital/Nursing Home"
+    },
+    {
+      "question": "What is cashless facility?",
+      "answer": "Cashless facility means payments of treatment costs are directly made to the network provider by the Insurer to the extent pre-authorization approved"
+    },
+    {
+      "question": "What is day care treatment?",
+      "answer": "Day care treatment means medical treatment and/or surgical procedure undertaken under anesthesia in less than 24 hours due to technological advancement, which would have otherwise required hospitalization of more than 24 hours"
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is fifteen days for monthly premium payment mode and thirty days in all other cases"
+    },
+    {
+      "question": "What are the minimum bed requirements for a hospital?",
+      "answer": "Hospital must have at least 10 in-patient beds in towns with population less than 10,00,000 and at least 15 in-patient beds in all other places"
+    },
+    {
+      "question": "What is the minimum hospitalization period required?",
+      "answer": "Hospitalization means admission for minimum period of 24 consecutive hours except for specified procedures where admission could be for less than 24 consecutive hours"
+    },
+    {
+      "question": "What is pre-existing disease?",
+      "answer": "Pre-existing Disease means any condition diagnosed by physician or for which medical advice/treatment was received not more than 36 months prior to policy commencement date"
+    },
+    {
+      "question": "What is the age range for dependent child?",
+      "answer": "Dependent Child means unmarried child aged between 91 days and 30 years, financially dependent on the Insured"
+    },
+    {
+      "question": "What room category is covered under the policy?",
+      "answer": "Room rent charges are covered up to Single Private AC room"
+    },
+    {
+      "question": "What happens if I get admitted to a higher room category?",
+      "answer": "If admitted in higher room category than entitled, you will bear rateable proportion of total Associated medical expenses in proportion of the room rent difference"
+    },
+    {
+      "question": "Are ICU charges subject to proportionate deduction?",
+      "answer": "No, proportionate deductions are not applicable for ICU charges"
+    },
+    {
+      "question": "What technological treatments are covered?",
+      "answer": "Covered treatments include Uterine Artery Embolization, HIFU, Immunotherapy, Robotic surgeries, Stem cell therapy, Deep Brain stimulation, and others as listed"
+    },
+    {
+      "question": "How many days of pre-hospitalization expenses are covered?",
+      "answer": "Pre-hospitalization medical expenses are covered for the number of days as specified in the Policy Schedule"
+    },
+    {
+      "question": "Is physiotherapy covered under post-hospitalization?",
+      "answer": "Yes, post-hospitalization physiotherapy is covered if treating Medical Practitioner advises in writing and it is medically necessary"
+    },
+    {
+      "question": "What type of AYUSH hospitals are covered?",
+      "answer": "Coverage is provided for AYUSH Treatment at Government Recognized AYUSH Hospital or AYUSH Day Care Centre"
+    },
+    {
+      "question": "When is ambulance service covered?",
+      "answer": "Road ambulance is covered when used to transfer to nearest Hospital from place of Accident/Illness, provided an inpatient or day care claim is accepted for the same condition"
+    },
+    {
+      "question": "What donor expenses are covered?",
+      "answer": "Medical expenses for organ donor's hospitalization for harvesting organ donated to the Insured Person, conforming to Transplantation of Human Organs Act 1994"
+    },
+    {
+      "question": "What is the minimum period for domiciliary hospitalization?",
+      "answer": "Domiciliary Hospitalization must continue for at least 3 consecutive days on written advice of medical practitioner"
+    },
+    {
+      "question": "What are the BMI requirements for bariatric surgery?",
+      "answer": "BMI must be greater than or equal to 40, or greater than or equal to 35 with severe co-morbidities like obesity-related cardiomyopathy, coronary heart disease, severe sleep apnea, or uncontrolled Type2 Diabetes"
+    },
+    {
+      "question": "What is the waiting period for bariatric surgery?",
+      "answer": "Bariatric surgery has a waiting period of 24 months from date of inception, reduced to 30 days if Jumpstart add-on is opted"
+    },
+    {
+      "question": "What is the maximum coverage for surrogate mother?",
+      "answer": "Maximum coverage for surrogate mother is Rs 5 Lakhs for complications arising out of pregnancy and post-partum delivery complications"
+    },
+    {
+      "question": "How long is surrogate mother coverage available?",
+      "answer": "Maximum coverage for surrogate mother is for thirty-six (36) continuous months after successful surrogacy procedure"
+    },
+    {
+      "question": "What is covered under oocyte donor hospitalization?",
+      "answer": "Medical expenses for oocyte donor hospitalization due to complications arising from oocyte retrieval, up to Rs 5 Lakhs maximum"
+    },
+    {
+      "question": "How long is oocyte donor coverage available?",
+      "answer": "Oocyte donor coverage is available for twelve months (12 months) after successful oocyte retrieval procedure"
+    },
+    {
+      "question": "Are delivery expenses covered for surrogate mother?",
+      "answer": "No, any expenses incurred on delivery of the new born (either via normal delivery or caesarean section) are excluded"
+    },
+    {
+      "question": "Is coverage available outside India?",
+      "answer": "No, the policy will not pay any medical charges incurred outside the geographical boundaries of India"
+    }
+  ],
+  "source_file": "AB_PW.txt",
+  "category": "Hi Document"
+}

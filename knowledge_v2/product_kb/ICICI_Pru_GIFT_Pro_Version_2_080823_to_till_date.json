@@ -1,0 +1,197 @@
+{
+  "product_name": "ICICI Pru GIFT Pro",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Non-Linked Non-Participating",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "ICICI Pru GIFT Pro is a non-linked, non-participating individual savings life insurance plan. It provides a life cover during the policy term and a guaranteed income for a specified period after maturity. The plan offers flexibility in receiving the maturity benefit, including options for level or increasing income, a lump sum MoneyBack Benefit, and the choice to receive income on a special date. The policy also includes features like loans, surrender, and revival.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Sum Assured on Death is calculated as Death Benefit multiple times the Annualized Premium. The multiple varies by the age at entry of the Life Assured.",
+    "policy_term": "The period between the Policy Acceptance Date and the Date of Maturity, as specified in the Policy Schedule.",
+    "waiting_period": "A 12-month waiting period applies for death due to suicide from the date of commencement of risk or date of revival."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable upon the death of the Life Assured during the policy term. The benefit is the highest of: Sum Assured on Death, 105% of Total Premiums Paid, or a factor-based calculation involving the Maturity Sum Assured."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable on survival of the Life Assured at the completion of the policy term. The benefit is paid as Guaranteed Income (GI) for a chosen Income Period. The policyholder can also opt for a MoneyBack Benefit."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Income (GI) Options",
+      "description": "At maturity, the policyholder receives Guaranteed Income. Two options are available at inception: 1. Level Guaranteed Income: A constant income amount throughout the Income Period. 2. Increasing Guaranteed Income: The income amount increases every year at a simple interest rate of 5% p.a."
+    },
+    {
+      "name": "MoneyBack Benefit",
+      "description": "The policyholder can opt at inception to receive a percentage (0% to 100%) of the sum of Annualized Premiums as a lump sum at a pre-selected date within the income period."
+    },
+    {
+      "name": "Low Cover Income Booster",
+      "description": "An option available at inception to avail a lower death cover in order to receive an increased Guaranteed Income."
+    },
+    {
+      "name": "Paid-up Benefits",
+      "description": "If premium payment is discontinued after the policy acquires a surrender value (after 2 full years' premiums are paid), the policy continues with reduced benefits, including a Paid-Up Death Benefit and Paid-up Guaranteed Income and MoneyBack Benefit."
+    },
+    {
+      "name": "Option to Commute Benefits to Lump Sum",
+      "description": "On the maturity date or at any time during the Income Period, the policyholder or claimant can opt to receive the discounted value of future Guaranteed Income and MoneyBack Benefit as a single lump sum payment."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Once the policy acquires a surrender value, a loan of up to 80% of the surrender value can be availed."
+    }
+  ],
+  "eligibility": [
+    {
+      "name": "Policy on Minor's Life",
+      "description": "Policies can be issued on a minor's life. On attaining the age of majority (18 years), the policy will vest in the Life Assured, who will then become the policyholder."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the Claimant shall be entitled to 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher. The policy will terminate after this payment."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Documents for Natural Death Claim",
+      "description": "Claimant’s Statement, Original Policy Document, Death Certificate, Cancelled Cheque, Claimant’s photograph, photo ID and address proof, Medical cause of death certificate, Medical records (if any), PAN card/Form 60 of the Claimant, and any other documents required by the company."
+    },
+    {
+      "name": "Documents for Unnatural Death Claim",
+      "description": "Claimant’s Statement, Original Policy Document, Death Certificate, Cancelled Cheque, Claimant’s photograph, photo ID and address proof, Post Mortem report, viscera/chemical analysis report, FIR, final police investigation report, police panchnama/Inquest report, driving license, PAN card/Form 60 of the Claimant, and any other documents required by the company."
+    },
+    {
+      "name": "Documents for Maturity Claim",
+      "description": "Cancelled Cheque for electronic payment and KYC of the Proposer of the policy."
+    },
+    {
+      "name": "Claim Payment",
+      "description": "Claim payments are made only in Indian currency. In exceptional circumstances like a natural calamity where documents are unavailable, the company may conduct an investigation and settle the claim at its discretion."
+    },
+    {
+      "name": "To Whom Benefits are Payable",
+      "description": "Benefits are payable to the Policyholder, Assignee(s), or Nominee as recorded with the company. Legal heirs or representatives may also be entitled as per applicable laws."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru GIFT Pro?",
+      "answer": "It is a Non-Linked Non-Participating Individual Savings Life Insurance Plan that provides a death benefit during the policy term and guaranteed income after the policy matures."
+    },
+    {
+      "question": "What is the Death Benefit under this policy?",
+      "answer": "Upon the death of the Life Assured during the policy term, the nominee receives a Death Benefit. This amount is the highest of: a) Sum Assured on Death; b) 105% of Total Premiums Paid up to the date of death; and c) a calculated amount based on Maturity Sum Assured and premiums paid."
+    },
+    {
+      "question": "What happens if I survive the policy term?",
+      "answer": "If the Life Assured survives the policy term and the policy is fully paid, you will receive the Maturity Benefit in the form of Guaranteed Income (GI) for the chosen Income Period."
+    },
+    {
+      "question": "What are the options for receiving Guaranteed Income (GI)?",
+      "answer": "You can choose between two options at the start of the policy: 'Level Guaranteed Income' where the GI amount remains constant, or 'Increasing Guaranteed Income' where the GI amount increases by 5% simple interest each year."
+    },
+    {
+      "question": "Can I receive my premiums back as a lump sum?",
+      "answer": "Yes, you can opt for the 'MoneyBack Benefit' at inception. This allows you to receive a percentage (from 0% to 100%) of the total annualized premiums paid as a lump sum on a pre-selected date during the income period."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums before the policy acquires a surrender value (before 2 full years' premiums are paid), the policy will lapse and no benefits will be payable. If you stop paying after it acquires a surrender value, the policy will become a 'paid-up' policy with reduced benefits."
+    },
+    {
+      "question": "What is a 'paid-up' policy?",
+      "answer": "A paid-up policy is one where premium payments have been discontinued after it has acquired a surrender value. The policy continues with reduced benefits, such as a lower death benefit and reduced guaranteed income, proportionate to the number of premiums paid."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, you can apply for revival within 5 years from the due date of the first unpaid premium. Revival is subject to underwriting, payment of all arrears of premiums with interest, and providing satisfactory evidence of health."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for all other frequencies (yearly, half-yearly)."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a loan of up to 80% of the Surrender Value."
+    },
+    {
+      "question": "When does the policy acquire a Surrender Value?",
+      "answer": "The policy acquires a Surrender Value upon payment of at least 2 full Policy years’ premiums."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "The Free Look Period is 15 days from the date of receiving the policy document (30 days if purchased through Distance Mode or is an electronic policy). During this time, you can review the terms and return the policy if you are not satisfied for a refund of premium, net of certain charges."
+    },
+    {
+      "question": "What happens in case of death due to suicide?",
+      "answer": "If the Life Assured dies by suicide within 12 months from the policy's start date or revival date, the benefit is limited to 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "What happens if the Life Assured dies during the Income Period after maturity?",
+      "answer": "The nominee will continue to receive the Guaranteed Income payouts as scheduled until the end of the Income Period. The MoneyBack Benefit, if applicable and not yet paid, will also be paid to the nominee on the chosen date."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can change the premium payment frequency (e.g., from yearly to monthly) on a policy anniversary during the Premium Payment Term."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay premiums via Cheque, Demand Draft, Pay Order, Banker's cheque, Internet facility, Electronic Clearing System/Direct Debit, Credit or Debit cards, and other modes as approved by the company."
+    },
+    {
+      "question": "Can I get the future income payments as a single lump sum?",
+      "answer": "Yes, on the maturity date or anytime during the Income Period, you or your nominee have the option to receive the discounted value of all future Guaranteed Income and MoneyBack Benefit payments as a single lump sum."
+    },
+    {
+      "question": "What is the 'Low Cover Income Booster' option?",
+      "answer": "It is an option you can choose at the start of the policy to have a lower death cover, which in turn provides you with an increased Guaranteed Income at maturity."
+    },
+    {
+      "question": "Can I change the Policy Term or Premium Payment Term after the policy is issued?",
+      "answer": "No, the Premium, Premium payment term, Policy Term, Guaranteed Income option, Income Period, and MoneyBack Benefit details, once chosen at inception, cannot be changed."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "It is the premium amount payable in a Policy Year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums, if any."
+    },
+    {
+      "question": "Who can be a nominee?",
+      "answer": "The policyholder can nominate any person(s) to receive the policy benefits in the event of their death. If the nominee is a minor, an Appointee must be named to receive the benefits on their behalf."
+    },
+    {
+      "question": "What happens if I submit an incorrect age in the proposal form?",
+      "answer": "If the age is misstated, the company will take action based on the correct age. If the correct age makes the person ineligible, the policy may be cancelled and premiums refunded. If eligible, the benefits may be revised according to the correct age."
+    },
+    {
+      "question": "How do I file a death claim?",
+      "answer": "The claimant needs to submit required documents like the Claimant's Statement, original policy document, death certificate, and identity/address proofs to the company. The list of documents varies for natural and unnatural deaths."
+    },
+    {
+      "question": "How can I get a duplicate policy document if I lose the original?",
+      "answer": "You can request a duplicate policy document by submitting a written request to the company along with any required documents and paying the applicable charges, which is currently Rs. 200."
+    },
+    {
+      "question": "Who should I contact for grievances?",
+      "answer": "For any grievance, you can first contact the customer service. If unsatisfied, you can escalate it to the Grievance Redressal Officer (GRO), then the internal grievance redressal committee. If still unresolved, you may approach the IRDAI or the Insurance Ombudsman."
+    },
+    {
+      "question": "Are there any survival benefits paid during the policy term?",
+      "answer": "No, the policy document states that there are no Survival Benefits payable during the policy term. Benefits are paid either on death or after maturity."
+    },
+    {
+      "question": "What is the 'Save the Date' option?",
+      "answer": "This option allows you to receive your annual Guaranteed Income on a special date of your choice (like a birthday or anniversary) during the Income Period. This must be selected at inception or up to two months before the policy term ends and is only available with annual income payment mode."
+    }
+  ],
+  "source_file": "ICICI_Pru_GIFT_Pro_Version_2_080823_to_till_date.txt",
+  "category": "LI Policy Bond Documents"
+}

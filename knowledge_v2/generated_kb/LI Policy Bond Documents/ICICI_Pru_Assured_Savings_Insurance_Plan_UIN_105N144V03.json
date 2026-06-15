@@ -1,0 +1,189 @@
+{
+  "product_name": "ICICI Pru Assured Savings Insurance Plan",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Savings Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Non-participating, Savings",
+  "summary": "ICICI Pru Assured Savings Insurance Plan is a life insurance plan that offers guaranteed benefits. It provides a death benefit to the nominee in case of the life assured's demise during the policy term, or a maturity benefit if the life assured survives the term. The plan also accrues Guaranteed Additions at the end of each policy year, provided all due premiums are paid.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As specified in the Policy Schedule.",
+    "policy_term": "10, 12, or 15 years.",
+    "waiting_period": "Suicide within 12 months from policy inception or revival has special conditions. The policy acquires a surrender value after payment of 2 full years’ premium for a 5 or 7 year PPT, and 3 full years' premium for a 10 year PPT."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On death of the life assured during the policy term, for a premium paying or fully paid policy, the highest of the following is paid: A) Sum Assured plus accrued Guaranteed Additions, B) Guaranteed Maturity Benefit (GMB) plus accrued Guaranteed Additions, or C) Minimum Death Benefit. The Minimum Death Benefit is the highest of 105% of total premiums paid, 10 times the annual base premium, or the chosen Sum Assured."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the life assured till the end of the policy term, provided all due premiums have been paid, the policy pays the Guaranteed Maturity Benefit (GMB) plus accrued Guaranteed Additions."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Additions (GA)",
+      "description": "Guaranteed Additions are added at the end of every policy year if all due premiums have been paid. The GA rate is 9% for a 10-year policy term and 10% for a 12 or 15-year policy term, multiplied by the sum of premiums paid to date."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan of up to 80% of the surrender value can be availed once the policy has acquired a surrender value. The policy must be assigned to the company as security."
+    },
+    {
+      "name": "Paid-up Value",
+      "description": "If premiums are discontinued after the policy acquires a surrender value, it can continue as a paid-up policy with reduced benefits (Paid-up Sum Assured, Paid-up GMB, and reduced Guaranteed Additions)."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy acquires a surrender value after payment of at least 2 full years’ premium for a 5 or 7 year Premium Payment Term (PPT) or 3 full years’ premium for a 10 year PPT. The surrender value is the higher of Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV)."
+    }
+  ],
+  "eligibility": [
+    {
+      "condition": "Age Proof",
+      "details": "Age proof of the Life Assured is required. If the correct age is found to be different, premiums will be adjusted or the policy may be cancelled if the life assured is ineligible for the product."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the Life Assured commits suicide, whether sane or insane, within 12 months from the date of inception of the policy, the nominee will be entitled to 80% of premiums paid and the policy will terminate."
+    },
+    {
+      "type": "Suicide on Revival",
+      "description": "If the Life Assured commits suicide, whether sane or insane, within 12 months from the date of revival of the policy, the higher of 80% of the premiums paid till the date of death or the Surrender Value will be payable and the policy will terminate."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Process",
+      "description": "To make a claim, the claimant must submit the required documents to the company. The company will pay the claim upon being satisfied that the benefits have become payable as per policy terms and the claimant's title is clear."
+    },
+    {
+      "type": "Required Documents",
+      "description": "Common documents required for a death claim include: Claimant’s Statement, original policy document, Death Certificate, and in case of accidental death, FIR, post-mortem, and police investigation reports. For non-accidental death, medical records are required. The company may ask for other documents as needed."
+    },
+    {
+      "type": "Claim Payee",
+      "description": "Maturity claims are paid to the Policyholder. Death claims are paid to the Claimant, who can be the Policyholder (if different from Life Assured), Nominee, Assignee, or legal heir."
+    },
+    {
+      "type": "Grievance Redressal",
+      "description": "For any grievance, you can contact the customer service, designated Grievance Redressal Officer (GRO), Senior Grievance Redressal Officer (SGRO), or the internal Grievance Redressal Committee. If unsatisfied, you can approach the Grievance Cell of the IRDAI or the Insurance Ombudsman."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ICICI Pru Assured Savings Insurance Plan?",
+      "answer": "It is a life insurance savings plan from ICICI Prudential Life Insurance that provides guaranteed returns in the form of a maturity benefit or a death benefit, along with accrued Guaranteed Additions."
+    },
+    {
+      "question": "What is the Death Benefit under this policy?",
+      "answer": "In case of the life assured's death during the policy term, the plan pays the highest of: A) Sum Assured plus accrued Guaranteed Additions, B) Guaranteed Maturity Benefit (GMB) plus accrued Guaranteed Additions, or C) Minimum Death Benefit (which is 105% of total premiums paid or 10 times annual premium, whichever is higher)."
+    },
+    {
+      "question": "What will I receive if I survive the policy term?",
+      "answer": "If you survive until the end of the policy term and have paid all premiums, you will receive the Maturity Benefit, which is the sum of the Guaranteed Maturity Benefit (GMB) and all accrued Guaranteed Additions."
+    },
+    {
+      "question": "What are Guaranteed Additions (GA)?",
+      "answer": "Guaranteed Additions are extra benefits added to your policy at the end of each policy year, provided all due premiums are paid. The rate is 9% of total premiums paid for a 10-year term and 10% for 12 or 15-year terms."
+    },
+    {
+      "question": "What happens if the life assured commits suicide?",
+      "answer": "If suicide occurs within 12 months of the policy's start date, 80% of the premiums paid will be returned to the nominee. If it occurs within 12 months of revival, the higher of 80% of premiums paid or the surrender value is payable."
+    },
+    {
+      "question": "What is the grace period for paying premiums?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for yearly and half-yearly modes."
+    },
+    {
+      "question": "What happens if I miss a premium payment within the grace period?",
+      "answer": "If you miss a premium before the policy acquires a surrender value, the policy will lapse and cover will cease. If it happens after the policy has acquired a surrender value, it will become a 'paid-up' policy with reduced benefits."
+    },
+    {
+      "question": "What is a 'paid-up' policy?",
+      "answer": "A paid-up policy is one where premium payments have been stopped after it has acquired a surrender value. The policy continues with reduced benefits, such as a paid-up sum assured and paid-up GMB, and will continue to accrue GAs at a reduced rate."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, you can apply for revival within two consecutive years from the due date of the first unpaid premium, subject to providing satisfactory evidence of health and paying all arrears of premiums with interest."
+    },
+    {
+      "question": "What is the Freelook period for this policy?",
+      "answer": "You have a 15-day freelook period from the date of receiving the policy document to review its terms. This period is 30 days if the policy was purchased through Distance Marketing or is an electronic policy."
+    },
+    {
+      "question": "Can I cancel my policy during the freelook period?",
+      "answer": "Yes, if you are not satisfied with the terms and conditions, you can return the policy within the freelook period. The premium will be refunded after deducting stamp duty and expenses for medical examination, if any."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, once the policy has acquired a surrender value, you can avail a loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "When does the policy acquire a Surrender Value?",
+      "answer": "The policy acquires a Surrender Value after payment of at least 2 full years’ premium for a 5 or 7 year Premium Payment Term, or after 3 full years’ premium for a 10 year Premium Payment Term."
+    },
+    {
+      "question": "How is the surrender value calculated?",
+      "answer": "The surrender value paid will be the higher of the Guaranteed Surrender Value (GSV) plus the surrender value of accrued GAs, or the Special Surrender Value (SSV)."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "You would typically need the Claimant's Statement, the original policy document, the death certificate issued by the local authority, and potentially FIR/post-mortem reports for accidental death or medical records for other cases."
+    },
+    {
+      "question": "Who will receive the claim amount in case of the life assured's death?",
+      "answer": "The death claim will be paid to the nominee named in the policy. If there is no nominee, it will be paid to the assignee (if any) or the legal heirs of the policyholder."
+    },
+    {
+      "question": "Can I change my nominee?",
+      "answer": "Yes, you can change the nomination at any time before the policy matures by giving a written notice to the company."
+    },
+    {
+      "question": "What if the nominee is a minor?",
+      "answer": "If the nominee is a minor (less than 18 years old), you must appoint an 'Appointee' who will receive the claim benefit on behalf of the minor."
+    },
+    {
+      "question": "What are the available modes for premium payment?",
+      "answer": "You can pay premiums in yearly, half-yearly, or monthly modes. There are additional loadings of 2.5% for half-yearly and 4.5% for monthly modes on the annual premium."
+    },
+    {
+      "question": "What happens if I stated my age incorrectly in the proposal form?",
+      "answer": "If your correct age makes you ineligible, the policy may be cancelled and premiums refunded. If you are eligible, the premium amount will be revised based on the correct age, and the difference in premium will be collected or refunded."
+    },
+    {
+      "question": "What is the policy revival period?",
+      "answer": "The revival period is two consecutive years from the due date of the first unpaid premium, during which you are entitled to revive the policy."
+    },
+    {
+      "question": "Can I assign this policy to someone else?",
+      "answer": "Yes, you can assign the policy by giving a written notice to the company. The assignment must be signed by you and attested by at least one witness. Assignment is governed by Section 38 of the Insurance Act, 1938."
+    },
+    {
+      "question": "What is a 'fully paid' policy?",
+      "answer": "A fully paid policy is one for which all premiums have been paid as per the selected Premium Payment Term, and no further premiums are due."
+    },
+    {
+      "question": "How can I file a complaint or grievance?",
+      "answer": "You can first contact the company's customer service or Grievance Redressal Officer (GRO). If unsatisfied, you can escalate to the Senior GRO, the internal committee, and then to the IRDAI or the Insurance Ombudsman."
+    },
+    {
+      "question": "What is the Minimum Death Benefit (MDB)?",
+      "answer": "The Minimum Death Benefit is an amount equal to the highest of: 105% of the total premiums received, 10 times the annual base premium, or the chosen Sum Assured."
+    },
+    {
+      "question": "Are the benefits from this policy taxable?",
+      "answer": "Yes, the death benefit and maturity benefit may be taxable as per the prevailing tax laws at the time of payment."
+    },
+    {
+      "question": "What is the UIN for this plan?",
+      "answer": "The Unique Identification Number (UIN) for ICICI Pru Assured Savings Insurance Plan is 105N144V03."
+    }
+  ],
+  "source_file": "ICICI_Pru_Assured_Savings_Insurance_Plan_UIN_105N144V03.txt",
+  "category": "LI Policy Bond Documents"
+}

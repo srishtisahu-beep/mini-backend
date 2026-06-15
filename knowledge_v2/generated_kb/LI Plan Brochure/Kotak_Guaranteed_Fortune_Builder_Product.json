@@ -1,0 +1,203 @@
+{
+  "product_name": "KOTAK GUARANTEED FORTUNE BUILDER",
+  "company": "Kotak Mahindra Life Insurance Company Ltd.",
+  "product_type": "Non-Participating Non-Linked Life Insurance Individual Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "A life insurance plan designed to safeguard a family's future with an assurance to fulfil financial goals. It provides guaranteed benefits, options for long-term income or wealth creation, and a life cover for financial security. An option to get the full premium amount returned is also available.",
+  "quick_facts": {
+    "minimum_age": "0 years (90 days)",
+    "maximum_age": "60 years",
+    "sum_insured": "Not specified",
+    "policy_term": "Long Term Income: 6 to 17 years; Assured Wealth: 10, 12, 14, 15, 16, 18, or 20 years depending on premium payment term.",
+    "waiting_period": "A waiting period of 90 days is applicable from the date of commencement of risk for policies sourced through POS intermediary."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy Term. For Long Term Income option, Guaranteed Income payouts are payable as per the opted frequency and period; under Option A, 100% of total premiums paid is returned with the last payout. For Assured Wealth option, the benefit is Basic Sum Assured plus accrued Guaranteed Yearly Additions, if any, plus Loyalty Addition."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "Payable in case of death of the Life Insured during the Policy Term. For Long Term Income option, Sum Assured on Death is paid in lump sum. For Assured Wealth option, Sum Assured on Death plus accrued Guaranteed Yearly Additions, if any, is paid in lump sum. If death occurs during the Income Benefit Period, the nominee receives the outstanding Guaranteed Income as per schedule or as a discounted lump sum."
+    },
+    {
+      "type": "POS Variant Death Benefit",
+      "description": "For policies sourced through a POS intermediary, a 90-day waiting period applies. If death occurs during this period due to non-accidental causes, 100% of premiums paid are refunded. If death is due to an accident, the Sum Assured on Death is payable."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Options",
+      "description": "Choice between two plan options: 'Long Term Income' to receive guaranteed income for 15, 20 or 25 years, and 'Assured Wealth' for a guaranteed lump sum benefit."
+    },
+    {
+      "name": "Return of Premium",
+      "description": "Under Long Term Income Option A, 100% of total premiums paid is returned in a lump sum at the end of the Income Benefit Period."
+    },
+    {
+      "name": "Flexibility of Guaranteed Income",
+      "description": "Policyholders can change the income payout frequency, accrue up to 100% of Guaranteed Income to be en-cashed later, or take the present value of all future incomes as a lump sum."
+    },
+    {
+      "name": "Premium Break for Female Lives",
+      "description": "In-built benefit for female policyholders to avail a 1-year Premium Break during the premium payment term due to childbirth or specific listed illnesses. The policy remains in-force, and the missed premium is paid later with 9% interest."
+    },
+    {
+      "name": "Value Added Services",
+      "description": "In-built Health & Wellbeing Management Services at no extra charge, including Telemedicine Consultation, Personal Medical Care, Lifestyle Management Programs, and a Wellbeing App."
+    },
+    {
+      "name": "Additional Protection Through Riders",
+      "description": "Option to enhance coverage with riders like Kotak Term Benefit, Accidental Death Benefit, Permanent Disability Benefit, Life Guardian Benefit, Accidental Disability Guardian Benefit, and Critical Illness Plus Benefit Rider."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available as per the Income Tax Act, 1961, subject to conditions and changes in tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Gender",
+      "details": "Male, Female & Transgender"
+    },
+    {
+      "criteria": "Entry Age (Last Birthday)",
+      "details": "Long Term Income: 1 year to 60 years. Assured Wealth: 0 years (90 days) to 60 years (up to 40 for one single pay option)."
+    },
+    {
+      "criteria": "Maturity Age (Last Birthday)",
+      "details": "Minimum 18 years. Maximum varies from 55 to 75 years depending on the plan option and sales channel."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "Long Term Income: 5, 7, 10, 11, or 12 years. Assured Wealth: Single Pay, 5, 6, 7, 8, or 10 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "Long Term Income: 6 to 17 years. Assured Wealth: 10, 12, 14, 15, 16, 18, or 20 years depending on PPT."
+    },
+    {
+      "criteria": "Income Benefit Period",
+      "details": "For Long Term Income option: 15, 20, or 25 years."
+    },
+    {
+      "criteria": "Minimum Premium",
+      "details": "₹30,000 per annum."
+    },
+    {
+      "criteria": "Maximum Premium",
+      "details": "No Limit, subject to underwriting. For POSP channel, maximums apply (e.g., ₹1,50,000 p.a. for most options)."
+    },
+    {
+      "criteria": "Premium Payment Mode",
+      "details": "Yearly, Half-yearly, Quarterly, Monthly."
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [],
+  "faqs": [
+    {
+      "question": "What is Kotak Guaranteed Fortune Builder?",
+      "answer": "It is a Non-Participating Non-Linked Life Insurance Individual Savings Product designed to provide financial security and guaranteed benefits to help you fulfill your goals."
+    },
+    {
+      "question": "What are the main plan options available under this product?",
+      "answer": "There are two main plan options: 'Long Term Income' which provides a guaranteed income for a chosen period, and 'Assured Wealth' which provides a guaranteed lump sum benefit at maturity."
+    },
+    {
+      "question": "How does the 'Long Term Income' option work?",
+      "answer": "Under this option, you receive a Guaranteed Income for a period of 15, 20, or 25 years after the policy term ends. You can choose 'Option A' to also get 100% of your premiums back, or 'Option B' for income only."
+    },
+    {
+      "question": "What is the difference between Option A and Option B in the 'Long Term Income' plan?",
+      "answer": "Option A provides a Guaranteed Income during the income period and returns 100% of the total premiums paid at the end of that period. Option B only provides the Guaranteed Income."
+    },
+    {
+      "question": "How does the 'Assured Wealth' option work?",
+      "answer": "Guaranteed Yearly Additions (GYA) accrue during the premium payment term. At maturity, you receive the Basic Sum Assured, accrued GYA, and a Loyalty Addition. You also have the flexibility to encash the cash value of GYAs during the policy term."
+    },
+    {
+      "question": "Can I change the frequency of my Guaranteed Income payouts?",
+      "answer": "Yes, you have the option to change the Income Benefit frequency at any time during the Policy Term or the Income Benefit Period."
+    },
+    {
+      "question": "What if I don't need my Guaranteed Income payout immediately?",
+      "answer": "You have the option to accrue up to 100% of the Guaranteed Income and en-cash it as and when required during the Income Benefit Period. Accrued income will earn interest linked to the Reverse Repo Rate."
+    },
+    {
+      "question": "Can I receive all my future income payouts as a single lump sum?",
+      "answer": "Yes, you have the option to receive the present value of the outstanding Guaranteed Income as a lump sum anytime during the Income Benefit Period. The present value is calculated using a discount rate of 9% p.a."
+    },
+    {
+      "question": "What is the death benefit if the life insured passes away during the policy term?",
+      "answer": "Under the Long Term Income option, the nominee receives the Sum Assured on Death in a lump sum. Under the Assured Wealth option, the nominee receives the Sum Assured on Death plus any accrued Guaranteed Yearly Additions."
+    },
+    {
+      "question": "What happens if the life insured dies during the Income Benefit Period?",
+      "answer": "No additional Death Benefit is payable. The outstanding Guaranteed Income payments will be paid to the nominee as per the original schedule, or the nominee can opt to receive the present value as a lump sum."
+    },
+    {
+      "question": "Is there a waiting period for the death benefit?",
+      "answer": "For policies sourced through a POS intermediary, a 90-day waiting period applies. If death from non-accidental causes occurs within this period, 100% of premiums are refunded. For accidental death, the full Sum Assured on Death is paid."
+    },
+    {
+      "question": "What is the 'Premium Break' feature?",
+      "answer": "It is an in-built benefit for female lives allowing them to take a 1-year break from paying premiums due to childbirth or specified women-specific illnesses, without the policy lapsing."
+    },
+    {
+      "question": "What are the Value Added Services included in the plan?",
+      "answer": "The plan includes in-built Health & Wellbeing Management Services like Telemedicine Consultation, Personal Medical Care, a Wellbeing App, and more, at no additional charge."
+    },
+    {
+      "question": "Can I add riders to enhance my coverage?",
+      "answer": "Yes, you can add riders for additional protection, such as Kotak Term Benefit Rider, Kotak Accidental Death Benefit Rider, and Kotak Critical Illness Plus Benefit Rider, among others. Riders are not available with the POSP variant."
+    },
+    {
+      "question": "What is the minimum entry age for this policy?",
+      "answer": "The minimum entry age is 1 year for the Long Term Income option and 0 years (90 days) for the Assured Wealth option."
+    },
+    {
+      "question": "What is the maximum entry age?",
+      "answer": "The maximum entry age for all options is 60 years, except for one of the Assured Wealth single pay options which is 40 years."
+    },
+    {
+      "question": "What premium payment terms are available?",
+      "answer": "For Long Term Income, terms are 5, 7, 10, 11, or 12 years. For Assured Wealth, terms are Single Pay, 5, 6, 7, 8, or 10 years."
+    },
+    {
+      "question": "What is the minimum annual premium?",
+      "answer": "The minimum premium is ₹30,000 per annum."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay premiums Yearly, Half-yearly, Quarterly, or Monthly."
+    },
+    {
+      "question": "Is there a free look period for this policy?",
+      "answer": "Yes, there is a 30-day free look period from the date of receiving the policy document, during which you can review the terms and cancel the policy if you are not satisfied."
+    },
+    {
+      "question": "Are there any tax benefits associated with this plan?",
+      "answer": "Yes, you may avail of tax benefits as per the Income Tax Act, 1961, subject to the conditions specified in the relevant sections. You should consult a tax advisor for details."
+    },
+    {
+      "question": "What is the maturity benefit under the 'Assured Wealth' option?",
+      "answer": "The maturity benefit is a lump sum payment of the Basic Sum Assured plus accrued Guaranteed Yearly Additions (if not already encashed), plus a Loyalty Addition."
+    },
+    {
+      "question": "What is the maturity benefit under the 'Long Term Income' option?",
+      "answer": "On survival to maturity, you start receiving Guaranteed Income payouts for the chosen period (15, 20, or 25 years). If you chose Option A, you also get 100% of your premiums back with the last income payout."
+    },
+    {
+      "question": "Can I withdraw the Guaranteed Yearly Additions (GYA) under the Assured Wealth plan?",
+      "answer": "Yes, after the end of the premium payment term (or after 5 years for Single Premium), you have the option to encash the cash value of Guaranteed Yearly Additions any time during the policy term, subject to a minimum of ₹2,000."
+    },
+    {
+      "question": "Who is eligible for the Premium Break feature?",
+      "answer": "The Premium Break feature is an in-built benefit available for female lives."
+    }
+  ],
+  "source_file": "Kotak_Guaranteed_Fortune_Builder_Product.txt",
+  "category": "LI Plan Brochure"
+}

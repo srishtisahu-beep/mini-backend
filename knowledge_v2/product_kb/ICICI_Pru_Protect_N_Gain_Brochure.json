@@ -1,0 +1,237 @@
+{
+  "product_name": "ICICI Pru Protect N Gain",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Unit Linked Insurance Plan (ULIP)",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Protection-oriented unit linked savings life insurance plan",
+  "summary": "ICICI Pru Protect N Gain is a protection-oriented unit linked savings life insurance plan designed to safeguard your family with an adequate life cover and grow your wealth to fulfil long-term goals. The plan offers market-linked returns and has two options, 'Life' and 'Growth', to suit different life stage needs. The investment risk in the investment portfolio is borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "Life option: 18 years, Growth option: 18 years",
+    "maximum_age": "Life option: 55 years, Growth option: 50 years",
+    "sum_insured": "Minimum Sum Assured - Life option: ₹4,00,000; Growth option: ₹10,00,000. Maximum Sum Assured is subject to internal company guidelines.",
+    "policy_term": "30 to 40 years",
+    "waiting_period": "A 5-year lock-in period applies where funds cannot be withdrawn or surrendered. A 12-month suicide clause is applicable from the date of policy commencement or revival."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the Life Assured during the policy term, a lump sum is paid to the claimant. The benefit is the highest of Sum Assured (including Top-up Sum Assured, if any), Fund Value, or a Minimum Death Benefit of 105% of total premiums paid."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Assured until the end of the policy term, the Fund Value is paid as a lump sum."
+    },
+    {
+      "type": "Accidental Death & Disability Cover",
+      "description": "Available as an optional rider (ICICI Pru Linked Accidental Death & Disability Rider)."
+    },
+    {
+      "type": "Waiver of Premium",
+      "description": "Available as an optional rider (ICICI Pru Linked Waiver of Premium Rider)."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Dual Benefit",
+      "description": "Provides life insurance cover for financial protection along with the potential to grow savings with market-linked returns."
+    },
+    {
+      "name": "Choice of Plan Options",
+      "description": "Two options available - 'Life' and 'Growth' based on life stage needs and requirements."
+    },
+    {
+      "name": "Maturity Booster",
+      "description": "An extra amount of 20% of the average of the Fund Value on the last business day of the last eight policy quarters is allocated as extra units at the end of the policy term."
+    },
+    {
+      "name": "Return of Charges",
+      "description": "From the 11th policy year, a multiple of Premium Allocation Charges and Mortality Charges are returned to the Fund Value in the form of additional units."
+    },
+    {
+      "name": "Systematic Withdrawal Plan (SWP)",
+      "description": "Facility to withdraw a pre-determined percentage of fund value regularly for supplementary income needs after the 5-year lock-in period."
+    },
+    {
+      "name": "Investment Flexibility",
+      "description": "Option to choose from a wide range of funds and four portfolio strategies (Fixed, Target Asset Allocation, Trigger Portfolio Strategy 2, Lifecycle based Portfolio Strategy 2)."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "Facility to make partial withdrawals any time after the 5-year lock-in period, free of cost. Minimum withdrawal amount is ₹2,000."
+    },
+    {
+      "name": "Top-up Facility",
+      "description": "Flexibility to invest surplus money as Top-up premiums over and above base premiums to boost fund value and sum assured."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Available on premiums paid and benefits received as per prevailing tax laws."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive the Maturity Benefit as a structured payout over a period of up to 5 years after maturity."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "Life option: 18 to 55 years; Growth option: 18 to 50 years."
+    },
+    {
+      "criteria": "Age at Maturity",
+      "details": "Minimum 48 years, Maximum 85 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "30 to 40 years."
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "details": "Limited Pay: 5 to 12 years."
+    },
+    {
+      "criteria": "Premium Payment Frequency",
+      "details": "Annual, Half-yearly, Monthly."
+    },
+    {
+      "criteria": "Minimum Premium (Annual)",
+      "details": "Life option: ₹40,000; Growth option: ₹1,00,000."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "If the Life Assured commits suicide, whether sane or insane, within 12 months from the date of policy commencement or revival, the claimant will receive only the Fund Value as available on the date of death intimation. The Top-up Sum Assured is not payable if suicide occurs within 12 months of the top-up."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact for Assistance",
+      "description": "The brochure does not specify a claims process. For any clarification or assistance, customers can contact their advisor or the customer service representative."
+    },
+    {
+      "type": "Customer Service Call Centre",
+      "description": "1800 2660 (10.00 a.m. to 7.00 p.m, Monday to Saturday; excluding national holidays)."
+    },
+    {
+      "type": "Website",
+      "description": "www.iciciprulife.com"
+    },
+    {
+      "type": "Grievance Redressal Officer (GRO)",
+      "description": "gro@iciciprulife.com"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru Protect N Gain?",
+      "answer": "It is a protection-oriented unit-linked savings life insurance plan designed to provide life cover and grow wealth through market-linked returns."
+    },
+    {
+      "question": "Who bears the investment risk in this ULIP plan?",
+      "answer": "In this policy, the investment risk in the investment portfolio is borne by the Policyholder."
+    },
+    {
+      "question": "Can I withdraw my invested money in the first five years?",
+      "answer": "No, Unit Linked Insurance Products do not offer any liquidity during the first five years of the contract. You cannot surrender or withdraw the money, partially or completely, until the end of the fifth year."
+    },
+    {
+      "question": "What are the plan options available under this policy?",
+      "answer": "There are two plan options available: 'Life' and 'Growth'. The choice must be made at inception and cannot be changed during the term of the policy."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is the highest of: Sum Assured (including Top-up Sum Assured), Fund Value, or a Minimum Death Benefit of 105% of the total premiums paid."
+    },
+    {
+      "question": "What will I receive if I survive the entire policy term?",
+      "answer": "On survival until the policy maturity, you will receive the Fund Value as the Maturity Benefit."
+    },
+    {
+      "question": "What is the Maturity Booster?",
+      "answer": "At the end of the policy term, an amount equal to 20% of the average of the Fund Value on the last business day of the last eight policy quarters will be added to your fund as a Maturity Booster."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The premium payment term is a limited pay option ranging from 5 to 12 years."
+    },
+    {
+      "question": "What are the policy terms available?",
+      "answer": "The policy term can be between 30 and 40 years."
+    },
+    {
+      "question": "What is the minimum and maximum entry age?",
+      "answer": "For the 'Life' option, the entry age is 18 to 55 years. For the 'Growth' option, it is 18 to 50 years."
+    },
+    {
+      "question": "Can I choose how my premiums are invested?",
+      "answer": "Yes, you can choose from a range of funds and four portfolio strategies: Fixed Portfolio Strategy, Target Asset Allocation Strategy, Trigger Portfolio Strategy 2, and Lifecycle based Portfolio Strategy 2."
+    },
+    {
+      "question": "What is the Fixed Portfolio Strategy?",
+      "answer": "This strategy allows you to actively manage your savings by choosing to invest in any of the available funds in proportions of your choice. It also allows unlimited free switches between funds."
+    },
+    {
+      "question": "Can I switch my investments between different funds?",
+      "answer": "Yes, if you have opted for the Fixed Portfolio Strategy, you can make unlimited free switches between funds. The minimum switch amount is ₹2,000."
+    },
+    {
+      "question": "Can I invest additional amounts in my policy?",
+      "answer": "Yes, you can pay surplus money as Top-up premiums to boost your sum assured and fund value. The minimum Top-up premium is ₹2,000 and can be paid anytime except during the last five years of the policy term."
+    },
+    {
+      "question": "When can I make partial withdrawals?",
+      "answer": "You can make partial withdrawals anytime after the completion of the five-year lock-in period, provided all due premiums have been paid."
+    },
+    {
+      "question": "What is the Systematic Withdrawal Plan (SWP)?",
+      "answer": "SWP is a facility that allows you to withdraw a pre-determined percentage of your fund value regularly (monthly, quarterly, half-yearly, or yearly) after the first five policy years."
+    },
+    {
+      "question": "What are the main charges deducted from the policy?",
+      "answer": "The main charges are Premium Allocation Charge (first 7 years), Fund Management Charge (FMC), Policy Administration Charge (from 4th year), Mortality Charges, and Discontinuance Charges."
+    },
+    {
+      "question": "Is there any benefit related to the charges paid?",
+      "answer": "Yes, the policy offers a 'Return of Charges' benefit. From the 11th policy year, multiples of the Premium Allocation and Mortality charges deducted are added back to your fund value."
+    },
+    {
+      "question": "What happens if I miss paying a premium after the lock-in period?",
+      "answer": "The policy will be converted into a reduced paid-up policy. You will have a revival period of three years to revive the policy to its full benefits."
+    },
+    {
+      "question": "What happens if I stop paying premiums during the first five years (lock-in period)?",
+      "answer": "Your fund value, after deducting discontinuance charges, will be moved to the Discontinued Policy Fund. The risk cover will cease, and the fund will earn a minimum guaranteed interest rate. You can receive the proceeds at the end of the lock-in period."
+    },
+    {
+      "question": "What is the Settlement Option for the maturity benefit?",
+      "answer": "You can choose to receive the Maturity Benefit in structured payouts (yearly, half yearly, quarterly or monthly) over a period of one to five years instead of a lump sum."
+    },
+    {
+      "question": "Can I get a loan against this policy?",
+      "answer": "No, the Company will not provide loans under this policy."
+    },
+    {
+      "question": "What is the policy's suicide exclusion?",
+      "answer": "If the life assured commits suicide within 12 months of the policy's start or revival date, only the Fund Value is payable to the claimant."
+    },
+    {
+      "question": "What is the freelook period for this policy?",
+      "answer": "You have 30 days from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation."
+    },
+    {
+      "question": "How many portfolio strategy changes can I make in a year?",
+      "answer": "You can change your portfolio strategy up to four times in a policy year, free of cost."
+    },
+    {
+      "question": "What is the minimum premium amount for this policy?",
+      "answer": "The minimum annual premium is ₹40,000 for the 'Life' option and ₹1,00,000 for the 'Growth' option."
+    },
+    {
+      "question": "Are there any riders available with this plan?",
+      "answer": "Yes, you can avail additional protection through ICICI Pru Linked Accidental Death & Disability Rider and ICICI Pru Linked Waiver of Premium Rider."
+    }
+  ],
+  "source_file": "ICICI_Pru_Protect_N_Gain_Brochure.txt",
+  "category": "LI Plan Brochure"
+}

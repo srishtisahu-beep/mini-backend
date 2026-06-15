@@ -1,0 +1,194 @@
+{
+  "product_name": "Tata AIA Life Insurance Fortune Pro",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Non-Participating, Endowment Unit Linked Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit Linked Insurance Plan (ULIP)",
+  "summary": "Tata AIA Life Insurance Fortune Pro is a non-participating, unit-linked endowment plan that provides life insurance coverage along with the opportunity to grow wealth through investments in various funds. It offers maturity and death benefits, loyalty additions, and flexibility through features like partial withdrawals and top-up premiums.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "The Basic Sum Assured is a guaranteed amount payable on death, shown in the Policy Schedule. It can be increased or decreased by changing the premium multiple, subject to underwriting rules.",
+    "policy_term": "Specified in the Policy Schedule.",
+    "waiting_period": "A lock-in period of five consecutive years from the Date of Commencement of the policy."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Upon death of the Insured during the policy term while the policy is inforce, the claimant receives the highest of: (i) the Basic Sum Assured net of all 'Deductible Partial Withdrawal', if any; or (ii) the Fund Value of the Policy; or (iii) 105% of the total Regular/Single Premiums paid. In addition, if Top-Up premium has been paid, the claimant also receives the highest of: (i) the approved Top-Up Sum Assured(s); or (ii) Top-Up Fund Value; or (iii) 105% of the total Top-Up premium paid."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Maturity Benefit",
+      "description": "If the Insured is alive on the Maturity Date and the Policy is in force, the Fund Value and Top Up Fund Value, valued at the applicable NAV at the date of maturity, shall be payable."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Units are added to each fund annually. For single premium policies, 0.35% of units are credited from the 6th Policy Anniversary. For regular premium policies, 0.20% of units are credited from the 11th Policy Anniversary. Not applicable for Top Up Fund Value."
+    },
+    {
+      "name": "Partial Withdrawal",
+      "description": "Partial withdrawals from the Fund Value are allowed after five policy anniversaries and after the Insured attains 18 years of age. A maximum of 4 partial withdrawals are allowed in a Policy Year."
+    },
+    {
+      "name": "Fund Switching",
+      "description": "Policyholders can switch investments between available funds. The first twelve switches in any policy year are free of charge."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "At maturity, the policyholder has the option to receive the Maturity Benefit in periodical payments over a period of up to five years, instead of a lump sum."
+    },
+    {
+      "name": "Free Look Period",
+      "description": "A period of 15 days (30 days for policies sourced through distance marketing) from receiving the policy document to cancel it if not satisfied with the terms and conditions."
+    },
+    {
+      "name": "Top-Up Premium",
+      "description": "Policyholders can pay additional premiums (Top-Ups) at any time, except during the last 5 years of the policy term, subject to certain conditions."
+    }
+  ],
+  "eligibility": [
+    {
+      "name": "Partial Withdrawal Age",
+      "description": "Partial withdrawal is allowed only after the Insured attains 18 years of age."
+    },
+    {
+      "name": "Juvenile Provision",
+      "description": "The policy can be issued where the Insured is a Minor. The risk commences immediately from the date of risk acceptance. The policyholder rights transfer to the insured upon attaining 18 years of age."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the Date of Commencement of Policy or Date of Revival of the Policy, the nominee or legal heir shall be entitled to the Total Fund value available on the date of death."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Intimation Process",
+      "description": "Claims must be notified immediately to the company. This can be done online at www.tataaia.com, via email (Customercare@tataaia.com), by calling the helpline (1-860-266-9966), visiting a branch office, or by writing to the company's head office.",
+      "details": "Tata AIA Life Insurance Company Limited, B - Wing, 9th Floor, I-Think Techno Campus, Behind TCS, Pokhran Road No.2, Close to Eastern Express Highway, Thane (West) – 400 607, Maharashtra."
+    },
+    {
+      "name": "Death Claim Document Requirements",
+      "description": "For processing a death claim, the following documents are typically required: Claim Forms (Claimant's Statement, Physician's Statement), Death Certificate, Medical Records, Original Policy document, Claimant's age proof, relationship proof, address proof (Aadhar, PAN), and Bank Details (Cancelled cheque). For accidental death, police papers (FIR, Postmortem report) are also needed."
+    },
+    {
+      "name": "Claim Filing Timeline",
+      "description": "Affirmative proof of loss and required forms must be furnished to the company within 90 days after the date the insured event happens, unless specified otherwise."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Life Insurance Fortune Pro?",
+      "answer": "It is a Non-Participating, Endowment Unit Linked Plan offered by Tata AIA Life Insurance, which combines life insurance with investment opportunities."
+    },
+    {
+      "question": "What is the Maturity Benefit of this policy?",
+      "answer": "If the insured is alive on the maturity date and the policy is in force, the total Fund Value, including any Top Up Fund Value, valued at the applicable Net Asset Value (NAV) will be paid."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The death benefit is the highest of: (i) the Basic Sum Assured net of deductible partial withdrawals, (ii) the Fund Value, or (iii) 105% of total premiums paid. If there is a Top-Up Fund, an additional amount is paid, which is the highest of the Top-Up Sum Assured, Top-Up Fund Value, or 105% of total Top-Up premiums paid."
+    },
+    {
+      "question": "Are there any loyalty additions in this plan?",
+      "answer": "Yes. For single premium policies, 0.35% of units are credited to each fund annually starting from the 6th policy anniversary. For regular premium policies, 0.20% of units are credited annually starting from the 11th policy anniversary."
+    },
+    {
+      "question": "What is the lock-in period for this policy?",
+      "answer": "The lock-in period is five consecutive years from the Date of Commencement of the policy, during which proceeds of discontinued policies cannot be paid out, except in case of death."
+    },
+    {
+      "question": "When can I make a partial withdrawal from my fund?",
+      "answer": "You can make a partial withdrawal at any time after the policy has completed at least five policy anniversaries and the insured has attained 18 years of age. The policy must be in force or in Reduced Paid Up status."
+    },
+    {
+      "question": "Is there a minimum amount for partial withdrawal?",
+      "answer": "Yes, the amount for a partial withdrawal cannot be less than Five Thousand Rupees (₹5,000)."
+    },
+    {
+      "question": "How many partial withdrawals are allowed in a policy year?",
+      "answer": "A maximum of four partial withdrawals are allowed in a policy year."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If death is due to suicide within 12 months from the policy commencement or revival date, the nominee will only receive the Total Fund Value available on the date of death."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "No, a loan facility is not available under this policy."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is fifteen days for the monthly premium payment mode and thirty days for all other modes (annual, semi-annual, quarterly)."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first five years?",
+      "answer": "You will have the option to either revive the policy within two years or completely withdraw. If you withdraw or do not respond, your Fund Value (less discontinuance charges) moves to the Discontinued Policy Fund II and is paid out after the five-year lock-in period ends."
+    },
+    {
+      "question": "What are my options if I stop paying premiums after five years?",
+      "answer": "You have three options: 1) Revive the policy within two years. 2) Completely withdraw the Total Fund Value. 3) Convert the policy into a 'Reduced Paid Up' policy."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "You have a period of 15 days (or 30 days for policies sourced via distance marketing) from the date you receive the policy document to review it and cancel it if you are not satisfied with the terms and conditions."
+    },
+    {
+      "question": "How many free fund switches can I make in a year?",
+      "answer": "The first twelve fund switches in any policy year are free of charge."
+    },
+    {
+      "question": "What is the charge for fund switches after the free limit is exhausted?",
+      "answer": "After the first twelve free switches in a policy year, a charge of Rupees One Hundred (₹100) per switch will apply. This charge can be revised up to a maximum of ₹250."
+    },
+    {
+      "question": "What is a Top-Up Premium?",
+      "answer": "A Top-Up Premium is an additional amount of premium you can pay over and above your regular premium at any time, except during the last 5 years of the policy term."
+    },
+    {
+      "question": "Is there a minimum amount for a Top-Up Premium?",
+      "answer": "Yes, each Top-Up Premium must be at least Rupees Five Thousand (₹5,000)."
+    },
+    {
+      "question": "Can I change my regular premium amount or the premium paying term?",
+      "answer": "No, you are not allowed to change the premium paying term, and an increase or decrease in the basic premium is not permitted."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "This is a percentage of the premium deducted before allocating units. For regular pay policies, it ranges from 6% in years 1-2 down to 2% from year 11 onwards. For single pay policies, it is 3%, and for top-ups, it is 1.5%."
+    },
+    {
+      "question": "What is the Policy Administration Charge?",
+      "answer": "It is a monthly charge deducted by cancelling units. For single pay policies, it is 0.9% per annum of the Single Premium. For regular/limited pay policies, it is 0.75% per annum of the Annualised premium."
+    },
+    {
+      "question": "How is the Mortality Charge calculated?",
+      "answer": "The Mortality Charge is deducted monthly from the fund value by cancelling units. It is calculated by multiplying the Sum at Risk (SAR) for that month by the applicable mortality rate based on the insured's attained age."
+    },
+    {
+      "question": "How can a death claim be initiated?",
+      "answer": "A death claim can be initiated through various channels: online at the company website, via email, by calling the helpline, visiting a branch office, or sending a letter to the company's registered address."
+    },
+    {
+      "question": "What primary documents are needed to file a death claim?",
+      "answer": "Key documents include claim forms, the original policy document, the death certificate issued by a local government body, medical records, and proof of identity, address, and bank details for the claimant. For accidental death, police reports are also required."
+    },
+    {
+      "question": "What is the 'Settlement Option' available at maturity?",
+      "answer": "The Settlement Option allows you to receive your maturity benefit in periodic installments over a period of up to five years from the maturity date, rather than as a single lump sum payment."
+    },
+    {
+      "question": "What is the 'Enhanced SMART' feature?",
+      "answer": "Enhanced Systematic Money Allocation & Regular Transfer (Enhanced SMART) is a feature for annual/single premium policies that systematically transfers your premium from a chosen debt-oriented fund to a chosen equity-oriented fund on a monthly basis over one year to average out the cost of purchase."
+    },
+    {
+      "question": "Can I change my Basic Sum Assured during the policy term?",
+      "answer": "Yes, you have an option to increase or decrease the Basic Sum Assured by changing the premium multiple, subject to the company's underwriting rules and product limits."
+    }
+  ],
+  "source_file": "Fortune-Pro-110L112V02-TandC.txt",
+  "category": "LI Policy Bond Documents"
+}

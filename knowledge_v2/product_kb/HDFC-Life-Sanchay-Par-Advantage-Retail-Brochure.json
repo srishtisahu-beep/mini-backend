@@ -1,0 +1,225 @@
+{
+  "product_name": "HDFC Life Sanchay Par Advantage",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An Individual Non-Linked, Participating, Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "HDFC Life Sanchay Par Advantage is a participating life insurance plan that offers the option for whole life cover up to the age of 100 years. It is designed to generate a regular income and build a corpus to achieve financial goals and secure your family's future. The plan provides two distinct options to suit individual needs: 'Immediate Income' for payouts starting from the first policy year, and 'Deferred Income' which provides guaranteed income for a specific period after the premium payment term.",
+  "quick_facts": {
+    "minimum_age": "0 years (30 days)",
+    "maximum_age": "Up to 65 years at entry, depending on the plan option and premium payment term chosen. Maximum maturity age is 100 years.",
+    "sum_insured": "Minimum Sum Assured on Maturity is ₹3,00,000. There is no maximum limit, subject to the Board Approved Underwriting Policy.",
+    "policy_term": "Option of (100 minus Age at Entry) years or a fixed policy term in the range of 20-40 years.",
+    "waiting_period": "For the Deferred Income option, income payouts start one year after the premium payment term ends. For suicide claims, a 12-month waiting period from the date of risk commencement or revival applies."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "On death of the life assured during the policy term, the nominee receives a lump sum benefit equal to: Sum Assured on Death plus Accrued Cash Bonuses/Guaranteed Income (if not paid earlier) plus Interim Survival Benefit (if any) plus Terminal Bonus (if declared). The minimum Death Benefit will be 105% of Total Premiums Paid."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "At the end of the policy term, if all premiums are paid, the policyholder receives: Sum Assured on Maturity plus Accrued Cash Bonuses/Guaranteed Income (if not paid earlier) plus Interim Survival Benefit (if any) plus Terminal Bonus (if declared)."
+    },
+    {
+      "name": "Survival Benefit (Immediate Income Option)",
+      "description": "The policyholder receives a discretionary Cash Bonus (if declared) at the end of each policy year, starting from the 1st policy year until death or the end of the policy term."
+    },
+    {
+      "name": "Survival Benefit (Deferred Income Option)",
+      "description": "The policyholder receives a Guaranteed Income plus a discretionary Cash Bonus (if declared) starting one year after the end of the Premium Payment Term. The Guaranteed Income is payable for a 'Guarantee Period', which is the lower of 25 years or the Policy Term minus (Premium Payment Term + 1) years."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Choice of Income Options",
+      "description": "Flexibility to choose between 'Immediate Income' to start receiving payouts from the first policy year or 'Deferred Income' to receive guaranteed income after the premium payment term."
+    },
+    {
+      "name": "Whole Life Cover",
+      "description": "Option to get life cover for whole of life, up to the age of 100 years."
+    },
+    {
+      "name": "Bonuses",
+      "description": "As a participating plan, it is eligible for discretionary Cash Bonus and Terminal Bonus, based on the company's performance."
+    },
+    {
+      "name": "Flexibility to Defer Payouts",
+      "description": "Policyholders have the option to defer and accrue their Survival Benefits (Cash Bonuses and/or Guaranteed Income). The accumulated amount earns interest at the Reverse Repo Rate."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Premiums paid and benefits received may be eligible for tax benefits as per the applicable sections of the Income Tax Act, 1961, subject to changes in tax laws."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Once the policy acquires a surrender value, a loan of up to 80% of the surrender value can be availed."
+    },
+    {
+      "name": "Rider Availability",
+      "description": "Option to enhance protection by adding various riders like HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Health Plus Rider, and others."
+    },
+    {
+      "name": "Additional Benefit for High Premiums",
+      "description": "For the Deferred Income option, an additional income is offered for policies with an Annualized Premium of ₹1 lakh or more."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry (Minimum)",
+      "value": "0 years (30 days)"
+    },
+    {
+      "criteria": "Age at Entry (Maximum)",
+      "value": "Immediate Income: 50 years (for 5 year PPT), 65 years (for other PPTs). Deferred Income: 55 years (for 7, 8 year PPT), 60 years (for other PPTs)."
+    },
+    {
+      "criteria": "Age at Maturity (Maximum)",
+      "value": "100 years"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "Immediate Income: 5, 6, 7, 8, 9, 10, 12 years. Deferred Income: 7, 8, 9, 10, 12 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "100 minus Age at Entry, or a fixed term of 20-40 years."
+    },
+    {
+      "criteria": "Minimum Sum Assured on Maturity",
+      "value": "₹3,00,000"
+    },
+    {
+      "criteria": "Minimum Premium",
+      "value": "Annual: ₹25,000, Half-Yearly: ₹12,750, Quarterly: ₹6,500, Monthly: ₹2,188."
+    },
+    {
+      "criteria": "Basis",
+      "value": "Single Life Basis only."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the nominee shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Grievance Redressal and Service Contact",
+      "details": "For any concerns or claims, you can contact HDFC Life through various channels: Helpline number 022-68446530, Email at service@hdfclife.com, written letter at any HDFC Life Branch, or via the website at hdfclife.com. In case of a death claim, the death benefit is payable as a lump sum to the nominee."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Sanchay Par Advantage?",
+      "answer": "It is an Individual, Non-Linked, Participating, Savings Life Insurance Plan that offers lifelong income, whole life cover up to age 100, and helps build a corpus for your financial goals."
+    },
+    {
+      "question": "What are the two main options available in this plan?",
+      "answer": "The plan offers two options: 1) Immediate Income, which provides regular income from the first policy year, and 2) Deferred Income, which provides guaranteed income for a period starting one year after the premium payment term."
+    },
+    {
+      "question": "Can I get coverage for my entire life with this plan?",
+      "answer": "Yes, you can choose a policy term of (100 minus your age at entry), which provides a whole life cover up to the age of 100 years."
+    },
+    {
+      "question": "What is the minimum age to be insured under this plan?",
+      "answer": "The minimum age at entry is 0 years, which is equivalent to 30 days completed."
+    },
+    {
+      "question": "What is the maximum age to purchase this plan?",
+      "answer": "The maximum entry age depends on the plan option and premium payment term chosen, going up to 65 years for the Immediate Income option."
+    },
+    {
+      "question": "Can I buy this policy as a joint life policy with my spouse?",
+      "answer": "No, this plan can only be taken on a single life basis."
+    },
+    {
+      "question": "What are the available Premium Payment Terms (PPT)?",
+      "answer": "For the Immediate Income option, PPTs are 5, 6, 7, 8, 9, 10, and 12 years. For the Deferred Income option, PPTs are 7, 8, 9, 10, and 12 years."
+    },
+    {
+      "question": "What is the minimum premium I have to pay?",
+      "answer": "The minimum annual premium is ₹25,000. For monthly payments, the minimum is ₹2,188."
+    },
+    {
+      "question": "What happens if the life assured dies during the policy term?",
+      "answer": "The nominee will receive a death benefit as a lump sum, which includes the Sum Assured on Death plus any accrued bonuses and income, and terminal bonus if declared. The minimum death benefit is 105% of total premiums paid."
+    },
+    {
+      "question": "What will I receive when the policy matures?",
+      "answer": "On maturity, you will receive the Sum Assured on Maturity, plus any accrued but unpaid survival benefits, an interim survival benefit if applicable, and a terminal bonus if declared."
+    },
+    {
+      "question": "When does the income start in the 'Immediate Income' option?",
+      "answer": "Under the Immediate Income option, the discretionary Cash Bonus payout starts from the 1st policy year."
+    },
+    {
+      "question": "When does the income start in the 'Deferred Income' option?",
+      "answer": "Under the Deferred Income option, Guaranteed Income and Cash Bonus payouts start one year after the end of the Premium Payment Term."
+    },
+    {
+      "question": "Is the income guaranteed in the 'Deferred Income' option?",
+      "answer": "Yes, this option provides a Guaranteed Income for a 'Guarantee Period', which is the lower of 25 years or the Policy Term minus (PPT + 1) years. This is in addition to non-guaranteed cash bonuses, if declared."
+    },
+    {
+      "question": "Can I add extra coverage or riders to this policy?",
+      "answer": "Yes, you can enhance your protection by adding riders such as HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Health Plus Rider, and others."
+    },
+    {
+      "question": "Are there any tax benefits available with this plan?",
+      "answer": "Yes, premiums paid and benefits received may be eligible for tax benefits under the applicable sections of the Income Tax Act, 1961, as amended from time to time. You should consult a tax advisor for details."
+    },
+    {
+      "question": "What if I don't want to receive the survival benefit payouts every year?",
+      "answer": "You have the flexibility to defer the Survival Benefits (Cash Bonuses and/or Guaranteed Income) and let them accrue. The accumulated amount will earn interest based on the RBI's Reverse Repo Rate."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "There is a grace period of 15 days for the monthly premium payment frequency and 30 days for all other frequencies (annual, half-yearly, quarterly)."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy has acquired a surrender value, you can avail a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What happens if I stop paying my premiums after a few years?",
+      "answer": "If you stop paying premiums after the policy has acquired a surrender value (after payment of the first year's premiums), the policy will become a 'reduced paid-up' policy with reduced benefits. If it has not acquired a surrender value, it will lapse."
+    },
+    {
+      "question": "What is the 'Free-Look' period?",
+      "answer": "You have a Free-Look period of 30 days from the date of receipt of the policy document to review the terms and conditions. If you are not satisfied, you can return the policy for a refund of premium paid, subject to certain deductions."
+    },
+    {
+      "question": "Is there any special benefit for paying a higher premium amount?",
+      "answer": "Yes, for the Deferred Income plan option, the policy offers additional income for Annualized Premiums of ₹1 lakh and above."
+    },
+    {
+      "question": "What are the different premium payment frequencies available?",
+      "answer": "You can choose to pay your premiums annually, half-yearly, quarterly, or monthly."
+    },
+    {
+      "question": "How is the 'Sum Assured on Maturity' calculated?",
+      "answer": "The Sum Assured on Maturity is the total of all Annualized Premiums payable under the policy during the entire premium payment term."
+    },
+    {
+      "question": "What is the death benefit if a minor (entry age less than 1 year) dies before the first policy anniversary?",
+      "answer": "If death occurs before the risk commencement date (first policy anniversary for entry age < 1 year), only the basic premiums paid to date (excluding taxes) will be refunded as the Death Benefit."
+    },
+    {
+      "question": "How can I revive a lapsed or paid-up policy?",
+      "answer": "A policy can be revived within five consecutive years from the due date of the first unpaid premium. You would need to pay all due premiums along with interest and provide evidence of continued insurability."
+    },
+    {
+      "question": "What is the interest rate charged on a policy loan?",
+      "answer": "The interest rate on a policy loan is 9.5% p.a. It is subject to half-yearly review and may change based on the G-Sec Yield."
+    },
+    {
+      "question": "Can I change the frequency of my survival benefit payouts?",
+      "answer": "Yes, you can change the Survival Benefit Frequency (e.g., from annual to monthly) on any Policy Anniversary. However, the timing of payment (Advance or Arrear) chosen at inception cannot be changed."
+    }
+  ],
+  "source_file": "HDFC-Life-Sanchay-Par-Advantage-Retail-Brochure.txt",
+  "category": "LI Plan Brochure"
+}

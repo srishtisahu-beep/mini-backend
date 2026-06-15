@@ -1,0 +1,231 @@
+{
+  "product_name": "Max Life Smart Wealth Annuity Guaranteed Pension Plan (UIN: 104N137V05)",
+  "company": "Max Life Insurance Company Limited",
+  "product_type": "A Non-linked Non-Participating Group General Annuity Savings Plan",
+  "insurance_type": "Annuity / Pension",
+  "plan_category": "Group General Annuity Savings",
+  "summary": "A non-linked, non-participating group general annuity savings plan designed to provide a guaranteed, regular income stream to members after they pay a premium. It offers various annuity options including Immediate and Deferred annuities for single or joint lives, with several sub-variants that may include death benefits or return of premium features. The plan is structured for groups, with members receiving a Certificate of Insurance. Key features include different annuity payout modes, a freelook period for review, and for certain variants, surrender values and loan facilities.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document (except for QROPS policies where the minimum age on the Date of Commencement of Risk is 55 years for Immediate Annuity). The policy can be issued to a minor.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Not applicable. Benefits are in the form of annuity payouts based on the premium paid and variant chosen.",
+    "policy_term": "For Immediate & Deferred Annuity (single life): from Date of Commencement of Risk till death of the Annuitant. For Immediate & Deferred Annuity (joint life): from Date of Commencement of Risk till death of the last surviving Annuitant. For 'Annuity for Guaranteed Period and Life Thereafter' variants: from Date of Commencement of Risk till the end of the Guaranteed Period or death of the Annuitant, whichever is later.",
+    "waiting_period": "For Deferred Annuity (Single Premium), the Deferment Period can be from 1st month to 144th month. For Deferred Annuity (Limited Premium), the Deferment Period is from a minimum of 5 years to the maximum of the Premium Payment Term."
+  },
+  "coverage": [
+    {
+      "type": "Annuity Variant",
+      "name": "Immediate Annuity",
+      "description": "Annuity starts from the Vesting Date. Available sub-variants: Single Life without Death Benefit, Single Life with Death Benefit, Joint Life without Death Benefit, Joint Life with Death Benefit."
+    },
+    {
+      "type": "Annuity Variant",
+      "name": "Immediate Annuity With Chosen Proportion Of Annuity To Last Survivor",
+      "description": "A joint life annuity where upon the first death, the annuity payable to the survivor is revised to a pre-selected proportion (50% or 110%) of the original annuity. Available with or without death benefit."
+    },
+    {
+      "type": "Annuity Variant",
+      "name": "Immediate Annuity with Early Return of Premium",
+      "description": "A single life annuity where a proportion (50% or 100%) of the total premiums paid is returned upon the annuitant reaching a chosen Milestone Age (70/75/80/85 years)."
+    },
+    {
+      "type": "Annuity Variant",
+      "name": "Immediate Annuity for Guaranteed Period and Life Thereafter",
+      "description": "Annuity is paid for a guaranteed period (5/10/15/20 years) and for life thereafter. If the annuitant dies during the guaranteed period, the annuity is paid to the claimant until the end of the period."
+    },
+    {
+      "type": "Annuity Variant",
+      "name": "Increasing Immediate Annuity",
+      "description": "Annuity amount increases at a pre-defined rate. Sub-variants include increase each year (1% to 6% simple) or every 3 years (15% simple)."
+    },
+    {
+      "type": "Annuity Variant",
+      "name": "Deferred Annuity",
+      "description": "Annuity payout starts after a chosen Deferment Period. Available for Single and Joint lives, with options for death benefit for life or only till the deferment period."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable depending on the chosen annuity variant. Variants like 'Single Life without Death Benefit' have no death benefit. For variants with death benefit, the payout can be a return of a percentage of total premiums paid, or 105% of total premiums paid, or the higher of accumulated premiums at 6% p.a. or 105% of total premiums paid, depending on the specific sub-variant and timing of death (during or after deferment)."
+    },
+    {
+      "name": "Survival Benefit (Annuity)",
+      "description": "Regular annuity payments are made as long as the annuitant (or the last surviving annuitant in joint life cases) is alive, subject to the terms of the chosen variant. Payments are made in arrears as per the chosen frequency (monthly, quarterly, semi-annually, annually)."
+    },
+    {
+      "name": "Loyalty Annuity",
+      "description": "Applicable for Limited Premium Deferred Annuity variants. An amount equivalent to 20% of the base annuity accrues on completion of the Deferment Period and is paid along with the base annuity payouts."
+    },
+    {
+      "name": "Advance Annuity Option",
+      "description": "Available for specific joint life variants with death benefit. Within 3 months of the first death, the surviving annuitant can opt to receive the present value of the next 5 years' annuity payments as a lump sum. Regular annuity payouts will then stop for 5 years and resume thereafter."
+    },
+    {
+      "name": "Surrender Benefit",
+      "description": "Available for specific variants with death benefits. Policy acquires surrender value immediately after the freelook period for Single Premium variants, and after payment of two full years' premium for Limited Premium variants. The Surrender Value is the higher of Guaranteed Surrender Value and Special Surrender Value. Not applicable for variants without a death benefit."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Available once the policy acquires a surrender value and there is a benefit payable on death. The maximum loan amount is 80% of the surrender value. The current interest rate is 9.75% per annum, subject to review."
+    }
+  ],
+  "eligibility": [
+    {
+      "criterion": "Group Membership",
+      "details": "The individual must be an Eligible Member of the group as defined by the Master Policyholder."
+    },
+    {
+      "criterion": "Age for QROPS",
+      "details": "For policies sourced under Qualifying Recognized Overseas Pension Scheme (QROPS), the minimum age of the annuitant for an Immediate Annuity option is 55 years."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "General",
+      "description": "No maturity benefit is payable under the policy."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "No death benefit is payable for annuity variants explicitly chosen 'without Death Benefit', such as 'Single Life without Death Benefit' or 'Joint Life without Death Benefit'."
+    },
+    {
+      "type": "Surrender Benefit",
+      "description": "No surrender benefit is payable for Immediate Annuity options chosen 'without death benefit' or for the 'Immediate Annuity for Guaranteed Period and Life thereafter' variant."
+    },
+    {
+      "type": "Lapsed Policy",
+      "description": "If a Limited Premium policy lapses before acquiring a surrender value (i.e., before payment of two full years' premium), no benefits are payable under the policy."
+    },
+    {
+      "type": "Suicide",
+      "description": "Suicide is not an exclusion. In case of suicide by the annuitant, the applicable death benefit as per the policy terms and conditions shall be payable."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "process": "The claimant should intimate the insurer within 30 days of death and submit all required documents within 90 days. The company will scrutinize the documents and may investigate the claim before paying the benefit.",
+      "documents_required": [
+        "Claimant’s statement in the prescribed form",
+        "Original Certificate of Insurance",
+        "Copy of death certificate issued by the local/municipal authority",
+        "Identity proof of the Claimant with photograph and signature",
+        "Any other documents or information required by the company"
+      ]
+    },
+    {
+      "type": "Survival Benefit (Annuity Payout)",
+      "process": "To continue receiving annuity payments, the annuitant must submit a 'Living Certificate' to the company as per the frequency specified for their chosen variant.",
+      "documents_required": [
+        "Living Certificate in the format prescribed by the company, submitted within the required timeframe (e.g., at least 30 days before the end of each policy year or every 5th policy year, depending on the variant).",
+        "The certificate must be duly signed by a gazetted officer, a Registered Medical Practitioner, a scheduled bank branch manager, or a notary public."
+      ],
+      "condition": "If the Living Certificate is not received on time, the payment of survival benefits will automatically cease until the document is submitted."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Max Life Smart Wealth Annuity Guaranteed Pension Plan?",
+      "answer": "It is a non-linked, non-participating group general annuity savings plan that provides a guaranteed regular income (pension) to its members in exchange for a premium payment."
+    },
+    {
+      "question": "What is the difference between an Immediate Annuity and a Deferred Annuity?",
+      "answer": "An Immediate Annuity is a variant where the annuity payments start from the vesting date, shortly after the premium is paid. A Deferred Annuity is a variant where the annuity payments start after a chosen period, known as the Deferment Period."
+    },
+    {
+      "question": "What is the Deferment Period for this plan?",
+      "answer": "For Single Premium Deferred Annuity variants, the Deferment Period can range from 1 to 144 months. For Limited Premium variants, it ranges from a minimum of 5 years to the maximum of the Premium Payment Term."
+    },
+    {
+      "question": "Can I choose the frequency of my annuity payments?",
+      "answer": "Yes, you can choose to receive annuity payments on a monthly, quarterly, semi-annual, or annual basis. This choice must be made at the inception of the policy and cannot be changed later."
+    },
+    {
+      "question": "Do all variants of this plan offer a death benefit?",
+      "answer": "No. The plan offers variants specifically 'without Death Benefit'. If you choose such a variant, no benefit will be paid upon the death of the annuitant."
+    },
+    {
+      "question": "What happens if the annuitant dies during the Deferment Period?",
+      "answer": "The death benefit depends on the sub-variant chosen. For 'with Death Benefit till Deferment Period', the benefit is 105% of Total Premiums Paid. For 'with Death Benefit for Life', the benefit is the higher of Total Premiums Paid accumulated at 6% p.a. or 105% of Total Premiums Paid."
+    },
+    {
+      "question": "What is a 'Joint Life' annuity?",
+      "answer": "A joint life annuity covers two annuitants. Annuity payments continue until the death of the last surviving annuitant, subject to the specific terms of the variant chosen."
+    },
+    {
+      "question": "Is there a maturity benefit with this plan?",
+      "answer": "No, there is no maturity benefit payable under this policy."
+    },
+    {
+      "question": "What is the Freelook period?",
+      "answer": "It is a period provided from the date of receipt of the policy document during which you can review the terms and conditions and return the policy for cancellation if you disagree with them."
+    },
+    {
+      "question": "What happens if I cancel the policy during the Freelook period?",
+      "answer": "The policy will be cancelled and you will receive a refund of the premium paid, after deduction of annuity paid (if any), stamp duty, cost of medical examination, and proportionate risk premium for the period of cover."
+    },
+    {
+      "question": "Can I surrender my policy for cash?",
+      "answer": "Yes, but only for variants that have a death benefit. Variants 'without death benefit' cannot be surrendered. The policy must acquire a surrender value first."
+    },
+    {
+      "question": "When does the policy acquire a Surrender Value?",
+      "answer": "For Single Premium variants, the policy acquires a surrender value immediately after the freelook period. For Limited Premium variants, it acquires a surrender value after two full years' premiums have been paid."
+    },
+    {
+      "question": "Can I get a loan against this policy?",
+      "answer": "Yes, a loan can be availed once the policy has acquired a surrender value and if there is a death benefit payable under your chosen variant. The maximum loan amount is 80% of the surrender value."
+    },
+    {
+      "question": "What happens if I miss paying a premium for my Limited Premium plan?",
+      "answer": "A grace period of 15 days for monthly mode and 30 days for other modes is provided. If you have paid premiums for at least two years, the policy will convert to a 'Reduced Paid Up' status with reduced benefits. If not, the policy will lapse and no benefits will be payable."
+    },
+    {
+      "question": "What is the Revival Period for a lapsed policy?",
+      "answer": "A lapsed or a reduced paid-up policy can be revived within a period of 5 consecutive years from the due date of the first unpaid premium."
+    },
+    {
+      "question": "Is suicide covered under this policy?",
+      "answer": "Yes. In case of suicide by the annuitant, the applicable death benefit as per the terms of the policy will be payable. Suicide is not an exclusion."
+    },
+    {
+      "question": "What is a 'Living Certificate'?",
+      "answer": "It is a declaration submitted by the annuitant to the company to prove that they are alive. It is required to continue receiving survival benefits (annuity payments)."
+    },
+    {
+      "question": "How often do I need to submit a Living Certificate?",
+      "answer": "The frequency depends on your policy variant. It can be required every year or every 5th policy year. You must submit it at least 30 days before the end of the specified period to avoid interruption in annuity payments."
+    },
+    {
+      "question": "What is the 'Loyalty Annuity' benefit?",
+      "answer": "This benefit is available only for Limited Premium Deferred Annuity variants. It is an additional amount equivalent to 20% of the base annuity, which becomes payable along with the regular annuity after the deferment period ends."
+    },
+    {
+      "question": "What is the 'Advance Annuity Option'?",
+      "answer": "For certain joint life variants with death benefit, the surviving annuitant can choose to receive the present value of the next 5 years' annuity payments as a lump sum after the first death. Regular annuity payments will then pause for 5 years."
+    },
+    {
+      "question": "Can I change my Annuity Variant after the policy has started?",
+      "answer": "No, the Annuity Variant once chosen at the inception of the policy cannot be changed thereafter."
+    },
+    {
+      "question": "What documents are required to claim the death benefit?",
+      "answer": "The primary documents required are the claimant's statement form, original Certificate of Insurance, death certificate, and identity proof of the claimant. The company may ask for additional documents."
+    },
+    {
+      "question": "What happens if the age provided in the proposal form is incorrect?",
+      "answer": "If the age is found to be incorrect, the company may revise or adjust the premium payable with interest, and/or adjust the benefits payable under the policy based on what would have been applicable for the correct age."
+    },
+    {
+      "question": "What is a Reduced Paid-Up policy?",
+      "answer": "For Limited Premium plans, if you have paid at least two years' premiums and then stop paying, the policy doesn't lapse but continues with reduced death and annuity benefits, known as Reduced Paid-Up benefits."
+    },
+    {
+      "question": "Can the premium payment mode be changed during the policy term?",
+      "answer": "Yes, for Limited Premium variants, you can change the premium payment mode (e.g., from annual to semi-annual) by submitting a written request at least 30 days before the policy anniversary."
+    }
+  ],
+  "source_file": "SWAG Pension - Group Policy Contract.txt",
+  "category": "LI Policy Bond Documents"
+}

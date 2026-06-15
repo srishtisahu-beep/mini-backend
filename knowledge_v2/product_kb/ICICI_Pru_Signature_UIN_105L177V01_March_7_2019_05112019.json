@@ -1,0 +1,239 @@
+{
+  "product_name": "ICICI Pru Signature",
+  "product_type": "Unit linked non-participating life insurance plan",
+  "summary": "ICICI Pru Signature is a unit linked non-participating life insurance plan offering 3 plan options (Advantage, Premier, Exclusive) based on annualized premium. It provides death benefit, maturity benefit, value benefit, return of premium allocation charges, and wealth boosters. The policy offers flexible premium payment options, partial withdrawals, top-ups, and multiple fund choices with different portfolio strategies.",
+  "definitions": [
+    {
+      "term": "Age",
+      "definition": "Age at last birthday"
+    },
+    {
+      "term": "Allocation",
+      "definition": "The process of creating Units at the prevailing Net Asset Value (NAV) such as when the premiums are received or when Switches are made"
+    },
+    {
+      "term": "Death Benefit",
+      "definition": "The benefit which is payable on death as specified in the Policy document"
+    },
+    {
+      "term": "Fund Value",
+      "definition": "The total number of Units under the Policy multiplied by the NAV per Unit of that Fund"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "The time granted by Us from the due date for the payment of premium, without any penalty / late fee, during which time the policy continues with risk cover without interruption"
+    },
+    {
+      "term": "Lock-in-Period",
+      "definition": "The period of five consecutive years from the date of commencement of the Policy, during which period the proceeds of the discontinued policy cannot be paid by Us, except in the case of death of the Life Assured"
+    },
+    {
+      "term": "Maturity Benefit",
+      "definition": "The benefit which is payable on maturity i.e., at the end of the policy term, as specified in the policy document"
+    },
+    {
+      "term": "Net Asset Value (NAV)",
+      "definition": "The price per Unit of the Fund"
+    },
+    {
+      "term": "Surrender",
+      "definition": "Complete withdrawal/termination of the Policy by You"
+    },
+    {
+      "term": "Units",
+      "definition": "A specific portion or part of an underlying unit linked Fund which is representative of Your entitlement in such Fund"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "type": "Grace Period",
+      "duration": "15 days for monthly premium payment frequency, 30 days for other frequencies"
+    },
+    {
+      "type": "Lock-in Period",
+      "duration": "5 consecutive years from policy commencement date"
+    },
+    {
+      "type": "Revival Period",
+      "duration": "2 consecutive years from date of discontinuance"
+    },
+    {
+      "type": "Free Look Period",
+      "duration": "15 days from receipt of policy document (30 days for electronic policy or distance marketing)"
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "Loans",
+      "description": "We will not provide loans under this policy"
+    },
+    {
+      "category": "Premium Changes",
+      "description": "Increase or decrease in premium is not allowed under this policy"
+    },
+    {
+      "category": "Rider Coverage for Minors",
+      "description": "For minor lives, rider cover will be available only on the Life Assured reaching age 18 years last birthday"
+    },
+    {
+      "category": "Top-up Restrictions",
+      "description": "Top-up premiums cannot be paid in the last five years before the date of maturity"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": 1,
+      "description": "Death claim: On death of Life Assured during policy term, Death Benefit will be payable to the nominee"
+    },
+    {
+      "step": 2,
+      "description": "Death Benefit calculation: Higher of Sum Assured (including Top-up), Fund Value (including Top-up), or Minimum Death Benefit (105% of total premiums paid)"
+    },
+    {
+      "step": 3,
+      "description": "Maturity claim: On survival till maturity date, Fund Value including Top-up Fund Value will be paid"
+    },
+    {
+      "step": 4,
+      "description": "Policy termination: On payment of Death Benefit or Maturity Benefit, policy terminates and all rights are extinguished"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Minimum Death Benefit",
+      "description": "Will be 105% of the total premiums paid including Top up premiums, if any"
+    },
+    {
+      "condition": "Premium Payment Requirement",
+      "description": "You are required to pay premiums for the entire premium payment term"
+    },
+    {
+      "condition": "Policy Foreclosure",
+      "description": "If Fund Value becomes nil after five policy years, policy will terminate with no benefits payable"
+    },
+    {
+      "condition": "Investment Risk",
+      "description": "The investment risk in the investment portfolio is borne by you"
+    },
+    {
+      "condition": "No Guaranteed Returns",
+      "description": "The Funds, except for DP Fund, do not offer a guaranteed or assured return"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the three plan options available under ICICI Pru Signature?",
+      "answer": "The three plan options are Advantage (Rs 2,00,000 - 4,99,999), Premier (Rs 5,00,000 - 9,99,999), and Exclusive (Rs 10,00,000 and above) based on annualized premium."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is 15 days for monthly premium payment frequency and 30 days for other frequencies (half-yearly or annual)."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "15 days from receipt of policy document, or 30 days if the policy is electronic or purchased through distance marketing."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "Death Benefit is the highest of: Sum Assured (including Top-up), Fund Value (including Top-up), or Minimum Death Benefit (105% of total premiums paid)."
+    },
+    {
+      "question": "What is the lock-in period for this policy?",
+      "answer": "The lock-in period is five consecutive years from the date of commencement of the policy."
+    },
+    {
+      "question": "When can I make partial withdrawals?",
+      "answer": "Partial withdrawals are allowed after completion of five policy years, subject to payment of five full years' premiums, and monies are not in DP Fund."
+    },
+    {
+      "question": "What is the minimum amount for partial withdrawal?",
+      "answer": "The minimum partial withdrawal amount is Rs 2,000."
+    },
+    {
+      "question": "How much can I withdraw partially in a year?",
+      "answer": "Total partial withdrawals in a year cannot exceed 20% of the Fund Value in a policy year."
+    },
+    {
+      "question": "What is Value Benefit and which plans offer it?",
+      "answer": "Value Benefit is 5% of annual premium, applicable only for Premier and Exclusive plan options, not for Advantage Plan. It's added as extra units on receipt of 2nd year premium for Premier and 2nd and 6th year premiums for Exclusive."
+    },
+    {
+      "question": "What are Wealth Boosters?",
+      "answer": "Wealth Boosters are allocated as extra units at the end of every 5th policy year starting from the end of 10th policy year, calculated as a percentage of average Fund Values over last eight policy quarters."
+    },
+    {
+      "question": "What is the minimum top-up premium amount?",
+      "answer": "The minimum top-up premium is Rs 2,000."
+    },
+    {
+      "question": "How many top-ups are allowed during the policy term?",
+      "answer": "The maximum number of top-ups allowed during the policy term is 99."
+    },
+    {
+      "question": "What happens if I don't pay premium on time?",
+      "answer": "If premium is not paid within grace period, the company will send a notice within 15 days of grace period expiry, giving you 30 days to choose from available options."
+    },
+    {
+      "question": "What is the revival period for a discontinued policy?",
+      "answer": "The revival period is two consecutive years from the date of discontinuance of the policy."
+    },
+    {
+      "question": "Are loans available under this policy?",
+      "answer": "No, loans are not provided under this policy."
+    },
+    {
+      "question": "What are the premium payment modes available?",
+      "answer": "For Limited Pay and Regular Pay options, modes are Annual, half-yearly, or monthly. Payment can be made through cash, cheque, demand draft, pay order, banker's cheque, internet facility, ECS/Direct Debit, or credit/debit cards."
+    },
+    {
+      "question": "What is the Fund Management Charge?",
+      "answer": "Fund Management Charges vary by fund: Focus 50 Fund (1.35% p.a.), India Growth Fund and others (0.75% p.a.), and Income Fund, Money Market Fund, DP Fund (0.50% p.a.)."
+    },
+    {
+      "question": "What are the four portfolio strategies available?",
+      "answer": "The four strategies are: Target Asset Allocation Strategy, Trigger Portfolio Strategy 2, LifeCycle-based Portfolio Strategy 2, and Fixed Portfolio Strategy."
+    },
+    {
+      "question": "How many free switches are allowed?",
+      "answer": "There is no restriction on the number of switches and all switches are free (applicable only for Fixed Portfolio Strategy)."
+    },
+    {
+      "question": "What is the minimum amount per switch?",
+      "answer": "The minimum amount per switch is Rs 2,000."
+    },
+    {
+      "question": "What is Systematic Withdrawal Plan (SWP)?",
+      "answer": "SWP allows you to withdraw a pre-determined percentage of fund value regularly. It's allowed only after first five policy years with payouts monthly, quarterly, half-yearly or yearly."
+    },
+    {
+      "question": "Can I increase or decrease my Sum Assured?",
+      "answer": "Yes, increase is allowed subject to underwriting before life assured's 60th birthday. Decrease is allowed subject to minimum Sum Assured restrictions."
+    },
+    {
+      "question": "What happens during the settlement option?",
+      "answer": "You can receive Maturity Benefit as structured payout over up to 5 years. Life insurance cover is not available during settlement period, and only Fund Management Charge is levied."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "For Limited Pay/Regular Pay: Year 1-7 (5%), Year 8-9 (2%), Year 10 onwards (1%). For Single Pay: 3%. For Top-ups: 2%."
+    },
+    {
+      "question": "What is the Policy Administration Charge?",
+      "answer": "For Limited Pay/Regular Pay: 0.183% per month (2.196% p.a.) of annual premium, maximum Rs 500 per month. For Single Pay: Rs 60 per month for first five years."
+    },
+    {
+      "question": "What are Discontinuance Charges?",
+      "answer": "For Limited Pay/Regular Pay: Year 1 (6% of AP or FV, max Rs 6,000), reducing each year to Nil from Year 5. For Single Pay: Year 1 (1% of SP or FV, max Rs 6,000), reducing to Nil from Year 5."
+    },
+    {
+      "question": "What is the Discontinued Policy Fund (DP Fund)?",
+      "answer": "DP Fund is set aside for discontinued policies. It earns minimum guaranteed interest rate (currently 4% p.a.) and has Fund Management Charge of 0.50% p.a. Risk cover and Minimum Death Benefit do not apply."
+    },
+    {
+      "question": "Can I change my premium payment term?",
+      "answer": "Yes, you can increase or decrease Premium Payment Term (not applicable for Single Pay), provided all due premiums are paid. Changes must be in multiples of one year and decrease is allowed up to 7 years only."
+    }
+  ],
+  "source_file": "ICICI_Pru_Signature_UIN_105L177V01_March_7_2019_05112019.txt",
+  "category": "LI Policy Bond Documents"
+}

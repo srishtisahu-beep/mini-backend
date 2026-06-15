@@ -1,0 +1,195 @@
+{
+  "product_name": "Tata AIA Life Insurance Sampoorna Raksha",
+  "product_type": "Non-Linked, Non-Participating, Term Assurance Plan",
+  "summary": "Tata AIA Life Insurance Sampoorna Raksha is a term insurance plan that provides death benefit coverage with four different options. The plan offers no survival or maturity benefits. Death benefit options include lump sum payments and monthly income for 10 years. The plan is available with regular premium payment or limited pay options (5 or 10 years).",
+  "definitions": [
+    {
+      "term": "Accident",
+      "definition": "A sudden, unforeseen and involuntary event caused by external, violent and visible means which occurs while the relevant Supplementary Contract is in-force and during the lifetime of the Insured"
+    },
+    {
+      "term": "Accidental Death",
+      "definition": "The death of the Life Assured which results directly, solely and independently of any other causes from Bodily Injury AND occurs within 90 days of the date of Accident"
+    },
+    {
+      "term": "Basic Sum Assured",
+      "definition": "The guaranteed amount of the benefit that is payable on the death of the Life Assured under this Policy. Basic Sum Assured is shown in the Policy Schedule"
+    },
+    {
+      "term": "Annualised Premium",
+      "definition": "The premium paid in a year with respect to the Basic Sum Assured chosen by the Policyholder, excluding the underwriting extra premiums and loading for modal premiums, if any"
+    },
+    {
+      "term": "Policy Term",
+      "definition": "The maximum period in years for which the policy can remain in-force and is mentioned on the Policy Schedule"
+    },
+    {
+      "term": "Premium Payment Term",
+      "definition": "The number of years that premium is payable for and is mentioned on the Policy Schedule"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "condition": "Suicide",
+      "period": "12 months from date of commencement or revival",
+      "details": "In case of death due to suicide within 12 months, only premiums paid are returned"
+    }
+  ],
+  "exclusions": [],
+  "claims_process": [
+    {
+      "step": "Notice of Claim",
+      "requirement": "All cases of death must be notified in writing within 90 days of occurrence of death"
+    },
+    {
+      "step": "Filing Proof of Claim",
+      "requirement": "Duly filled requisite forms along with proof of loss shall be furnished within 90 days from the date the Insured event happens"
+    },
+    {
+      "step": "Required Documents",
+      "requirement": "Death certificate, medical records, original policy document, claimant's photo ID, and additional documents based on cause of death"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Grace Period",
+      "details": "15 days for monthly mode and 30 days for all other modes from the due date for premium payment"
+    },
+    {
+      "condition": "Free Look Period",
+      "details": "15 days to cancel policy and receive refund (extended to 30 days for distance marketing)"
+    },
+    {
+      "condition": "Revival Period",
+      "details": "Policy can be revived within 2 years from due date of first unpaid premium"
+    },
+    {
+      "condition": "No Loans",
+      "details": "Loan facility is not available under this plan"
+    },
+    {
+      "condition": "No Plan Change",
+      "details": "Plan change/conversion is not allowed under this policy"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What type of insurance plan is Sampoorna Raksha?",
+      "answer": "Sampoorna Raksha is a Non-Linked, Non-Participating, Term Assurance Plan."
+    },
+    {
+      "question": "Are there any survival benefits in this plan?",
+      "answer": "No, there is no survival benefit in this plan."
+    },
+    {
+      "question": "Are there any maturity benefits in this plan?",
+      "answer": "No, there is no maturity benefit in this plan."
+    },
+    {
+      "question": "How many death benefit options are available?",
+      "answer": "There are four death benefit options available under this plan."
+    },
+    {
+      "question": "What is the monthly income percentage in Options 2 and 4?",
+      "answer": "The monthly income is equal to 1% of Basic Sum Assured for 10 years."
+    },
+    {
+      "question": "Can I receive the monthly income as a lump sum?",
+      "answer": "Yes, the nominee has an option to receive the commuted value of the future income benefits as a lumpsum using a discounting factor."
+    },
+    {
+      "question": "What is the discounting rate used for lump sum calculation?",
+      "answer": "The discounting rate of interest is 7.5% per annum as given in the Discounted factor table."
+    },
+    {
+      "question": "What is Enhanced Sum Assured in Options 3 and 4?",
+      "answer": "Enhanced Sum Assured is the Basic Sum Assured increased by a simple rate of 5% per annum at each policy anniversary, subject to maximum of 200% of Basic Sum Assured."
+    },
+    {
+      "question": "Are there any discounts for large sum assured?",
+      "answer": "Yes, Large Sum Assured Discounts are available ranging from 0% to 25% based on the sum assured band and option chosen."
+    },
+    {
+      "question": "Can I change the premium payment frequency?",
+      "answer": "Yes, you may change the frequency of premium payments by written request. Premiums may be paid on Annual, Half-yearly, Quarterly or Monthly mode."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace Period is fifteen (15) days for monthly mode and thirty (30) days for all other modes from the due date."
+    },
+    {
+      "question": "What happens if I don't pay premium within the grace period?",
+      "answer": "If any regular premium remains unpaid at the end of its Grace Period, the Policy shall lapse."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "The free look period is 15 days after receiving the Policy Document, extended to 30 days if the policy is sourced through distance marketing mode."
+    },
+    {
+      "question": "Can I revive my lapsed policy?",
+      "answer": "Yes, the policy may be revived within two years after the due date of the first unpaid premium by paying all overdue premiums with interest."
+    },
+    {
+      "question": "Is loan facility available under this plan?",
+      "answer": "No, loan facility is not allowed under this plan."
+    },
+    {
+      "question": "Can I surrender my policy?",
+      "answer": "For Regular Pay, no surrender benefit is available. For Limited Pay (5 and 10 years), surrender is allowed after paying premiums for 2 and 3 years respectively."
+    },
+    {
+      "question": "What is Reduced Paid-Up policy?",
+      "answer": "For Limited Pay options, if minimum required premiums are paid and subsequent premiums remain unpaid, the policy converts to Reduced Paid-up by default with proportionately reduced benefits."
+    },
+    {
+      "question": "What happens in case of suicide?",
+      "answer": "In case of death due to suicide within 12 months from commencement or revival, only all premiums paid (excluding underwriting extra premiums and modal loading) are returned."
+    },
+    {
+      "question": "What documents are required for death claims?",
+      "answer": "Required documents include claim forms, death certificate, medical records, original policy document, claimant's photo ID, and additional documents based on cause of death."
+    },
+    {
+      "question": "What is the time limit for notifying death claims?",
+      "answer": "All cases of death must be notified in writing within 90 days of occurrence of death."
+    },
+    {
+      "question": "Can I assign my policy?",
+      "answer": "Yes, assignment is allowed as per Section 38 of the Insurance Act 1938 as amended from time to time."
+    },
+    {
+      "question": "Can I nominate someone for my policy?",
+      "answer": "Yes, nomination is allowed as per provisions of Section 39 of the Insurance Act 1938 as amended from time to time."
+    },
+    {
+      "question": "What happens if age or gender is misstated?",
+      "answer": "If higher premium should have been charged, benefits are reduced. If lower premium should have been charged, excess premiums are refunded without interest."
+    },
+    {
+      "question": "Can I change my Basic Sum Assured?",
+      "answer": "No, increase or decrease in Basic Sum Assured is not allowed in this Policy."
+    },
+    {
+      "question": "What is the minimum guaranteed sum assured on maturity?",
+      "answer": "The Minimum Guaranteed Sum Assured on Maturity is nil for all four options as there is no maturity benefit under the plan."
+    },
+    {
+      "question": "How can I contact customer service?",
+      "answer": "You can contact through helpline 1-860-266-9966, email customercare@tataaia.com, visit branch offices, or through the online portal at www.tataaia.com."
+    },
+    {
+      "question": "What is the fee for duplicate policy document?",
+      "answer": "The Company charges Rs. 250 along with applicable taxes for issuance of a duplicate Policy Document, plus an Indemnity Bond on appropriate stamp paper."
+    },
+    {
+      "question": "Are there any travel or occupation restrictions?",
+      "answer": "No, unless otherwise specified, this Policy is free from any restrictions upon the Life Assured as to travel, residence or occupation."
+    },
+    {
+      "question": "In which currency are payments made?",
+      "answer": "All amounts payable either to or by the Company will be paid in Indian currency through negotiable bank draft, cheque, NEFT or electronic clearing systems."
+    }
+  ],
+  "source_file": "TATA AIA SAMPOORNA RAKSHA PROMISE 110N129V02_2017-18.txt",
+  "category": "LI Policy Bond Documents"
+}

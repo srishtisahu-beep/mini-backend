@@ -1,0 +1,240 @@
+{
+  "product_name": "Tata AIA Smart Fortune Plus",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Non-Participating, Unit Linked, Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit Linked Savings Plan",
+  "summary": "A Non-Participating, Unit Linked Individual Life Insurance savings plan designed to offer stability and growth potential. It provides financial protection with market-linked returns, a lump sum payment upon maturity, and additional benefits in case of unforeseen circumstances to safeguard the family's financial future. The investment risk in the investment portfolio is borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "30 days",
+    "maximum_age": "65 Years",
+    "sum_insured": "Minimum Sum Assured depends on the plan option, premium, premium paying term, and age. Maximum Sum Assured can go up to 30 times the Annualised Premium.",
+    "policy_term": "Minimum: 5 years for Single Pay, 6 years for Limited Pay, 10 years for Regular Pay. Maximum: Up to 100 years, depending on the plan option.",
+    "waiting_period": "5-year lock-in period. The policyholder will not be able to surrender or withdraw monies invested, completely or partially, until the end of the fifth year."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the life insured to the maturity date, the Fund Value, including Top-Up Premium Fund value, if any, valued at the applicable NAV on the date of Maturity is payable."
+    },
+    {
+      "type": "Death Benefit - Wealth Secure",
+      "description": "Nominee receives the highest of: (i) Basic Sum Assured less partial withdrawals from the last two years, (ii) Regular/Single Premium Fund Value, or (iii) 105% of total premiums paid less partial withdrawals from the last two years. Top-up benefits are paid in addition. Policy terminates on death."
+    },
+    {
+      "type": "Death Benefit - Future Secure",
+      "description": "Nominee receives a lumpsum benefit (Highest of Basic Sum Assured or 105% of total premiums paid). The Company funds all future due premiums, and the policy continues. The Fund Value is paid at maturity."
+    },
+    {
+      "type": "Death Benefit - Goal Secure",
+      "description": "Nominee receives the highest of: (i) Sum of Basic Sum Assured and the Regular/Single Premium Fund Value, or (ii) 105% of total premiums paid. Top-up benefits are paid in addition. Policy terminates on death."
+    },
+    {
+      "type": "Death Benefit - Family Secure",
+      "description": "Nominee receives a lumpsum benefit (Highest of Basic Sum Assured or 105% of total premiums paid) and a guaranteed regular monthly income of 1% of the Basic Sum Assured. The Company funds all future due premiums, and the policy continues. The Fund Value is paid at maturity."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Options",
+      "description": "Choice of four plan options to suit different needs: Wealth Secure, Future Secure, Goal Secure, and Family Secure."
+    },
+    {
+      "name": "Smart Lady Benefit",
+      "description": "For Female lives, an additional 0.50% of Annualized Premium or 0.25% of Single Premium is added to the Fund Value in the first year."
+    },
+    {
+      "name": "High Premium Booster",
+      "description": "Additional allocation to Fund Value in the first year for higher premiums (0.25% for premiums of ₹50,000 - ₹1,19,999, and 0.50% for premiums ₹1,20,000 and above)."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Additional units credited to the fund every policy anniversary starting from the 11th year (for Regular/Limited Pay) or 6th year (for Single Pay)."
+    },
+    {
+      "name": "Maturity Booster",
+      "description": "An additional fund booster is added on the date of maturity for inforce policies, calculated as a percentage of the average fund value of the last eight policy quarters."
+    },
+    {
+      "name": "Partial Withdrawal & Smart Withdrawal Options",
+      "description": "Partial withdrawals allowed after 5 policy years. Options include Systematic Withdrawal Plan (SWP), Chosen-rate Withdrawal Plan (CWP), and Index based Withdrawal Plan (IWP)."
+    },
+    {
+      "name": "Investment Choices",
+      "description": "Flexibility to choose from 24 investment funds or two portfolio strategies: Enhanced Systematic Money Allocation & Regular Transfer (Enhanced SMART) and Life-stage based Portfolio Strategy."
+    },
+    {
+      "name": "Top-up Facility",
+      "description": "Option to pay additional premiums as 'Top-up Premium' anytime except during the last five years of the policy term. Minimum top-up is ₹1,000."
+    },
+    {
+      "name": "Switching and Premium Re-direction",
+      "description": "Unlimited free switches between funds are allowed. Premium Re-direction allows allocation of future premiums to different funds."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive maturity benefit in periodical payments over five years instead of a lump sum."
+    },
+    {
+      "name": "Flexibility of Additional Coverage",
+      "description": "Option to enhance coverage by choosing from a set of unit-deducting or premium-paying riders."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available as per applicable tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Entry Age (Minimum)",
+      "value": "30 days for Wealth Secure & Goal Secure; 18 Years for Future Secure & Family Secure"
+    },
+    {
+      "parameter": "Entry Age (Maximum)",
+      "value": "65 Years for all options"
+    },
+    {
+      "parameter": "Maturity Age (Minimum)",
+      "value": "18 Years for Wealth Secure & Goal Secure; 24 Years for Future Secure & Family Secure"
+    },
+    {
+      "parameter": "Maturity Age (Maximum)",
+      "value": "100 Years for Wealth Secure; 85 Years for other options"
+    },
+    {
+      "parameter": "Policy Term (Minimum)",
+      "value": "5 years for Single Pay, 6 years for Limited Pay, 10 years for Regular Pay"
+    },
+    {
+      "parameter": "Premium Paying Term",
+      "value": "Single Pay, Limited Pay (5 to 20 years), Regular Pay (10 to 50 years)"
+    },
+    {
+      "parameter": "Minimum Premium",
+      "value": "Starts from ₹1,000 p.a. for Single Pay and ₹1,200 p.a. for Limited/Regular Pay, depending on the plan option."
+    },
+    {
+      "parameter": "Premium Payment Mode",
+      "value": "Single Pay / Yearly / Half-yearly / Quarterly / Monthly"
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [
+    {
+      "type": "Contact Information",
+      "details": "For any information including cancellation, claims and complaints, please contact our Insurance Advisor / Intermediary or visit Tata AIA Life’s nearest branch office or call 1-860-266-9966 (local charges apply) or write to us at customercare@tataaia.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Smart Fortune Plus?",
+      "answer": "It is a Non-Participating, Unit Linked, Individual Life Insurance Savings Plan designed to offer the stability and growth potential needed to turn your dreams into reality, along with a life insurance cover."
+    },
+    {
+      "question": "Who bears the investment risk in this policy?",
+      "answer": "In this policy, the investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "Can I withdraw my money in the first five years?",
+      "answer": "No, linked insurance products do not offer any liquidity during the first five years of the contract. You will not be able to surrender or withdraw the monies invested, completely or partially, until the end of the fifth year."
+    },
+    {
+      "question": "What are the different plan options available?",
+      "answer": "There are four plan options: Wealth Secure, Future Secure, Goal Secure, and Family Secure."
+    },
+    {
+      "question": "What is the 'Future Secure' plan option?",
+      "answer": "In this option, upon the insured's demise, the death benefit is paid, all future premiums are funded by Tata AIA Life Insurance, and the policy continues. The total fund value is paid out on maturity."
+    },
+    {
+      "question": "How does the 'Family Secure' option work in case of death?",
+      "answer": "Upon death of the insured, the nominee receives a lumpsum death benefit, plus a guaranteed regular monthly income of 1% of the Basic Sum Assured. Future premiums are also funded by the company, and the policy continues until maturity."
+    },
+    {
+      "question": "What is the minimum entry age for this plan?",
+      "answer": "The minimum entry age is 30 days for the Wealth Secure and Goal Secure options, and 18 years for the Future Secure and Family Secure options."
+    },
+    {
+      "question": "What is the maximum entry age?",
+      "answer": "The maximum entry age for all plan options is 65 years."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay premiums through Single Pay, Yearly, Half-yearly, Quarterly, or Monthly modes."
+    },
+    {
+      "question": "What is the 'Smart Lady Benefit'?",
+      "answer": "For female lives, an additional allocation of 0.50% of the Annualized Premium or 0.25% of Single Premium is added to the Fund Value at the time of the first year's premium allocation."
+    },
+    {
+      "question": "How does the 'High Premium Booster' work?",
+      "answer": "A percentage of the Annualised Premium is added to the Fund Value in the first year for higher premiums. It is 0.25% for premiums from ₹50,000 to ₹1,19,999, and 0.50% for premiums of ₹1,20,000 and above."
+    },
+    {
+      "question": "Are there any loyalty benefits in this plan?",
+      "answer": "Yes, the plan offers Loyalty Additions. For regular/limited pay policies, 0.20% of units are credited every policy anniversary from the 11th year. For single pay policies, 0.35% of units are credited from the 6th year."
+    },
+    {
+      "question": "What is the Maturity Booster?",
+      "answer": "An inforce policy with all due premiums paid is eligible for a fund booster on the date of maturity. This booster is a percentage of the average of the Fund Values over the last eight policy quarters."
+    },
+    {
+      "question": "When can I make partial withdrawals?",
+      "answer": "Partial withdrawals are allowed any time after five policy anniversaries from the date of policy issuance, provided the insured is at least 18 years old."
+    },
+    {
+      "question": "What is the Systematic Withdrawal Plan (SWP)?",
+      "answer": "SWP is a facility that allows you to withdraw a pre-determined percentage of the fund value or a fixed amount from your fund at pre-determined intervals like monthly, quarterly, etc."
+    },
+    {
+      "question": "How many investment funds can I choose from?",
+      "answer": "You have the option of choosing from 24 investment funds, ranging from 100% debt to 100% equity, to suit your risk appetite."
+    },
+    {
+      "question": "What is the 'Life-Stage based Portfolio Strategy'?",
+      "answer": "This is an automated investment strategy that progressively shifts your investments from riskier assets (equity fund) to safer assets (debt fund) as you get older, based on a pre-selected risk profile."
+    },
+    {
+      "question": "Can I add extra funds to my policy later?",
+      "answer": "Yes, you can pay additional premiums as a 'Top-up Premium' anytime except during the last five years of the policy term. The minimum top-up amount is ₹1,000."
+    },
+    {
+      "question": "Is there a charge for switching between funds?",
+      "answer": "No, any number of switches are allowed in a policy year and they are available at no additional cost."
+    },
+    {
+      "question": "What is the Settlement Option at maturity?",
+      "answer": "It gives you the option to receive your maturity benefit in periodical payments over a settlement period of five years instead of receiving it as a single lump sum."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first five years?",
+      "answer": "The fund value, after deducting applicable discontinuance charges, will be credited to the Discontinued Policy Fund. The risk cover will cease, and you will have a three-year period to revive the policy."
+    },
+    {
+      "question": "What happens if I stop paying premiums after five years?",
+      "answer": "The policy will be converted into a reduced paid-up policy. You will have options to either revive the policy within three years, withdraw it completely, or let it continue as a reduced paid-up policy."
+    },
+    {
+      "question": "Are optional riders available with this plan?",
+      "answer": "Yes, you have an option to choose from a set of unit-deducting or premium-paying riders for additional coverage, such as Waiver of Premium, Accidental Death, and Comprehensive Health riders."
+    },
+    {
+      "question": "What is the minimum policy term?",
+      "answer": "The minimum policy term is 5 years for Single Pay policies, 6 years for Limited Pay policies, and 10 years for Regular Pay policies."
+    },
+    {
+      "question": "How can I track my investments?",
+      "answer": "You can monitor your investments on the company's website (www.tataaia.com), through the annual statement, and by checking the published NAVs on the website."
+    },
+    {
+      "question": "What is the Premium Re-direction facility?",
+      "answer": "Premium Re-direction helps you to allocate future premiums to a different fund or set of funds from your initial choice. There is no charge for this facility."
+    },
+    {
+      "question": "What is the lock-in period for top-up premiums?",
+      "answer": "Every top-up premium has a lock-in period of five years from the date of its approval."
+    }
+  ],
+  "source_file": "TATA AIA Smart-Fortune-Plus-Brochure-V1.txt",
+  "category": "LI Plan Brochure"
+}

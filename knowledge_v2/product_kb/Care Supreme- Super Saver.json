@@ -1,0 +1,161 @@
+{
+  "product_name": "Super Saver",
+  "product_type": "Health Insurance",
+  "summary": "Super Saver is a health insurance product offering up to 19% discount with best-in-class features including 2x cover after 2 years, unlimited coverage recharge, wellness benefits up to 30% renewal discount, and coverage for 68 non-consumable items with claim shield.",
+  "coverage": [
+    "In-Patient Care up to Sum Insured",
+    "Day Care Treatment - All Day Care Procedures up to Sum Insured",
+    "Room Rent - All Category Rooms Allowed",
+    "ICU - No Limit",
+    "Advance Technology Methods up to Sum Insured",
+    "Pre-Hospitalization Medical Expenses up to Sum Insured, up to 60 days prior to hospitalization",
+    "Post Hospitalization Medical Expenses up to Sum Insured, up to 180 days after discharge",
+    "AYUSH Treatment up to Sum Insured",
+    "Domiciliary Hospitalization up to Sum Insured",
+    "Organ Donor Cover up to Sum Insured",
+    "Road Ambulance Cover up to Rs.10,000 per year for SI<15 Lacs, Up to SI for SI>=15 Lacs",
+    "Coverage of 68 Non-consumable items as per LIST 1 of Annexure 1",
+    "Unlimited E-Consultations with General Physicians"
+  ],
+  "waiting_periods": [
+    "Initial Waiting Period: 30 Days for all Hospitalization except Accidental Hospitalization",
+    "Named Ailment Waiting Period: 24 months",
+    "Pre-Existing Diseases Waiting Period: 36 months"
+  ],
+  "room_rent": [
+    "All Category Rooms Allowed"
+  ],
+  "co_pay": [],
+  "deductible": [
+    "Rs.25,000 on aggregate basis"
+  ],
+  "claims_information": [
+    "Coverage gets recharged unlimited times in a policy year",
+    "Insured members can claim up to Sum Insured for each hospitalization in a policy year",
+    "Recharge amount can be used for related and unrelated illnesses/injury",
+    "Recharge Amount can be claimed from 2nd Hospitalization in a Policy Year",
+    "Unlimited Automatic Recharge available for unlimited times for unrelated or same illness",
+    "Accrued cumulative bonus will not decrease upon renewal, even after a claim"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the minimum entry age for adults and children?",
+      "answer": "Minimum entry age for adults is 18 years, for children is 5 years, and for family floater is 90 days."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "For adults there is no upper age limit, and for children the maximum entry age is 24 years."
+    },
+    {
+      "question": "What is the exit age for adults and children?",
+      "answer": "Adults can continue lifelong, and children can continue until 25 years of age."
+    },
+    {
+      "question": "What are the Sum Insured options available?",
+      "answer": "The Sum Insured options available are 5L, 7L, and 10L."
+    },
+    {
+      "question": "What tenure options are available?",
+      "answer": "Tenure options available are 1, 2, or 3 years."
+    },
+    {
+      "question": "How many people can be covered under individual and floater cover types?",
+      "answer": "Individual cover can cover maximum up to 6 persons, and Floater cover can cover maximum up to 2 adults and 2 children (2A2C)."
+    },
+    {
+      "question": "What is the initial waiting period?",
+      "answer": "The initial waiting period is 30 days for all hospitalization except accidental hospitalization."
+    },
+    {
+      "question": "What is the waiting period for named ailments?",
+      "answer": "The named ailment waiting period is 24 months."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "The pre-existing diseases waiting period is 36 months."
+    },
+    {
+      "question": "What is the deductible amount?",
+      "answer": "The deductible is Rs.25,000 on aggregate basis."
+    },
+    {
+      "question": "How does the unlimited recharge feature work?",
+      "answer": "Coverage gets recharged unlimited times in a policy year. Insured members can claim up to Sum Insured for each hospitalization in a policy year, and the recharge amount can be used for related and unrelated illnesses/injury."
+    },
+    {
+      "question": "From which hospitalization can the recharge amount be claimed?",
+      "answer": "Recharge amount can be claimed from 2nd hospitalization in a policy year."
+    },
+    {
+      "question": "What is the cumulative bonus benefit?",
+      "answer": "Cumulative bonus is 50% of Sum Insured per year, maximum up to 100% of Sum Insured. Claims will not reduce the bonus accrued."
+    },
+    {
+      "question": "What happens to cumulative bonus after making a claim?",
+      "answer": "Accrued cumulative bonus will not decrease upon renewal, even after a claim."
+    },
+    {
+      "question": "What is the road ambulance cover limit?",
+      "answer": "Road ambulance cover is up to Rs.10,000 per year for Sum Insured less than 15 Lacs, and up to Sum Insured for Sum Insured greater than or equal to 15 Lacs."
+    },
+    {
+      "question": "How many days of pre-hospitalization expenses are covered?",
+      "answer": "Pre-hospitalization medical expenses are covered up to Sum Insured, up to 60 days prior to hospitalization."
+    },
+    {
+      "question": "How many days of post-hospitalization expenses are covered?",
+      "answer": "Post-hospitalization medical expenses are covered up to Sum Insured, up to 180 days after discharge."
+    },
+    {
+      "question": "What discount can be availed on renewal premium through wellness benefit?",
+      "answer": "Up to 30% discount on renewal premium can be availed on meeting healthy days criteria."
+    },
+    {
+      "question": "What is the healthy days criteria for wellness benefit?",
+      "answer": "Adult insured members need to walk 10,000 steps per day to meet the healthy days criteria."
+    },
+    {
+      "question": "How many non-consumable items are covered?",
+      "answer": "Coverage of 68 non-consumable items as per LIST 1 of Annexure 1 is provided."
+    },
+    {
+      "question": "What family members can be covered under this policy?",
+      "answer": "Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in-law, grandfather, and grandmother can be covered."
+    },
+    {
+      "question": "Are e-consultations available under this policy?",
+      "answer": "Yes, unlimited e-consultations are available for consultations with general physicians."
+    },
+    {
+      "question": "What is the 2x cover benefit?",
+      "answer": "2x cover is provided after 2 years, and accrued cumulative bonus will not decrease upon renewal, even after a claim."
+    },
+    {
+      "question": "What are the different pricing zones?",
+      "answer": "Zone 1 includes Delhi NCR, Surat, Mathura, Aligarh; Zone 2 includes Mumbai (MMR) and rest of Gujarat; Zone 3 includes Pune, Indore, Nashik, Telangana; Zone 4 includes rest of India."
+    },
+    {
+      "question": "Is there any limit on ICU charges?",
+      "answer": "No, there is no limit on ICU charges."
+    },
+    {
+      "question": "Are all day care procedures covered?",
+      "answer": "Yes, all day care procedures are covered up to Sum Insured."
+    },
+    {
+      "question": "What is the maximum discount offered on this product?",
+      "answer": "Up to 19% discount is offered on this product."
+    },
+    {
+      "question": "How does the deductible work in case of multiple claims?",
+      "answer": "Based on the illustration, for a 7L Sum Insured policy with Rs.25,000 deductible - Claim 1 of 5L has deductible of Rs.25,000 with amount settled Rs.4,75,000, and Claim 2 of 5L has nil deductible with amount settled Rs.5,00,000 in the same policy year."
+    },
+    {
+      "question": "What additional services are available through Health Services Discount Connect?",
+      "answer": "Discounts on services such as consultations, diagnostics, maternity etc. are available at the network through Health Services Discount Connect."
+    }
+  ],
+  "source_file": "Care Supreme- Super Saver.txt",
+  "category": "Hi Document"
+}

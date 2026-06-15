@@ -1,0 +1,206 @@
+{
+  "product_name": "Family Shield",
+  "product_type": "Health Insurance",
+  "summary": "Family Shield is a comprehensive health insurance policy that covers more to protect more. It offers wide coverage, flexibility to choose what you need, comprehensive Personal Accident benefits and Specific Infectious disease benefits. The policy is designed to keep the smiles on and protect your family - your No. 1 priority.",
+  "coverage": [
+    "Specific Infectious Diseases Benefit - Coverage against Specific Vector Borne Diseases, Rabies & Tetanus; Gastrointestinal Infections, Viral & Nervous Infections",
+    "Specific Vector Borne Disease Benefit - Includes Malaria, Dengue, Chikungunya, Kala Azar, Japanese Encephalitis, Filariasis & Zika Fever",
+    "Specific Viral Infections Benefit - Includes Viral Hepatitis (Hepatitis A, B, C and E), Measles, Mumps, Poliomyelitis, Avian Influenza and Swine Influenza",
+    "Specific Gastrointestinal Infections Benefit - Includes Acute Inflammatory Diarrhoea & Typhoid Fever",
+    "Specific Nervous System Infections Benefit - Includes Meningitis, Encephalitis, Creutzfeldt - Jakob Disease & Guillain - Barré Syndrome",
+    "Rabies and Tetanus Benefit - Hospitalization expenses and Death Benefit",
+    "Personal Accident Benefits - Covers accidental hospitalization expenses, pre & post hospitalization expenses & diagnostic test expenses",
+    "Hospital Daily Cash Benefits - Fixed daily benefit in case of Hospitalization due to Accident or Illness",
+    "Intensive Care Unit (ICU) Cash Benefit - Daily Fixed Payout for expenses arising out of Hospitalization in ICU",
+    "Temporary Total Disablement (TTD) Benefit - TTD due to accidental injury (Weekly Payouts)",
+    "Permanent Partial Disablement (PPD) Benefit - PPD due to accidental injury",
+    "Children's Education Grant Benefit - Education expenses of the insured's dependent children on Death/PTD",
+    "Adventure Sports Benefit - Death/PTD arising while engaging in adventure sports",
+    "Accidental Hospitalization Daily Cash Benefit - Fixed Daily Payout on Hospitalization following an accidental injury",
+    "Accidental Hospitalization Expenses Reimbursement Benefit - Hospitalization expenses arising out of an accidental injury",
+    "Loan Protection Benefit - Principal outstanding due to Death/PTD of the insured person",
+    "Common Carrier Accident Benefit - Death/PTD arising due to accident of Common Carrier",
+    "Mysterious Disappearance Benefit - Disappearance for > 12 months in case of a Common Carrier accident",
+    "Assault Benefit - Injury due to violent crime or assault requiring hospitalization for more than 48 hours",
+    "Catastrophic Evacuation Benefit - Expenses incurred towards evacuation following a catastrophic natural calamity",
+    "Reconstructive Surgery Benefit - Expenses related to reconstructive surgery for accidental injury treatment",
+    "Physical Rehabilitation Benefit - Expenses incurred on physical rehab following an accidental injury",
+    "Loss of Job Benefit - Loss of Job due to PTD / PPD",
+    "Parental Care Benefit - Death /PTD of the insured person (benefit payable to insured's dependent parents)",
+    "Recovery Benefit - Payout in case of Hospitalization of more than 5 days due to accidental injury",
+    "Orphan Benefit - Lumpsum benefit to insured's dependent children on Death of both parents",
+    "Diagnostic Test Benefit - Reimbursement of expenses incurred on diagnostic tests due to accident",
+    "Last Rite Benefit - Expenses for transportation of mortal remains, funeral in case of accidental death",
+    "Lifestyle Support Benefit - House, vehicle, office modification & prosthesis expenses due to PTD/PPD",
+    "Death Benefit - Death due to accidental injury",
+    "Permanent Total Disablement (PTD) Benefit - PTD due to accidental injury",
+    "Repatriation in case of Permanent Disability Benefit - Transportation expenses in case of PTD",
+    "Counseling Benefit - Professional counselling expenses due to PTD / Death",
+    "Air Ambulance Benefit - Air Ambulance services due to accidental injury",
+    "Accidental Pre & Post Hospitalization Expenses Benefit",
+    "Broken Bones Benefit - Expenses due to fractures from accidental injury",
+    "Comatose Benefit - Accidental injury resulting in coma within 30 days",
+    "Burns Benefit - Second and third degree burns",
+    "Compassionate Visit Benefit - Travel expenses for immediate family member",
+    "Ambulance Charges Benefit - Road Ambulance services due to accidental injury",
+    "Skill Development Benefit - Additional payout for skill development course enrollment",
+    "Chauffeur Cash Benefit - Daily payout for chauffeur hire due to temporary disability",
+    "Home Tuition Benefit - Expenses for home tuition for covered dependent child",
+    "On Duty Enhanced Benefit - Additional coverage for On Duty Accidental Death / PTD",
+    "Major Surgery Benefit - Expenses for major surgery due to accidental injury",
+    "Outstanding Bills Payment Benefit - Payment of outstanding bills following Death /PTD"
+  ],
+  "waiting_periods": [
+    "Specific Infectious Disease Benefits: 30 Days",
+    "Hospital Daily Cash Benefits: 30 Days",
+    "Waiting periods are not applicable for renewal cases"
+  ],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [
+    "In case of the loss sharing, deductible or franchise, as opted, will be applicable"
+  ],
+  "claims_information": [
+    "Intimate/register the claim by calling 18002666 (24x7 toll-free helpline number)",
+    "Submit claim in writing at ICICI Lombard General Insurance Company Limited, ICICI Bank Tower, Plot No. 12, Financial District, Nanakram Guda, Gachibowli, Hyderabad, Andhra Pradesh- 500032",
+    "Submit required documents to the processing team immediately and if not, definitely within 7 days of the incident",
+    "Expected time for claim processing is 30 days from the day the last required document is submitted"
+  ],
+  "exclusions": [
+    "Any physical, medical or mental condition or treatment or service that is specifically excluded in the Policy Certificate under special conditions",
+    "Any hospitalization during the waiting period as specified in the Policy Certificate",
+    "Any pre-existing disease will be excluded/restricted for 2 years from the policy commencement date (only applicable for Hospital Daily Cash Benefit)",
+    "Any injury/illness occurring while working in underground mines/explosives magazines/involving electrical installation with high-tension supply/as jockeys or circus personnel",
+    "Any injury that has occurred before the policy commencement date whether or not it has been treated or medical advice has been/not been sought for it",
+    "Breach of law or while being involved in any unlawful activity",
+    "Any injury sustained in line of duty while in army, navy, air force, paramilitary force, police or any other such institution",
+    "Any injury/illness arising from intentional self-injury/suicide/attempted suicide",
+    "Any injury/illness arising while under the influence of alcohol/intoxicating drugs/substance abuse of any kind",
+    "Any medical expenses not incurred in a hospital",
+    "War, invasion, act of foreign enemy hostilities or warlike operations (whether war be declared or not) or civil commotion or rebellion, revolution, insurrection, mutiny, arrests, detainments of all kinds and political gatherings, engaging in aviation other than as a passenger (fare paying or otherwise) in any licensed standard type of aircraft"
+  ],
+  "faqs": [
+    {
+      "question": "What is the age eligibility for Family Shield policy?",
+      "answer": "Anyone who is between 3 months - 65 years of age can avail this policy."
+    },
+    {
+      "question": "What are the main categories of benefits offered under Family Shield?",
+      "answer": "The benefits are divided under 3 broad categories: Specific Infectious Diseases Benefit, Personal Accident Benefits, and Hospital Daily Cash Benefits."
+    },
+    {
+      "question": "What diseases are covered under Specific Vector Borne Disease Benefit?",
+      "answer": "It includes Malaria, Dengue, Chikungunya, Kala Azar, Japanese Encephalitis, Filariasis & Zika Fever."
+    },
+    {
+      "question": "What viral infections are covered under Specific Viral Infections Benefit?",
+      "answer": "It includes Viral Hepatitis (Hepatitis A, B, C and E), Measles, Mumps, Poliomyelitis, Avian Influenza and Swine Influenza."
+    },
+    {
+      "question": "What gastrointestinal infections are covered?",
+      "answer": "It includes Acute Inflammatory Diarrhoea & Typhoid Fever."
+    },
+    {
+      "question": "What nervous system infections are covered?",
+      "answer": "It includes Meningitis, Encephalitis, Creutzfeldt - Jakob Disease & Guillain - Barré Syndrome."
+    },
+    {
+      "question": "What is the waiting period for Specific Infectious Disease Benefits?",
+      "answer": "The waiting period is 30 Days."
+    },
+    {
+      "question": "What is the waiting period for Hospital Daily Cash Benefits?",
+      "answer": "The waiting period is 30 Days."
+    },
+    {
+      "question": "How do I register a claim?",
+      "answer": "Intimate/register the claim by calling 18002666 (24x7 toll-free helpline number) & in writing at ICICI Lombard General Insurance Company Limited."
+    },
+    {
+      "question": "Within how many days should I submit claim documents?",
+      "answer": "Submit the required documents immediately and if not, definitely within 7 days of the incident for which the claim is being made."
+    },
+    {
+      "question": "What is the expected claim processing time?",
+      "answer": "The expected time is 30 days from the day the last required document is submitted."
+    },
+    {
+      "question": "What is the renewal discount offered?",
+      "answer": "A renewal discount of 5% is applicable."
+    },
+    {
+      "question": "What family discount is available?",
+      "answer": "Family Discount of up to 7.5% is available."
+    },
+    {
+      "question": "What is the maximum policy term available?",
+      "answer": "Policy term of up to 3 years with Long Term Discount is available."
+    },
+    {
+      "question": "Are pre-existing diseases covered?",
+      "answer": "Any pre-existing disease will be excluded/restricted for 2 years from the policy commencement date (only applicable for Hospital Daily Cash Benefit)."
+    },
+    {
+      "question": "What is the grace period for renewal?",
+      "answer": "The renewal premium must be paid on or before the policy expiry date and in no case later than 30 days (grace period) from the policy expiry date."
+    },
+    {
+      "question": "Can the policy be cancelled?",
+      "answer": "The Insured may cancel this Policy by giving 15 days' written notice. The Company may also cancel the Policy on grounds of misrepresentation, non-disclosure of material facts, fraud by giving 15 days' written notice."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "You shall be allowed free look period of fifteen days (30 days if the Policy is sold through distance marketing) from date of receipt of the policy document to review the terms and conditions."
+    },
+    {
+      "question": "What happens if I work in underground mines?",
+      "answer": "Any injury/illness occurring while working in underground mines/explosives magazines/involving electrical installation with high-tension supply/as jockeys or circus personnel is excluded."
+    },
+    {
+      "question": "Are injuries from alcohol influence covered?",
+      "answer": "No, any injury/illness arising while under the influence of alcohol/intoxicating drugs/substance abuse of any kind is excluded."
+    },
+    {
+      "question": "What is covered under Adventure Sports Benefit?",
+      "answer": "Death/PTD arising while engaging in adventure sports is covered."
+    },
+    {
+      "question": "What is the Mysterious Disappearance Benefit?",
+      "answer": "It covers disappearance for more than 12 months in case of a Common Carrier accident in which insured was travelling."
+    },
+    {
+      "question": "What does the Assault Benefit cover?",
+      "answer": "It covers injury due to an accident which is a violent crime or assault & requires the insured person to be hospitalized for more than 48 hours."
+    },
+    {
+      "question": "What is covered under Children's Education Grant Benefit?",
+      "answer": "Education expenses of the insured's dependent children on Death/PTD of the insured person."
+    },
+    {
+      "question": "What does the Recovery Benefit provide?",
+      "answer": "Payout of a defined sum insured in case of Hospitalization of more than 5 days due to an accidental injury."
+    },
+    {
+      "question": "Are waiting periods applicable for renewals?",
+      "answer": "No, waiting periods for Specific Infectious Disease Benefits & Hospital Daily Cash Benefits Section are not applicable for renewal cases."
+    },
+    {
+      "question": "What is the customer support contact?",
+      "answer": "Call: 1800 2666 (24x7 toll-free number) or Email: customersupport@icicilombard.com"
+    },
+    {
+      "question": "What does the Orphan Benefit provide?",
+      "answer": "Lumpsum benefit to the insured's dependent children on Death of both parents of the insured."
+    },
+    {
+      "question": "What is covered under Lifestyle Support Benefit?",
+      "answer": "House, vehicle, office modification & prosthesis expenses arising out of PTD/PPD due to accidental injury."
+    },
+    {
+      "question": "What does the Comatose Benefit cover?",
+      "answer": "Accidental injury which results in the insured person being in a state of coma within 30 days from the date of accident."
+    }
+  ],
+  "source_file": "FS_BROC.txt",
+  "category": "Hi Document"
+}

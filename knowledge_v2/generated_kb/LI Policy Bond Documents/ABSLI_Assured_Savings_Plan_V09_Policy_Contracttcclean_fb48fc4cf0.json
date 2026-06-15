@@ -1,0 +1,193 @@
+{
+  "product_name": "Aditya Birla Sun Life Insurance Assured Savings Plan",
+  "company": "Aditya Birla Sun Life Insurance Company Limited",
+  "product_type": "A Non-Linked Non-Participating Individual Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "A non-linked, non-participating savings life insurance plan offering guaranteed returns on maturity along with loyalty additions. It provides a life insurance cover (death benefit) throughout the policy term and has an optional joint life protection feature for limited pay policies. The plan also allows for policy loans and has provisions for reviving a lapsed policy.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Equal to a multiple of the Annualized or Single Premium, as specified in the Policy Schedule.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "Suicide Clause: 12 months from the date of commencement of risk or date of revival."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In the event of death of the Life Insured during the Policy Term while the policy is in-force, a lump sum guaranteed Death Benefit is payable to the nominee. If death occurs up to the 25th Policy Year, the benefit is Sum Assured on Death plus Accrued Loyalty Additions. If death occurs after the 25th Policy Year, the benefit is the higher of Sum Assured on Death or Guaranteed Maturity Benefit, plus Accrued Loyalty Additions."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy Term, provided the policy is in-force and all premiums are paid, the Accrued Loyalty Additions plus the Guaranteed Maturity Benefit is payable to the policyholder."
+    },
+    {
+      "name": "Joint Life Protection",
+      "description": "An optional feature for Limited Pay policies that covers two lives (Primary Life Insured and spouse as Secondary Life Insured) under the same policy. On the first death, a death benefit is paid and future premiums are waived. The policy continues and provides benefits on the second death and/or at maturity."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Loyalty Additions (LA)",
+      "description": "Loyalty Additions accrue at the end of each policy year after the Premium Payment Term (PPT) until maturity, provided all due premiums have been paid. For Single Pay policies, Loyalty Additions accrue from the end of the 2nd Policy Year."
+    },
+    {
+      "name": "Guaranteed Maturity Benefit (GMB)",
+      "description": "An amount which is guaranteed to be payable on maturity of the policy. It is represented as a percentage of Total Premiums Payable over the Premium Payment Term."
+    },
+    {
+      "name": "Staggered Death Benefit",
+      "description": "The nominee has the option to receive the death benefit in equal annual or monthly instalments over a period of 5 years from the date of death of the Life Insured."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policyholders can avail a loan once the policy acquires a surrender value. The minimum loan amount is Rs. 5,000 and the maximum is up to 80% of the available Surrender Value."
+    },
+    {
+      "name": "Surrender Benefit",
+      "description": "The policy acquires a Surrender Value after premiums for the first two policy years have been paid (for Limited Pay) or anytime after issuance (for Single Pay). The surrender value is the higher of Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV)."
+    },
+    {
+      "name": "Riders",
+      "description": "Riders can be added to the policy for enhanced protection, except when the Joint Life Protection option is chosen."
+    }
+  ],
+  "eligibility": [
+    {
+      "name": "Minor Lives",
+      "description": "Policies can be issued on the life of a minor. The policy will automatically vest in favour of the Life Insured on him/her attaining the age of 18 years."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "In the event of death of the Life Insured due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the company shall refund the higher of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death. This applies to both primary and secondary life insured under a joint life policy."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Intimation",
+      "description": "Claims should be notified within 90 days from the date of the event. Intimation can be done at the nearest branch, through the customer portal (https://lifeinsurance.adityabirlacapital.com/customer-service/claim-procedure/online-claim), or via email to claimsnotification.lifeinsurance@adityabirlacapital.com. Physical documents to be sent to Aditya Birla Sun Life Insurance Company Limited, G- Corp Tech Park, 5th & 6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) – 400601."
+    },
+    {
+      "name": "Documents for Death Claim",
+      "description": "Mandatory documents include: Claimant Statement Form, Death Certificate, Original Policy Document, KYC Document of beneficiary, proof of relationship with Life Insured, and bank details of the beneficiary. Additional documents like Medical Attendant's Certificate, hospital records, Employer's Certificate, FIR, Post Mortem Report may be required for claims within 3 years or in case of accidental death."
+    },
+    {
+      "name": "Documents for Maturity Claim",
+      "description": "Required documents are the Original Policy Document and the Policy Payout Form. The maturity amount will be credited to the policyholder's registered bank account."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ABSLI Assured Savings Plan?",
+      "answer": "It is a non-linked, non-participating individual savings life insurance plan from Aditya Birla Sun Life Insurance."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "The death benefit is a lump sum. If death occurs up to the 25th policy year, it is the Sum Assured on Death plus Accrued Loyalty Additions. If after the 25th policy year, it is the higher of Sum Assured on Death or Guaranteed Maturity Benefit, plus Accrued Loyalty Additions."
+    },
+    {
+      "question": "What is the Sum Assured on Death?",
+      "answer": "For Single Pay policies, it is the Sum Assured. For Limited Pay policies, it is the higher of 150% of the Total Premiums Paid up to the date of death or the Sum Assured."
+    },
+    {
+      "question": "What will I receive if I survive until the policy maturity date?",
+      "answer": "On survival till the end of the policy term, provided the policy is in-force and all due premiums have been paid, you will receive the Accrued Loyalty Additions plus the Guaranteed Maturity Benefit."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions accrue at the end of each policy year after the Premium Payment Term (PPT) until maturity, provided all due premiums have been paid. For Single Pay policies, they accrue from the end of the 2nd Policy Year."
+    },
+    {
+      "question": "What is the 'Joint Life Protection' option?",
+      "answer": "This option covers two lives, the Primary Life Insured and their spouse (Secondary Life Insured), under the same policy. It is available only for Limited Pay policies and must be chosen at the inception of the policy."
+    },
+    {
+      "question": "What happens if the Primary Life Insured dies under the Joint Life Protection option?",
+      "answer": "The Sum Assured on Death for the Primary Life Insured is paid, all future due premiums are waived, and the Secondary Life Insured becomes the sole policyholder. The policy continues until maturity."
+    },
+    {
+      "question": "Is there an option to receive the death benefit in instalments?",
+      "answer": "Yes, the nominee has the option to receive the death benefit in equal annual or monthly instalments over a period of 5 years. This is called the Staggered Death Benefit option."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 30 days for all premium payment frequencies, except for the monthly frequency, for which it is 15 days."
+    },
+    {
+      "question": "What happens if I fail to pay the premium within the grace period?",
+      "answer": "If premiums for the first two full policy years have not been paid, the policy will lapse. If at least two full years' premiums have been paid, the policy will be converted to a Reduced Paid-Up (RPU) policy."
+    },
+    {
+      "question": "What is a Reduced Paid-Up (RPU) policy?",
+      "answer": "It is a policy state where premium payments have stopped after the policy has acquired a surrender value. The benefits like Sum Assured and Maturity Benefit are reduced proportionally. RPU policies are not entitled to any Loyalty Additions."
+    },
+    {
+      "question": "Can I revive a lapsed or RPU policy?",
+      "answer": "Yes, you can apply to revive the policy within a Revival Period of 5 consecutive years from the due date of the first unpaid premium, subject to payment of all due premiums with interest and providing satisfactory evidence of health."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 30-day free-look period from the date of receipt of the policy to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation and a refund of premium paid, subject to certain deductions."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "For Limited Pay policies, you can surrender after the first two full policy years' premiums have been paid. For Single Pay policies, you can surrender at any time after policy issuance."
+    },
+    {
+      "question": "How much will I get if I surrender my policy?",
+      "answer": "The Surrender Value payable will be the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV)."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, you can take a policy loan if the policy has acquired a Surrender Value. The minimum loan amount is Rs. 5,000 and the maximum is up to 80% of the Surrender Value."
+    },
+    {
+      "question": "What is the interest rate on the policy loan?",
+      "answer": "The interest on loan is declared by the company on June 1st of every calendar year. As of June 1st 2023, the rate was 11.10% p.a. (compounded)."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If the life insured dies due to suicide within 12 months from the policy's risk commencement date or the date of revival, the company will only refund the higher of the Total Premiums Paid or the Surrender Value available."
+    },
+    {
+      "question": "How do I file a death claim?",
+      "answer": "The claimant should notify the company with proof of claim within 90 days of death. You can intimate the claim at the nearest branch, through the online portal, or via email. The required documents must be submitted to the company."
+    },
+    {
+      "question": "What documents are required for a death claim?",
+      "answer": "Mandatory documents include the Claimant Statement Form, Death Certificate, Original Policy Document, and KYC and bank details of the beneficiary. Additional documents may be required for early or accidental death claims."
+    },
+    {
+      "question": "How do I file a maturity claim?",
+      "answer": "For maturity benefit, you need to provide the original policy document and the Policy Payout Form. The proceeds will be credited to your registered bank account."
+    },
+    {
+      "question": "Can I change the nominee on my policy?",
+      "answer": "Yes, nomination can be changed at any time before the maturity of the policy by an endorsement on the policy or by communicating in writing to the company, as per Section 39 of the Insurance Act, 1938."
+    },
+    {
+      "question": "What happens if the policy is on a minor's life?",
+      "answer": "The policy automatically vests in favour of the minor life insured upon them attaining the age of 18 years."
+    },
+    {
+      "question": "What happens if the policyholder, who is different from the life insured, dies?",
+      "answer": "The Legal Heir(s) of the deceased Policyholder will be considered the new Policyholder. No death benefit is payable under the Policy on the death of the policyholder."
+    },
+    {
+      "question": "How can I get a duplicate policy document if I lose the original?",
+      "answer": "You can request a duplicate policy at an ABSLI office by submitting a notarized original indemnity bond on stamp paper. There are no additional charges for issuing a duplicate policy."
+    },
+    {
+      "question": "Who can I contact for grievances?",
+      "answer": "You can contact the Grievance Officer at the Customer Care Unit via post, branch visit, toll-free number (1-800-270-7000), or email. If unsatisfied, you can escalate to the Head Service Assurance, and then to IRDAI or the Insurance Ombudsman."
+    },
+    {
+      "question": "Are riders available with this plan?",
+      "answer": "Yes, riders can be opted with this policy, except in cases where the Joint Life Protection option is chosen."
+    }
+  ],
+  "source_file": "ABSLI_Assured_Savings_Plan_V09_Policy_Contracttcclean_fb48fc4cf0.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,237 @@
+{
+  "product_name": "HDFC Life Assured Gain Plus",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An Individual Non-linked Participating Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "An individual non-linked participating savings life insurance plan that provides financial protection to your family in your absence and also pays a lump sum on survival at the end of the policy term. It offers life insurance cover for the full policy term with limited premium payment years, a guaranteed sum assured on maturity, and potential for additional returns through bonuses.",
+  "quick_facts": {
+    "minimum_age": "3 years for 15/20/25/30 year policy term; 6 years for 12 year policy term; 8 years for 10 year policy term",
+    "maximum_age": "65 Years",
+    "sum_insured": "Minimum Sum Assured on Maturity for Limited Premium is based on minimum premium. For Single premium, it is Rs. 197,323.",
+    "policy_term": "10, 12, 15, 20, 25, 30 years",
+    "waiting_period": "For minor life assured (age less than 12 years), full risk cover commences from the last day of the second policy year."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "Pays Sum Assured on death, plus applicable Guaranteed Terminal Additions, Vested Simple Reversionary bonus (if declared), and Terminal Bonus (if declared)."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival till the end of the policy term, the plan pays Sum Assured on Maturity, plus applicable Guaranteed Terminal Additions, Vested Simple Reversionary bonus (if declared), and Terminal Bonus (if declared). The benefit shall not be less than 101% of total premium payable."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Option to enhance protection with HDFC Life Income Benefit on Accidental Disability Rider and HDFC Life Protect Plus Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "benefit": "Limited Premium Payment",
+      "description": "Life cover for the full policy term while paying premiums for a limited period."
+    },
+    {
+      "benefit": "Guaranteed Returns",
+      "description": "Provides a Guaranteed Sum Assured on Maturity and Guaranteed Terminal Additions."
+    },
+    {
+      "benefit": "Bonus Potential",
+      "description": "Potential for additional returns through Simple Reversionary Bonus and Terminal Bonus, if declared by the company."
+    },
+    {
+      "benefit": "Enhanced Protection",
+      "description": "Option to enhance protection with riders for events like accidental disability or critical illness."
+    },
+    {
+      "benefit": "Loan Facility",
+      "description": "Policy loan facility is available, up to a maximum of 80% of the surrender value."
+    },
+    {
+      "benefit": "Premium Discount",
+      "description": "A premium size discount is provided for paying higher premiums."
+    },
+    {
+      "benefit": "Tax Benefits",
+      "description": "Tax benefits may be available as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "value": "3 Years (for Policy Term 15/20/25/30), 6 Years (for Policy Term 12), 8 Years (for Policy Term 10)."
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "value": "65 Years"
+    },
+    {
+      "criteria": "Minimum Maturity Age",
+      "value": "18 Years"
+    },
+    {
+      "criteria": "Maximum Maturity Age",
+      "value": "85 Years"
+    },
+    {
+      "criteria": "Policy Term(s)",
+      "value": "10, 12, 15, 20, 25, 30 years"
+    },
+    {
+      "criteria": "Premium Payment Term(s)",
+      "value": "Single Pay or Limited Pay (5, 6, 7, 8, 10, 12 years)"
+    },
+    {
+      "criteria": "Minimum Premium",
+      "value": "Annual: Rs. 30,000; Semi Annual: Rs. 18,000; Monthly: Rs. 3,000; Single Premium: Rs. 2,50,000."
+    },
+    {
+      "criteria": "Maximum Premium",
+      "value": "No Limit, subject to board approved underwriting."
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "value": "Annual, Semi-Annual, Monthly, Single."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Helpline",
+      "contact": "022-68446530"
+    },
+    {
+      "type": "Email (General)",
+      "contact": "service@hdfclife.com"
+    },
+    {
+      "type": "Email (NRI)",
+      "contact": "nriservice@hdfclife.com"
+    },
+    {
+      "type": "Website",
+      "contact": "https://www.hdfclife.com/customer-service/grievance-redressal"
+    },
+    {
+      "type": "In-Person",
+      "contact": "Visit any HDFC Life Branch."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Assured Gain Plus?",
+      "answer": "It is an individual non-linked participating savings life insurance plan that provides both financial protection for your family and a lump sum payment on survival at the end of the policy term."
+    },
+    {
+      "question": "What are the key features of this plan?",
+      "answer": "The key features include life insurance cover for the full policy term with limited premium payments, a guaranteed sum assured on maturity, and potential upside returns through bonuses."
+    },
+    {
+      "question": "Who is eligible to purchase this policy?",
+      "answer": "The minimum entry age varies from 3 to 8 years depending on the policy term, and the maximum entry age is 65 years. The maximum maturity age is 85 years."
+    },
+    {
+      "question": "What is the minimum entry age for this plan?",
+      "answer": "The minimum entry age is 3 years for a 15, 20, 25, or 30-year policy term; 6 years for a 12-year policy term; and 8 years for a 10-year policy term."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "You can choose from policy terms of 10, 12, 15, 20, 25, or 30 years."
+    },
+    {
+      "question": "What are the premium payment options available?",
+      "answer": "You can choose to pay a Single Premium or opt for a Limited Premium Payment Term of 5, 6, 7, 8, 10, or 12 years."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum premium is Rs. 30,000 for annual mode, Rs. 18,000 for semi-annual, Rs. 3,000 for monthly, and Rs. 2,50,000 for a single premium."
+    },
+    {
+      "question": "What is the Death Benefit under this policy?",
+      "answer": "The Death Benefit includes the Sum Assured on death, plus any applicable Guaranteed Terminal Additions, vested Simple Reversionary bonus, and Terminal Bonus, if declared."
+    },
+    {
+      "question": "How is the Sum Assured on Death calculated for a limited premium policy?",
+      "answer": "For a limited premium policy, it is the higher of 'X' times the Annualized Premium (where X is 7 or 10 depending on age) or 105% of the total premiums paid till the date of death."
+    },
+    {
+      "question": "How is the Sum Assured on Death calculated for a single premium policy?",
+      "answer": "For a single premium policy, the Sum Assured on Death is calculated as 1.25 times the Single Premium."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "On survival to the end of the policy term, you receive the Sum Assured on Maturity, plus any applicable Guaranteed Terminal Additions, vested Simple Reversionary bonus, and Terminal Bonus, if declared."
+    },
+    {
+      "question": "Are the bonuses guaranteed under this plan?",
+      "answer": "No, the Simple Reversionary Bonus and Terminal Bonus are not guaranteed. They are declared based on the performance of the company's participating fund. However, once a bonus is declared, it becomes guaranteed."
+    },
+    {
+      "question": "What are Guaranteed Terminal Additions (GTA)?",
+      "answer": "Guaranteed Terminal Additions are an amount calculated as a percentage of the 'Sum Assured on Maturity' which is paid on policy maturity or death, whichever is earlier."
+    },
+    {
+      "question": "When does the policy start paying Guaranteed Terminal Additions?",
+      "answer": "Guaranteed Terminal Additions are payable starting from the end of the 5th policy year, in case of maturity or death."
+    },
+    {
+      "question": "Can I add extra protection to my policy?",
+      "answer": "Yes, you can enhance your protection by opting for available rider options."
+    },
+    {
+      "question": "What riders are available with HDFC Life Assured Gain Plus?",
+      "answer": "The available riders are HDFC Life Income Benefit on Accidental Disability Rider and HDFC Life Protect Plus Rider."
+    },
+    {
+      "question": "Do I get any discounts for paying a higher premium?",
+      "answer": "Yes, the plan offers a premium size discount if you pay higher premiums. The discount rate increases with the premium amount."
+    },
+    {
+      "question": "Are there any tax benefits with this plan?",
+      "answer": "Tax benefits may be available as per the prevailing tax laws. It is advisable to consult a tax advisor for details."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 15 days is available for monthly premium payments, and 30 days for annual, half-yearly, and quarterly payments. It is not applicable for Single Premium policies."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums after paying for at least one full year, the policy will acquire a 'reduced paid-up' status with reduced benefits. If less than one year's premium is paid, the policy will lapse and all benefits will cease."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed policy can be revived within five years from the due date of the first unpaid premium, subject to company terms and conditions."
+    },
+    {
+      "question": "Is it possible to surrender the policy before maturity?",
+      "answer": "Yes. For Limited Premium policies, you can surrender after one full year's premium has been paid. For Single Premium policies, you can surrender at any time during the policy term."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, a policy loan is available for up to a maximum of 80% of the policy's surrender value, subject to terms and conditions."
+    },
+    {
+      "question": "What is the policy's free-look period?",
+      "answer": "You have a 30-day free-look period from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return it for a refund."
+    },
+    {
+      "question": "What is the rule for a minor life assured?",
+      "answer": "If the life assured is less than 12 years old, full risk cover starts from the last day of the second policy year. If death occurs before this, the death benefit is a refund of total premiums paid without interest."
+    },
+    {
+      "question": "Can I change the terms of my policy after purchasing it?",
+      "answer": "No alterations are allowed other than changing the premium payment mode in this policy."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums annually, semi-annually, monthly, or as a single premium."
+    }
+  ],
+  "source_file": "HDFC-ASSURED-GAIN-PLUS-BROCHURE (1).txt",
+  "category": "LI Plan Brochure"
+}

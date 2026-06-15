@@ -1,0 +1,190 @@
+{
+  "product_name": "HDFC Life Click 2 Achieve",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "HDFC Life Click 2 Achieve is an individual, non-linked, non-participating savings life insurance plan. It offers two plan options: 'Smart Student' and 'Dream Achiever'. The plan provides a combination of death, survival, and maturity benefits, along with optional waiver of premium riders for events like death, critical illness, or disability of the policyholder. The 'Smart Student' option is tailored for educational milestones, while 'Dream Achiever' provides regular survival benefits and a lump sum at maturity.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "For Smart Student option: 10 times of Annualised Premium. For Dream Achiever option: As specified in the Policy Schedule.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "There is no waiting period for the death benefit."
+  },
+  "coverage": [
+    "Death of the Life Assured during the policy term.",
+    "Survival of the Life Assured to specified milestones or maturity date.",
+    "Diagnosis of a covered Critical Illness of the Policyholder (for Waiver of Premium benefit).",
+    "Occurrence of Total and Permanent Disability of the Policyholder (for Waiver of Premium benefit).",
+    "Diagnosis of a covered Juvenile Critical Illness of the Life Assured (if opted for)."
+  ],
+  "benefits": [
+    {
+      "name": "Smart Student Plan Option",
+      "details": [
+        "Death Benefit: Highest of Sum Assured on Death (10 times Annualised Premium), 105% of Total Premiums paid, or Surrender Value on date of death.",
+        "Survival Benefit: Payable in the policy year in which the Life Assured is aged either 16 or 18 years, for 3, 4, or 5 Policy Years as chosen at inception.",
+        "Maturity Benefit: There is no maturity benefit payable under this option.",
+        "Achievement Benefit: A payout of 2 times the Annualized Premium, payable once, if the life assured achieves specific academic or sports milestones.",
+        "Waiver of Premium: On death, specified critical illness, or total and permanent disability of the Policyholder, all future premiums are waived."
+      ]
+    },
+    {
+      "name": "Dream Achiever Plan Option",
+      "details": [
+        "Death Benefit: Highest of Sum Assured on Death, 105% of Total Premiums paid, or Surrender Value on date of death.",
+        "Survival Benefit: Payable in arrears during the Policy Term as chosen by the policyholder at inception.",
+        "Maturity Benefit: Sum Assured on Maturity is payable upon survival till the Maturity Date.",
+        "Income Benefit: An optional income benefit for a chosen duration, starting from the policy maturity date.",
+        "Waiver of Premium (Optional): On death, specified critical illness, or total and permanent disability of the Policyholder, all future premiums are waived."
+      ]
+    }
+  ],
+  "eligibility": [
+    "The policy can be issued on the life of a minor.",
+    "Specific entry and maturity age limits are not detailed in the provided document."
+  ],
+  "exclusions": [
+    "Suicide: Specific details on suicide exclusions are located in Part F of the policy document, which is not fully provided.",
+    "Cancer of Specified Severity: Excludes tumors described as carcinoma in situ, benign, pre-malignant, non-invasive, certain non-melanoma skin carcinomas, low-grade prostate and thyroid cancers, and early-stage chronic lymphocytic leukaemia.",
+    "Myocardial Infarction (Heart Attack): Excludes other acute coronary syndromes, any type of angina pectoris, and a rise in cardiac biomarkers in the absence of overt ischemic heart disease.",
+    "Stroke: Excludes Transient Ischemic Attacks (TIA), traumatic brain injury, and vascular disease affecting only the eye, optic nerve or vestibular functions.",
+    "Coma: Excludes comas resulting from alcohol or drug abuse.",
+    "Liver Failure: Excludes liver failure secondary to drug or alcohol abuse.",
+    "Aorta Graft Surgery: Excludes surgery performed using only minimally invasive or intra-arterial techniques, angioplasty, and other catheter-based procedures.",
+    "Parkinson's Disease: Excludes Parkinson's disease secondary to drug and/or alcohol abuse.",
+    "Benign Brain Tumor: Excludes cysts, granulomas, malformations in arteries or veins of the brain, hematomas, abscesses, pituitary tumors, tumors of skull bones and tumors of the spinal cord.",
+    "Loss of Limbs: Excludes loss of limbs resulting directly or indirectly from self-inflicted injury, alcohol or drug abuse."
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Procedure",
+      "details": "The detailed claim procedure is outlined in Part F, Clause 6 of the policy document."
+    },
+    {
+      "type": "Recipient of Benefits",
+      "details": "Death Benefit is payable to the nominee or the policyholder (if different from the life assured). All other benefits are payable to the policyholder. If the policy is assigned, all benefits are payable to the assignee."
+    },
+    {
+      "type": "Contact Information",
+      "details": "Toll-free number: 1800 266 9777. Email: onlinequery@hdfclife.in or service@hdfclife.com. Correspondence Address: HDFC Life Insurance Company Limited, 11th Floor Lodha Excelus, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi, Mumbai-400011."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click 2 Achieve?",
+      "answer": "It is an individual, non-linked, non-participating, savings life insurance plan offered by HDFC Life Insurance Company Limited."
+    },
+    {
+      "question": "What is the Free-Look period for this policy?",
+      "answer": "You have a Free-Look period of 30 days from the date of receipt of the policy to review the terms and conditions."
+    },
+    {
+      "question": "How can I cancel the policy during the Free-Look period?",
+      "answer": "You can return the policy to HDFC Life for cancellation within the 30-day Free-Look period, stating the reasons for your disagreement with the terms and conditions."
+    },
+    {
+      "question": "What refund will I get if I cancel during the Free-Look period?",
+      "answer": "HDFC Life will refund the premium paid, subject to a deduction of the proportionate risk premium for the period of cover, expenses for medical examination (if any), and stamp duty charges."
+    },
+    {
+      "question": "How can I contact HDFC Life for service or queries?",
+      "answer": "You can call the toll-free number 1800 266 9777, email onlinequery@hdfclife.in, or write to the correspondence address: HDFC Life Insurance Company Limited, 11th Floor Lodha Excelus, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi, Mumbai-400011."
+    },
+    {
+      "question": "What is the grace period for paying my premium?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other payment frequencies (annual, half-yearly, quarterly)."
+    },
+    {
+      "question": "What are the available premium payment frequencies?",
+      "answer": "You can choose to pay premiums on a yearly, half-yearly, quarterly, or monthly basis."
+    },
+    {
+      "question": "What are the two main plan options available?",
+      "answer": "The policy offers two options: 'Smart Student' and 'Dream Achiever'."
+    },
+    {
+      "question": "What is the Death Benefit under the 'Smart Student' option?",
+      "answer": "The Death Benefit is the highest of: Sum Assured on Death (which is 10 times the Annualised Premium), 105% of Total Premiums paid, or the Surrender Value on the date of death."
+    },
+    {
+      "question": "Is there a maturity benefit in the 'Smart Student' option?",
+      "answer": "No, there is no maturity benefit payable under the 'Smart Student' option. The last instalment of the survival benefit is payable on maturity."
+    },
+    {
+      "question": "What is the 'Achievement Benefit' under the 'Smart Student' option?",
+      "answer": "It is a one-time payment of 2 times the Annualized Premium if the life assured achieves certain specified academic or sports milestones."
+    },
+    {
+      "question": "What achievements qualify for the 'Achievement Benefit'?",
+      "answer": "Qualifying achievements include admission to top-ranked universities, qualifying for the Olympics, or winning a medal in major international sports or art competitions like the Asian Games, Commonwealth Games, or Delphic Games."
+    },
+    {
+      "question": "What is the Death Benefit under the 'Dream Achiever' option?",
+      "answer": "The Death Benefit is the highest of: Sum Assured on Death, 105% of Total Premiums paid, or the Surrender Value on the date of death."
+    },
+    {
+      "question": "What benefits are payable on maturity under the 'Dream Achiever' option?",
+      "answer": "On survival to maturity, the Sum Assured on Maturity is payable. Additionally, you can opt for an income benefit for a chosen duration starting from the maturity date."
+    },
+    {
+      "question": "What is the Waiver of Premium (WOP) benefit?",
+      "answer": "The Waiver of Premium benefit ensures that if the policyholder dies, suffers a total and permanent disability, or is diagnosed with a covered critical illness during the premium paying term, all future premiums are waived by the company and the policy continues with its benefits."
+    },
+    {
+      "question": "Who receives the policy benefits?",
+      "answer": "The Death Benefit is paid to the nominee (or policyholder if different from the life assured). All other benefits like survival and maturity benefits are paid to the policyholder. If the policy is assigned, the assignee receives the benefits."
+    },
+    {
+      "question": "What is the revival period for a lapsed policy?",
+      "answer": "The revival period is five consecutive years from the date of the first unpaid premium, during which you can restore the policy by paying all due premiums and charges."
+    },
+    {
+      "question": "What does 'Annualized Premium' mean?",
+      "answer": "Annualized Premium is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "What are the 'Activities of Daily Living' (ADL)?",
+      "answer": "The six Activities of Daily Living are Washing, Dressing, Transferring, Mobility, Toileting, and Feeding. The inability to perform a certain number of these is a condition for several disability and critical illness claims."
+    },
+    {
+      "question": "What are some key exclusions for the 'Cancer of Specified Severity' coverage?",
+      "answer": "The coverage excludes all tumors which are histologically described as carcinoma in situ, benign, pre-malignant, or non-invasive. It also excludes certain early-stage skin, prostate, thyroid, and bladder cancers."
+    },
+    {
+      "question": "Is a transient ischemic attack (TIA) covered under the Stroke definition?",
+      "answer": "No, Transient Ischemic Attacks (TIA) are specifically excluded from the definition of Stroke."
+    },
+    {
+      "question": "Is Parkinson's disease caused by drug or alcohol abuse covered?",
+      "answer": "No, Parkinson's disease secondary to drug and/or alcohol abuse is specifically excluded."
+    },
+    {
+      "question": "What are the conditions for a 'Benign Brain Tumor' to be covered?",
+      "answer": "The benign brain tumor must be life-threatening and result in either a permanent neurological deficit for at least 90 days or require surgical resection or radiation therapy. Cysts, abscesses, and pituitary tumors are among the exclusions."
+    },
+    {
+      "question": "What is the definition of 'Blindness' for critical illness claims?",
+      "answer": "It is defined as the total, permanent, and irreversible loss of all vision in both eyes, where corrected visual acuity is 3/60 or less, or the field of vision is less than 10 degrees in both eyes."
+    },
+    {
+      "question": "How is 'Total and Permanent Disability' (TPD) defined for the WOP benefit?",
+      "answer": "TPD is defined as the inability to perform at least 3 of the 6 Activities of Daily Living for a continuous period of 6 months, or the total and irrecoverable loss of sight in both eyes, or the loss of two or more limbs at or above the wrist or ankle."
+    },
+    {
+      "question": "Does the 'Aorta Graft Surgery' benefit cover minimally invasive techniques?",
+      "answer": "No, surgery performed using only minimally invasive or intra-arterial techniques, such as angioplasty and catheter-based procedures, are excluded."
+    },
+    {
+      "question": "What is the Sum Assured on Death for the Smart Student plan?",
+      "answer": "Under the Smart Student plan, the Sum Assured on Death is defined as 10 times the Annualised Premium."
+    },
+    {
+      "question": "What happens if the nominee is a minor when the death benefit becomes payable?",
+      "answer": "If the nominee is a minor, the death benefit is paid to the Appointee named in the policy schedule, who is authorized to receive the benefit on behalf of the minor nominee."
+    }
+  ],
+  "source_file": "HDFC-Life-Click-2-Achieve-Policy-Bond-07.txt",
+  "category": "LI Policy Bond Documents"
+}

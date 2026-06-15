@@ -1,0 +1,215 @@
+{
+  "product_name": "ICICI Pru Protect N Gain Whole Life",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "A Linked, Non-Participating, Individual, Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "ULIP",
+  "summary": "ICICI Pru Protect N Gain Whole Life is a Unit Linked, Non-Participating, Individual, Savings Life Insurance Plan that offers life cover until the age of 99. As a ULIP, the investment risk is borne by the policyholder. The plan provides market-linked returns and features benefits such as a maturity benefit, loyalty additions, a maturity booster, and the return of certain charges. It also offers flexibility through multiple portfolio strategies and unlimited free fund switches.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "50 years",
+    "sum_insured": "Minimum ₹50,00,000",
+    "policy_term": "99 less age at entry (in years)",
+    "waiting_period": "5-year lock-in period. Policyholder cannot surrender or withdraw monies, partially or completely, during the first five years."
+  },
+  "coverage": [
+    {
+      "name": "Life Insurance Cover",
+      "description": "Provides life cover until age 99. The Death Benefit is the highest of: Max(10 x Annualised Premium, Death benefit factor x Sum Assured) plus Top-up Sum Assured (if any); Fund Value; or 105% of the total premiums paid."
+    },
+    {
+      "name": "Accidental Death Cover",
+      "description": "Available through the 'ICICI Pru Linked Accidental Death and Disability Rider'. A lump sum is paid in case of death due to an accident."
+    },
+    {
+      "name": "Accidental Disability Cover",
+      "description": "Available through the 'ICICI Pru Linked Accidental Death and Disability Rider'. A lump sum is paid in case of permanent disability due to an accident."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Maturity Benefit",
+      "description": "A lump-sum amount equal to the policy fund value is paid out at the maturity of the policy."
+    },
+    {
+      "name": "Maturity Booster",
+      "description": "An additional 20% of the average of the Fund Values of the last eight policy quarters is added to the fund value at maturity."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Extra units equal to 0.50% of the average Fund Value of the last eight policy quarters are allocated from policy year (67 less Entry Age) onwards, provided all premiums are paid."
+    },
+    {
+      "name": "Return of Mortality Charges",
+      "description": "Starting from the 11th policy year, 1X of mortality charges deducted 120 months earlier will be added back to the fund value."
+    },
+    {
+      "name": "Return of Premium Allocation Charges",
+      "description": "Starting from the 11th policy year, 1X of premium allocation charges deducted 120 months earlier will be added back to the fund value."
+    },
+    {
+      "name": "Cover Continuance Booster",
+      "description": "Protects from adverse market scenarios by adding units if the Fund Value falls below a certain threshold after the premium payment term."
+    },
+    {
+      "name": "Investment Flexibility",
+      "description": "Choice of 4 portfolio strategies and a wide range of funds across equity, balanced, and debt."
+    },
+    {
+      "name": "Unlimited Free Switches",
+      "description": "For the Fixed Portfolio Strategy, policyholders can switch between funds an unlimited number of times, free of cost."
+    },
+    {
+      "name": "Systematic Withdrawal Plan",
+      "description": "Option to receive regular payments from the fund value. This is allowed only after the first five policy years."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available as per the prevailing tax laws. Please consult a tax advisor for details."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "50 years"
+    },
+    {
+      "criteria": "Age at Maturity",
+      "value": "99 years"
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "99 less age at entry (in years)"
+    },
+    {
+      "criteria": "Premium Payment Option",
+      "value": "Limited Pay"
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "value": "7-12 years"
+    },
+    {
+      "criteria": "Minimum Sum Assured",
+      "value": "₹50,00,000"
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [],
+  "faqs": [
+    {
+      "question": "What type of plan is ICICI Pru Protect N Gain Whole Life?",
+      "answer": "It is a Unit Linked, Non-Participating, Individual, Savings Life Insurance Plan (ULIP). Its UIN is 105L208V01."
+    },
+    {
+      "question": "Who is responsible for the investment risk in this policy?",
+      "answer": "As a ULIP, the investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "For how long does the life cover last?",
+      "answer": "The plan provides life insurance cover until the age of 99."
+    },
+    {
+      "question": "Is there a lock-in period for this policy?",
+      "answer": "Yes, there is a lock-in period of five years. During this time, the policyholder cannot surrender or withdraw the invested money, either completely or partially."
+    },
+    {
+      "question": "What is the minimum and maximum age to purchase this policy?",
+      "answer": "The minimum age at entry is 18 years, and the maximum is 50 years."
+    },
+    {
+      "question": "How is the policy term determined?",
+      "answer": "The policy term is calculated as 99 years minus the policyholder's age at the time of entry."
+    },
+    {
+      "question": "What is the minimum sum assured offered under this plan?",
+      "answer": "The minimum Sum Assured is ₹50,00,000."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The plan has a Limited Pay option with premium payment terms ranging from 7 to 12 years."
+    },
+    {
+      "question": "What benefit is paid upon the maturity of the policy?",
+      "answer": "At maturity, a lump-sum amount equal to the policy's fund value is paid out."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "The Death Benefit payable is the highest of: 1) Maximum of (10 x Annualised Premium, or Death benefit factor x Sum Assured) plus any Top-up Sum Assured, 2) Fund Value as on the date of death intimation, or 3) 105% of total premiums paid up to the date of death."
+    },
+    {
+      "question": "What is the Maturity Booster?",
+      "answer": "At policy maturity, an additional amount, called Maturity Booster, is added to the fund value. This is equal to 20% of the average of the Fund Values on the last business day of the last eight policy quarters."
+    },
+    {
+      "question": "Does this plan offer loyalty benefits?",
+      "answer": "Yes, it offers Loyalty Additions. Extra units are allocated from policy year (67 less Entry Age) onwards, equal to 0.50% of the average Fund Values of the last eight policy quarters."
+    },
+    {
+      "question": "Will any of the deducted charges be returned to me?",
+      "answer": "Yes. Starting from the 11th policy year, 100% of the premium allocation charges and mortality charges deducted 120 months earlier will be added back to the fund value as additional units."
+    },
+    {
+      "question": "Does the plan cover accidental death or disability?",
+      "answer": "Yes, Accidental Death and Disability cover is available as a lump sum payment through an optional additional rider, the 'ICICI Pru Linked Accidental Death and Disability Rider' (UIN:105A043V03)."
+    },
+    {
+      "question": "What investment choices do I have with this plan?",
+      "answer": "The plan provides a choice of 4 portfolio strategies and a wide range of funds across equity, balanced, and debt asset classes."
+    },
+    {
+      "question": "Can I switch between different investment funds?",
+      "answer": "Yes, if you opt for the Fixed Portfolio Strategy, you can make unlimited switches between funds, completely free of cost."
+    },
+    {
+      "question": "Can I make regular withdrawals from my policy fund?",
+      "answer": "Yes, the plan offers a Systematic Withdrawal Plan (SWP) that allows you to receive regular payments from your fund value."
+    },
+    {
+      "question": "When can I start a Systematic Withdrawal Plan (SWP)?",
+      "answer": "The Systematic Withdrawal Plan is only allowed after the completion of the first five policy years."
+    },
+    {
+      "question": "Are there any tax benefits associated with this plan?",
+      "answer": "Tax benefits may be available as per the prevailing tax laws. It is recommended to consult your tax advisor for specific details."
+    },
+    {
+      "question": "What is the Cover Continuance Booster?",
+      "answer": "After the premium payment term ends, if your Fund Value is less than the total annualized premium paid (minus withdrawals), the company adds extra units to your fund each month to provide protection from adverse market scenarios."
+    },
+    {
+      "question": "What is the 'Death benefit factor' used in calculations?",
+      "answer": "The Death benefit factor is a multiplier applied to the Sum Assured when calculating the Death Benefit. It starts at 1.0 and reduces over the policy years."
+    },
+    {
+      "question": "Where can I find the complete terms and conditions of the policy?",
+      "answer": "For complete details on risk factors, terms, and conditions, you must read the sales brochure and policy document carefully before purchasing the policy."
+    },
+    {
+      "question": "What does 'Non-Participating' mean?",
+      "answer": "A non-participating plan means the policyholder does not share in the profits of the insurance company. The benefits are guaranteed as per the policy contract and are not dependent on the company's performance."
+    },
+    {
+      "question": "What is the UIN of the Accidental Death and Disability Rider?",
+      "answer": "The UIN for the ICICI Pru Linked Accidental Death and Disability Rider is 105A043V03."
+    },
+    {
+      "question": "Who can I contact for more information?",
+      "answer": "You can call 1-860-266-7766 from 10 am to 7 pm, Monday to Saturday (except national holidays), for calls made from within India."
+    },
+    {
+      "question": "What is a 'unit' in this ULIP plan?",
+      "answer": "A unit represents a specific portion or part of the Unit Linked Fund(s) in which you have invested your money."
+    },
+    {
+      "question": "When are Loyalty Additions paid?",
+      "answer": "Loyalty Additions are allocated as extra units from Policy year (67 less Entry Age) onwards, at the end of each policy year, provided all due premiums have been paid."
+    }
+  ],
+  "source_file": "ICICI_Pru_Protect_N_Gain_Whole_Life_Website.txt",
+  "category": "LI Plan Brochure"
+}

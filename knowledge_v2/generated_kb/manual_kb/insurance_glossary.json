@@ -1,0 +1,287 @@
+{
+  "product_name": "Insurance Glossary",
+  "company": "General Insurance Knowledge",
+  "category": "Manual Knowledge",
+  "summary": "Definitions of common insurance concepts used across life and health insurance products.",
+  "faqs": [
+        {
+  "question":"What is death benefit?",
+  "answer":"Death benefit is the amount paid by the insurance company to the nominee or beneficiary if the insured person dies during the policy term."
+},
+{
+  "question":"Explain death benefit",
+  "answer":"Death benefit is the amount paid by the insurance company to the nominee or beneficiary if the insured person dies during the policy term."
+},
+{
+  "question":"What is maturity benefit?",
+  "answer":"Maturity benefit is the amount paid to the policyholder if they survive until the end of the policy term."
+},
+{
+  "question":"Explain maturity benefit",
+  "answer":"Maturity benefit is the amount paid to the policyholder if they survive until the end of the policy term."
+},
+{
+  "question":"What is nominee?",
+  "answer":"A nominee is the person chosen by the policyholder to receive policy benefits in the event of the policyholder's death."
+},
+{
+  "question":"Who is a nominee?",
+  "answer":"A nominee is the person chosen by the policyholder to receive policy benefits in the event of the policyholder's death."
+},
+{
+  "question":"What is rider?",
+  "answer":"A rider is an optional add-on benefit that enhances the coverage of a base insurance policy."
+},
+{
+  "question":"Explain rider in insurance",
+  "answer":"A rider is an optional add-on benefit that enhances the coverage of a base insurance policy."
+},
+{
+  "question":"What is premium?",
+  "answer":"Premium is the amount paid by the policyholder to the insurance company to keep the policy active."
+},
+{
+  "question":"What is policy term?",
+  "answer":"Policy term is the duration for which the insurance policy remains in force."
+},
+{
+  "question":"What is surrender value?",
+  "answer":"Surrender value is the amount payable if a policyholder voluntarily terminates an eligible policy before maturity."
+},
+{
+  "question":"What is grace period?",
+  "answer":"Grace period is the extra time allowed after the premium due date during which the policy remains active and the premium can still be paid."
+},
+{
+  "question":"What is free look period?",
+  "answer":"Free look period is the period during which a new policyholder can review and cancel the policy if dissatisfied, subject to insurer rules."
+},
+
+
+
+    {
+      "question": "What is term insurance?",
+      "answer": "Term insurance is a life insurance policy that provides financial protection for a specified period. If the insured person dies during the policy term, the nominee receives the death benefit."
+    },
+    {
+      "question": "What is life insurance?",
+      "answer": "Life insurance is a contract between the policyholder and the insurer where the insurer provides financial protection to the nominee in case of the insured person's death."
+    },
+    {
+      "question": "What is health insurance?",
+      "answer": "Health insurance helps cover medical expenses arising from hospitalization, treatment, surgery, and other healthcare needs, subject to policy terms and conditions."
+    },
+    {
+      "question": "What is ULIP?",
+      "answer": "A Unit Linked Insurance Plan (ULIP) combines life insurance coverage with investment opportunities. Part of the premium provides insurance cover, while the remaining amount is invested in funds chosen by the policyholder."
+    },
+    {
+      "question": "What is an endowment plan?",
+      "answer": "An endowment plan is a life insurance policy that provides both life cover and savings. It pays a maturity benefit if the policyholder survives the policy term and a death benefit if the policyholder dies during the term."
+    },
+    {
+      "question": "What is a money back policy?",
+      "answer": "A money back policy provides periodic payouts during the policy term while continuing life insurance coverage. The remaining benefit is paid at maturity."
+    },
+    {
+      "question": "What is whole life insurance?",
+      "answer": "Whole life insurance provides life coverage for the entire lifetime of the insured, typically up to age 99 or 100, subject to policy conditions."
+    },
+    {
+      "question": "What is a retirement plan?",
+      "answer": "A retirement plan helps individuals accumulate wealth during their working years and receive income after retirement."
+    },
+    {
+      "question": "What is a pension plan?",
+      "answer": "A pension plan is designed to provide a regular income after retirement, helping individuals maintain financial stability."
+    },
+    {
+      "question": "What is a child insurance plan?",
+      "answer": "A child insurance plan helps parents build a financial corpus for a child's future education, marriage, or other major life goals."
+    },
+    {
+      "question": "What is death benefit?",
+      "answer": "Death benefit is the amount paid by the insurer to the nominee when the insured person dies during the policy term, subject to policy terms."
+    },
+    {
+      "question": "What is maturity benefit?",
+      "answer": "Maturity benefit is the amount paid by the insurer when the policyholder survives until the end of the policy term."
+    },
+    {
+      "question": "What is survival benefit?",
+      "answer": "Survival benefit is a payout made to the policyholder at specified intervals or upon surviving certain milestones during the policy term."
+    },
+    {
+      "question": "What is critical illness benefit?",
+      "answer": "Critical illness benefit provides a lump sum payout upon diagnosis of specified critical illnesses covered under the policy."
+    },
+    {
+      "question": "What is terminal illness benefit?",
+      "answer": "Terminal illness benefit provides an advance payout if the insured is diagnosed with a terminal illness as defined in the policy."
+    },
+    {
+      "question": "What is a rider?",
+      "answer": "A rider is an optional add-on benefit that enhances the coverage of a base insurance policy, usually for an additional premium."
+    },
+    {
+      "question": "What is a nominee?",
+      "answer": "A nominee is the person designated by the policyholder to receive policy benefits in the event of the policyholder's death."
+    },
+    {
+      "question": "What is premium?",
+      "answer": "Premium is the amount paid by the policyholder to the insurer in exchange for insurance coverage."
+    },
+    {
+      "question": "What is sum assured?",
+      "answer": "Sum assured is the guaranteed amount payable by the insurer upon occurrence of an insured event, such as death."
+    },
+    {
+      "question": "What is sum insured?",
+      "answer": "Sum insured is the maximum amount that an insurer will pay for covered healthcare expenses under a health insurance policy."
+    },
+    {
+      "question": "What is grace period?",
+      "answer": "Grace period is the additional time provided after the premium due date during which the policyholder can pay the premium without losing coverage."
+    },
+    {
+      "question": "What is free look period?",
+      "answer": "Free look period is the period during which a policyholder can review the policy and cancel it if not satisfied, subject to applicable terms."
+    },
+    {
+      "question": "What is surrender value?",
+      "answer": "Surrender value is the amount payable to the policyholder if the policy is voluntarily terminated before maturity, subject to policy conditions."
+    },
+    {
+      "question": "What is policy lapse?",
+      "answer": "Policy lapse occurs when the policyholder fails to pay premiums within the grace period and coverage ceases."
+    },
+    {
+      "question": "What is waiting period?",
+      "answer": "Waiting period is the duration after policy issuance during which certain claims or illnesses are not covered."
+    },
+    {
+      "question": "What is co-pay?",
+      "answer": "Co-pay is the percentage of claim expenses that the policyholder must pay, while the insurer pays the remaining covered amount."
+    },
+    {
+      "question": "What is room rent limit?",
+      "answer": "Room rent limit is the maximum hospital room rent covered under the health insurance policy."
+    },
+    {
+      "question": "What is no claim bonus?",
+      "answer": "No Claim Bonus (NCB) is a reward provided by insurers for claim-free policy years, usually as an increase in coverage or reduction in premium."
+    },
+    {
+      "question": "What is cumulative bonus?",
+      "answer": "Cumulative bonus is an increase in the sum insured for every claim-free year, subject to policy limits."
+    },
+    {
+      "question": "What is network hospital?",
+      "answer": "A network hospital is a hospital that has an agreement with the insurer or TPA to provide cashless treatment facilities."
+    },
+    {
+      "question": "What is accidental death benefit?",
+      "answer": "Accidental Death Benefit is an additional payout provided if the insured person dies due to an accident, subject to policy terms and conditions."
+    },
+    {
+      "question": "What is accidental disability benefit?",
+      "answer": "Accidental Disability Benefit provides financial support if the insured suffers a covered permanent disability due to an accident."
+    },
+    {
+      "question": "What is income benefit?",
+      "answer": "Income Benefit provides regular payouts to the policyholder or nominee for a specified period instead of a single lump-sum payment."
+    },
+    {
+      "question": "What is guaranteed income?",
+      "answer": "Guaranteed Income refers to fixed payouts promised by the insurer according to policy terms, irrespective of market conditions."
+    },
+    {
+      "question": "What is guaranteed return?",
+      "answer": "Guaranteed Return refers to benefits that are contractually promised by the insurer and are not dependent on market performance."
+    },
+    {
+      "question": "What is loyalty addition?",
+      "answer": "Loyalty Addition is an additional benefit credited by some insurers to reward long-term policyholders."
+    },
+    {
+      "question": "What is wealth booster?",
+      "answer": "A Wealth Booster is an additional allocation or benefit provided in certain long-term insurance and investment plans."
+    },
+    {
+      "question": "What is policy term?",
+      "answer": "Policy Term is the duration for which the insurance policy remains active and provides coverage."
+    },
+    {
+      "question": "What is premium paying term?",
+      "answer": "Premium Paying Term is the duration during which the policyholder is required to pay premiums."
+    },
+    {
+      "question": "What is limited pay insurance?",
+      "answer": "Limited Pay insurance allows policyholders to pay premiums for a shorter duration while enjoying coverage for a longer period."
+    },
+    {
+      "question": "What is regular pay insurance?",
+      "answer": "Regular Pay insurance requires premiums to be paid throughout the premium-paying term."
+    },
+    {
+      "question": "What is single premium insurance?",
+      "answer": "Single Premium insurance requires only one lump-sum premium payment at policy inception."
+    },
+    {
+      "question": "What is return of premium?",
+      "answer": "Return of Premium plans refund eligible premiums paid if the insured survives the policy term, subject to policy conditions."
+    },
+    {
+      "question": "What is paid-up value?",
+      "answer": "Paid-up Value is the reduced benefit available when a policyholder stops paying premiums after meeting minimum payment requirements."
+    },
+    {
+      "question": "What is policy revival?",
+      "answer": "Policy Revival is the process of restoring a lapsed policy by fulfilling the insurer's revival requirements."
+    },
+    {
+      "question": "What is claim settlement ratio?",
+      "answer": "Claim Settlement Ratio represents the percentage of claims settled by an insurer out of total claims received."
+    },
+    {
+      "question": "What is restoration benefit?",
+      "answer": "Restoration Benefit automatically restores the sum insured after it is exhausted due to eligible claims, subject to policy terms."
+    },
+    {
+      "question": "What is unlimited restoration benefit?",
+      "answer": "Unlimited Restoration allows repeated restoration of coverage during a policy year according to policy conditions."
+    },
+    {
+      "question": "What is OPD cover?",
+      "answer": "OPD Cover provides benefits for outpatient consultations, diagnostics, and treatments that do not require hospitalization."
+    },
+    {
+      "question": "What is maternity cover?",
+      "answer": "Maternity Cover helps cover eligible expenses related to childbirth, subject to waiting periods and policy conditions."
+    },
+    {
+      "question": "What is newborn cover?",
+      "answer": "Newborn Cover provides insurance protection for eligible medical expenses related to a newborn baby."
+    },
+    {
+      "question": "What is day care treatment?",
+      "answer": "Day Care Treatment refers to medical procedures that do not require 24-hour hospitalization because of advances in medical technology."
+    },
+    {
+      "question": "What is domiciliary treatment?",
+      "answer": "Domiciliary Treatment refers to treatment received at home when hospitalization is not possible or medically advisable."
+    },
+    {
+      "question": "What is AYUSH treatment?",
+      "answer": "AYUSH treatment refers to treatments under Ayurveda, Yoga, Unani, Siddha, and Homeopathy systems recognized by the policy."
+    },
+    {
+      "question": "What is pre-hospitalization coverage?",
+      "answer": "Pre-hospitalization coverage pays eligible medical expenses incurred before hospitalization, subject to policy limits."
+    },
+    {
+      "question": "What is post-hospitalization coverage?",
+      "answer": "Post-hospitalization coverage pays eligible medical expenses incurred after discharge from the hospital, subject to policy limits."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "product_name": "Kotak Assured Savings Plan",
+  "company": "Kotak Mahindra Life Insurance Company Ltd.",
+  "product_type": "Non-Participating Non-Linked Life Insurance Individual Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "Kotak Assured Savings Plan is a non-participating, non-linked life insurance plan designed to provide affordable protection and help accumulate wealth through guaranteed benefits. The policyholder pays premiums for a selected term, and upon maturity, receives a Guaranteed Maturity Benefit, which includes the Basic Sum Assured, Accrued Guaranteed Yearly Additions, and a Guaranteed Loyalty Addition. The plan also provides a death benefit to the nominee in case of the unfortunate demise of the life insured during the policy term.",
+  "quick_facts": {
+    "minimum_age": "3 years",
+    "maximum_age": "65 years",
+    "sum_insured": "Basic Sum Assured is determined based on the premium, policy term, premium payment term, and age of the life insured. Maximum is subject to underwriting rules.",
+    "policy_term": "Options of 10, 12, 14, 15, 18, and 20 years, depending on the premium payment term.",
+    "waiting_period": "For policies issued through POS Channel, a waiting period of 90 days from the date of commencement of risk is applicable for death other than due to accident."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival till the end of the policy term, a Guaranteed Maturity Benefit is paid, provided the policy is in force. It consists of: Basic Sum Assured (BSA), PLUS Accrued Guaranteed Yearly Additions (GYA), PLUS Guaranteed Loyalty Addition (GLA)."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the life insured during the term, the nominee receives the higher of: (a) Basic Death Benefit plus Accrued Guaranteed Yearly Additions as on the date of death, or (b) 105% of all premiums paid (excluding extra premium, if any) till the date of death. This is subject to a 90-day waiting period for non-accidental death for policies issued through the POS Channel."
+    },
+    {
+      "type": "Basic Death Benefit Definition",
+      "description": "For entry age less than 50 years, it is the higher of 11 times of annualized premium or a guaranteed minimum death benefit (% of Basic Sum Assured). For entry age 50 years and above, it is the higher of 7 times of annualized premium or a guaranteed minimum death benefit (% of Basic Sum Assured)."
+    },
+    {
+      "type": "Reduced Paid-Up Benefit",
+      "description": "If premiums are discontinued after the policy acquires surrender value, the policy continues with reduced benefits. The Reduced Paid-Up Basic Sum Assured is paid at maturity along with accrued GYA, or a Reduced Paid-Up Basic Death Benefit is paid on death."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Option to enhance protection through various riders like Kotak Term Benefit, Accidental Death Benefit, Permanent Disability Benefit, Life Guardian Benefit, Accidental Disability Guardian Benefit, and Critical Illness Plus Benefit Rider. Riders are not available for policies purchased through the POS channel."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Maturity Benefit",
+      "description": "The plan offers a guaranteed maturity benefit which is a sum of Basic Sum Assured, Accrued Guaranteed Yearly Additions, and Guaranteed Loyalty Addition."
+    },
+    {
+      "name": "Increasing Life Cover",
+      "description": "Guaranteed Yearly Additions are added every time a premium is paid, which increases the life cover. This is payable at maturity or on earlier death."
+    },
+    {
+      "name": "Higher Benefits for Longer Commitment",
+      "description": "The Guaranteed Yearly Additions and Guaranteed Loyalty Addition rates increase with a longer premium payment term (PPT)."
+    },
+    {
+      "name": "High Premium Benefit",
+      "description": "Policyholders get more value for money through a high premium benefit, which results in a higher Basic Sum Assured. The percentage increase ranges from 3% to 10.50% based on annualized premium bands."
+    },
+    {
+      "name": "Policy Loan Facility",
+      "description": "Policyholders can avail loans up to 50% of the Surrender Value, subject to a minimum loan amount of ₹10,000."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available on premiums paid under Section 80(C) and benefits received under Section 10(10D) of the Income-Tax Act, 1961, subject to conditions."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Option to pay premiums yearly, half-yearly, quarterly, or monthly."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Entry Age",
+      "details": "For All Channels (except POS): Minimum 3 years, Maximum 65 years less Policy Term. For POS Channel: Minimum 3 years, Maximum 60 years."
+    },
+    {
+      "parameter": "Maturity Age",
+      "details": "For All Channels (except POS): Minimum 18 years, Maximum 75 years. For POS Channel: Minimum 18 years, Maximum 65 years."
+    },
+    {
+      "parameter": "Policy Term (PT) & Premium Payment Term (PPT)",
+      "details": "5 pay (PT 10/15 yrs), 6 pay (PT 12/18 yrs), 7 pay (PT 14/20 yrs), 10 pay (PT 15/20 yrs)."
+    },
+    {
+      "parameter": "Annualized Premium",
+      "details": "For All Channels (except POS): Minimum ₹20,000, Maximum No limit (subject to underwriting). For POS Channel: Minimum ₹20,000, Maximum ₹1,50,000."
+    },
+    {
+      "parameter": "Premium Payment Option",
+      "details": "Limited Pay only."
+    },
+    {
+      "parameter": "Premium Payment Mode",
+      "details": "Yearly, Half-yearly, Quarterly, Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "If the life insured commits suicide within 12 months from the date of commencement of risk, 80% of the total premiums paid till the date of death will be payable. If suicide occurs within 12 months of revival (when revival is done after 6 months from the first unpaid premium), the benefit will be higher of 80% of total premiums paid or the Surrender Value."
+    },
+    {
+      "type": "Waiting Period (POS Channel)",
+      "description": "For policies issued through the POS Channel, in case of death (other than due to accident) during the 90-day waiting period from the date of commencement of risk, only 100% of Premiums paid (excluding taxes) will be payable. The Death Benefit will not be payable."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Nomination and Assignment",
+      "description": "Nomination is allowed as per Section 39 and Assignment is allowed as per Section 38 of the Insurance Act, 1938. In the absence of a nominee, the benefit is paid to the legal heir(s)."
+    },
+    {
+      "type": "Death Benefit Claim",
+      "description": "If death occurs during the grace period, the due unpaid premium will be deducted from the death benefit. For non-annual modes, the balance premium for the policy year will be deducted."
+    },
+    {
+      "type": "Maturity Benefit Claim",
+      "description": "The maturity benefit will be reduced to account for any outstanding loans, including interest."
+    },
+    {
+      "type": "Contact Information",
+      "description": "For claims or any other support, you can contact Kotak Life Insurance at TOLL FREE: 1800 209 8800 or via WhatsApp: 9321003007."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Kotak Assured Savings Plan?",
+      "answer": "It is a non-participating, non-linked, individual savings life insurance plan that provides affordable protection and helps accumulate wealth through guaranteed benefits."
+    },
+    {
+      "question": "Are the returns in this plan linked to the market?",
+      "answer": "No, this is a non-linked plan. The benefits are guaranteed and not dependent on market performance, provided all premiums are paid and the policy is in force."
+    },
+    {
+      "question": "What are the main components of the Guaranteed Maturity Benefit?",
+      "answer": "The Guaranteed Maturity Benefit is the sum of the Basic Sum Assured (BSA), Accrued Guaranteed Yearly Additions (GYA), and the Guaranteed Loyalty Addition (GLA)."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "The death benefit is the higher of (a) the Basic Death Benefit plus Accrued Guaranteed Yearly Additions as of the date of death, or (b) 105% of all premiums paid until the date of death."
+    },
+    {
+      "question": "What are Guaranteed Yearly Additions (GYA)?",
+      "answer": "Guaranteed Yearly Additions are calculated as a percentage of the cumulative annualized premium paid. They accrue throughout the premium payment term and are paid out at maturity or on earlier death."
+    },
+    {
+      "question": "What is the Guaranteed Loyalty Addition (GLA)?",
+      "answer": "The Guaranteed Loyalty Addition is calculated as a percentage of the Basic Sum Assured and is paid out at maturity. The rate depends on the premium payment term chosen."
+    },
+    {
+      "question": "Does the benefit amount increase with a longer premium payment term?",
+      "answer": "Yes, the rates for both Guaranteed Yearly Additions and Guaranteed Loyalty Addition increase with a longer premium payment term (PPT)."
+    },
+    {
+      "question": "What is the minimum age to be insured under this plan?",
+      "answer": "The minimum entry age for the life insured is 3 years."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "The maximum entry age is 65 years less the policy term for regular channels, and 60 years for the POS channel."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "Depending on the premium payment term, the available policy terms are 10, 12, 14, 15, 18, and 20 years."
+    },
+    {
+      "question": "What are the premium payment term options?",
+      "answer": "The available premium payment terms are 5, 6, 7, and 10 years."
+    },
+    {
+      "question": "Can I pay my premiums monthly?",
+      "answer": "Yes, you have the option to pay premiums yearly, half-yearly, quarterly, or monthly."
+    },
+    {
+      "question": "What is the minimum premium I can pay?",
+      "answer": "The minimum annualized premium is ₹20,000."
+    },
+    {
+      "question": "Is there any benefit for paying a higher premium?",
+      "answer": "Yes, the plan offers a High Premium Benefit, where the Basic Sum Assured is increased by a certain percentage if the annualized premium is ₹30,000 or more."
+    },
+    {
+      "question": "Can I increase the insurance cover of this plan?",
+      "answer": "Yes, you can increase the cover by attaching optional riders such as Kotak Term Benefit Rider or Kotak Accidental Death Benefit Rider to your base plan."
+    },
+    {
+      "question": "Are riders available for policies bought through the POS Channel?",
+      "answer": "No, riders are not allowed for policies purchased through the POS distribution channel."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can avail a loan of up to 50% of the policy's Surrender Value, subject to a minimum loan amount of ₹10,000."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "There is a grace period of 30 days for yearly, half-yearly, and quarterly modes, and 15 days for the monthly mode. If premiums are not paid within the grace period after the policy has acquired surrender value, it will be converted into a Reduced Paid-Up policy."
+    },
+    {
+      "question": "What is a Reduced Paid-Up policy?",
+      "answer": "A Reduced Paid-Up policy is one where premium payments have been stopped, but the policy continues with reduced benefits (Reduced Paid-Up Sum Assured and Death Benefit) instead of lapsing completely. Future additions will not accrue on a paid-up policy."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed or reduced paid-up policy can be revived for full benefits within five years from the date of the first unpaid premium, subject to payment of outstanding premiums with revival charges and fulfillment of health requirements, if applicable."
+    },
+    {
+      "question": "When does the policy acquire a Surrender Value?",
+      "answer": "The policy acquires a Guaranteed Surrender Value provided all due premiums for at least 2 policy years have been paid in full."
+    },
+    {
+      "question": "Are there tax benefits with this plan?",
+      "answer": "Tax benefits may be applicable on premiums paid under Section 80(C) and on benefits received under Section 10(10D) of the Income-Tax Act, 1961, as per prevailing tax laws."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "The policyholder has a 30-day free look period from the date of receiving the policy document to review the terms and conditions and cancel the policy if not satisfied."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If the life insured commits suicide within 12 months from the policy's commencement of risk, 80% of the total premiums paid will be payable to the nominee."
+    },
+    {
+      "question": "Is there a waiting period for the death benefit?",
+      "answer": "For policies issued through the POS Channel, there is a 90-day waiting period from the commencement of risk. If death occurs during this period (unless by accident), only 100% of premiums paid will be refunded."
+    },
+    {
+      "question": "What happens when a minor life insured turns 18?",
+      "answer": "If the policy is on the life of a minor, it will automatically vest in them when they complete 18 years of age, and they will become the policyholder from that date."
+    },
+    {
+      "question": "Who is paid if there is no nominee?",
+      "answer": "In case there is no nomination or the nominee dies during the term, the benefit payout will be made to the legal heir(s) of the policyholder."
+    }
+  ],
+  "source_file": "Kotak_Assured_Savings_Plan_Brochure.txt",
+  "category": "LI Plan Brochure"
+}

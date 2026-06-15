@@ -1,0 +1,229 @@
+{
+  "product_name": "Guaranteed Wealth Plus",
+  "company": "HDFC Life Insurance",
+  "product_type": "Non-Linked, Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "HDFC Life Guaranteed Wealth Plus is a non-linked, non-participating individual life insurance savings plan that provides a Guaranteed Death Benefit. It offers two variants to choose from at inception: a Lump sum variant providing a guaranteed benefit at maturity, and an Income variant providing guaranteed income for 30 years plus a return of all base premiums at maturity.",
+  "quick_facts": {
+    "minimum_age": "3 years (for 15 year Policy Term under Limited Pay)",
+    "maximum_age": "60 years",
+    "sum_insured": "Not specified. Death benefit is calculated as a multiple of the premium.",
+    "policy_term": "Lump sum Variant: 12 & 15 years. Income Variant: 37 years (for 6 Pay), 39 years (for 8 Pay), 41 years (for 10 Pay).",
+    "waiting_period": "For a life assured aged less than 12 years, the risk cover commences on the last day of the second policy year."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the life assured during the policy term, the Sum Assured on Death is paid as a lump sum. This is defined as the higher of: X times the annualized premium (or 1.25 times for Single Premium) OR 105% of the Total Premiums Paid up to the date of death. The multiple 'X' varies based on age and whether it is during or after the premium payment term for the Income variant."
+    },
+    {
+      "name": "Maturity Benefit - Lump Sum Variant",
+      "description": "On survival till the end of the policy term, a fixed percentage of the single premium or total annualized premium is paid as a lump sum maturity benefit. The percentage depends on entry age, policy term, and premium band."
+    },
+    {
+      "name": "Maturity Benefit - Income Variant",
+      "description": "On survival till the end of the policy term, a maturity benefit equal to 100% of the total premiums paid during the policy term is paid as a lump sum."
+    },
+    {
+      "name": "Survival Benefit - Income Variant",
+      "description": "On survival of the life assured during the policy term, a Guaranteed Income is paid annually for a fixed term of 30 years. The income is a fixed percentage of the Annualized Premium and starts from the end of the 8th, 10th, or 12th policy year for 6, 8, and 10 Pay policies respectively."
+    },
+    {
+      "name": "Rider Options",
+      "description": "Optional riders are available to enhance protection: HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Critical Illness Plus Rider, and HDFC Life Protect Plus Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Benefits",
+      "description": "The plan offers guaranteed benefits as a lump sum or as regular income plus a lump sum, irrespective of market experience, provided all due premiums are paid."
+    },
+    {
+      "name": "Choice of Variants",
+      "description": "Customers can choose between two variants at the start of the policy: Lump Sum Variant or Income Variant."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Options to pay premiums once (Single Pay) or for a limited term of 6, 8, or 10 years."
+    },
+    {
+      "name": "Life Insurance Cover",
+      "description": "Enjoy life insurance coverage for the full policy term, even after the premium payment term ends."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "A loan facility is available under the policy after it acquires a surrender value."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Policyholders may be eligible for tax benefits on premiums paid and policy proceeds as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "details": "Limited Pay (Lump Sum Variant): 3 years for 15-year PT, 6 years for 12-year PT. Limited Pay (Income Variant): 11 years for 6 Pay, 9 years for 8 Pay, 7 years for 10 Pay."
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "details": "60 years"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "details": "18 years (Lump Sum Variant); 48 years (Income Variant)"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "details": "Up to 101 years depending on the plan variant and premium payment term."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "Single Pay, or Limited Pay of 6, 8, or 10 years."
+    },
+    {
+      "criteria": "Minimum Premium",
+      "details": "Single Pay: Rs. 1,50,000. Annual: Rs. 75,000. Half-Yearly: Rs. 60,000. Monthly: Rs. 10,000."
+    },
+    {
+      "criteria": "Maximum Premium",
+      "details": "No Limit, subject to Board approved underwriting policy."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee or beneficiary shall be entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Death Claim",
+      "description": "The Sum Assured on Death is payable as a lump sum to the nominee or beneficiary upon the death of the life assured during the policy term."
+    },
+    {
+      "name": "Survival/Maturity Claim",
+      "description": "Benefits are paid on the survival of the life assured. The Income variant pays out annually for 30 years, while both variants pay a lump sum at the end of the policy term."
+    },
+    {
+      "name": "Lapsed Policy",
+      "description": "If premiums for the first 2 full years are not paid, the policy will lapse and no benefits will be payable. Lapsed policies can be revived within five years from the first unpaid premium."
+    },
+    {
+      "name": "Reduced Paid-up Policy",
+      "description": "If at least 2 full years' premiums have been paid and further premiums are unpaid, the policy acquires a 'reduced paid-up' status with reduced benefits."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Guaranteed Wealth Plus?",
+      "answer": "It is a non-linked, non-participating individual life insurance savings plan that provides a guaranteed death benefit and options for either a lump sum or regular income on survival."
+    },
+    {
+      "question": "What are the two plan variants available?",
+      "answer": "The plan offers two variants: 1) Lump Sum Variant, which pays a guaranteed lump sum at maturity, and 2) Income Variant, which provides guaranteed income for 30 years plus a return of premiums at maturity."
+    },
+    {
+      "question": "Is this a market-linked (ULIP) plan?",
+      "answer": "No, this is a non-linked, non-participating plan. The benefits are guaranteed and not dependent on market performance."
+    },
+    {
+      "question": "What is the main benefit of the Income variant?",
+      "answer": "The Income variant provides a guaranteed income for 30 years on survival, plus 100% Return of Premiums (ROP) at maturity."
+    },
+    {
+      "question": "What is the main benefit of the Lump Sum variant?",
+      "answer": "The Lump Sum variant provides a guaranteed lump sum maturity benefit at the end of the policy term."
+    },
+    {
+      "question": "How is the Death Benefit calculated under this plan?",
+      "answer": "The Sum Assured on Death is the higher of: X times the annualized premium (or 1.25 times the single premium) OR 105% of the total premiums paid up to the date of death."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum entry age can be as low as 3 years, depending on the policy term chosen. The maximum entry age is 60 years."
+    },
+    {
+      "question": "What are the available premium payment terms (PPT)?",
+      "answer": "You can choose a Single Pay option or Limited Pay options of 6, 8, or 10 years."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum premium is Rs. 1,50,000 for Single Pay, Rs. 75,000 for annual mode, Rs. 60,000 for half-yearly mode, and Rs. 10,000 for monthly mode."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "For the Lump Sum variant, policy terms are 12 and 15 years. For the Income variant, policy terms are 37, 39, and 41 years, corresponding to the 6, 8, and 10 year PPTs respectively."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the first year?",
+      "answer": "If at least the first 2 full years’ premiums have not been paid, the policy will lapse, the risk cover will cease, and no benefits will be payable."
+    },
+    {
+      "question": "What happens if I stop paying premiums after three years?",
+      "answer": "If at least the first 2 full years’ premiums have been paid, the policy will acquire a 'reduced paid-up' status. The benefits will be reduced proportionally to the number of premiums paid."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for annual and half-yearly premium payments."
+    },
+    {
+      "question": "Can I revive a policy that has lapsed?",
+      "answer": "Yes, a lapsed policy can be revived during the policy term but within a period of five years from the date of the first unpaid premium, subject to company terms and payment of due premiums with interest."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, a loan can be availed if the policy has acquired a surrender value (after 2 full years' premiums for Limited Pay, or anytime for Single Pay)."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "For Limited Premium Payment Term policies, you can surrender after at least 2 full years’ premiums have been paid. A Single Premium policy can be surrendered anytime during the policy term."
+    },
+    {
+      "question": "What happens if the policyholder dies by suicide?",
+      "answer": "If death by suicide occurs within 12 months of risk commencement or revival, the beneficiary will receive at least 80% of total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "Can I add riders to this plan?",
+      "answer": "Yes, you can enhance your protection by opting for riders such as HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Critical Illness Plus Rider, and HDFC Life Protect Plus Rider."
+    },
+    {
+      "question": "What is the rule for a minor life assured?",
+      "answer": "If the life assured is less than 12 years old, the full death benefit is payable only after the last day of the second policy year. If death occurs before that, only the total premiums paid are returned."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a period of 15 days (30 days for policies sourced through distance marketing) from receiving the policy document to review its terms. If you disagree, you can return it for a refund, subject to certain deductions."
+    },
+    {
+      "question": "In the Income Variant, when does the guaranteed income start?",
+      "answer": "The guaranteed income payout starts from the end of the 8th policy year for a 6-year PPT, 10th policy year for an 8-year PPT, and 12th policy year for a 10-year PPT."
+    },
+    {
+      "question": "For how long is the guaranteed income paid in the Income variant?",
+      "answer": "The guaranteed income is paid for a fixed term of 30 years."
+    },
+    {
+      "question": "What happens to the guaranteed income if the life assured dies?",
+      "answer": "If the Life Assured dies during the policy term, future installments of Guaranteed Income will cease, and the Death Benefit shall be payable. Any income paid after the date of death will be deducted from the Death Benefit."
+    },
+    {
+      "question": "What is the maturity benefit in the Income Variant?",
+      "answer": "On survival to maturity, you receive a lump sum equal to 100% of the total premiums paid during the policy term."
+    },
+    {
+      "question": "Can I change my premium payment mode during the policy?",
+      "answer": "Yes, the premium payment mode can be changed during the policy term. The change will become effective on the next policy anniversary date."
+    },
+    {
+      "question": "When does the policy vest if it is purchased for a minor?",
+      "answer": "If the policy is issued on the life of a minor, it will vest on him/her upon attaining the age of majority (18 years), at which point they will be recognized as the policyholder."
+    },
+    {
+      "question": "Are the benefits in this plan really guaranteed?",
+      "answer": "Yes, the quantum of benefits is guaranteed irrespective of experience, provided all due premiums are paid during the premium payment term."
+    }
+  ],
+  "source_file": "HDFC-Life-GUARANTEED-WEALTH-PLUS-BROCHURE-HDFC-Bank.txt",
+  "category": "LI Plan Brochure"
+}

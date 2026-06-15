@@ -1,0 +1,209 @@
+{
+  "product_name": "HDFC Life Sanchay Par Advantage",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "Non Linked Participating Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings and Income Plan",
+  "summary": "HDFC Life Sanchay Par Advantage is a non-linked, participating life insurance plan that offers life cover along with savings benefits. It provides two plan options: 'Immediate Income' which offers regular cash bonuses from the first policy year, and 'Deferred Income' which provides a combination of guaranteed income and cash bonuses starting one year after the premium paying term. The plan offers death, maturity, and survival benefits, along with features like policy loans and flexible payout options.",
+  "quick_facts": {
+    "minimum_age": "Not explicitly stated. Age at entry tables in the document start from age <=5.",
+    "maximum_age": "Not explicitly stated. Age at entry tables in the document go up to age >=60.",
+    "sum_insured": "Sum Assured on Death is the highest of: 10 times Annualized Premium, Sum Assured on Maturity, or a Death Multiple times Annualized Premium. Sum Assured on Maturity is equal to the sum of Annualized Premiums payable under the Policy.",
+    "policy_term": "As stated in the Policy Schedule.",
+    "waiting_period": "A 12-month waiting period applies for death due to suicide from the date of risk commencement or policy revival. For minor lives, full risk cover commences from the first policy anniversary."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the policy term. The benefit is the highest of (1) 10 times the Annualized Premium, (2) Sum Assured on Maturity, or (3) Death Multiple times Annualized Premium. In addition, any accrued cash bonuses, accrued guaranteed income, Interim Survival Benefit, and Terminal Bonus (if any) are paid. The minimum Death Benefit will be 105% of the Total Premiums Paid as on the date of death."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "Payable if the Life Assured survives till the maturity date. The benefit includes the Sum Assured on Maturity, any accrued cash bonuses and guaranteed income, Interim Survival Benefit, and Terminal Bonus (if any)."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "Depends on the plan option chosen. For 'Immediate Income' option, it consists of a Cash bonus (as a percentage of Annualized Premium) payable from the 1st policy year. For 'Deferred Income' option, it consists of a Guaranteed Income plus a Cash bonus, payable each policy year starting one year after the premium payment term ends."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Options",
+      "description": "The policy offers two options: 'Immediate Income' for regular cash bonuses from the 1st policy year, and 'Deferred Income' for Guaranteed Income plus cash bonuses after the premium paying term."
+    },
+    {
+      "name": "Bonus",
+      "description": "The policy participates in profits and provides bonuses in the form of Cash Bonus, Interim Survival Benefit, and Terminal Bonus."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans of up to 80% of the policy's surrender value, once the policy has acquired a surrender value. Interest is charged at a variable rate."
+    },
+    {
+      "name": "Flexible Benefit Payout Options",
+      "description": "Policyholders can choose to defer the Survival Benefits and accumulate them with interest. They can also choose a specific date during the year to receive their survival benefit payouts."
+    },
+    {
+      "name": "Premium Payment Flexibility",
+      "description": "Premiums can be paid yearly, half-yearly, quarterly, or monthly."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "The policy document includes benefit tables for ages at entry ranging from 5 years or less to 60 years and above. Final eligibility is subject to the company's underwriting norms."
+    },
+    {
+      "criteria": "Premium Paying Term (PPT)",
+      "details": "As stated in the Policy Schedule. Tables in the document refer to PPTs of 8, 10, and 12 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "As stated in the Policy Schedule."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of policy revival, the nominee will be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    },
+    {
+      "type": "Fraud, Misrepresentation and Non-Disclosure",
+      "description": "The policy shall be dealt with in accordance with Section 45 of the Insurance Act, 1938. The policy can be called into question within 3 years on grounds of fraud or material misstatement."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Maturity Claim Process",
+      "description": "The Maturity Benefit is paid if the Life Assured is alive on the Maturity Date, all premiums are paid, and the policy is in-force. All relevant documents including the original policy document must be provided to the company."
+    },
+    {
+      "type": "Death Claim Process",
+      "description": "The claim must be intimated to the company within 90 days from the date of death. The company may condone a delay if the reason is genuine and beyond the claimant's control."
+    },
+    {
+      "type": "Documents for Death Claim (Natural Cause)",
+      "description": "Completed claim form, Original Policy document, Original or attested copy of Death Certificate, and Claimant’s identity and residence proof."
+    },
+    {
+      "type": "Documents for Death Claim (Un-natural Cause)",
+      "description": "In addition to documents for natural death, an original or attested copy of the First Information Report (FIR), Police Panchnama report, and Post-mortem report are required."
+    },
+    {
+      "type": "Grievance Redressal",
+      "description": "For any grievance, contact the Grievance Redressal Officer at HDFC Life Insurance Company Limited, 11th Floor, Lodha Excelus, Apollo Mills Compound, N. M. Joshi Marg, Mahalaxmi, Mumbai, Maharashtra - 400011. Email: service@hdfclife.com. If unsatisfied, you can approach the IRDAI or the Insurance Ombudsman."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the HDFC Life Sanchay Par Advantage policy?",
+      "answer": "It is a Non-Linked Participating Life Insurance Plan that provides life cover and savings benefits through various payouts like bonuses and guaranteed income, depending on the plan option chosen."
+    },
+    {
+      "question": "What are the two plan options available under this policy?",
+      "answer": "The two options are 'Immediate Income', which provides regular cash bonuses from the 1st policy year, and 'Deferred Income', which provides a Guaranteed Income plus cash bonuses starting one year after the premium payment term."
+    },
+    {
+      "question": "What is the Free-Look period for this policy?",
+      "answer": "You have a Free-Look period of 15 days from the date of receipt of the policy to review its terms. If the policy is purchased through Distance Marketing, this period is extended to 30 days."
+    },
+    {
+      "question": "Can I cancel the policy during the Free-Look period?",
+      "answer": "Yes, if you are not agreeable to any policy provisions, you can return the policy within the Free-Look period. The premium paid will be refunded after deducting proportionate risk premium, medical examination expenses, and stamp duty."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "A grace period of 15 days is allowed for monthly premium payments, and 30 days for all other payment frequencies (yearly, half-yearly, quarterly)."
+    },
+    {
+      "question": "What happens if I miss paying my premium by the due date?",
+      "answer": "If you fail to pay the premium within the grace period, the policy may either lapse (if it has not acquired a Guaranteed Surrender Value) or become a paid-up policy (if it has acquired a Guaranteed Surrender Value)."
+    },
+    {
+      "question": "What is a lapsed policy?",
+      "answer": "A policy becomes lapsed if premiums are not paid within the grace period and it has not yet acquired a Guaranteed Surrender Value. Under a lapsed policy, the insurance cover ceases and no benefits are payable."
+    },
+    {
+      "question": "What is a paid-up policy?",
+      "answer": "If a policy has acquired a Guaranteed Surrender Value and subsequent premiums are not paid, it becomes a paid-up policy. The benefits under the policy are reduced in proportion to the number of premiums paid against the total number of premiums payable."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within five years from the due date of the first unpaid premium, subject to payment of outstanding premiums with interest and satisfactory evidence of continued insurability."
+    },
+    {
+      "question": "What is the interest rate for policy revival?",
+      "answer": "The current rate of interest for revival mentioned in the document is 9.5% per annum."
+    },
+    {
+      "question": "When does this policy acquire a Surrender Value?",
+      "answer": "The policy acquires a Guaranteed Surrender Value (GSV) upon the payment of the first two years' premiums."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can take a loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What is the interest rate on the policy loan?",
+      "answer": "The interest rate on the loan is currently 9.5% p.a. It is variable and will be reviewed half-yearly."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "The Death Benefit is the highest of: 10 times the Annualized Premium, the Sum Assured on Maturity, or the Death Multiple times the Annualized Premium. It also includes any accrued bonuses and survival benefits. The minimum death benefit is 105% of total premiums paid."
+    },
+    {
+      "question": "How is the Maturity Benefit calculated?",
+      "answer": "The Maturity Benefit is the sum of: Sum Assured on Maturity, accrued cash bonuses and guaranteed income (if not paid earlier), Interim Survival Benefit, and any Terminal Bonus."
+    },
+    {
+      "question": "What is the 'Sum Assured on Maturity'?",
+      "answer": "The Sum Assured on Maturity is the amount guaranteed to be payable on maturity and is calculated as the Annualized Premium multiplied by the Premium Paying Term."
+    },
+    {
+      "question": "What is the suicide exclusion clause in this policy?",
+      "answer": "If the Life Assured dies by suicide within 12 months of the policy's risk commencement or revival, the beneficiary will receive at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "What documents are required to file a death claim for a natural death?",
+      "answer": "The basic documents required are: a completed claim form, the original policy document, an original or attested copy of the death certificate, and the claimant's identity and residence proof."
+    },
+    {
+      "question": "Are additional documents required for an unnatural death claim?",
+      "answer": "Yes, for unnatural death, you also need to provide the First Information Report (FIR), Police Panchnama report, and the Post-mortem report, all attested by the relevant authorities."
+    },
+    {
+      "question": "Can I choose when to receive my survival benefits?",
+      "answer": "Yes, by default, the benefit is paid on the policy anniversary. However, at policy inception, you can choose any other date to receive the survival benefit. This choice cannot be changed later."
+    },
+    {
+      "question": "Can I postpone receiving my survival benefits?",
+      "answer": "Yes, you have the option to defer your Survival Benefits. The deferred amount will accumulate monthly at the Reverse Repo Rate published by RBI and can be withdrawn partly or fully at any point during the policy term."
+    },
+    {
+      "question": "Can I change my premium payment frequency during the policy term?",
+      "answer": "Yes, you are permitted to alter the premium paying frequency to any of the available options (yearly, half-yearly, quarterly, monthly), subject to minimum premium conditions."
+    },
+    {
+      "question": "What happens if the age of the Life Assured was declared incorrectly?",
+      "answer": "If the correct age makes the Life Assured ineligible, the policy may be cancelled and premiums refunded after deductions. If eligible, the premium will be adjusted based on the correct age, and any difference will be collected with interest."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "It is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "What is the risk cover for a minor Life Assured?",
+      "answer": "For minor lives, if death occurs before the risk commencement date (the first policy anniversary), the death benefit will be a refund of the basic premiums paid to date, excluding taxes and levies."
+    },
+    {
+      "question": "How can I nominate someone for my policy?",
+      "answer": "You can nominate a person or persons by filling out the details in the proposal form or by making an endorsement on the policy later. This should be done in accordance with Section 39 of the Insurance Act, 1938."
+    },
+    {
+      "question": "Can I assign my policy rights to another person or entity?",
+      "answer": "Yes, you can assign the policy in accordance with Section 38 of the Insurance Act, 1938. This can be done by an endorsement on the policy or by a separate instrument, with due notice to the company."
+    }
+  ],
+  "source_file": "HDFC-Life-Sanchay-Par-Advantage-Policy-Bond.txt",
+  "category": "LI Policy Bond Documents"
+}

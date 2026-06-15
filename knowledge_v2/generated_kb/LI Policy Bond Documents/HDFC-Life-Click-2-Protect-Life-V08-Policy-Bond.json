@@ -1,0 +1,231 @@
+{
+  "product_name": "HDFC Life Click 2 Protect Life",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "A Non Linked, Non Participating, Individual, Pure Risk Premium/Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Term Insurance with optional Savings components",
+  "summary": "HDFC Life Click 2 Protect Life is a non-linked, non-participating life insurance plan offering pure risk coverage or savings benefits depending on the chosen option. It provides financial protection to the nominee in case of the life assured's death. The plan comes with three distinct options: Life Protect, Life & CI Rebalance, and Income Plus, along with optional add-ons like Return of Premium, Waiver of Premium on Critical Illness, and Accidental Death Benefit.",
+  "quick_facts": {
+    "minimum_age": "Not specified, but policy cannot be taken for a minor (below 18 years).",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Basic Sum Assured is chosen by the Policyholder at inception.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "90 days for Critical Illness claims from the policy issue date or reinstatement date."
+  },
+  "coverage": [
+    {
+      "name": "Life Protect",
+      "description": "Under this option, the Life Assured is covered for Death Benefit during the Policy Term. Add-on options like Return of Premium (Fixed Term variant), WOP CI (Fixed Term variant), and Accidental Death Benefit are available."
+    },
+    {
+      "name": "Life & CI Rebalance",
+      "description": "The Basic Sum Assured is split between Life Cover Sum Assured (initially 80%) and Critical Illness Sum Assured (initially 20%). At each policy anniversary, the CI cover increases and Life Cover decreases, while the total Basic Sum Assured remains constant. On a CI claim, future premiums are waived, and the life cover continues at the then-current level. Return of Premium option is available."
+    },
+    {
+      "name": "Income Plus",
+      "description": "This option provides a Death Benefit along with a regular monthly income. Starting from the policy anniversary after the life assured turns 60, a monthly income of 0.1% of the Basic Sum Assured is paid until death or policy maturity."
+    }
+  ],
+  "benefits": [
+    {
+      "type": "Death Benefit",
+      "details": "Payable as a lump sum on the death of the Life Assured during the policy term. The amount is the highest of: Sum Assured on Death, 105% of Total Premiums Paid (with adjustments for Income Plus option), or Life Cover SA/Basic Sum Assured depending on the plan option."
+    },
+    {
+      "type": "Critical Illness Benefit",
+      "details": "Applicable only under the 'Life & CI Rebalance' option. On diagnosis of a covered critical illness, the applicable CI Sum Assured is paid, and all future premiums are waived while the life cover continues."
+    },
+    {
+      "type": "Maturity Benefit",
+      "details": "If the 'Return of Premium' option is selected (with Life Protect or Life & CI Rebalance), 100% of total premiums paid is returned on survival till maturity. For 'Income Plus' (Fixed Term), the maturity benefit is 110% of Total Premiums Paid less total survival benefits paid out. For other cases, the Maturity Benefit is Nil."
+    },
+    {
+      "type": "Survival Benefit",
+      "details": "Applicable only under the 'Income Plus' option. A monthly income of 0.1% of the Basic Sum Assured is paid starting from the end of the month after the policy anniversary following the attainment of age 60, until policy termination."
+    },
+    {
+      "type": "Add-on: Return of Premium (ROP)",
+      "details": "Available with 'Life & CI Rebalance' or 'Life Protect (Fixed Term)' options. Provides a return of 100% of total premiums paid upon survival till the maturity date, for an additional premium."
+    },
+    {
+      "type": "Add-on: Waiver of Premium on CI (WOP CI)",
+      "details": "Available with 'Life Protect (Fixed Term)' option. For an additional premium, all future premiums are waived if the Life Assured is diagnosed with a covered Critical Illness."
+    },
+    {
+      "type": "Add-on: Accidental Death Benefit (ADB)",
+      "details": "Available with 'Life Protect' option. An additional amount equal to 100% of the Basic Sum Assured is payable on death due to an accident during the policy term."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age",
+      "details": "The policy cannot be taken for the benefit of a minor (a person below 18 years of age). Specific entry and maturity age limits are not mentioned in the document."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of risk commencement or the date of revival, the nominee or beneficiary will be entitled to at least 80% of the total premiums paid till the date of death or the surrender value, whichever is higher. The full death benefit will not be paid."
+    },
+    {
+      "type": "Critical Illness Waiting Period",
+      "description": "No critical illness benefit is payable if the signs or symptoms of the illness first commence within 90 days following the policy issue date, commencement date, or date of reinstatement, whichever is later."
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "description": "The benefit is not payable if death is a result of causes listed in the exclusions for Accidental Death Benefit under Appendix 1 Clause 2 of the policy document."
+    },
+    {
+      "type": "Specific Critical Illness Exclusions",
+      "description": "Each covered critical illness has specific exclusions. Examples include: Carcinoma in situ for cancer, angina pectoris for myocardial infarction, catheter-based techniques for heart valve surgery, and coma resulting from alcohol or drug abuse."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Intimation",
+      "process": "The claim must be intimated to the company within 90 days from the date of death. Delays may be condoned if the reason is beyond the claimant's control."
+    },
+    {
+      "type": "Death Claim (Natural Cause)",
+      "documents_required": [
+        "Completed claim form (including NEFT details and bank account proof)",
+        "Original Policy document",
+        "Original or attested copy of Death Certificate issued by Municipal Authority/Gram Panchayat/Tehsildar",
+        "Claimant’s identity and residence proof"
+      ]
+    },
+    {
+      "type": "Death Claim (Unnatural Cause)",
+      "documents_required": [
+        "Completed claim form (including NEFT details and bank account proof)",
+        "Original Policy document",
+        "Original or attested copy of Death Certificate",
+        "Claimant’s identity and residence proof",
+        "Original or attested copy of First Information Report (FIR) and Police Panchnama report",
+        "Original or attested copy of Post-mortem report"
+      ]
+    },
+    {
+      "type": "Maturity Claim",
+      "documents_required": [
+        "Original policy document",
+        "NEFT mandate / discharge voucher",
+        "Bank Account Proof",
+        "KYC documents"
+      ],
+      "conditions": "Maturity benefit is paid if the Life Assured is alive on the Maturity Date, no prior death claim has been made, the policy is in force, and all relevant documents are provided."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click 2 Protect Life?",
+      "answer": "It is a non-linked, non-participating, individual life insurance plan that offers either pure risk protection or a combination of risk protection and savings, depending on the plan option selected."
+    },
+    {
+      "question": "What are the main plan options available under this policy?",
+      "answer": "The policy offers three main options: 1) Life Protect (pure term cover), 2) Life & CI Rebalance (a mix of life and critical illness cover), and 3) Income Plus (life cover with a regular income component)."
+    },
+    {
+      "question": "How does the 'Life & CI Rebalance' option work?",
+      "answer": "Under this option, your total sum assured is split between life cover (80%) and critical illness (CI) cover (20%) at the start. Every year, the CI cover increases and the life cover decreases by a fixed amount, while the total sum assured remains the same."
+    },
+    {
+      "question": "What happens if I am diagnosed with a Critical Illness under the 'Life & CI Rebalance' option?",
+      "answer": "If you are diagnosed with a covered critical illness after the 90-day waiting period, the Critical Illness Sum Assured is paid, all future premiums are waived, and your life cover continues at the level it was at the time of diagnosis."
+    },
+    {
+      "question": "What is the 'Income Plus' option?",
+      "answer": "This option provides a death benefit along with a monthly income of 0.1% of the Basic Sum Assured. This income starts from the policy anniversary after you turn 60 and continues until death or the end of the policy term."
+    },
+    {
+      "question": "Can I get my premiums back if I survive the policy term?",
+      "answer": "Yes, if you choose the 'Return of Premium (ROP)' add-on option with either the 'Life Protect' (Fixed Term) or 'Life & CI Rebalance' plans. If you survive until maturity, 100% of the total premiums paid will be returned to you."
+    },
+    {
+      "question": "Is there an Accidental Death Benefit rider?",
+      "answer": "Yes, the Accidental Death Benefit (ADB) is an optional add-on available with the 'Life Protect' option. It pays an additional amount equal to 100% of the Basic Sum Assured if death occurs due to an accident."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a 30-day free-look period from the date you receive the policy document. During this time, you can review the terms and cancel the policy if you are not satisfied, and you will receive a refund of the premium paid after certain deductions."
+    },
+    {
+      "question": "What happens if I miss paying my premium?",
+      "answer": "You are given a grace period to pay the premium - 15 days for monthly mode and 30 days for all other modes. If you don't pay within the grace period, the policy will lapse."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for annual, half-yearly, and quarterly modes."
+    },
+    {
+      "question": "How can I revive a lapsed policy?",
+      "answer": "A lapsed policy can be revived within five years from the due date of the first unpaid premium. You will need to provide satisfactory evidence of continued insurability and pay all outstanding premiums along with interest."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If the life assured dies by suicide within 12 months of the policy's start date or revival date, the nominee will receive at least 80% of the total premiums paid or the surrender value, whichever is higher, not the full death benefit."
+    },
+    {
+      "question": "Is there a waiting period for Critical Illness claims?",
+      "answer": "Yes, there is a 90-day waiting period from the policy's start or revival date. A Critical Illness claim is only admissible if the illness is diagnosed after this period."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "Basic documents include the completed claim form, original policy document, death certificate, and claimant's ID/address proof. For unnatural death, an FIR, Panchnama report, and post-mortem report are also required."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you have the option to alter the premium payment frequency (e.g., from annual to half-yearly) during the premium payment term."
+    },
+    {
+      "question": "Are loans available against this policy?",
+      "answer": "No, loans are not available under this policy."
+    },
+    {
+      "question": "Who receives the death benefit?",
+      "answer": "The death benefit is payable to the registered nominee. If the policy is assigned, the benefit will be paid to the assignee."
+    },
+    {
+      "question": "What is the 'Waiver of Premium on CI (WOP CI)' option?",
+      "answer": "This is an optional add-on available with the 'Life Protect' (Fixed Term) plan. If you opt for it, all future premiums will be waived if you are diagnosed with a covered Critical Illness."
+    },
+    {
+      "question": "How is the death benefit calculated under the 'Life Protect' option?",
+      "answer": "The death benefit is the higher of the Sum Assured on Death or 105% of Total Premiums Paid. The Sum Assured on Death itself is defined as the highest of 10 times Annualized Premium, Sum Assured on Maturity, or Basic Sum Assured (for limited/regular pay)."
+    },
+    {
+      "question": "How soon do I need to inform the company about a death claim?",
+      "answer": "You are required to intimate the claim to the company within 90 days from the date of death."
+    },
+    {
+      "question": "Can this policy be purchased for a child?",
+      "answer": "No, the policy document states that this policy cannot be taken for the benefit of a minor, who is defined as a person below 18 years of age."
+    },
+    {
+      "question": "Does this policy pay any bonuses?",
+      "answer": "No, this is a non-participating plan, which means it does not participate in the company's profits and no bonus is payable under this policy."
+    },
+    {
+      "question": "What happens if my age was declared incorrectly in the proposal form?",
+      "answer": "If the correct age is discovered, the company will take action. If you are ineligible, the policy may be cancelled with a refund of premiums (less expenses). If you are eligible, the premium will be adjusted to the correct age, and the difference will be payable with interest."
+    },
+    {
+      "question": "How do I file a complaint or grievance?",
+      "answer": "You can contact the Grievance Redressal Officer at HDFC Life's office. If you are not satisfied with the resolution, you can escalate the issue within the company, and if still unresolved, you may approach the IRDAI or the Insurance Ombudsman."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "Annualized Premium is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums. It is used in the calculation of the Sum Assured on Death."
+    },
+    {
+      "question": "What is the policy's surrender value?",
+      "answer": "The policy acquires a surrender value only if you have chosen the Income Plus or Return of Premium option. For Single Pay policies, it's acquired immediately, and for Limited/Regular Pay, it's acquired after two years of premium payment. For other options without ROP, the surrender value is nil for regular premium plans."
+    },
+    {
+      "question": "What is an 'Accident' as per the policy definition?",
+      "answer": "An accident is defined as a sudden, unforeseen, and involuntary event caused by external, visible, and violent means."
+    }
+  ],
+  "source_file": "HDFC-Life-Click-2-Protect-Life-V08-Policy-Bond.txt",
+  "category": "LI Policy Bond Documents"
+}

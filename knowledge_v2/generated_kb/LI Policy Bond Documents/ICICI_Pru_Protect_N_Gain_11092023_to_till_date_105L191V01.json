@@ -1,0 +1,205 @@
+{
+  "product_name": "ICICI Pru Protect N Gain",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Linked Non-Participating Individual Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "ULIP",
+  "summary": "ICICI Pru Protect N Gain is a Unit Linked Non-Participating Individual Savings Life Insurance Plan. It provides a life insurance cover along with an opportunity to grow wealth through investments in various funds. The plan offers death and maturity benefits, along with features like Maturity Booster, Return of Premium Allocation Charges, and Return of Mortality Charges. Policyholders can choose from four different portfolio strategies to manage their investments.",
+  "quick_facts": {
+    "minimum_age": "Not specified in document.",
+    "maximum_age": "Not specified in document.",
+    "sum_insured": "As specified in the Policy Schedule.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "The policy has a Lock-in Period of five consecutive completed years from the date of commencement. Proceeds of discontinued policies cannot be paid during this period, except in case of death."
+  },
+  "coverage": [
+    {
+      "name": "Life Cover",
+      "description": "The insured event is the death of the Life Assured during the term of the policy, provided the policy is in-force."
+    }
+  ],
+  "benefits": [
+    {
+      "benefit_name": "Death Benefit",
+      "description": "Payable on death of the Life Assured during the policy term if the policy is in-force. The benefit will be the highest of: a) Sum Assured, including Top-up Sum Assured, b) Fund Value including Top-up Fund Value, or c) Minimum Death Benefit (105% of total premiums received). If monies are in the DP Fund, the benefit is the proceeds of the DP Fund."
+    },
+    {
+      "benefit_name": "Maturity Benefit",
+      "description": "On survival of the Life Assured till the Date of Maturity, the Fund Value including Top-up Fund Value, if any, will be paid."
+    },
+    {
+      "benefit_name": "Maturity Booster",
+      "description": "Allocated as extra units at the end of the policy term. It is equal to 20% of the average of the Fund Values on the last business day of the last eight policy quarters."
+    },
+    {
+      "benefit_name": "Return of Premium Allocation Charges",
+      "description": "From the 11th Policy Year, 2 times the premium allocation charge deducted 120 months prior will be added back to the Fund Value as units, provided the policy is in force and all due premiums are paid."
+    },
+    {
+      "benefit_name": "Return of Mortality Charges",
+      "description": "Starting from the 11th policy year, a multiple (2X for years 11-25, 3X for year 26 onwards) of the mortality charge deducted 120 months prior will be added back to the Fund Value as units, provided the policy is in force and all due premiums are paid."
+    },
+    {
+      "benefit_name": "Partial Withdrawals",
+      "description": "Allowed after the 5-year Lock-In Period, up to 20% of the Fund Value in a policy year. The minimum withdrawal amount is ₹2,000. Systematic Withdrawal Plan (SWP) is also available."
+    },
+    {
+      "benefit_name": "Settlement Option",
+      "description": "The policyholder can choose to receive the Maturity Benefit in structured payouts over a period of up to 5 years after maturity. This option must be chosen before maturity."
+    },
+    {
+      "benefit_name": "Switches",
+      "description": "Facility to move funds from one fund to another under the Fixed Portfolio Strategy. There is no restriction on the number of switches, and they are free of charge. The minimum switch amount is ₹2,000."
+    },
+    {
+      "benefit_name": "Top-ups",
+      "description": "Policyholders can pay Top-up premiums anytime during the policy term, except in the last five years. The minimum Top-up premium is ₹2,000 and the maximum number of top-ups allowed during the policy term is 99."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age",
+      "description": "Age of the Life Assured in completed years as on Risk Commencement Date of Policy. Specific minimum and maximum entry ages are not mentioned in the provided document."
+    }
+  ],
+  "exclusions": [
+    {
+      "exclusion_name": "Suicide",
+      "description": "If the Life Assured commits suicide, whether sane or insane, within 12 months from the date of commencement or revival of the policy, the policy will terminate. Only the Fund Value, including Top-up Fund Value, as available on the date of intimation of death, will be payable to the Claimant."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claims Process",
+      "description": "To process a claim, the claimant needs to submit required documents. The company will pay the appropriate benefits subject to satisfaction that the benefits have become payable and verification of the claimant's title."
+    },
+    {
+      "name": "Documents for Natural Death Claim",
+      "description": "Includes Claimant’s Statement, Original Policy Document, Death Certificate, Cancelled Cheque, Claimant's photo ID and address proof, medical cause of death, and medical records."
+    },
+    {
+      "name": "Documents for Unnatural Death Claim",
+      "description": "Includes Claimant’s Statement, Original Policy Document, Death Certificate, Cancelled Cheque, Claimant's photo ID and address proof, Post Mortem report, FIR, final police investigation report, and driving license."
+    },
+    {
+      "name": "Documents for Maturity Claim",
+      "description": "Includes Cancelled Cheque of the Claimant, KYC of the Proposer, and Settlement option form, if opted."
+    },
+    {
+      "name": "Contact for Claims and Grievances",
+      "description": "Customer Service Desk, ICICI Prudential Life Insurance Company Limited, Ground Floor & Upper Basement, Unit No. 1A & 2A, RahejaTipco Plaza, Rani Sati Marg, Malad (East), Mumbai- 400097. Email: lifeline@iciciprulife.com, Phone: 1860 266 7766."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru Protect N Gain?",
+      "answer": "It is a Linked Non-Participating Individual Savings Life Insurance Plan that provides life cover along with market-linked returns."
+    },
+    {
+      "question": "What is the Death Benefit under this policy?",
+      "answer": "If the policy is in-force, the Death Benefit is the highest of: a) Sum Assured (including Top-up), b) Fund Value (including Top-up), or c) Minimum Death Benefit, which is 105% of total premiums paid."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "If the Life Assured survives until the policy maturity date, the Fund Value, including any Top-up Fund Value, is paid to the policyholder."
+    },
+    {
+      "question": "What is the Lock-in Period for this policy?",
+      "answer": "The policy has a Lock-in Period of five consecutive completed years from its commencement date. During this period, proceeds from a discontinued policy cannot be paid out, except in the case of death."
+    },
+    {
+      "question": "Can I withdraw money from my policy?",
+      "answer": "Yes, partial withdrawals are allowed after the 5-year Lock-in Period, provided five full years' premiums have been paid. You can withdraw up to 20% of the Fund Value in a policy year."
+    },
+    {
+      "question": "What is the minimum amount for a partial withdrawal?",
+      "answer": "The minimum partial withdrawal amount is ₹2,000."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first five years?",
+      "answer": "If you discontinue premiums within the first five years, the Fund Value (after discontinuance charges) is moved to the Discontinued Policy Fund (DP Fund). The risk cover ceases, and you have a three-year revival period. The money is paid out after the lock-in period ends."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the first five years?",
+      "answer": "If you discontinue premiums after five years, the policy is converted into a reduced paid-up policy. You have a three-year revival period or the option to completely withdraw/surrender the policy."
+    },
+    {
+      "question": "What is the grace period for paying premiums?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other frequencies (annual, half-yearly)."
+    },
+    {
+      "question": "Can a discontinued policy be revived?",
+      "answer": "Yes, a discontinued policy can be revived within a revival period of three consecutive years from the date of the first unpaid premium, subject to underwriting guidelines."
+    },
+    {
+      "question": "What is the Suicide Clause in this policy?",
+      "answer": "If the Life Assured commits suicide within 12 months from the policy's start date or revival date, only the Fund Value as on the date of death intimation will be paid. The Sum Assured will not be payable."
+    },
+    {
+      "question": "Can I get a loan against this policy?",
+      "answer": "No, loans are not applicable under this policy."
+    },
+    {
+      "question": "What is the freelook period?",
+      "answer": "You can review the policy and return it if you are not satisfied within 15 days of receipt, or 30 days if purchased through Distance Mode or electronically."
+    },
+    {
+      "question": "Can I change the premium amount or policy term?",
+      "answer": "No, increase or decrease of premium, premium payment term, Sum Assured, or policy term is not allowed under this policy."
+    },
+    {
+      "question": "What is a Maturity Booster?",
+      "answer": "It is an additional amount allocated as extra units at the end of the policy term, equal to 20% of the average Fund Value of the last eight policy quarters."
+    },
+    {
+      "question": "How does the Return of Mortality Charges work?",
+      "answer": "Starting from the 11th policy year, a multiple of the mortality charge deducted 120 months prior is added back to your Fund Value monthly, provided all due premiums have been paid."
+    },
+    {
+      "question": "What are the main charges deducted from my policy?",
+      "answer": "The main charges are Premium Allocation Charge, Policy Administration Charge, Fund Management Charge (FMC), and Mortality Charges. There are also Discontinuance Charges if the policy is discontinued."
+    },
+    {
+      "question": "What is the Settlement Option?",
+      "answer": "It's an option to receive the Maturity Benefit in instalments (monthly, quarterly, half-yearly, or annually) over a period of up to 5 years after the policy matures."
+    },
+    {
+      "question": "What are the portfolio strategies available?",
+      "answer": "There are four strategies: Target Asset Allocation Strategy, Trigger Portfolio Strategy 2, LifeCycle based Portfolio Strategy 2, and Fixed Portfolio Strategy."
+    },
+    {
+      "question": "Can I switch between funds?",
+      "answer": "Yes, if you have opted for the Fixed Portfolio Strategy, you can switch units between the available funds. All switches are free of charge, and the minimum switch amount is ₹2,000."
+    },
+    {
+      "question": "Can I pay extra premiums?",
+      "answer": "Yes, you can pay Top-up premiums anytime except in the last five years of the policy term. The minimum Top-up premium is ₹2,000."
+    },
+    {
+      "question": "What is the Discontinued Policy Fund (DP Fund)?",
+      "answer": "It is a fund where the value of policies discontinued during the first five years is transferred. It earns a minimum guaranteed interest rate of 4% p.a. and has a Fund Management Charge of 0.50% p.a."
+    },
+    {
+      "question": "Who bears the investment risk in this policy?",
+      "answer": "The investment risk in the investment portfolio is borne by you, the policyholder."
+    },
+    {
+      "question": "What documents are needed to make a death claim?",
+      "answer": "For a natural death, you typically need the Claimant's Statement, original policy document, and death certificate. For an unnatural death, documents like an FIR and Post Mortem report are also required."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "It is a percentage of the premium deducted before allocating the remaining amount to the chosen funds. It is 12% in Year 1, 5% in Year 2, 4.25% in Year 3, and 0% thereafter for regular premiums. For Top-ups, it is 2%."
+    },
+    {
+      "question": "How is the Policy Administration Charge levied?",
+      "answer": "This charge is levied from the 4th policy year onwards. It is deducted monthly by redeeming units and is subject to a maximum of ₹500 per month."
+    },
+    {
+      "question": "What happens if my Fund Value becomes nil after five years?",
+      "answer": "If the Fund Value becomes nil after the lock-in period and after payment of at least five years' premiums, the policy will be foreclosed and terminated, and no benefits will be payable."
+    }
+  ],
+  "source_file": "ICICI_Pru_Protect_N_Gain_11092023_to_till_date_105L191V01.txt",
+  "category": "LI Policy Bond Documents"
+}

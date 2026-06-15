@@ -1,0 +1,350 @@
+====================================================================================================
+QUERY: What is term insurance?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: What is life insurance?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: What is health insurance?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: What is ULIP?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: What is endowment plan?
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+PREVIEW: Product: Kotak Platinum  Question: Can I take a loan against this policy?  Answer: No, the loan option is not available under this policy.
+
+====================================================================================================
+QUERY: What is money back policy?
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+PREVIEW: Product: Kotak Fortune Maximiser  Question: Are loans available under this policy?  Answer: No, there are no loans provided under this policy.
+
+====================================================================================================
+QUERY: What is whole life insurance?
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+PREVIEW: Product: Kotak Fortune Maximiser  Question: Are loans available under this policy?  Answer: No, there are no loans provided under this policy.
+
+====================================================================================================
+QUERY: What is retirement plan?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: What are the tenure options available?  Answer: Tenure options are 1/2/3 Years
+
+====================================================================================================
+QUERY: What is pension plan?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: What are the tenure options available?  Answer: Tenure options are 1/2/3 Years
+
+====================================================================================================
+QUERY: What is child insurance plan?
+PRODUCT: Bajaj Life Magnum Fortune Plus III
+TYPE: faq
+SOURCE: Bajaj life insurance magnum-fortune-plus-sl brochure.json
+PREVIEW: Product: Bajaj Life Magnum Fortune Plus III  Question: Is a loan available against this policy?  Answer: No, there is no loan facility available under this plan.
+
+====================================================================================================
+QUERY: What is death benefit?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: What are the tenure options available?  Answer: Tenure options are 1/2/3 Years
+
+====================================================================================================
+QUERY: What is maturity benefit?
+PRODUCT: Bajaj Life Assured Wealth Goal
+TYPE: faq
+SOURCE: Bajaj Life Insurance  awg-brochure.json
+PREVIEW: Product: Bajaj Life Assured Wealth Goal  Question: Is this product available for purchase online?  Answer: Yes, the product is available for sale through the online mode.
+
+====================================================================================================
+QUERY: What is survival benefit?
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+PREVIEW: Product: Kotak Platinum  Question: Can I take a loan against this policy?  Answer: No, the loan option is not available under this policy.
+
+====================================================================================================
+QUERY: What is accidental death benefit?
+PRODUCT: FAMILY SHIELD
+TYPE: faq
+SOURCE: FS_PW.json
+PREVIEW: Product: FAMILY SHIELD  Question: What is the company's website?  Answer: The company website is www.icicilombard.com
+
+====================================================================================================
+QUERY: What is critical illness benefit?
+PRODUCT: ManipalCigna Lifetime Health, ManipalCigna Critical Illness Add On Cover, ManipalCigna Health 360 Add On Cover, ManipalCigna Lifetime Plus
+TYPE: faq
+SOURCE: 6a6901eb228559073f0170d68ffd768aef49e5f2.json
+PREVIEW: Product: ManipalCigna Lifetime Health, ManipalCigna Critical Illness Add On Cover, ManipalCigna Health 360 Add On Cover, ManipalCigna Lifetime Plus  Question: Who owns the trade name and trade logo?  Answer: Trade Name / Trade Logo belongs to MEMG In
+
+====================================================================================================
+QUERY: What is terminal illness benefit?
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+PREVIEW: Product: Kotak Fortune Maximiser  Question: Are loans available under this policy?  Answer: No, there are no loans provided under this policy.
+
+====================================================================================================
+QUERY: What is waiver of premium?
+PRODUCT: HDFC Life Click 2 Achieve
+TYPE: faq
+SOURCE: HDFC-Life-Click-2-Achieve-Policy-Bond-07.json
+PREVIEW: Product: HDFC Life Click 2 Achieve  Question: What is the Waiver of Premium (WOP) benefit?  Answer: The Waiver of Premium benefit ensures that if the policyholder dies, suffers a total and permanent disability, or is diagnosed with a covered critical
+
+====================================================================================================
+QUERY: What is income benefit?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: What are the tenure options available?  Answer: Tenure options are 1/2/3 Years
+
+====================================================================================================
+QUERY: What is loyalty addition?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Is there any room rent restriction?  Answer: No, all category rooms are allowed
+
+====================================================================================================
+QUERY: What is guaranteed return?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: What is deductible?
+PRODUCT: Care Supreme
+TYPE: faq
+SOURCE: care-supreme---policy-terms-&-conditions-(effective-from-19-march-2025) (1).json
+PREVIEW: Product: Care Supreme  Question: How does the deductible option work?  Answer: Deductible option provides premium discount, where the claim amount is reduced by the specified deductible amount, and the company pays only when the deductible is exhaust
+
+====================================================================================================
+QUERY: What is co-pay?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: What is Health Services Discount Connect?  Answer: It provides discounts on services such as consultations, diagnostics, maternity etc. at the network
+
+====================================================================================================
+QUERY: What is waiting period?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: What is room rent limit?
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+PREVIEW: Product: Kotak Platinum  Question: Can I take a loan against this policy?  Answer: No, the loan option is not available under this policy.
+
+====================================================================================================
+QUERY: What is restoration benefit?
+PRODUCT: Tata AIA Sampoorna Raksha Promise
+TYPE: faq
+SOURCE: TATA AIA Sampoorna_Raksha_Promise_V5_Brochure_0d7c498383.json
+PREVIEW: Product: Tata AIA Sampoorna Raksha Promise  Question: Is a loan available against this policy?  Answer: No, a policy loan facility is not available under this plan.
+
+====================================================================================================
+QUERY: What is no claim bonus?
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+PREVIEW: Product: Kotak Fortune Maximiser  Question: Are loans available under this policy?  Answer: No, there are no loans provided under this policy.
+
+====================================================================================================
+QUERY: What is cumulative bonus?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: What are the tenure options available?  Answer: Tenure options are 1/2/3 Years
+
+====================================================================================================
+QUERY: What is cashless hospitalization?
+PRODUCT: Care Supreme
+TYPE: faq
+SOURCE: care-supreme---policy-terms-&-conditions-(effective-from-19-march-2025).json
+PREVIEW: Product: Care Supreme  Question: What is cashless facility?  Answer: Cashless facility is where payments for treatment costs are directly made to the network provider by the insurer to the extent pre-authorization is approved.
+
+====================================================================================================
+QUERY: What is pre-existing disease?
+PRODUCT: Health Companion
+TYPE: faq
+SOURCE: Health-Companion_Variant-1-2-3-EFF_Policy-Wording.json
+PREVIEW: Product: Health Companion  Question: What defines a pre-existing disease?  Answer: Pre-existing disease means any condition diagnosed by a physician or for which medical advice/treatment was received not more than 36 months prior to policy commenceme
+
+====================================================================================================
+QUERY: What is network hospital?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Who can be covered under this policy?  Answer: Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+====================================================================================================
+QUERY: How do I file a claim?
+PRODUCT: Insurance Claims Guide
+TYPE: faq
+SOURCE: common_claims_faqs.json
+PREVIEW: Product: Insurance Claims Guide  Question: How do I file an insurance claim?  Answer: You should notify the insurer, submit the required claim form and supporting documents, and follow the insurer's claim process. Requirements may vary depending on t
+
+====================================================================================================
+QUERY: How does cashless claim work?
+PRODUCT: Insurance Claims Guide
+TYPE: faq
+SOURCE: common_claims_faqs.json
+PREVIEW: Product: Insurance Claims Guide  Question: What is a cashless claim?  Answer: A cashless claim allows the insurer to directly settle eligible medical expenses with a network hospital, reducing the need for upfront payment by the policyholder.
+
+====================================================================================================
+QUERY: How does reimbursement claim work?
+PRODUCT: Insurance Claims Guide
+TYPE: faq
+SOURCE: common_claims_faqs.json
+PREVIEW: Product: Insurance Claims Guide  Question: What is a reimbursement claim?  Answer: In a reimbursement claim, the policyholder first pays the medical expenses and later submits documents to the insurer for reimbursement of eligible expenses.
+
+====================================================================================================
+QUERY: What documents are required for claim settlement?
+PRODUCT: Insurance Claims Guide
+TYPE: faq
+SOURCE: common_claims_faqs.json
+PREVIEW: Product: Insurance Claims Guide  Question: What documents are generally required for an insurance claim?  Answer: Common documents include claim forms, identity proof, policy details, medical records, hospital bills, discharge summary, death certific
+
+====================================================================================================
+QUERY: How long does claim settlement take?
+PRODUCT: Insurance Claims Guide
+TYPE: faq
+SOURCE: common_claims_faqs.json
+PREVIEW: Product: Insurance Claims Guide  Question: How long does claim settlement usually take?  Answer: Claim settlement timelines vary by insurer and claim type. Claims are generally processed after all required documents and information are received.
+
+====================================================================================================
+QUERY: What is sum assured?
+PRODUCT: Bajaj Life Assured Wealth Goal
+TYPE: faq
+SOURCE: Bajaj Life Insurance  awg-brochure.json
+PREVIEW: Product: Bajaj Life Assured Wealth Goal  Question: Is this product available for purchase online?  Answer: Yes, the product is available for sale through the online mode.
+
+====================================================================================================
+QUERY: What is sum insured?
+PRODUCT: Tata AIA Sampoorna Raksha Promise
+TYPE: faq
+SOURCE: TATA AIA Sampoorna_Raksha_Promise_V5_Brochure_0d7c498383.json
+PREVIEW: Product: Tata AIA Sampoorna Raksha Promise  Question: Is a loan available against this policy?  Answer: No, a policy loan facility is not available under this plan.
+
+====================================================================================================
+QUERY: What is premium?
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+PREVIEW: Product: Kotak Platinum  Question: Can I take a loan against this policy?  Answer: No, the loan option is not available under this policy.
+
+====================================================================================================
+QUERY: What is policy term?
+PRODUCT: Tata AIA Sampoorna Raksha Promise
+TYPE: faq
+SOURCE: TATA AIA Sampoorna_Raksha_Promise_V5_Brochure_0d7c498383.json
+PREVIEW: Product: Tata AIA Sampoorna Raksha Promise  Question: Is a loan available against this policy?  Answer: No, a policy loan facility is not available under this plan.
+
+====================================================================================================
+QUERY: What is grace period?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Is there any room rent restriction?  Answer: No, all category rooms are allowed
+
+====================================================================================================
+QUERY: What is free look period?
+PRODUCT: FAMILY SHIELD
+TYPE: faq
+SOURCE: FS_PW.json
+PREVIEW: Product: FAMILY SHIELD  Question: What is the company's website?  Answer: The company website is www.icicilombard.com
+
+====================================================================================================
+QUERY: What is surrender value?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Is there any room rent restriction?  Answer: No, all category rooms are allowed
+
+====================================================================================================
+QUERY: What is policy lapse?
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+PREVIEW: Product: Kotak Fortune Maximiser  Question: Are loans available under this policy?  Answer: No, there are no loans provided under this policy.
+
+====================================================================================================
+QUERY: What is nominee?
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+PREVIEW: Product: CARE  Question: Is there any limit on ICU charges?  Answer: No, there is no limit on ICU charges
+
+====================================================================================================
+QUERY: What is rider?
+PRODUCT: HDFC Life Click 2 Protect Life
+TYPE: faq
+SOURCE: HDFC-Life-Click-2-Protect-Life-V08-Policy-Bond.json
+PREVIEW: Product: HDFC Life Click 2 Protect Life  Question: What is an 'Accident' as per the policy definition?  Answer: An accident is defined as a sudden, unforeseen, and involuntary event caused by external, visible, and violent means.
+
+====================================================================================================
+QUERY: What is Bajaj Capital?
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+PREVIEW: Product: Kotak Platinum  Question: Can I take a loan against this policy?  Answer: No, the loan option is not available under this policy.
+
+====================================================================================================
+QUERY: What services does Bajaj Capital provide?
+PRODUCT: Bajaj Capital Services
+TYPE: faq
+SOURCE: bajaj_capital_faqs.json
+PREVIEW: Product: Bajaj Capital Services  Question: What services does Bajaj Capital provide?  Answer: Bajaj Capital provides insurance solutions, mutual funds, SIPs, fixed deposits, bonds, wealth management, retirement planning, tax planning, portfolio revie
+
+====================================================================================================
+QUERY: Does Bajaj Capital help with claims?
+PRODUCT: Insurance Claims Guide
+TYPE: faq
+SOURCE: common_claims_faqs.json
+PREVIEW: Product: Insurance Claims Guide  Question: Can Bajaj Capital assist with insurance claims?  Answer: Yes. Bajaj Capital can guide customers regarding claim procedures, required documentation, and coordination with insurers during the claim process.
+
+====================================================================================================
+QUERY: Can Bajaj Capital help choose insurance plans?
+PRODUCT: Bajaj Capital Services
+TYPE: faq
+SOURCE: bajaj_capital_faqs.json
+PREVIEW: Product: Bajaj Capital Services  Question: Does Bajaj Capital help customers choose insurance plans?  Answer: Yes. Bajaj Capital helps customers compare insurance plans from multiple insurers and select plans that match their needs and financial goal
+
+====================================================================================================
+QUERY: Why should I buy insurance through Bajaj Capital?
+PRODUCT: Insurance Planning and Recommendations
+TYPE: faq
+SOURCE: insurance_recommendation_faqs.json
+PREVIEW: Product: Insurance Planning and Recommendations  Question: Why should I buy insurance through Bajaj Capital?  Answer: Bajaj Capital helps customers compare products across insurers, understand policy features, receive advisory support, and obtain ass
+

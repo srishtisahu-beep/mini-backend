@@ -1,0 +1,208 @@
+{
+  "product_name": "Max Life Savings Advantage Plan",
+  "company": "Max Life Insurance Company Limited",
+  "product_type": "A Non-Linked Participating Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "Max Life Savings Advantage Plan is a non-linked participating life insurance plan designed to provide long-term savings and protection. It offers a combination of death and maturity benefits, along with guaranteed additions for the first five years and participation in profits through bonuses. The plan includes features like a terminal illness benefit, loan facility, and flexible settlement options for maturity and death payouts.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Referred to as 'Guaranteed Sum Assured on Maturity', specified in the Policy Schedule.",
+    "policy_term": "Single Pay: 10 years. Limited Pay: 10 to 30 years. Regular Pay: 20 to 30 years.",
+    "waiting_period": "No specific waiting period for death benefit, but a 12-month suicide exclusion applies from the date of inception or revival."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "Payable if the Life Insured dies during the policy term. The amount varies based on the premium payment variant and policy duration at the time of death. It includes the Guaranteed Death Benefit, accrued Guaranteed Additions, accrued Paid Up Additions, and any Terminal Bonus."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "Payable if the Life Insured survives until the Maturity Date. The benefit includes 110% of Guaranteed Sum Assured on Maturity, accrued Guaranteed Additions, accrued Paid Up Additions, and any Terminal Bonus."
+    },
+    {
+      "type": "Terminal Illness Benefit",
+      "description": "If the Life Insured is diagnosed with a Terminal Illness, up to 50% of the Guaranteed Sum Assured on Maturity can be paid in advance, subject to a maximum of INR 10,00,000. Subsequent benefits (death, maturity, or surrender) will be reduced by the amount paid."
+    },
+    {
+      "type": "Guaranteed Additions",
+      "description": "An amount equal to 5.5% of the Guaranteed Sum Assured on Maturity accrues at the end of each policy year for the first 5 policy years, provided the policy is in force."
+    },
+    {
+      "type": "Bonus",
+      "description": "The policy participates in profits. Bonuses are declared annually from the end of the second policy year in the form of Paid Up Additions. A one-time Terminal Bonus may also be payable on death, maturity, or surrender after 5 policy years."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Settlement & Commutation Options",
+      "description": "Both Death and Maturity benefits can be received either as a single lump sum or as a regular monthly/annual income for 10 years. The income option can be commuted to a lump sum at any time."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Once the policy acquires a Surrender Value, a loan can be availed. The maximum loan amount is a percentage of the Special Surrender Value (50% or 80% depending on the deferment period). The minimum loan amount is INR 10,000."
+    },
+    {
+      "name": "Bonus Flexibility",
+      "description": "Policyholders can choose how to utilize the declared bonus. The default is 'Paid Up Additions', but options for 'Premium Offset' (use bonus value to pay future premiums) or 'Paid In Cash' (receive bonus value annually) are also available."
+    },
+    {
+      "name": "Reduced Paid-Up Benefits",
+      "description": "If premiums are discontinued after the policy acquires a surrender value, the policy continues with reduced benefits (Reduced Paid-Up Death and Maturity Benefits) instead of lapsing completely."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy acquires a Surrender Value after payment of premiums for a specified minimum period. The surrender value will be the higher of the Guaranteed Surrender Value or Special Surrender Value."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minor Life Insured",
+      "details": "Risk coverage for minors starts from the Date of Commencement of Risk. The policy automatically vests in the Life Insured upon attaining the age of majority."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the Life Insured commits suicide, whether sane or insane, within 12 months from the date of inception or revival of the policy, the company will only pay the higher of the Surrender Value or total premiums received (if surrender value is acquired), or just the total premiums received (if surrender value is not acquired)."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_name": "Death Claim Process",
+      "description": "To file a death claim, the claimant must submit the required documents to the company. The company will pay the benefits subject to satisfaction that the claim is payable as per policy terms and the credentials of the claimant are bona fide.",
+      "required_documents": [
+        "Claimant’s statement in the prescribed form",
+        "Original Policy document",
+        "Copy of police complaint/FIR (in case of accidental or suicidal death)",
+        "Copy of duly certified post-mortem report (in case of accidental or suicidal death)",
+        "Copy of death certificate issued by the local/municipal authority, duly attested",
+        "Self-attested copy of identity proof of the Claimant",
+        "Bank details of the Claimant",
+        "Any other document required by the company for assessment"
+      ]
+    },
+    {
+      "process_name": "Maturity Claim Process",
+      "description": "Upon survival to the maturity date, the policyholder must submit the necessary documents to receive the maturity benefit.",
+      "required_documents": [
+        "NEFT Form (if not provided earlier)",
+        "A cancelled cheque or copy of passbook with pre-printed name and account number",
+        "A self-attested photo ID proof"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Max Life Savings Advantage Plan?",
+      "answer": "It is a Non-Linked Participating Life Insurance Plan that offers long-term savings, protection, and retirement solutions."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a Free Look period of fifteen (15) days, or thirty (30) days for policies sourced through distance marketing, from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can cancel it."
+    },
+    {
+      "question": "What happens if I cancel the policy during the Free Look period?",
+      "answer": "The policy will terminate, and the company will refund the premiums received after deducting proportionate risk premium, stamp duty charges, and expenses on medical examination, if any."
+    },
+    {
+      "question": "What is the Death Benefit under this plan?",
+      "answer": "If the Life Insured dies during the policy term, a Death Benefit is paid. The amount includes the Guaranteed Death Benefit, accrued Guaranteed Additions, accrued Paid Up Additions, and any Terminal Bonus. The payout amount may be enhanced by 10% if death occurs after 10 policy years for Limited and Regular Pay variants."
+    },
+    {
+      "question": "Are there different ways to receive the Death Benefit?",
+      "answer": "Yes, the claimant can choose to receive the Death Benefit as a single lump sum payout or as a regular monthly/annual income for 10 years."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "If the Life Insured survives to the maturity date, the plan pays a Maturity Benefit, which includes 110% of the Guaranteed Sum Assured on Maturity, plus accrued Guaranteed Additions, accrued Paid Up Additions, and any Terminal Bonus."
+    },
+    {
+      "question": "What are Guaranteed Additions?",
+      "answer": "Guaranteed Additions are an amount equal to 5.5% of the Guaranteed Sum Assured on Maturity, which accrue at the end of each policy year for the first 5 policy years, provided the policy is in force."
+    },
+    {
+      "question": "Is there a benefit for Terminal Illness?",
+      "answer": "Yes. If the Life Insured is diagnosed with a Terminal Illness, you can receive up to 50% of the Guaranteed Sum Assured on Maturity, subject to a maximum of INR 10,00,000. Future benefits will be reduced by this amount."
+    },
+    {
+      "question": "How do bonuses work in this policy?",
+      "answer": "The policy is participating, and a bonus is declared annually after the second policy year by default in the form of Paid Up Additions (PUA). A one-time Terminal Bonus may also be paid on death, maturity, or surrender after 5 policy years."
+    },
+    {
+      "question": "What are Paid Up Additions (PUA)?",
+      "answer": "Paid Up Additions are the default form of bonus declared. They are added to your policy and also participate in future bonuses. They are payable in full on death or maturity."
+    },
+    {
+      "question": "Can I withdraw the value of my Paid Up Additions?",
+      "answer": "Yes, you have the flexibility to partially or fully withdraw the Surrender Value of the accrued Paid Up Additions at any time during the policy term, provided the policy is not in Reduced Paid-up Mode. The minimum withdrawal value is INR 5,000."
+    },
+    {
+      "question": "Are there other options for receiving the bonus besides Paid Up Additions?",
+      "answer": "Yes, you can choose 'Premium Offset' to use the surrender value of the PUA to pay future premiums, or 'Paid In Cash' to receive the surrender value of the PUA annually."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums annually, semi-annually, quarterly, or monthly."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "A grace period of 30 days is provided for all premium payment modes, except for the monthly mode, which has a 15-day grace period."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums before the policy acquires a surrender value, it will become a Lapsed Policy and no benefits will be payable. If it has acquired a surrender value, it will continue in a 'Reduced Paid Up Mode' with reduced benefits."
+    },
+    {
+      "question": "When does the policy acquire a Surrender Value?",
+      "answer": "For a Single Pay variant, it acquires surrender value upon receipt of the single premium. For Limited and Regular Pay variants, it's after payment of premiums for the first 2 years (if PPT is <10 years) or 3 years (if PPT is >=10 years)."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, once the policy acquires a Surrender Value, you can take a loan. The maximum loan amount is a percentage of the Special Surrender Value, and the minimum amount is INR 10,000."
+    },
+    {
+      "question": "How can a Lapsed or Reduced Paid-Up policy be revived?",
+      "answer": "A policy can be revived within the Revival Period of 2 years from the first unpaid premium date by submitting a written request, providing evidence of insurability, and paying all overdue premiums with a late payment fee."
+    },
+    {
+      "question": "What is the suicide exclusion clause in this policy?",
+      "answer": "If the Life Insured commits suicide within 12 months from the policy's start date or revival date, the company will only pay the higher of the surrender value or total premiums received. If no surrender value is acquired, only total premiums received are paid."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "Key documents include the claimant's statement, original policy document, death certificate, claimant's ID proof, bank details, and police/post-mortem reports in case of accidental death."
+    },
+    {
+      "question": "What documents are required for a maturity claim?",
+      "answer": "You need to submit an NEFT form (if not already provided), a cancelled cheque or copy of your passbook, and a self-attested photo ID proof."
+    },
+    {
+      "question": "What happens if the age or gender of the Life Insured was declared incorrectly?",
+      "answer": "The company may revise the premium with interest and/or the benefits payable under the policy based on what would have been applicable for the correct age and/or gender, in accordance with Section 45 of the Insurance Act, 1938."
+    },
+    {
+      "question": "Can I change my premium payment mode during the policy term?",
+      "answer": "Yes, you can change the premium payment mode by submitting a written request. The change will be effective from the next Policy Anniversary."
+    },
+    {
+      "question": "Are there any restrictions on travel or occupation?",
+      "answer": "No, the policy document states there are no restrictions on travel or occupation."
+    },
+    {
+      "question": "What happens if the nominee is a minor at the time of claim?",
+      "answer": "If the nominee is a minor (less than 18 years old) at the time of payment, the benefits will be paid to the Appointee or Guardian named in the policy schedule."
+    },
+    {
+      "question": "What is a 'Lapsed Policy'?",
+      "answer": "A Lapsed Policy is one that has not acquired a Surrender Value and where the due premium has not been paid within the grace period for the first two or three policy years, depending on the premium payment term."
+    },
+    {
+      "question": "How is the interest on a policy loan calculated?",
+      "answer": "The interest on the loan is compounded and applied annually on the Policy Anniversary. The rate is prescribed by the company at the time of taking the loan, based on the RBI bank rate. The current rate mentioned is 9.9% per annum compounded annually."
+    }
+  ],
+  "source_file": "Axis max life 104N111V01_Savings Advantage Plan_Policy Document.txt",
+  "category": "LI Policy Bond Documents"
+}

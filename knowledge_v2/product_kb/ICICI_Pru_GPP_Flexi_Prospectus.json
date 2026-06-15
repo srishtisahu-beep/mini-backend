@@ -1,0 +1,170 @@
+{
+  "product_name": "ICICI Pru Guaranteed Pension Plan Flexi",
+  "company": "ICICI Prudential Life Insurance",
+  "product_type": "Annuity Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Retirement",
+  "summary": "An annuity plan with a limited/regular premium payment option for a secured annuity post-retirement. This plan ensures peace of mind in your golden years by taking care of the single most important requirement of life after retirement – a guaranteed Annuity that will keep coming to you for your entire lifetime.",
+  "quick_facts": {
+    "minimum_age": "40 years (Primary Annuitant), 30 years (Secondary Annuitant)",
+    "maximum_age": "70 years",
+    "sum_insured": "Minimum annuity is ₹ 12,000 per annum. Maximum annuity is subject to the board approved underwriting policy.",
+    "policy_term": "Premium Payment Term (PPT) can be from 5 to 15 years.",
+    "waiting_period": "The Deferment period is the number of years from the start of the policy after which the annuity will begin. It can be chosen by the customer and can range from the premium payment term chosen up to 15 years."
+  },
+  "coverage": [
+    "Single Life without Return of Premium",
+    "Joint Life without Return of Premium",
+    "Single Life with Return of Premium",
+    "Joint Life with Return of Premium",
+    "Single Life with Return of Premium (ROP) on Critical Illness (CI) or Permanent Disability due to Accident (PD) or Death",
+    "Increasing Annuity for Single Life with Return of Premium",
+    "Increasing Annuity for Joint Life with Return of Premium"
+  ],
+  "benefits": [
+    "Guaranteed annuity for your entire life with an option of return of premiums paid.",
+    "Choice of increasing annuity options for an inflation-hedged retirement income.",
+    "Wide range of annuity options to suit your retirement needs, including Joint Life options.",
+    "Waiver of Premium feature available with Joint Life options to secure loved ones.",
+    "‘Save the Date’ feature to receive your annuity on any special date of your choice.",
+    "Option to receive annuity amount on a Monthly, Quarterly, Half-yearly or Yearly basis.",
+    "Option to ‘Top-up’ your plan with additional funds to increase your annuity.",
+    "High Premium Benefit offers additional annuity for higher premium payments.",
+    "Guaranteed Additions accrue monthly during the deferment period and are payable as part of the death benefit.",
+    "Special Withdrawal feature allows withdrawal of up to 60% of total premiums paid.",
+    "Policy Loan facility is available for most annuity options.",
+    "Flexible Death Benefit payout options, either as a lump sum or as income for a fixed period."
+  ],
+  "eligibility": [
+    "Minimum age at entry: 40 years for the Primary Annuitant.",
+    "Maximum age at entry: 70 years for the Primary Annuitant.",
+    "Minimum age at entry for Secondary Annuitant (in Joint Life options): 30 years."
+  ],
+  "exclusions": [
+    "Suicide Clause: During the deferment period, in case of death due to suicide within 12 months from the date of commencement or revival of the policy, the Claimant shall be entitled to at least 80% of the Total Premiums Paid till the date of death or the surrender value available, whichever is higher.",
+    "Critical Illness (CI) Exclusions: The 'Single Life with ROP on CI/PD or Death' option has specific exclusions for the covered critical illnesses. For example, for 'Cancer of Specified Severity', exclusions include tumors described as carcinoma in situ, benign, pre-malignant, and certain types of skin, prostate, and thyroid cancers.",
+    "Permanent Disability (PD) Exclusions: Specific conditions and definitions apply to what constitutes Permanent Disability due to accident.",
+    "Exclusions for Myocardial Infarction: Excludes other acute Coronary Syndromes, any type of angina pectoris, and a rise in cardiac biomarkers in absence of overt ischemic heart disease.",
+    "Exclusions for Open Chest CABG: Excludes angioplasty and/or any other intra-arterial procedures.",
+    "Exclusions for Stroke: Excludes transient ischemic attacks (TIA) and vascular disease affecting only the eye, optic nerve or vestibular functions.",
+    "Exclusions for Major Organ/Bone Marrow Transplant: Excludes other stem-cell transplants and cases where only islets of langerhans are transplanted."
+  ],
+  "claims_information": [
+    "For any clarification or assistance, you can contact your advisor or call the customer service representative on 1800 2660 (Monday to Saturday, 10:00 a.m. to 7:00 p.m, excluding national holidays).",
+    "You can also visit the company website: www.iciciprulife.com.",
+    "If you are not satisfied with the resolution, you can contact the designated grievance redressal officer (GRO) at gro@iciciprulife.com or 1800 2660.",
+    "If the issue is still not resolved, you can escalate the matter to the internal grievance redressal committee or approach the Grievance Cell of the Insurance Regulatory and Development Authority of India (IRDAI)."
+  ],
+  "faqs": [
+    {
+      "question": "What is the ICICI Pru Guaranteed Pension Plan Flexi?",
+      "answer": "It is an annuity plan with a limited or regular premium payment option that provides a secured, guaranteed annuity for your entire lifetime after retirement."
+    },
+    {
+      "question": "How can I start my annuity with this plan?",
+      "answer": "You can start in three simple steps: 1. Choose the annuity amount you wish to receive or the premium you wish to pay. 2. Choose your annuity option, frequency, and start date. 3. Pay premiums for the chosen duration."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this plan?",
+      "answer": "The minimum entry age for the primary annuitant is 40 years and the maximum is 70 years. For a secondary annuitant in a joint life policy, the minimum age is 30 years."
+    },
+    {
+      "question": "What are the available annuity options?",
+      "answer": "There are seven options: Single Life without Return of Premium, Joint Life without Return of Premium, Single Life with Return of Premium, Joint Life with Return of Premium, Single Life with ROP on Critical Illness/Permanent Disability or Death, Increasing Annuity for Single Life with ROP, and Increasing Annuity for Joint Life with ROP."
+    },
+    {
+      "question": "What is the premium payment term (PPT)?",
+      "answer": "The Premium Payment Term can be chosen from 5 to 15 years."
+    },
+    {
+      "question": "What is the deferment period?",
+      "answer": "The deferment period is the time from the policy start until the annuity payments begin. You can choose a deferment period from the end of your premium payment term up to 15 years from the policy start."
+    },
+    {
+      "question": "What is the minimum annuity amount I can receive?",
+      "answer": "The minimum annuity is ₹12,000 per annum, which is equivalent to ₹1,000 per month."
+    },
+    {
+      "question": "How frequently can I receive my annuity payments?",
+      "answer": "You can choose to receive your annuity on a Monthly, Quarterly, Half-yearly, or Yearly basis."
+    },
+    {
+      "question": "What are Guaranteed Additions?",
+      "answer": "Guaranteed Additions is a benefit that accrues to your policy at the end of each policy month during the deferment period, provided all due premiums have been paid. These are payable only as part of the death benefit."
+    },
+    {
+      "question": "What happens if the annuitant dies during the deferment period?",
+      "answer": "A death benefit is payable to the claimant. The amount is generally the higher of (Total Premiums Paid + Accrued Guaranteed Additions) or (105% of Total Premiums Paid). The specifics vary slightly depending on the annuity option chosen."
+    },
+    {
+      "question": "What is the difference between a Single Life and a Joint Life option?",
+      "answer": "In a Single Life option, the annuity is paid for one person's life. In a Joint Life option, after the death of the primary annuitant, the same annuity amount continues to be paid to the secondary annuitant for their lifetime."
+    },
+    {
+      "question": "Who can be a secondary annuitant?",
+      "answer": "The secondary annuitant must have an insurable interest with the primary annuitant and can be a spouse, child, parent, or sibling. They must be at least 30 years old at the start of the policy."
+    },
+    {
+      "question": "What is the 'Increasing Annuity' option?",
+      "answer": "Under this option, the annuity amount increases every year at a rate of 5% p.a. of the annuity amount that was payable in the first year after the deferment period. This helps to hedge against inflation."
+    },
+    {
+      "question": "Is there any benefit for paying a higher premium?",
+      "answer": "Yes, the plan offers a High Premium Benefit, where you receive an additional annuity as a percentage of the annuity rates for paying higher premiums. The benefit percentage increases with the premium amount and deferment period."
+    },
+    {
+      "question": "Is there a Waiver of Premium benefit?",
+      "answer": "Yes, you can opt for the Waiver of Premium benefit with Joint Life options. If the primary annuitant dies during the premium payment term, all future premiums are waived, and the secondary annuitant will continue to receive the applicable benefits."
+    },
+    {
+      "question": "Can I increase my annuity amount after buying the policy?",
+      "answer": "Yes, you can use the 'Top-up' option to increase your annuity by paying an additional premium anytime during the deferment period while the policy is in-force."
+    },
+    {
+      "question": "What is the 'Save the Date' feature?",
+      "answer": "This feature allows you to choose any special date to receive your annuity, such as a birthday or anniversary. The date chosen must be after the due date of the first annuity payment."
+    },
+    {
+      "question": "How can the death benefit be paid out to my nominee?",
+      "answer": "The death benefit can be paid out either as a single Lump Sum or as a structured regular income over a period of 5 years. The choice can be made at the proposal stage or by the claimant."
+    },
+    {
+      "question": "Can I make a withdrawal from my policy if I need funds urgently?",
+      "answer": "Yes, under certain annuity options (like Single/Joint Life with ROP), you can use the 'Special Withdrawal' feature to withdraw up to 60% of the total premiums paid. This will result in a reduction of future annuity payments and other benefits."
+    },
+    {
+      "question": "Can I get a loan against this policy?",
+      "answer": "Yes, a policy loan is available for all options except 'Single Life without Return of Premium' and 'Joint Life without Return of Premium'. The terms for the loan differ depending on whether it is taken during or after the deferment period."
+    },
+    {
+      "question": "What happens if I stop paying my premiums?",
+      "answer": "If you stop paying premiums after at least one full year, your policy becomes 'paid-up'. You will receive reduced benefits. If premiums for less than one full year are paid, the policy will lapse, and if not revived, it will terminate."
+    },
+    {
+      "question": "Can I surrender the policy?",
+      "answer": "Yes, you can surrender the policy anytime after payment of at least one full policy year's premium. The surrender value will be the higher of the Guaranteed Surrender Value (GSV) and Special Surrender Value (SSV)."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a 30-day free-look period from the date of receipt of the policy document to review the terms and conditions. If you are not satisfied, you can return the policy for a refund."
+    },
+    {
+      "question": "What critical illnesses are covered under the 'Single Life with ROP on CI or PD or Death' option?",
+      "answer": "This option covers 7 specified critical illnesses: Cancer of Specified Severity, First Heart Attack of specified severity (Myocardial Infarction), Open Chest CABG, Kidney Failure Requiring Regular Dialysis, Stroke Resulting In Permanent Symptoms, Major Organ/Bone Marrow Transplant, and Permanent Paralysis of limbs."
+    },
+    {
+      "question": "How can I revive a lapsed or paid-up policy?",
+      "answer": "You can revive your policy within five years from the due date of the first unpaid premium by paying all due premiums along with interest, subject to the company's underwriting policy."
+    },
+    {
+      "question": "Can I change my annuity option after the policy starts?",
+      "answer": "No, the annuity option, premium payment term, and deferment period cannot be changed after the free-look period."
+    },
+    {
+      "question": "What happens to a Joint Life policy if the secondary annuitant dies before the primary annuitant?",
+      "answer": "If the secondary annuitant predeceases the primary annuitant, then on the subsequent death of the primary annuitant, the death benefit (if any, as per the option) is paid to the claimant and the policy terminates."
+    }
+  ],
+  "source_file": "ICICI_Pru_GPP_Flexi_Prospectus.txt",
+  "category": "LI Plan Brochure"
+}

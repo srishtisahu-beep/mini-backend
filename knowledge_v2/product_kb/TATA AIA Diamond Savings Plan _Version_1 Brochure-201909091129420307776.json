@@ -1,0 +1,217 @@
+{
+  "product_name": "Tata AIA Life Insurance Diamond Savings Plan",
+  "company": "Tata AIA Life Insurance",
+  "product_type": "Non-Linked, Participating Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A limited pay, non-linked, participating life insurance plan designed to meet medium and long-term goals such as child's education, creating a second income, or retirement planning. It provides guaranteed income after the premium payment term, potential bonuses, and life cover for the entire policy term.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "50 years",
+    "sum_insured": "Basic Sum Assured is 11 times of the Annualised Premium.",
+    "policy_term": "18 years or 25 years",
+    "waiting_period": "12 months for suicide exclusion"
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On death of the Life Insured during the Policy term, the benefit paid is the Sum Assured on Death plus vested Compound Reversionary Bonus and Terminal Bonus, if any. This total amount is subject to a minimum of 105% of Total Premiums Paid."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "A Guaranteed Income is paid annually after the premium payment term until maturity or death, whichever is earlier. For a policy term of 18 years, it's 20% of Assured Benefit starting from the end of year 9. For a policy term of 25 years, it's 25% of Assured Benefit starting from the end of year 13."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival till maturity, the policy pays the last Guaranteed Income installment, vested Compound Reversionary Bonus (if any), and Terminal Bonus (if any)."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Optional riders available are Tata AIA Life Insurance Accidental Death and Dismemberment (Long Scale) (ADDL) Rider and Tata AIA Life Insurance Waiver of Premium Plus (WOPP) Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Income",
+      "description": "Receive guaranteed income annually after the premium payment term is over."
+    },
+    {
+      "name": "Bonuses",
+      "description": "Potential to receive vested Compound Reversionary Bonus and Terminal Bonus, if any, on maturity or on death."
+    },
+    {
+      "name": "Life Cover",
+      "description": "Provides life cover for the entire policy term."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Eligible for tax benefits under Section 80C and 10(10D) of the Income Tax Act, 1961, as per prevailing laws."
+    },
+    {
+      "name": "Large Scale Discount",
+      "description": "A discount is applicable on premiums for policyholders opting for a larger premium amount (starting from Rs. 50,000)."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policy loan is available up to 80% of the Surrender Value once the policy acquires one."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Option to pay premiums annually, half-yearly, quarterly, or monthly."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Age at Entry",
+      "value": "0 to 50 years (as on last birthday)"
+    },
+    {
+      "parameter": "Age at Maturity",
+      "value": "18 to 75 years (as on last birthday)"
+    },
+    {
+      "parameter": "Policy Term (PT)",
+      "value": "18 years or 25 years"
+    },
+    {
+      "parameter": "Premium Payment Term (PPT)",
+      "value": "8 years for PT 18, and 12 years for PT 25"
+    },
+    {
+      "parameter": "Minimum Premium",
+      "value": "Rs. 18,000 per annum"
+    },
+    {
+      "parameter": "Maximum Premium",
+      "value": "No Limit, subject to Underwriting Policy"
+    },
+    {
+      "parameter": "Premium Payment Mode",
+      "value": "Annual, Half-yearly, Quarterly, Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If death due to suicide occurs within 12 months from the date of inception, the nominee will receive at least 80% of the premiums paid. If from the date of revival, the nominee will receive an amount which is higher of 80% of premiums paid till death or the surrender value as available on the date of death."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact for Claims",
+      "description": "For any information including claims, contact your Insurance Advisor/Intermediary, visit the nearest Tata AIA Life branch, call 1-860-266-9966, email customercare@tataaia.com, or visit www.tataaia.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Tata AIA Life Insurance Diamond Savings Plan?",
+      "answer": "It is a non-linked, participating life insurance plan that offers guaranteed income after the premium payment term, life cover for the entire policy term, and potential bonuses to help achieve medium and long-term financial goals."
+    },
+    {
+      "question": "What are the available policy terms and premium payment terms?",
+      "answer": "There are two options: a policy term of 18 years with a premium payment term of 8 years, or a policy term of 25 years with a premium payment term of 12 years."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this plan?",
+      "answer": "The minimum entry age is 0 years (last birthday) and the maximum entry age is 50 years (last birthday)."
+    },
+    {
+      "question": "What is the maximum age at which the policy can mature?",
+      "answer": "The maximum age at maturity for this plan is 75 years (last birthday)."
+    },
+    {
+      "question": "What is the death benefit payable under this plan?",
+      "answer": "The death benefit is the Sum Assured on Death plus any vested Compound Reversionary Bonus and Terminal Bonus. This is subject to a minimum of 105% of total premiums paid."
+    },
+    {
+      "question": "What is the 'Sum Assured on Death'?",
+      "answer": "It is the highest of: 11 times the Annualised Premium, Sum Assured on Maturity, or the Absolute amount assured to be paid on death (Basic Sum Assured)."
+    },
+    {
+      "question": "What benefits do I receive if I survive the policy term?",
+      "answer": "On survival till maturity, you will receive the last Guaranteed Income installment, along with any vested Compound Reversionary Bonus and Terminal Bonus."
+    },
+    {
+      "question": "What is the Guaranteed Income benefit?",
+      "answer": "It is a guaranteed annual payout you receive after the premium payment term ends. It is 20% of the Assured Benefit for the 18-year policy term and 25% of the Assured Benefit for the 25-year policy term."
+    },
+    {
+      "question": "When does the Guaranteed Income start?",
+      "answer": "For the 18-year policy term, it starts from the end of the 9th policy year. For the 25-year policy term, it starts from the end of the 13th policy year."
+    },
+    {
+      "question": "Are the bonuses mentioned in the plan guaranteed?",
+      "answer": "No, the Compound Reversionary Bonus and Terminal Bonus are not guaranteed. They are based on the company's performance and are paid if declared."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annual premium is Rs. 18,000."
+    },
+    {
+      "question": "Are there any discounts for paying a higher premium?",
+      "answer": "Yes, a Large Scale Discount is applicable for annual premiums of Rs. 50,000 and above."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay premiums annually, half-yearly, quarterly, or monthly."
+    },
+    {
+      "question": "Can I add extra coverage to this plan?",
+      "answer": "Yes, you can enhance your protection by adding optional riders like the Tata AIA Life Insurance Accidental Death and Dismemberment (ADDL) Rider and the Waiver of Premium Plus (WOPP) Rider at policy inception."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "A grace period of 15 days is provided for the monthly mode, and 30 days for all other payment modes (annual, half-yearly, quarterly)."
+    },
+    {
+      "question": "What happens if I miss paying premiums?",
+      "answer": "If premiums for the first 2 full years are not paid, the policy will lapse. If at least 2 full years' premiums have been paid and you stop paying, the policy will be converted into a Reduced Paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed policy can be revived within 2 years from the due date of the first unpaid premium, subject to company underwriting and payment of all overdue premiums with interest."
+    },
+    {
+      "question": "Can I surrender my policy?",
+      "answer": "Yes, the policy can be surrendered at any time, but it will only acquire a surrender value if at least the first 2 full years' premiums have been paid."
+    },
+    {
+      "question": "Is a policy loan available under this plan?",
+      "answer": "Yes, once the policy acquires a surrender value, you can apply for a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If death by suicide occurs within 12 months of policy inception or revival, a specified portion of the premiums paid or the surrender value is payable, not the full death benefit."
+    },
+    {
+      "question": "Are there any tax benefits on this policy?",
+      "answer": "Yes, premiums paid may be eligible for tax benefits under Section 80C and policy proceeds may be eligible under Section 10(10D) of the Income Tax Act, 1961, subject to prevailing tax laws."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 15-day free-look period (30 days for policies sourced through distance marketing) from the date of receiving the policy document to review the terms and conditions. You can return the policy if you are not satisfied."
+    },
+    {
+      "question": "Can I change my Basic Sum Assured after buying the policy?",
+      "answer": "No, any change in the Basic Sum Assured is not allowed after the inception of the policy."
+    },
+    {
+      "question": "How is the Assured Benefit calculated?",
+      "answer": "The Assured Benefit is calculated as Annualised Premium multiplied by 1000, divided by the Premium Rate per 1000 Assured Benefit, which depends on age and policy term."
+    },
+    {
+      "question": "What happens if the policy is taken for a minor?",
+      "answer": "When a policy is issued on the life of a minor, the policy will automatically vest unto the Life Insured once they attain the age of majority."
+    },
+    {
+      "question": "What is a Reduced Paid-up policy?",
+      "answer": "If you stop paying premiums after the first two full years, your policy continues with reduced benefits (death, survival, and maturity benefits are proportionately reduced). It will not be eligible for future bonuses."
+    },
+    {
+      "question": "Under what conditions is a Terminal Bonus paid?",
+      "answer": "A Terminal Bonus may be paid if at least 5 full annual premiums have been paid for the 8-year PPT, or at least 7 years' full annual premiums have been paid for the 12-year PPT."
+    }
+  ],
+  "source_file": "TATA AIA Diamond Savings Plan _Version_1 Brochure-201909091129420307776.txt",
+  "category": "LI Plan Brochure"
+}

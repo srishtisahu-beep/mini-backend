@@ -1,0 +1,177 @@
+{
+  "product_name": "ManipalCigna Prime Senior",
+  "product_type": "Health Insurance",
+  "summary": "A health insurance plan designed for senior citizens aged 56-75 years, offering comprehensive coverage with no mandatory pre-policy medical checkup, flexible room category options, unlimited restoration of sum insured, and enhanced coverage for various treatments including mental illness, modern treatments, and AYUSH treatments.",
+  "coverage": [
+    "In-patient hospitalization for more than 24 hours",
+    "Pre-hospitalization expenses (30 days)",
+    "Post-hospitalization expenses (60 days)",
+    "Day care treatment",
+    "Domiciliary treatment at home",
+    "Road ambulance expenses",
+    "Air ambulance (available with Elite Plan)",
+    "Modern and advanced treatments",
+    "Mental illness coverage",
+    "HIV/AIDS and STD coverage",
+    "AYUSH treatments (Ayurveda, Yoga, Naturopathy, Unani, Homeopathy, Siddha)",
+    "Donor expenses for organ transplant",
+    "Unlimited tele-consultations",
+    "Preventive health check-ups",
+    "Domestic second opinion (available with Elite Plan)",
+    "Daily cash for shared accommodation"
+  ],
+  "waiting_periods": [
+    "Initial waiting period: 30 days",
+    "Specified disease/procedure waiting period: 24 months",
+    "Pre-existing diseases waiting period: 24 months",
+    "Reduction in pre-existing disease waiting period to 90 days (optional cover)"
+  ],
+  "room_rent": [
+    "Classic Plan: Room accommodation limit of Rs 3,000 per day",
+    "Elite Plan: Single Private AC room up to sum insured",
+    "ICU: Up to sum insured for both plans",
+    "Any room upgrade option available with no proportionate deduction",
+    "Room category flexibility with no proportionate charges on doctor visits and nursing expenses"
+  ],
+  "co_pay": [
+    "Mandatory co-payment: 20% per claim",
+    "Options available to modify co-payment to 0%, 10% or 30%",
+    "Provision for coverage without co-payments available for higher ages"
+  ],
+  "deductible": [
+    "Wide range of deductible options available",
+    "Specific deductible amounts not specified in the document"
+  ],
+  "claims_information": [
+    "Unlimited restoration of sum insured for related/unrelated illnesses",
+    "Restoration applicable from 2nd claim onwards",
+    "Coverage restores to 100% of sum insured every time",
+    "Cumulative bonus of 10% of sum insured per policy year, maximum up to 100%",
+    "Premium waiver benefit available for critical illness diagnosis or accidental death"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the entry age limit for ManipalCigna Prime Senior?",
+      "answer": "Minimum entry age is 56 years and maximum is 75 years. For family floater, it is applicable based on the age of the eldest insured. Spouse less than 56 years can be part of the policy."
+    },
+    {
+      "question": "Is pre-policy medical checkup mandatory?",
+      "answer": "No, there is no mandatory pre-policy medical checkup required for this plan."
+    },
+    {
+      "question": "What sum insured options are available?",
+      "answer": "Classic plan offers Rs 3 Lacs to Rs 50 Lacs. Elite plan offers Rs 5 Lacs to Rs 50 Lacs with options of 5, 7.5, 10, 15, 20, 25, and 50 Lacs."
+    },
+    {
+      "question": "What policy types are available?",
+      "answer": "Individual, Multi-individual and Family Floater options are available."
+    },
+    {
+      "question": "Is lifetime renewability available?",
+      "answer": "Yes, the policy offers lifetime renewability."
+    },
+    {
+      "question": "What relationships can be covered under this policy?",
+      "answer": "Self, spouse, children, parents, siblings, parents-in-law, grandparents & grandchildren, son-in-law and daughter-in-law, uncle, aunt, nephew, niece, brother-in-law & sister-in-law can be covered."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "The standard waiting period for pre-existing diseases is 24 months, but it can be reduced to 90 days with an optional cover."
+    },
+    {
+      "question": "What is the initial waiting period?",
+      "answer": "The initial waiting period is 30 days."
+    },
+    {
+      "question": "What is the waiting period for specified diseases/procedures?",
+      "answer": "The waiting period for specified diseases/procedures is 24 months."
+    },
+    {
+      "question": "How does the sum insured restoration work?",
+      "answer": "Unlimited restoration of sum insured is available for related/unrelated illnesses, applicable from the 2nd claim onwards. The coverage restores to 100% of sum insured every time."
+    },
+    {
+      "question": "What is the cumulative bonus benefit?",
+      "answer": "Cumulative bonus is available at 10% of sum insured per policy year, with a maximum up to 100% of sum insured."
+    },
+    {
+      "question": "Are tele-consultations covered?",
+      "answer": "Yes, unlimited tele-consultations are available in a policy year including specialists through phone or chat mode via network providers."
+    },
+    {
+      "question": "What AYUSH treatments are covered?",
+      "answer": "Coverage includes Ayurveda, Yoga & Naturopathy, Unani, Homeopathy, and Siddha treatments."
+    },
+    {
+      "question": "Is mental illness covered?",
+      "answer": "Yes, mental illness is covered without any sub-limits."
+    },
+    {
+      "question": "Are HIV/AIDS and STDs covered?",
+      "answer": "Yes, HIV/AIDS and STDs are covered without any sub-limits."
+    },
+    {
+      "question": "What is the pre-hospitalization coverage period?",
+      "answer": "Pre-hospitalization coverage is available for 30 days prior to hospitalization."
+    },
+    {
+      "question": "What is the post-hospitalization coverage period?",
+      "answer": "Post-hospitalization coverage is available for 60 days after discharge from hospital."
+    },
+    {
+      "question": "Is ambulance coverage included?",
+      "answer": "Yes, road ambulance is covered. Air ambulance is available with the Elite Plan."
+    },
+    {
+      "question": "What is domiciliary treatment coverage?",
+      "answer": "Coverage for medical expenses when the condition is not suitable for hospital transfer or if hospital bed is not available."
+    },
+    {
+      "question": "Are donor expenses covered?",
+      "answer": "Yes, enhanced coverage for donor expenses including in-patient, pre & post, screening and complications with respect to the donor for organ transplant."
+    },
+    {
+      "question": "What is day care treatment coverage?",
+      "answer": "Coverage for medical expenses for treatments that need less than 24 hours of hospitalization."
+    },
+    {
+      "question": "Are preventive health check-ups included?",
+      "answer": "Yes, preventive health check-up facility is available at network providers."
+    },
+    {
+      "question": "What is the domestic second opinion benefit?",
+      "answer": "Available with Elite Plan - second opinion once every policy year if advised treatment for each of the 36 listed critical illnesses."
+    },
+    {
+      "question": "What is daily cash for shared accommodation?",
+      "answer": "A fixed daily cash benefit of Rs 800 per day up to maximum of Rs 5,600 per hospitalization for each continuous 24 hours in shared accommodation, applicable after 48 hours of hospitalization."
+    },
+    {
+      "question": "What discounts are available?",
+      "answer": "Standing Instruction Discount: 3% on renewal premium, Long Term Discount: 2 years – 7.5%, 3 years – 10%, Family Discount: 10% for 2 or more members in multi-individual policy."
+    },
+    {
+      "question": "What is the premium waiver benefit?",
+      "answer": "Available with Elite Plan - waiver of next one year renewal policy premium if the proposer who is also insured is diagnosed with listed critical illnesses or suffers accidental death."
+    },
+    {
+      "question": "What is the any room upgrade option?",
+      "answer": "Option to upgrade to 'Any room' category during hospitalization with no proportionate deduction on associated medical expenses."
+    },
+    {
+      "question": "What is premium management option?",
+      "answer": "Room accommodation limit for price sensitive customers. Note: Any room upgrade and premium management cannot be taken together."
+    },
+    {
+      "question": "What is Health 360 Shield add-on?",
+      "answer": "Coverage for listed non-medical items up to base policy sum insured and durable medical equipment up to maximum of Rs 1 Lac."
+    },
+    {
+      "question": "What are the co-payment options?",
+      "answer": "Mandatory co-payment is 20% per claim, with options to modify to 0%, 10% or 30%."
+    }
+  ],
+  "source_file": "3ae97e2b9fc6f41ecdb07c38820229b6269faaa1.txt",
+  "category": "Hi Document"
+}

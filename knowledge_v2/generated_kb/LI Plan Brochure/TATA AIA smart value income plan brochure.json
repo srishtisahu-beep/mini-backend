@@ -1,0 +1,217 @@
+{
+  "product_name": "Tata AIA Life Insurance Value Income Plan",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Individual, Non-Linked, Participating Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A limited pay participating life insurance savings plan that offers options to receive cash bonus payouts annually or accumulate them. It provides a choice between an Endowment plan and an Endowment plan with extended life cover until age 100, along with guaranteed maturity benefits and optional riders for enhanced protection.",
+  "quick_facts": {
+    "minimum_age": "30 days",
+    "maximum_age": "65 years (Varies based on Premium Paying Term: 55 for PPT 5 Yrs, 58 for PPT 6 Yrs, 62 for PPT 7 Yrs, 65 for PPT 8-15 Yrs)",
+    "sum_insured": "No Limit (subject to Underwriting Policy)",
+    "policy_term": "10 to 40 years (Minimum Policy term is Premium Paying Term + 5 years)",
+    "waiting_period": "12 months for suicide exclusion"
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "On death of the life assured during the Policy Term, the Sum Assured on Death plus Accumulated Cash Bonus/Interim Bonus and Terminal Bonus, if any, shall be payable. Sum Assured on Death is the highest of 11 times the Annualised Premium, 105% of Total Premiums Paid, Guaranteed Maturity Benefit, or Basic Sum Assured."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival to maturity, the benefit includes the Guaranteed Maturity Benefit. Depending on the bonus option chosen, it will also include either the Terminal Bonus (if any) or the Accumulated Cash Bonus plus Terminal Bonus (if any)."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "The policyholder can choose to receive a Cash Bonus (if declared) every year from the second policy year or to accumulate these bonuses at an interest rate declared by the company."
+    },
+    {
+      "name": "Extended Life Cover (ELC) Benefit",
+      "description": "Available under Plan Option 2, this provides a life cover equal to the Basic Sum Assured after the policy maturity until the life assured is 100 years old. This benefit is payable upon death during the ELC period or upon survival to age 100, whichever is earlier."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Options Flexibility",
+      "description": "Choice of two plan options: Endowment, or Endowment with extended life cover till Age 100."
+    },
+    {
+      "name": "Bonus Options",
+      "description": "Flexibility to receive Cash Bonus (if declared) from the end of the 2nd policy year or to accumulate the cash bonuses for a larger corpus at maturity."
+    },
+    {
+      "name": "Guaranteed Maturity Benefit",
+      "description": "Receive a Guaranteed Maturity Benefit, which is equal to the Basic Sum Assured, at the end of the policy term."
+    },
+    {
+      "name": "Enhanced Protection",
+      "description": "Flexibility to enhance protection with optional riders for a nominal extra cost."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Choice of multiple Policy Terms & Premium Payment Terms, with options to pay premiums Annually, Half-yearly, Quarterly, or Monthly."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Receive tax benefits under Section 80C and 10(10D) of the Income Tax Act, 1961, as per applicable laws."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Option to avail a policy loan for up to 80% of the Surrender Value once the policy acquires one."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Age at Entry",
+      "value": "Minimum: 30 days. Maximum: 55 years for PPT 5, 58 years for PPT 6, 62 years for PPT 7, 65 years for PPT 8 to 15."
+    },
+    {
+      "parameter": "Age at Maturity",
+      "value": "Minimum: 18 years, Maximum: 80 years."
+    },
+    {
+      "parameter": "Policy Term (PT)",
+      "value": "Minimum: 10 years, Maximum: 40 years. (Minimum PT = PPT + 5 years)."
+    },
+    {
+      "parameter": "Premium Payment Term (PPT)",
+      "value": "5 to 15 years."
+    },
+    {
+      "parameter": "Minimum Premium",
+      "value": "For PPT 5 to 8 years: ₹50,000 p.a. For PPT 9 to 15 years: ₹24,000 p.a."
+    },
+    {
+      "parameter": "Maximum Premium",
+      "value": "No Limit (subject to Underwriting Policy)."
+    },
+    {
+      "parameter": "Premium Payment Modes",
+      "value": "Annual, Half-yearly, Quarterly, Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of inception of the policy, the nominee shall be entitled to at least 80% of the premiums paid. If suicide occurs within 12 months from revival, the nominee is entitled to the higher of 80% of premiums paid till death or the surrender value."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact Information",
+      "details": "For any information including cancellation, claims and complaints, please contact our Insurance Advisor / Intermediary or visit Tata AIA Life’s nearest branch ofﬁce or call 1-860-266-9966 (local charges apply) or write to us at customercare@tataaia.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Tata AIA Life Insurance Value Income Plan?",
+      "answer": "It is an Individual, Non-Linked, Participating Life Insurance Savings Plan that provides life cover and savings benefits, with options to receive or accumulate cash bonuses."
+    },
+    {
+      "question": "What are the two main plan options available?",
+      "answer": "You can choose between 'Option 1 – Endowment' and 'Option 2 – Endowment with Extended Life Cover (ELC) till age 100'."
+    },
+    {
+      "question": "What is the 'Extended Life Cover (ELC)' feature?",
+      "answer": "Under Plan Option 2, after the policy matures, a life cover equal to the Basic Sum Assured continues until the life assured turns 100. This amount is payable on death during this period or on survival to age 100, whichever is earlier."
+    },
+    {
+      "question": "How do the bonus options work?",
+      "answer": "You have two options for the Cash Bonus (if declared): 1) Receive it as a payout every year on your policy anniversary or birthday. 2) Accumulate the bonuses with the company at a declared interest rate, which will be paid out at maturity, death, or surrender."
+    },
+    {
+      "question": "When does the Cash Bonus start?",
+      "answer": "The Cash Bonus (if declared) is payable from the second policy year onwards."
+    },
+    {
+      "question": "What benefits are paid on maturity of the policy?",
+      "answer": "On maturity, you receive the Guaranteed Maturity Benefit. Additionally, depending on the bonus option chosen, you will receive either the Terminal Bonus (if any) or the Accumulated Cash Bonus plus Terminal Bonus (if any)."
+    },
+    {
+      "question": "What is the Death Benefit payable under this plan?",
+      "answer": "The Death Benefit is the Sum Assured on Death plus any applicable bonuses (Accumulated Cash Bonus, Interim Bonus, Terminal Bonus)."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' calculated?",
+      "answer": "It is defined as the highest of: 11 times the Annualised Premium, 105% of the Total Premiums Paid as on the date of death, the Guaranteed Maturity Benefit, or the Basic Sum Assured."
+    },
+    {
+      "question": "What is the minimum and maximum age to enter this plan?",
+      "answer": "The minimum entry age is 30 days. The maximum entry age ranges from 55 to 65 years, depending on the premium payment term chosen."
+    },
+    {
+      "question": "What are the available Policy Terms?",
+      "answer": "The Policy Term can range from 10 to 40 years. The minimum policy term must be at least 5 years more than the premium paying term."
+    },
+    {
+      "question": "For how long do I need to pay premiums?",
+      "answer": "The Premium Payment Term (PPT) can be chosen from 5 to 15 years."
+    },
+    {
+      "question": "What is the minimum premium I have to pay?",
+      "answer": "The minimum annual premium is ₹50,000 for a Premium Payment Term of 5-8 years, and ₹24,000 for a Premium Payment Term of 9-15 years."
+    },
+    {
+      "question": "What are the modes available for premium payment?",
+      "answer": "You can pay premiums Annually, Half-yearly, Quarterly, or Monthly. Note that non-annual modes have a loading charge."
+    },
+    {
+      "question": "Can I enhance my coverage with additional riders?",
+      "answer": "Yes, you can add optional riders like Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider, Tata AIA Vitality Health, Tata AIA Vitality Protect, and Tata AIA Benefit Protection Rider for an extra cost."
+    },
+    {
+      "question": "What is the grace period if I miss a premium payment?",
+      "answer": "A grace period of 15 days is provided for the monthly mode and 30 days for all other premium payment modes."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums are discontinued during the first policy year, the policy will lapse. If discontinued after one full year's premium is paid, the policy acquires a 'Reduced Paid-Up' status with proportionately reduced benefits."
+    },
+    {
+      "question": "Can a lapsed or paid-up policy be revived?",
+      "answer": "Yes, a policy can be revived within five years from the due date of the first unpaid premium, subject to payment of all overdue premiums with interest and submission of health evidence."
+    },
+    {
+      "question": "Is there a free-look period for this policy?",
+      "answer": "Yes, there is a 30-day free-look period from the date you receive the policy document to review its terms and conditions and return it if you disagree."
+    },
+    {
+      "question": "What is the exclusion for death by suicide?",
+      "answer": "If death occurs due to suicide within 12 months of policy inception, 80% of the premiums paid will be refunded. If it occurs within 12 months of revival, the higher of 80% of premiums paid or the surrender value is payable."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can apply for a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "Are there any tax benefits with this plan?",
+      "answer": "Yes, premiums paid may be eligible for tax benefits under Section 80C, and maturity/death proceeds may be tax-exempt under Section 10(10D) of the Income Tax Act, 1961, subject to prevailing laws."
+    },
+    {
+      "question": "What is a Terminal Bonus?",
+      "answer": "A Terminal Bonus is a non-guaranteed, one-time bonus that may be paid by the company upon exit from the policy due to death, surrender, or maturity, after completion of the premium paying term or 5 policy years, whichever is earlier."
+    },
+    {
+      "question": "What happens to the policy when a minor life insured turns 18?",
+      "answer": "The policy automatically vests in the life insured upon attaining the age of majority (18 years), and they become the policyholder."
+    },
+    {
+      "question": "Can I change my Basic Sum Assured after the policy starts?",
+      "answer": "No, any change in the Basic Sum Assured is not allowed after the inception of the policy."
+    },
+    {
+      "question": "What is the 'Guaranteed Maturity Benefit'?",
+      "answer": "The Guaranteed Maturity Benefit is an amount guaranteed to be paid on policy maturity, which is equal to the Basic Sum Assured."
+    },
+    {
+      "question": "How can I contact Tata AIA Life for claims or complaints?",
+      "answer": "You can contact your Insurance Advisor, visit a branch, call 1-860-266-9966, or email customercare@tataaia.com."
+    },
+    {
+      "question": "Are the bonuses mentioned in the illustration guaranteed?",
+      "answer": "No, the Cash Bonus, Accumulated Cash Bonus, and Terminal Bonus are not guaranteed. They are variable and depend on the future performance of the insurer's participating life insurance business."
+    }
+  ],
+  "source_file": "TATA AIA smart value income plan brochure.txt",
+  "category": "LI Plan Brochure"
+}

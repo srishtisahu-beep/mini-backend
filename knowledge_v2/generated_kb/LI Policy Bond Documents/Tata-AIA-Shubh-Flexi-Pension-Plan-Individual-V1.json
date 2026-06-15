@@ -1,0 +1,242 @@
+{
+  "product_name": "Tata AIA Life Insurance Shubh Flexi Pension Plan (UIN: 110N209V01)",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Non-linked, Non-Participating, Individual Annuity Plan",
+  "insurance_type": "Annuity Plan",
+  "plan_category": "Individual",
+  "summary": "A non-linked, non-participating individual annuity plan designed to provide regular annuity payments. It offers five different annuity options, including immediate and deferred variants, with some options providing a variable annuity linked to market performance. The plan includes optional features like a 'Sub-Wallet' for flexible benefit payouts and Health Management Services. It can also be purchased by NPS subscribers with special benefits and as a Qualifying Recognized Overseas Pension Scheme (QROPS).",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document. For QROPS option, minimum age for annuity payment is 55 years.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Not applicable. Benefits are based on the Purchase Price, which is the total of all premiums payable.",
+    "policy_term": "Annuity is payable for the lifetime of the Annuitant.",
+    "waiting_period": "The plan features a 'Deferment Period' for deferred annuity options (Options 3 and 5), during which no annuity is payable. For Single Pay, it is 1 to 20 years. For Regular Pay, it is equal to the Premium Payment Term. For Limited Pay, it is between Premium Payment Term + 1 to Premium Payment Term + 20 years."
+  },
+  "coverage": [
+    {
+      "type": "Annuity Options",
+      "details": "The plan offers five annuity options, which must be selected at inception and cannot be altered later. All options are available on a single life basis only."
+    },
+    {
+      "option_name": "Option 1 – Immediate Life Annuity",
+      "description": "A level annuity is payable for the lifetime of the Annuitant, commencing immediately. No death benefit is payable."
+    },
+    {
+      "option_name": "Option 2 – Immediate Life Annuity with Y% of Return of Purchase Price",
+      "description": "A level annuity is payable for the lifetime of the Annuitant, commencing immediately. A death benefit of Y% of Total Premiums Paid is payable. Y% can range from 50% to 100%."
+    },
+    {
+      "option_name": "Option 3 – Deferred Life Annuity with Y% of Return of Purchase Price",
+      "description": "A level annuity is payable for the lifetime of the Annuitant, commencing after a Deferment Period. A death benefit is payable. Guaranteed Additions accrue during the Deferment Period."
+    },
+    {
+      "option_name": "Option 4 – Immediate Life Variable Annuity with Return of Purchase Price",
+      "description": "A variable annuity (comprising guaranteed and variable parts) is payable for the lifetime of the Annuitant, commencing immediately. A death benefit equal to Total Premiums Paid is payable."
+    },
+    {
+      "option_name": "Option 5 – Deferred Life Variable Annuity with Return of Purchase Price",
+      "description": "A variable annuity (comprising guaranteed and variable parts) is payable for the lifetime of the Annuitant, commencing after a Deferment Period. A death benefit is payable. Guaranteed Additions accrue during the Deferment Period."
+    }
+  ],
+  "benefits": [
+    {
+      "benefit_type": "Death Benefit",
+      "details": "Payable upon the death of the Annuitant, provided the policy is in force. The benefit varies by the chosen option."
+    },
+    {
+      "benefit_type": "Death Benefit - Option 1",
+      "description": "No death benefit is payable."
+    },
+    {
+      "benefit_type": "Death Benefit - Option 2",
+      "description": "Y% of Total premiums Paid till date of death. Y can be chosen from 50% to 100%."
+    },
+    {
+      "benefit_type": "Death Benefit - Option 3",
+      "description": "Within Deferment Period: Higher of (Total Premiums Paid + Accrued Guaranteed Additions) or 105% of Total Premiums Paid. Post Deferment Period: Y% of Total Premiums Paid."
+    },
+    {
+      "benefit_type": "Death Benefit - Option 4",
+      "description": "Total Premiums Paid till date of death."
+    },
+    {
+      "benefit_type": "Death Benefit - Option 5",
+      "description": "Within Deferment Period: Higher of (Total Premiums Paid + Accrued Guaranteed Additions) or 105% of Total Premiums Paid. Post Deferment Period: Total Premiums Paid."
+    },
+    {
+      "benefit_type": "Survival Benefit (Annuity Payout)",
+      "details": "Regular annuity payments are made as per the chosen frequency upon the survival of the Annuitant."
+    },
+    {
+      "benefit_type": "Optional Feature: Sub-Wallet",
+      "description": "Policyholders can choose to receive full or part of the benefits into a 'Sub-Wallet'. The balance in the sub-wallet earns a loyalty addition and can be withdrawn partially or in full anytime. Any remaining balance is paid upon termination of the policy."
+    },
+    {
+      "benefit_type": "Optional Feature: Health Management Services",
+      "description": "Eligible annuitants can avail services like Second Opinion, Personal Medical Case Management, and Medical Consultation from affiliated service providers at no additional cost."
+    },
+    {
+      "benefit_type": "Special Purchase Option for NPS Subscribers",
+      "description": "National Pension Scheme (NPS) subscribers who use their funds to purchase this plan will receive an additional annuity of 1.50% of the annuity rate."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "General Eligibility",
+      "details": "The eligibility of the Annuitant is determined by the company's Board Approved Underwriting Policy. Specific minimum and maximum entry ages are not mentioned in the document."
+    },
+    {
+      "criteria": "QROPS Purchase",
+      "details": "If the plan is purchased as a QROPS (Qualifying Recognized Overseas Pension Scheme), the minimum entry age for annuity payment is 55 years (last birthday)."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement or revival of the policy, the nominee or legal heir will receive at least 80% of the total premiums paid till the date of death or the surrender value available, whichever is higher. This exclusion is applicable to all options except Option 1."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_name": "Claims Intimation Process",
+      "details": "The company must be notified of a death claim within 90 days of the event. Intimation can be done online, via email (claims@tataaia.com), by calling the helpline, visiting a branch office, or writing to the claims department."
+    },
+    {
+      "process_name": "Death Claim Requirements",
+      "details": "The following documents are generally required for processing a death claim:"
+    },
+    {
+      "document_list": "Standard Documents",
+      "items": [
+        "Claim Forms (Part I: Claimant's Statement and Part II: Physician's Statement)",
+        "Death Certificate issued by a local government body",
+        "Medical Records (Admission notes, discharge/death summary, test reports, etc.)",
+        "Claimant's Photo ID with age proof, relationship proof, address proof, and bank details (cancelled cheque/passbook copy)"
+      ]
+    },
+    {
+      "document_list": "Additional Documents for Accidental/Unnatural Death",
+      "items": [
+        "Postmortem report (Autopsy report) & Chemical Viscera report, if performed",
+        "All Police Papers: Panchnama, Inquest, First Information Report (FIR), and Final Investigation Report/Charge Sheet",
+        "Newspaper cuttings or photographs of the accident, if available"
+      ]
+    },
+    {
+      "process_name": "Legal Title",
+      "details": "If no nomination is made, proof of legal title to the claim proceeds (e.g., legal succession paper) is required."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Tata AIA Shubh Flexi Pension Plan?",
+      "answer": "It is a Non-linked, Non-Participating, Individual Annuity Plan that provides for payment of a regular annuity as per the frequency chosen by the Annuitant."
+    },
+    {
+      "question": "What does 'Non-Participating' mean?",
+      "answer": "Non-Participating means that the policy is not entitled to any share in the surplus (profits) of the company during the term of the policy."
+    },
+    {
+      "question": "What is a 'Deferment Period'?",
+      "answer": "The Deferment Period is the period from the start of the policy during which no annuity is payable. It is applicable to deferred annuity options (Options 3 and 5). Its duration depends on the premium payment type: 1-20 years for Single Pay, equal to the premium payment term for Regular Pay, and between PPT+1 to PPT+20 years for Limited Pay."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other payment frequencies (quarterly, half-yearly, annual)."
+    },
+    {
+      "question": "What are the different annuity options available under this plan?",
+      "answer": "The plan offers five options: 1) Immediate Life Annuity, 2) Immediate Life Annuity with Y% of Return of Purchase Price, 3) Deferred Life Annuity with Y% of Return of Purchase Price, 4) Immediate Life Variable Annuity with Return of Purchase Price, and 5) Deferred Life Variable Annuity with Return of Purchase Price."
+    },
+    {
+      "question": "Can I change my chosen annuity option after the policy is issued?",
+      "answer": "No, the annuity option must be selected at the time of purchase and cannot be altered later."
+    },
+    {
+      "question": "Is there a death benefit under all plan options?",
+      "answer": "No, Option 1 (Immediate Life Annuity) does not have a death benefit. All other options (2, 3, 4, and 5) provide a death benefit."
+    },
+    {
+      "question": "What is the death benefit for Option 3 - Deferred Life Annuity with Y% of Return of Purchase Price?",
+      "answer": "If death occurs during the deferment period, the benefit is the higher of (Total Premiums Paid + Accrued Guaranteed Additions) or 105% of Total Premiums Paid. If death occurs after the deferment period, the benefit is Y% of Total Premiums Paid."
+    },
+    {
+      "question": "What are Guaranteed Additions and when do they apply?",
+      "answer": "Guaranteed Additions accrue at the end of each completed policy month during the Deferment Period for Options 3 and 5, provided all due premiums are paid. They are calculated as 1/12th of 6% of the Total Premiums Paid and form a part of the death benefit during deferment."
+    },
+    {
+      "question": "How is the Variable Annuity calculated for Options 4 and 5?",
+      "answer": "The Variable Annuity is determined at every rebase time based on the Net Index Return of the NIFTY 50 index, compared against an Assumed Interest Return (AIR) of 7% p.a. The annuity payout comprises a Guaranteed Annuity portion and this Variable Annuity portion."
+    },
+    {
+      "question": "What is the 'Sub-Wallet' feature?",
+      "answer": "The Sub-Wallet allows you to receive all or a part of your benefits into a special account. The balance in this wallet earns a loyalty addition and can be withdrawn fully or partially at any time."
+    },
+    {
+      "question": "What are the Health Management Services?",
+      "answer": "Eligible annuitants can avail services like Second Opinion, Personal Medical Case Management, or Medical Consultation from service providers affiliated with Tata AIA Life, at no extra cost."
+    },
+    {
+      "question": "What happens if the annuitant dies by suicide?",
+      "answer": "If death by suicide occurs within 12 months of the policy's start or revival, the nominee receives at least 80% of the total premiums paid or the surrender value, whichever is higher. This does not apply to Option 1."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a 30-day Free Look period from the date you receive the policy document to review the terms and conditions. If you are not satisfied, you can cancel the policy and get a refund of premiums paid, after minor deductions."
+    },
+    {
+      "question": "What happens if I stop paying my premiums?",
+      "answer": "If you stop paying premiums after the grace period and have not paid for at least one full year, the policy will lapse, and no benefits will be payable. If you have paid for at least one year, the policy will be converted into a Reduced Paid-up Policy by default."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed policy can be revived within a period of 5 consecutive years from the date of the first unpaid premium, by paying all overdue premiums with interest and providing evidence of insurability."
+    },
+    {
+      "question": "Can I surrender my policy?",
+      "answer": "Yes, you can surrender the policy. For single-pay policies, surrender is possible anytime. For regular/limited pay policies, it is possible after the first policy year if at least one full year's premium has been paid. Option 1 has no surrender benefit."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, a policy loan is available on completion of one policy year for all options except Option 1, provided one full year's premium is paid. The loan amount is subject to certain conditions and cannot exceed 80% of the surrender value."
+    },
+    {
+      "question": "How is the interest on the policy loan charged?",
+      "answer": "The loan interest is recovered from the annuity amount payable under the policy. The loan interest accrues as per the frequency of annuity payment."
+    },
+    {
+      "question": "How do I file a death claim?",
+      "answer": "You can intimate a claim online, via email, by calling the helpline, visiting a branch, or writing to the company. The notification should be within 90 days of the death."
+    },
+    {
+      "question": "What are the main documents needed for a death claim?",
+      "answer": "The primary documents include claim forms, the original death certificate, medical records, and the claimant's ID and bank details. For accidental deaths, police reports and a post-mortem report are also required."
+    },
+    {
+      "question": "Can I change the frequency of my annuity payouts?",
+      "answer": "Yes, the annuity frequency can be changed at a Policy Anniversary, provided the annuity instalment does not fall below the minimum limit."
+    },
+    {
+      "question": "Are there special benefits for NPS subscribers?",
+      "answer": "Yes, if the plan is purchased using funds from the National Pension Scheme (NPS), the company offers an additional annuity of 1.50% of the annuity rate."
+    },
+    {
+      "question": "Can this plan be used as a QROPS?",
+      "answer": "Yes, this plan can be purchased as a QROPS (Qualifying Recognized Overseas Pension Scheme) through the transfer of UK tax-relieved assets, subject to HMRC terms and conditions."
+    },
+    {
+      "question": "What happens if my age was stated incorrectly in the proposal form?",
+      "answer": "If the correct age would have required a higher premium, the benefit payable will be adjusted after deducting the premium difference with interest. If a lower premium was required, the excess premium will be refunded without interest. If you were not insurable at the correct age, the policy will be void and premiums will be refunded after deductions."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "The policy terminates on payment of refund under a freelook request, payment of death or surrender benefit, when the loan with interest exceeds the surrender value, or on expiry of the revival period for a lapsed policy."
+    },
+    {
+      "question": "Can I add riders to this plan?",
+      "answer": "Yes, applicable riders can be attached at the inception of the policy or at any Policy Anniversary. However, if the product is purchased under the Point-of-sale variant, no riders can be attached."
+    }
+  ],
+  "source_file": "Tata-AIA-Shubh-Flexi-Pension-Plan-Individual-V1.txt",
+  "category": "LI Policy Bond Documents"
+}

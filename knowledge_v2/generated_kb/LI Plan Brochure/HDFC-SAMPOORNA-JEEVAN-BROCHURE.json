@@ -1,0 +1,197 @@
+{
+  "product_name": "HDFC Life Sampoorna Jeevan",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An Individual Non-Linked Participating Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "HDFC Life Sampoorna Jeevan is a life insurance cum savings plan designed to provide financial protection to your family in your absence. It offers survival and/or maturity benefits to meet your family's growing needs, with flexible options to receive regular income. This plan allows for premium payment for a limited term while providing life cover for the entire policy term.",
+  "quick_facts": {
+    "minimum_age": "3 years",
+    "maximum_age": "60 years",
+    "sum_insured": "",
+    "policy_term": "Sampoorna Jeevan 75 variant: Fixed term of 25, 30, 35, 40 years or until age 75. Sampoorna Jeevan 100 variant: Fixed term of 25, 30, 35, 40 years or until age 100.",
+    "waiting_period": "For Life Assured aged less than 12 years, risk commences on the last day of the second Policy Year. Death benefit before this is a refund of total premiums paid without interest."
+  },
+  "coverage": [
+    {
+      "title": "Death Benefit",
+      "description": "In case of death of the life assured during the policy term, the nominee receives the Sum Assured on Death plus any vested bonuses and paid-up additions. The Sum Assured on Death is the highest of: 'X' times the Annualized premium (where X is 7 or 10), Minimum Guaranteed Sum Assured on Maturity, the absolute amount assured to be paid on death (basic sum assured), or 105% of the total premiums paid up to the date of death."
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Survival Benefit",
+      "description": "The plan offers survival benefits during the policy term, depending on the chosen Guaranteed Benefit Option and bonus option. This can include Guaranteed Income Benefit payouts."
+    },
+    {
+      "title": "Maturity Benefit",
+      "description": "On survival to the policy maturity date, a maturity benefit is paid based on the Guaranteed Benefit Option chosen at inception. Options include a lump sum, regular income, or a combination of both."
+    },
+    {
+      "title": "Bonus Eligibility",
+      "description": "The policy is eligible for Simple Reversionary Bonus (SRB), Cash Bonus (CB), Simple Reversionary Income Bonus (SRIB), and Terminal Bonus, if declared by the company. These bonuses are not guaranteed."
+    },
+    {
+      "title": "Loan Facility",
+      "description": "Policyholders can avail a loan against the policy for financial emergencies. The maximum loan amount available is up to 80% of the surrender value."
+    },
+    {
+      "title": "Tax Benefits",
+      "description": "Tax benefits may be applicable on premiums paid and benefits received as per the provisions of the Income Tax Act, 1961, as amended from time to time."
+    },
+    {
+      "title": "Premium Size Discount",
+      "description": "The policy rewards you with a premium discount for paying higher premium amounts. The discount varies based on the premium slab, plan variant, and premium payment term."
+    },
+    {
+      "title": "Rider Options",
+      "description": "Option to enhance protection with riders like HDFC Life Income Benefit on Accidental Disability Rider and HDFC Life Protect Plus Rider."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Minimum Age at Entry",
+      "value": "3 years (as on last birthday)"
+    },
+    {
+      "parameter": "Maximum Age at Entry",
+      "value": "60 years (as on last birthday)"
+    },
+    {
+      "parameter": "Maturity Age",
+      "value": "Sampoorna Jeevan 75 variant: 75 years. Sampoorna Jeevan 100 variant: 100 years."
+    },
+    {
+      "parameter": "Premium Payment Term (PPT)",
+      "value": "6, 8, 10, 12, 15 years"
+    },
+    {
+      "parameter": "Minimum Premium",
+      "value": "Annual: Rs. 12,000, Half-Yearly: Rs. 5,000, Monthly: Rs. 1,000"
+    },
+    {
+      "parameter": "Maximum Premium",
+      "value": "No Limit, subject to Board approved underwriting policy"
+    },
+    {
+      "parameter": "Premium Payment Frequency",
+      "value": "Annual, Half-Yearly, Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "title": "Suicide Exclusion",
+      "description": "In case of death of the life assured due to suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee shall be entitled to at least 80% of the total premium paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "title": "Contact for Service/Grievances",
+      "description": "You can contact HDFC Life via Helpline number: 022-68446530, E-mail: service@hdfclife.com, or by visiting a branch. For grievances, you can write a letter, email, or use the website's grievance redressal section."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Sampoorna Jeevan?",
+      "answer": "It is a unique Life Insurance cum savings plan which provides financial protection to your family in your absence. It also gives you survival and/or maturity benefit to fulfill your family’s growing needs."
+    },
+    {
+      "question": "What type of plan is this?",
+      "answer": "It is an Individual Non-Linked Participating Savings Life Insurance Plan."
+    },
+    {
+      "question": "What is the minimum age to purchase this plan?",
+      "answer": "The minimum age at entry is 3 years, depending on the chosen plan options."
+    },
+    {
+      "question": "What is the maximum age to purchase this plan?",
+      "answer": "The maximum age at entry is 60 years, depending on the chosen plan options."
+    },
+    {
+      "question": "What are the available policy term options?",
+      "answer": "The plan offers two maturity age variants: Sampoorna Jeevan 75 (matures at age 75 or after a fixed term) and Sampoorna Jeevan 100 (matures at age 100 or after a fixed term)."
+    },
+    {
+      "question": "What are the premium payment terms?",
+      "answer": "You can choose to pay premiums for a limited term of 6, 8, 10, 12, or 15 years."
+    },
+    {
+      "question": "What is the minimum premium I can pay?",
+      "answer": "The minimum premium is Rs. 12,000 for annual mode, Rs. 5,000 for half-yearly mode, and Rs. 1,000 for monthly mode."
+    },
+    {
+      "question": "Is there a maximum limit on the premium amount?",
+      "answer": "No, there is no limit on the maximum premium, but it is subject to the Board approved underwriting policy."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit includes Sum Assured on Death, vested Simple Reversionary Bonuses/Income Bonuses, Cash Bonus (if any), Vested Paid-up Additions (if any), and Terminal Bonus (if any)."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' determined?",
+      "answer": "It is defined as the highest of: 'X' times the Annualized premium (where X is 7 or 10), Minimum Guaranteed Sum Assured on Maturity, the absolute amount assured to be paid on death (basic sum assured), or 105% of the total premiums received up to the date of death."
+    },
+    {
+      "question": "What are the maturity benefits?",
+      "answer": "On survival to the policy maturity date, you will receive a maturity benefit based on the Guaranteed Benefit Option chosen at the start of the policy. This can be a lump sum, income, or a combination."
+    },
+    {
+      "question": "What are the Guaranteed Benefit Options available?",
+      "answer": "There are four options: Option A (Lump Sum Option), Option B (Income Option), Option C (Lump Sum with Income Option), and Option D (Income with Lump Sum Option)."
+    },
+    {
+      "question": "Can I change my Guaranteed Benefit Option during the policy term?",
+      "answer": "No, the Guaranteed Benefit option has to be chosen at the inception of this policy. Once chosen, the option cannot be changed during the policy term."
+    },
+    {
+      "question": "Are the bonuses under this plan guaranteed?",
+      "answer": "No, Simple Reversionary Bonus, Simple Reversionary Income Bonus, Cash Bonus and Terminal Bonus are not guaranteed and depend on the participating fund’s performance."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 15 days for monthly mode and 30 days for other modes is available. If premiums are not paid within the grace period and the policy has not completed at least 1 full year of premium payments, it will lapse."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 15 days is available for monthly premium payments, and 30 days for quarterly, half-yearly, and annual premium payments."
+    },
+    {
+      "question": "Can I take a loan against my HDFC Life Sampoorna Jeevan policy?",
+      "answer": "Yes, you can take a loan against your policy for financial emergencies. The loan amount will be subject to a maximum of 80% of the surrender value."
+    },
+    {
+      "question": "What are Paid-Up Additions?",
+      "answer": "If you opt for Bonus Option 3 or 4, you can choose to use your declared Cash Bonus to purchase Paid-up Additions, which are additional benefits that can be encashed as per your need."
+    },
+    {
+      "question": "Can I revive a policy that has lapsed?",
+      "answer": "Yes, a lapsed policy can be revived within five years from the due date of the first unpaid premium, subject to satisfying the company as to the continued insurability and payment of all due premiums with interest."
+    },
+    {
+      "question": "Is it possible to surrender the policy before maturity?",
+      "answer": "Yes, the policy can be surrendered if at least one full year’s premiums have been paid. The surrender benefit is the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV)."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have an option to return the Policy within 30 days from the date of receipt if you are not agreeable to any of the terms and conditions."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life assured dies by suicide within 12 months from the policy's risk commencement or revival date, the nominee is entitled to at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "Are there any riders available with this plan?",
+      "answer": "Yes, you can enhance your protection by opting for riders like HDFC Life Income Benefit on Accidental Disability Rider and HDFC Life Protect Plus Rider."
+    },
+    {
+      "question": "What happens if the life assured is a minor at the time of policy issuance?",
+      "answer": "If the life assured is less than 12 years old, the risk cover (full death benefit) will commence on the last day of the second policy year. If death occurs before this, the benefit is restricted to a refund of total premiums paid without interest."
+    },
+    {
+      "question": "Are there any discounts for paying a higher premium?",
+      "answer": "Yes, the plan rewards you with a premium size discount if you pay a higher premium amount. The discount rates vary based on the premium slab, plan variant, and premium payment term."
+    }
+  ],
+  "source_file": "HDFC-SAMPOORNA-JEEVAN-BROCHURE.txt",
+  "category": "LI Plan Brochure"
+}

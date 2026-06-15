@@ -1,0 +1,162 @@
+{
+  "product_name": "ReAssure 2.0",
+  "product_type": "Health Insurance",
+  "summary": "ReAssure 2.0 is a comprehensive health insurance product offering coverage for in-patient care including AYUSH treatments, with variants Bronze and Gold, base sum insured options from 5 Lacs to 100 Lacs, and features like ReAssureX unlimited coverage and Booster+ carry forward benefits.",
+  "coverage": [
+    "In-patient Care (including AYUSH) - Covered up to Sum Insured",
+    "Pre-Hospitalisation - 60 Days, Covered up to Sum Insured",
+    "Post-Hospitalisation - 180 Days, Covered up to Sum Insured",
+    "Modern Treatments - Covered up to Sum Insured",
+    "Road Ambulance - Covered up to Sum Insured",
+    "Air Ambulance - up to INR 2,50,000 per Hospitalisation",
+    "Home Care/Domiciliary - Covered up to Sum Insured",
+    "Organ Donor - Covered up to Sum Insured",
+    "Annual Health Checkup (Day 1) - For defined list of tests; up to INR 500 for every INR 1 Lac Base Sum Insured (Individual: Maximum INR 5,000 per Insured; Family Floater: Maximum INR 10,000 per policy)",
+    "ReAssureX ReAssure Forever - First claim paid triggers ReAssure Forever. It is unlimited. Each Claim under ReAssure Forever will be up to Base Sum Insured",
+    "Second Medical Opinion - Once for any condition in a Policy Year",
+    "e-consultation - Unlimited e-consultation within network",
+    "Shared Accommodation - Up to INR 15 Lac Base Sum Insured: INR 800 per day; Maximum INR 4,800. Above INR 15 Lac Base Sum Insured: INR 1,000 per day; Maximum INR 6,000"
+  ],
+  "waiting_periods": [],
+  "room_rent": [
+    "Shared Accommodation: Up to INR 15 Lac Base Sum Insured: INR 800 per day; Maximum INR 4,800",
+    "Shared Accommodation: Above INR 15 Lac Base Sum Insured: INR 1,000 per day; Maximum INR 6,000"
+  ],
+  "co_pay": [
+    "A co-payment of 20% would apply if treatment taken in a non-Tiered Network Hospital"
+  ],
+  "deductible": [],
+  "claims_information": [
+    "30 Mins Cashless Claim Processing",
+    "Niva Bupa processes pre-authorisation requests within 30 minutes for all active policies, subject to receiving all documents and information(s) up to Niva Bupa's satisfaction",
+    "The above commitment does not include pre-authorisation settlement at the time of discharge or system outage",
+    "Available only on cashless with network provider",
+    "10,000+ Network Hospitals",
+    "24X7 Customer Service"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the product name and UIN?",
+      "answer": "The product name is ReAssure 2.0 and the Product UIN is NBHHLIP26042V022526."
+    },
+    {
+      "question": "What are the available variants?",
+      "answer": "The available variants are Bronze and Gold."
+    },
+    {
+      "question": "What are the base sum insured options?",
+      "answer": "Base Sum Insured options are 5 Lacs, 7.5 Lacs, 10 Lacs, 15 Lacs, 20 Lacs, 25 Lacs, 50 Lacs, and 100 Lacs."
+    },
+    {
+      "question": "Is AYUSH treatment covered?",
+      "answer": "Yes, In-patient Care including AYUSH is covered up to Sum Insured. Minimum 24 hours of hospitalisation is required for AYUSH treatment in an AYUSH Hospital."
+    },
+    {
+      "question": "What is the pre-hospitalisation coverage period?",
+      "answer": "Pre-Hospitalisation is covered for 60 Days up to Sum Insured."
+    },
+    {
+      "question": "What is the post-hospitalisation coverage period?",
+      "answer": "Post-Hospitalisation is covered for 180 Days up to Sum Insured."
+    },
+    {
+      "question": "What ambulance coverage is provided?",
+      "answer": "Road Ambulance is covered up to Sum Insured and Air Ambulance is covered up to INR 2,50,000 per Hospitalisation."
+    },
+    {
+      "question": "What is ReAssureX ReAssure Forever?",
+      "answer": "ReAssureX ReAssure Forever is triggered when the first claim is paid. It is unlimited and each claim under ReAssure Forever will be up to Base Sum Insured."
+    },
+    {
+      "question": "What is Booster+ 3X benefit?",
+      "answer": "Booster+ 3X means unutilised Base Sum Insured carries forward to the next policy year, maximum up to 3 times."
+    },
+    {
+      "question": "What is Booster+ 10X benefit?",
+      "answer": "Booster+ 10X means unutilized Base Sum Insured carries forward to the next policy year, maximum up to 10 times."
+    },
+    {
+      "question": "What is the Live Healthy benefit?",
+      "answer": "Live Healthy provides up to 30% discount on premium at the time of Renewal."
+    },
+    {
+      "question": "What are the shared accommodation limits?",
+      "answer": "For up to INR 15 Lac Base Sum Insured: INR 800 per day with Maximum INR 4,800. For above INR 15 Lac Base Sum Insured: INR 1,000 per day with Maximum INR 6,000."
+    },
+    {
+      "question": "How many times can I get a second medical opinion?",
+      "answer": "Second Medical Opinion is available once for any condition in a Policy Year."
+    },
+    {
+      "question": "Is e-consultation available?",
+      "answer": "Yes, unlimited e-consultation is available within the network."
+    },
+    {
+      "question": "What is included in the Annual Health Checkup?",
+      "answer": "Annual Health Checkup is available from Day 1 for defined list of tests, up to INR 500 for every INR 1 Lac Base Sum Insured with maximum INR 5,000 per Insured for Individual and INR 10,000 per policy for Family Floater."
+    },
+    {
+      "question": "What is Safeguard optional benefit?",
+      "answer": "Safeguard includes Claim Safeguard (Non-payable items covered as per list I of Annexure I), Booster+ Safeguard (No impact on Booster+ if claim is less than INR 50,000), and Sum Insured Safeguard (CPI linked increase in Base Sum Insured)."
+    },
+    {
+      "question": "What is Safeguard+ optional benefit?",
+      "answer": "Safeguard+ includes Claim Safeguard+ (Non-payable items covered as per list I, II, III, IV of Annexure I), Booster+ Safeguard+ (No impact on Booster+ if claim is less than INR 1,00,000), and Sum Insured Safeguard+ (CPI linked increase in Base Sum Insured)."
+    },
+    {
+      "question": "What is the Personal Accident Add-On?",
+      "answer": "Personal Accident Add-On offers 15% discount on Premium and you can choose from 1X/2X/3X/4X/5X of base sum insured with maximum up to INR 1 Crore."
+    },
+    {
+      "question": "What is the co-payment for non-Tiered Network Hospital?",
+      "answer": "A co-payment of 20% would apply if treatment is taken in a non-Tiered Network Hospital."
+    },
+    {
+      "question": "How fast is the cashless claim processing?",
+      "answer": "Niva Bupa processes pre-authorisation requests within 30 minutes for all active policies, subject to receiving all documents and information up to satisfaction."
+    },
+    {
+      "question": "How many network hospitals are available?",
+      "answer": "There are 10,000+ network hospitals available."
+    },
+    {
+      "question": "Is customer service available 24x7?",
+      "answer": "Yes, 24X7 Customer Service is available."
+    },
+    {
+      "question": "What is the customer helpline number?",
+      "answer": "The Customer Helpline No. is 1860-500-8888."
+    },
+    {
+      "question": "What is the company's registered office address?",
+      "answer": "The registered office address is C-98, First Floor, Lajpat Nagar, Part 1, New Delhi-110024."
+    },
+    {
+      "question": "What is the IRDAI registration number?",
+      "answer": "The IRDAI Registration No. is 145."
+    },
+    {
+      "question": "Who is eligible for Live Healthy benefit?",
+      "answer": "Eligible insured person for this benefit will be all members except son/daughter under a Family Floater policy and any member of age at least 18 years under an Individual policy."
+    },
+    {
+      "question": "Does the 30-minute processing commitment include discharge settlement?",
+      "answer": "No, the 30-minute commitment does not include pre-authorisation settlement at the time of discharge or system outage."
+    },
+    {
+      "question": "Is the Annual Health Checkup available from Day 1?",
+      "answer": "Yes, Annual Health Checkup is available from Day 1 for defined list of tests."
+    },
+    {
+      "question": "What is the website for more information?",
+      "answer": "The website is www.nivabupa.com."
+    },
+    {
+      "question": "How many lives are covered by Niva Bupa?",
+      "answer": "Niva Bupa covers 2 Crore+ Lives."
+    }
+  ],
+  "source_file": "ReAssure_2.0_Bronze_Gold_SS.txt",
+  "category": "Hi Document"
+}

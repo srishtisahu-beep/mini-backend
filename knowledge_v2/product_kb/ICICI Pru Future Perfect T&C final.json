@@ -1,0 +1,208 @@
+{
+  "product_name": "Aviva Group Life Shield",
+  "company": "Aviva Ltd.",
+  "product_type": "Group Term Life Insurance",
+  "insurance_type": "Life",
+  "plan_category": "Group",
+  "summary": "Aviva Group Life Shield is a group term life insurance plan designed for employees. It provides a lump sum payment to the insured member or their beneficiaries in the event of death or Total and Permanent Disability (TPD), subject to the policy's terms and conditions.",
+  "quick_facts": {
+    "minimum_age": "16 years",
+    "maximum_age": "65 years",
+    "sum_insured": "Varies according to the scheme arranged by the employer/policyholder.",
+    "policy_term": "Annually renewable",
+    "waiting_period": "A 90-day waiting period applies for Total and Permanent Disability claims. A 12-month waiting period applies to pre-existing conditions."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "Pays the Sum Assured in the event of the death of the Insured Member."
+    },
+    {
+      "type": "Total and Permanent Disability (TPD) Benefit",
+      "description": "Pays the Sum Assured if the Insured Member suffers a Total and Permanent Disability before the policy anniversary on which their age is 65. The benefit is paid in one lump sum. Upon payment of the TPD benefit, all cover for the Insured Member under the policy will cease."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Lump Sum Payout",
+      "description": "A lump sum payment of the Sum Assured is provided upon an approved claim for either Death or Total and Permanent Disability."
+    },
+    {
+      "name": "Conversion Privilege",
+      "description": "If an Insured Member's coverage ceases due to termination of employment, they have the option to convert their group policy to an individual life insurance policy without providing evidence of insurability, subject to certain conditions and within a specified timeframe."
+    }
+  ],
+  "eligibility": [
+    {
+      "condition": "Employment Status",
+      "description": "Must be an Actively-at-Work employee of the Policyholder."
+    },
+    {
+      "condition": "Definition of Actively-at-Work",
+      "description": "Means being actively involved in the usual duties of their occupation at their usual place of business on a full-time basis, and not restricted by health from performing these duties."
+    },
+    {
+      "condition": "Residency",
+      "description": "Must be a Singapore Citizen or a Permanent Resident of Singapore, residing in Singapore."
+    },
+    {
+      "condition": "Age",
+      "description": "The Insured Member must be at least 16 years of age and not more than 65 years of age."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "General Exclusions",
+      "items": [
+        "Death or disability directly or indirectly caused by a pre-existing condition within the first 12 months of cover.",
+        "Suicide, whether sane or insane, within one year from the date the person became an Insured Member.",
+        "Self-inflicted injury, while sane or insane.",
+        "War, invasion, act of foreign enemy, hostilities (whether war be declared or not), civil war, rebellion, revolution, insurrection, or military or usurped power.",
+        "Committing, attempting or provoking an assault or a felony or any unlawful act.",
+        "Being under the influence of alcohol or drugs (unless prescribed by a qualified medical practitioner).",
+        "Acquired Immune Deficiency Syndrome (AIDS), AIDS Related Complex or infection by Human Immunodeficiency Virus (HIV).",
+        "Engaging in any aerial activity, except as a fare-paying passenger on a fully licensed passenger-carrying aircraft.",
+        "Engaging in any hazardous activities such as racing (other than on foot), mountaineering, and winter sports."
+      ]
+    }
+  ],
+  "claims_information": [
+    {
+      "step": 1,
+      "title": "Claim Notification",
+      "description": "Written notice of a claim must be given to Aviva as soon as reasonably possible."
+    },
+    {
+      "step": 2,
+      "title": "Submission of Documents",
+      "description": "The policyholder or claimant must submit the fully completed claim form and all required documents and information to Aviva at their own expense within 90 days from the date of the event (death or disability)."
+    },
+    {
+      "step": 3,
+      "title": "Required Documents for Death Claim",
+      "description": "Includes, but is not limited to, the original Death Certificate, proof of age of the deceased, and any other evidence Aviva may require."
+    },
+    {
+      "step": 4,
+      "title": "Required Documents for TPD Claim",
+      "description": "Includes a medical report from the attending physician detailing the cause, nature, and extent of the disability, and any other evidence Aviva may require."
+    },
+    {
+      "step": 5,
+      "title": "Medical Examination",
+      "description": "Aviva reserves the right to require the Insured Member to undergo a medical examination by a doctor appointed by Aviva as often as required for the purpose of assessing the claim."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Aviva Group Life Shield?",
+      "answer": "It is a group term life insurance plan that provides a financial payout in the event of an insured employee's death or Total and Permanent Disability (TPD)."
+    },
+    {
+      "question": "Who is eligible to be covered under this policy?",
+      "answer": "You must be an 'Actively-at-Work' employee of the policyholder, a Singapore Citizen or Permanent Resident residing in Singapore, and be between 16 and 65 years of age."
+    },
+    {
+      "question": "What does 'Actively-at-Work' mean?",
+      "answer": "It means you are actively performing your usual job duties on a full-time basis at your usual place of work and are not prevented by your health from doing so."
+    },
+    {
+      "question": "What are the main benefits of this policy?",
+      "answer": "The policy provides a Death Benefit and a Total and Permanent Disability (TPD) Benefit, both paid as a lump sum of the Sum Assured."
+    },
+    {
+      "question": "What is the definition of Total and Permanent Disability (TPD)?",
+      "answer": "TPD is defined as the total and irrecoverable loss of sight in both eyes, the use of two limbs, or the sight in one eye and use of one limb. It also covers the inability to perform any occupation for income for a continuous period of at least 6 months, with the condition being certified as permanent."
+    },
+    {
+      "question": "Is there an age limit for the TPD benefit?",
+      "answer": "Yes, the Total and Permanent Disability must occur before the policy anniversary on which the insured member's age is 65."
+    },
+    {
+      "question": "Is there a waiting period for TPD claims?",
+      "answer": "Yes, a claim for TPD will only be considered if the disability has persisted for a continuous period of at least 6 months from the date of diagnosis."
+    },
+    {
+      "question": "How is the TPD benefit paid?",
+      "answer": "The TPD benefit is paid in one lump sum."
+    },
+    {
+      "question": "What happens to my coverage after a TPD claim is paid?",
+      "answer": "Once the TPD benefit is paid, all coverage for you under the policy will end."
+    },
+    {
+      "question": "Are pre-existing conditions covered?",
+      "answer": "No benefit will be paid for any claim arising from a pre-existing condition within the first 12 months of your cover. After 12 consecutive months of coverage, this exclusion may no longer apply."
+    },
+    {
+      "question": "What is considered a pre-existing condition?",
+      "answer": "A pre-existing condition is any condition for which you received medical treatment, diagnosis, consultation, or prescribed drugs during the 12 months before your insurance cover started."
+    },
+    {
+      "question": "Is suicide covered?",
+      "answer": "No, the policy will not pay the Death Benefit if death is due to suicide, whether sane or insane, within one year of the start of the member's coverage."
+    },
+    {
+      "question": "What are some of the major exclusions of the policy?",
+      "answer": "Exclusions include self-inflicted injuries, war, participation in unlawful acts, being under the influence of alcohol or drugs, AIDS/HIV-related illnesses, and engaging in hazardous activities or sports."
+    },
+    {
+      "question": "How do I or my family file a claim?",
+      "answer": "You must notify Aviva in writing as soon as possible. The completed claim form and all necessary documents must be sent to Aviva within 90 days of the death or onset of disability."
+    },
+    {
+      "question": "What documents are needed for a death claim?",
+      "answer": "You will need to provide the original Death Certificate, proof of the deceased's age, and any other information Aviva requires to assess the claim."
+    },
+    {
+      "question": "What documents are needed for a TPD claim?",
+      "answer": "You must provide a medical report from the attending doctor explaining the cause and severity of the disability, along with any other evidence Aviva requests."
+    },
+    {
+      "question": "Does Aviva have the right to request a medical check-up for a claim?",
+      "answer": "Yes, Aviva can require the insured member to be examined by a doctor of their choice, at their expense, to evaluate a TPD claim."
+    },
+    {
+      "question": "How much will be paid out for a claim?",
+      "answer": "The amount paid is the Sum Assured applicable to the insured member, as specified in the group policy schedule."
+    },
+    {
+      "question": "What happens to my insurance if I leave my job?",
+      "answer": "Your coverage under the group policy will cease. However, you may be eligible for the 'Conversion Privilege', which allows you to convert to an individual policy without medical check-ups, provided you apply within the specified time."
+    },
+    {
+      "question": "Are there any geographical limits to the coverage?",
+      "answer": "The policy is intended for Singapore Citizens or Permanent Residents residing in Singapore. While the document doesn't specify geographical limits for claims, your eligibility is based on your residency status in Singapore."
+    },
+    {
+      "question": "Is death or disability from a criminal act covered?",
+      "answer": "No, the policy excludes claims arising from the insured member committing, attempting to commit, or provoking an assault or any unlawful act."
+    },
+    {
+      "question": "Does the policy cover accidents from dangerous sports like mountaineering?",
+      "answer": "No, claims arising from engagement in hazardous activities like mountaineering, racing (except on foot), and certain aerial activities are excluded."
+    },
+    {
+      "question": "What is the governing law of this policy?",
+      "answer": "This policy is governed by and interpreted in accordance with the laws of the Republic of Singapore."
+    },
+    {
+      "question": "Who is the insurer for this policy?",
+      "answer": "The insurer is Aviva Ltd., Singapore."
+    },
+    {
+      "question": "Is there a termination clause in the policy?",
+      "answer": "Yes, your cover terminates on the earliest of several events, including the date you are no longer an eligible employee, the date the TPD benefit is paid, your 65th birthday for TPD cover, or the date the policy is terminated."
+    },
+    {
+      "question": "What if there is a mistake in my age or gender in the policy records?",
+      "answer": "If your age or gender has been misstated, the Sum Assured and/or premiums will be adjusted according to what the premium paid would have purchased at the correct age or gender."
+    },
+    {
+      "question": "Can I assign this policy to someone else?",
+      "answer": "As a group policy, the benefits are generally non-assignable and are payable to the Insured Member or their legal beneficiaries as designated."
+    }
+  ],
+  "source_file": "ICICI Pru Future Perfect T&C final.txt",
+  "category": "LI Policy Bond Documents"
+}

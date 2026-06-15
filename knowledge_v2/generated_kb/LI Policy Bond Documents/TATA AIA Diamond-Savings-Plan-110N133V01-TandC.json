@@ -1,0 +1,189 @@
+{
+  "product_name": "Tata AIA Life Insurance Diamond Savings Plan",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Limited Premium Paying Non-Linked, Participating Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A limited premium paying, non-linked, participating life insurance plan that provides life cover along with a regular guaranteed income during the policy term and a lump sum at maturity. As a participating plan, it is also eligible for non-guaranteed bonuses based on the company's performance.",
+  "quick_facts": {
+    "minimum_age": "0 years (as per premium rate table)",
+    "maximum_age": "50 years (as per premium rate table)",
+    "sum_insured": "The policy operates on an 'Assured Benefit' calculated based on the annualised premium and a premium rate. The 'Sum Assured on Death' is defined as the highest of 11 times the Annualised Premium, an absolute amount assured to be paid on death, or the Sum Assured on Maturity.",
+    "policy_term": "18 years and 25 years are mentioned in the Surrender Value tables.",
+    "waiting_period": "A 12-month waiting period applies for death due to suicide from the date of policy commencement or revival. The policy acquires a surrender value only after at least two full years' premiums have been paid."
+  },
+  "coverage": [
+    {
+      "name": "Survival Benefit",
+      "description": "Provides a 'Guaranteed Income' which is a percentage of the Assured Benefit, paid annually starting from a specified policy year until maturity or death, whichever is earlier. The payout is 20% of Assured Benefit for an 8-year Premium Payment Term (PPT) and 25% for a 12-year PPT."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival to the date of maturity, a lump sum is paid, consisting of the Sum Assured on Maturity (equal to the last Guaranteed Income installment), any vested Compound Reversionary Bonus, and any Terminal Bonus."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Insured during the policy term, the nominee receives the Sum Assured on Death, plus any vested Compound Reversionary Bonus and any Terminal Bonus. The total payout will be at least 105% of the total premiums paid as of the date of death."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Bonus Eligibility",
+      "description": "As a participating plan, it is eligible for non-guaranteed bonuses: Compound Reversionary Bonus (accrues annually) and Terminal Bonus (payable on death, surrender, or maturity after a certain number of premiums are paid)."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail a loan of up to 80% of the Surrender Value once the policy has acquired one. The policy must be assigned to the company during the loan period."
+    },
+    {
+      "name": "Reduced Paid-up Policy",
+      "description": "If premiums are discontinued after at least two full years, the policy automatically converts to a Reduced Paid-up policy with reduced benefits, instead of lapsing completely."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits and liabilities under the policy are subject to prevailing tax laws. Policyholders are advised to consult a tax advisor."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "The premium rate table provides rates for ages 0 to 50 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "The document provides Surrender Value factors for policy terms of 18 and 25 years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "The available Premium Payment Terms are 8 years and 12 years."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "If the Life Insured dies by suicide within 12 months from the date of policy commencement, the claimant will receive at least 80% of the premiums paid. If suicide occurs within 12 months from the date of revival, the payout will be the higher of 80% of premiums paid till death or the surrender value available on the date of death."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "details": "The company must be notified in writing within 90 days of the occurrence of death. Delays may be considered if the reason is beyond the claimant's control."
+    },
+    {
+      "process_step": "Claim Submission",
+      "details": "Duly filled requisite forms along with proof of loss must be furnished to the company at the claimant's expense within 90 days from the date of the insured event."
+    },
+    {
+      "process_step": "Intimation Channels",
+      "details": "Claims can be intimated online at www.tataaia.com, via email to Customercare@tataaia.com, by calling the helpline, visiting a branch office, or writing to the company's head office."
+    },
+    {
+      "process_step": "Documents Required for Death Claim",
+      "details": "Core documents include: Claim Forms, Death Certificate, Medical Records, Original Policy document, Claimant's ID and relationship proof, and bank details. Additional documents like Police FIR and Postmortem report are required for accidental death."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Tata AIA Life Insurance Diamond Savings Plan?",
+      "answer": "It is a Limited Premium Paying Non-Linked, Participating Life Insurance Plan that offers life cover, savings through guaranteed income, a maturity benefit, and potential bonuses."
+    },
+    {
+      "question": "Is this a market-linked (ULIP) plan?",
+      "answer": "No, it is a Non-Linked, Participating plan. The benefits are not directly linked to market performance, but it may receive bonuses based on the insurer's profits."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The available Premium Payment Terms are 8 years and 12 years."
+    },
+    {
+      "question": "Can I pay my premiums monthly?",
+      "answer": "Yes, premiums can be paid in Annual, Half-yearly, Quarterly, or Monthly modes."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for all other modes (Annual, Half-yearly, Quarterly)."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums before paying for two full years, the policy will lapse and all benefits will cease. If you stop after paying for at least two full years, the policy will automatically become a 'Reduced Paid-up' policy with reduced benefits."
+    },
+    {
+      "question": "What is the 'Free Look' period?",
+      "answer": "You have a period of 15 days (30 days for policies sourced through distance marketing) from receiving the policy document to review its terms. If you are not satisfied, you can return it for a refund, subject to deductions for risk premium, stamp duty, and medical costs."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can apply for a loan of up to 80% of the Surrender Value once the policy has acquired a surrender value (after two full years' premiums are paid)."
+    },
+    {
+      "question": "What is the Death Benefit payable under this plan?",
+      "answer": "The Death Benefit includes the 'Sum Assured on Death', any vested Compound Reversionary Bonus, and any Terminal Bonus. The total amount will be at least 105% of all premiums paid till the date of death."
+    },
+    {
+      "question": "What will I receive if I survive until the policy maturity date?",
+      "answer": "On maturity, you will receive the Sum Assured on Maturity (which is the last Guaranteed Income installment), plus any vested Compound Reversionary Bonus and Terminal Bonus."
+    },
+    {
+      "question": "What is 'Guaranteed Income'?",
+      "answer": "It is a guaranteed annual payout you receive during the policy term. For an 8-year PPT, it is 20% of the Assured Benefit paid from the end of the 9th year. For a 12-year PPT, it is 25% of the Assured Benefit paid from the end of the 13th year."
+    },
+    {
+      "question": "Are the bonuses under this plan guaranteed?",
+      "answer": "No, the Compound Reversionary Bonus and Terminal Bonus are not guaranteed. They are declared based on the performance and surplus generated in the company's participating fund."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy at any time, but it will only acquire a Surrender Value after premiums for at least two full years have been paid."
+    },
+    {
+      "question": "How is the Surrender Value calculated?",
+      "answer": "The Surrender Value paid will be the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV), calculated as per the formulas and factors specified in the policy document."
+    },
+    {
+      "question": "How can a lapsed policy be revived?",
+      "answer": "A lapsed policy can be revived within 2 years from the due date of the first unpaid premium. This requires a written application, proof of insurability, and payment of all overdue premiums with interest."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If death is due to suicide within 12 months of the policy start date or revival date, the death benefit is limited. The claimant will receive at least 80% of premiums paid or the surrender value, as applicable."
+    },
+    {
+      "question": "What is the process to make a death claim?",
+      "answer": "The company must be notified in writing within 90 days of death. The claimant must then submit the required documents, such as the claim form, death certificate, and original policy, for processing."
+    },
+    {
+      "question": "What documents are required for a death claim?",
+      "answer": "The required documents include claim forms, death certificate, medical records, original policy document, claimant's KYC, and bank details. For accidental deaths, police reports and a post-mortem report are also needed."
+    },
+    {
+      "question": "Can I change the nominee in my policy?",
+      "answer": "Yes, you can change the nomination at any time before the policy matures by submitting a written notice to the company as per the provisions of Section 39 of the Insurance Act, 1938."
+    },
+    {
+      "question": "What happens if I lose my policy document?",
+      "answer": "You can request a duplicate policy document by paying a fee of Rs. 250 (subject to revision) and submitting an Indemnity Bond. The original document will become invalid upon issuance of the duplicate."
+    },
+    {
+      "question": "What happens if my age or gender was stated incorrectly in the proposal form?",
+      "answer": "The company may revise the premium and benefits according to the correct age/gender. If you were not insurable at the correct age/gender, the policy will be void, and premiums will be refunded after deductions."
+    },
+    {
+      "question": "Can I change the Sum Assured after the policy is issued?",
+      "answer": "No, increase or decrease in the Basic Sum Assured is not allowed under this policy."
+    },
+    {
+      "question": "How do I update my address or contact details?",
+      "answer": "You should intimate the company of any change in address for the policyholder or nominee to ensure better service. You can do this using prescribed forms available at branches or on the company website."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "The policy terminates on the earliest of the following: acceptance of a freelook request, payment of a death claim, expiry of the revival period for a lapsed policy, payment of a surrender benefit, or on the date of maturity."
+    },
+    {
+      "question": "Where can I file a grievance if I have an issue?",
+      "answer": "You can register a grievance through the company's helpline, email, website, or by visiting a branch. If you are not satisfied, you can escalate it within the company and then to the IRDAI or the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "TATA AIA Diamond-Savings-Plan-110N133V01-TandC.txt",
+  "category": "LI Policy Bond Documents"
+}

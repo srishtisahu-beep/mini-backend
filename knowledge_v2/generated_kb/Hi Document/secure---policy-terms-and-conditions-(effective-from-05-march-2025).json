@@ -1,0 +1,184 @@
+{
+  "product_name": "SECURE",
+  "product_type": "Personal Accident Insurance",
+  "summary": "SECURE is a personal accident insurance policy that provides coverage for injuries sustained during the policy period. The policy offers 14 benefits and 11 optional covers, with coverage available worldwide except in certain listed civilian nations. Benefits include accidental death, permanent total/partial disablement, fractures, burns, and various support benefits. Optional covers provide additional protection for hospitalization expenses, temporary disablement, and enhanced benefits.",
+  "coverage": [
+    "Accidental Death - 100% of Sum Insured",
+    "Permanent Total Disablement - up to 100% based on PTD table",
+    "Permanent Partial Disablement - percentage based on PPD table",
+    "Fractures - up to 100% based on fracture type and severity",
+    "Burns - up to 100% based on degree and extent of burns",
+    "Child Education - specified amount for education expenses",
+    "Major Diagnostic Tests - reimbursement for CT Scan, MRI etc.",
+    "Disappearance - accidental death benefit if body not found within 365 days",
+    "Mobility Cover - prosthetic devices, orthopaedic braces, medical equipment",
+    "Domestic Road Ambulance - transportation to nearest hospital",
+    "Nursing Care - up to 15 days post-discharge qualified nurse services",
+    "Reconstructive Surgery - expenses for surgery within 30 days of accident",
+    "Repatriation of Mortal Remains - transportation of body to residence city",
+    "Loyalty Benefit - 5% annual enhancement up to 50% maximum",
+    "Accidental Hospitalization (Optional) - in-patient and day care expenses",
+    "Temporary Total Disablement (Optional) - weekly payments up to 100 weeks",
+    "Common Carrier Mishap (Optional) - additional 100% benefit for public transport accidents"
+  ],
+  "waiting_periods": [
+    "No specific waiting periods mentioned for accident coverage",
+    "Pre-existing diseases defined as conditions diagnosed or treated within 36 months prior to policy commencement"
+  ],
+  "room_rent": [
+    "Room rent coverage included as part of hospitalization expenses under optional covers",
+    "Room rent defined as amount charged by hospital towards room and boarding expenses including associated medical expenses"
+  ],
+  "co_pay": [
+    "Co-payment applicable under Optional Cover 8 (Accidental OPD Cover) as specified in Policy Schedule",
+    "Co-payment defined as specified percentage of admissible claim amount borne by policyholder",
+    "Co-payment does not reduce the Sum Insured"
+  ],
+  "deductible": [
+    "Deductible applicable under Optional Cover 4 (Accidental Hospitalization Expenses)",
+    "Deductible applicable under Optional Cover 5 (Convalescence Benefit) - number of days",
+    "Deductible applicable under Optional Cover 6 (Accidental Hospitalization Daily Allowance) - number of days",
+    "Deductible applicable under Optional Cover 7 (Temporary Total Disablement) - number of weeks",
+    "Deductible applicable under Optional Cover 8 (Accidental OPD Cover) - rupee amount",
+    "Deductible does not reduce the Sum Insured"
+  ],
+  "claims_information": [
+    "Notification of Claim must be made through recognized modes of communication",
+    "Claims must be for injuries sustained during policy period resulting in insured events within 12 months",
+    "Medical expenses must be on advice of qualified Medical Practitioner",
+    "Claims require proper documentation and medical evidence",
+    "Cashless facility available at network providers with pre-authorization",
+    "Company awarded 'Claims Service Leader of the Year' at India Insurance Summit & Awards 2024"
+  ],
+  "exclusions": [
+    "Hazardous activities including adventure sports, motor racing, mountaineering, boxing, martial arts",
+    "Treatment in non-network providers (for cashless facility)",
+    "Expenses exceeding reasonable and customary charges",
+    "Treatment not medically necessary",
+    "Unproven or experimental treatments",
+    "Pre-existing diseases (conditions diagnosed/treated within 36 months prior to policy)",
+    "Dental treatment (general exclusion, specific coverage may apply)",
+    "Hairline fractures and simple fractures under fracture benefit",
+    "Coverage not available in certain listed civilian nations as per Annexure III"
+  ],
+  "faqs": [
+    {
+      "question": "What is the definition of an accident under this policy?",
+      "answer": "Accident/Accidental is defined as a sudden, unforeseen and involuntary event caused by external, visible and violent means."
+    },
+    {
+      "question": "What is the time limit for an injury to result in a claim?",
+      "answer": "The injury must result in an insured event within twelve calendar months from the date of injury for the claim to be valid."
+    },
+    {
+      "question": "How many benefits and optional covers are available in this product?",
+      "answer": "There are 14 Benefits and 11 Optional Covers in the product. Any benefit or optional cover will be applicable only if specifically mentioned in the Policy Schedule."
+    },
+    {
+      "question": "What happens to coverage if a claim is admitted under Benefit 1 (Accidental Death)?",
+      "answer": "If any claim is admissible under Benefit 1, coverage under the policy for that insured person shall immediately and automatically terminate. However, other insured persons shall continue to be covered."
+    },
+    {
+      "question": "Is worldwide coverage available under this policy?",
+      "answer": "Yes, the Company provides coverage under specified Benefits and Optional Covers for insured events arising worldwide, provided no coverage is available in listed civilian nations as per Annexure III."
+    },
+    {
+      "question": "What is the minimum hospitalization period required for in-patient care?",
+      "answer": "Hospitalization means admission in a hospital for a minimum period of 24 consecutive in-patient care hours, except for specified procedures where admission could be for less than 24 hours."
+    },
+    {
+      "question": "What is covered under Day Care Treatment?",
+      "answer": "Day Care Treatment refers to medical treatment and/or surgical procedure undertaken under anesthesia in less than 24 hours due to technological advancement, which would have otherwise required hospitalization of more than 24 hours."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is fifteen days where premium payment mode is monthly and thirty days in all other cases. Insurers shall offer coverage during the grace period if premium is paid."
+    },
+    {
+      "question": "What qualifies as a pre-existing disease?",
+      "answer": "Pre-existing disease means any condition diagnosed by a physician or for which medical advice/treatment was received not more than 36 months prior to policy commencement date."
+    },
+    {
+      "question": "What is the maximum loyalty bonus that can be accrued?",
+      "answer": "The accrued Loyalty Bonus available at any point shall not exceed 50% of the Sum Insured pertaining to Benefit 1, 2 and 3. The bonus is 5% per completed policy year on a cumulative basis."
+    },
+    {
+      "question": "What is covered under the Mobility Cover benefit?",
+      "answer": "Mobility Cover provides reimbursement for prosthetic devices, orthopaedic braces, and durable medical equipment like wheelchairs and hospital beds, consequent to an injury for which a claim is payable under Benefit 2."
+    },
+    {
+      "question": "What is the maximum duration for nursing care benefit?",
+      "answer": "Nursing Care benefit is payable for expenses incurred for up to 15 days post discharge from hospital for qualified nurse services at the insured person's residence."
+    },
+    {
+      "question": "What is the time limit for reconstructive surgery coverage?",
+      "answer": "Reconstructive surgery must be carried out within 30 days from the date of accident and must be required to restore natural function or appearance."
+    },
+    {
+      "question": "When does the Disappearance benefit apply?",
+      "answer": "Disappearance benefit applies if the insured person's body cannot be located within 365 consecutive days after forced landing, stranding, sinking or wrecking of a common carrier or due to Acts of God perils."
+    },
+    {
+      "question": "What is the definition of Common Carrier?",
+      "answer": "Common Carrier means any civilian land or water conveyance or scheduled aircraft operated under valid license for transportation of fare paying passengers under a valid ticket."
+    },
+    {
+      "question": "What burns are covered under the Burns benefit?",
+      "answer": "The policy covers second or third degree burn injuries with varying percentages of sum insured based on the degree and extent of burns affecting total body surface area."
+    },
+    {
+      "question": "What types of fractures are excluded from coverage?",
+      "answer": "The company shall not be liable for dislocation of bones or joints or for Hairline Fractures or Simple Fractures under the fracture benefit."
+    },
+    {
+      "question": "What is the age definition used in this policy?",
+      "answer": "Age means the completed age of the insured person as on his last birthday."
+    },
+    {
+      "question": "What is the definition of a qualified nurse?",
+      "answer": "Qualified Nurse means a person who holds valid registration from the Nursing Council of India or the Nursing Council of any state in India."
+    },
+    {
+      "question": "What is covered under Emergency Care?",
+      "answer": "Emergency Care means management for illness or injury with symptoms that occur suddenly and unexpectedly, requiring immediate care by a Medical Practitioner to prevent death or serious long term impairment."
+    },
+    {
+      "question": "What is the maximum weekly duration for Temporary Total Disablement coverage?",
+      "answer": "For a single claim under TTD optional cover, maximum duration is 100 weeks from the date of accident. If disabled for part of a week, only proportionate weekly benefit is payable."
+    },
+    {
+      "question": "How many OPD consultations are allowed under Accidental OPD Cover?",
+      "answer": "A maximum of 4 consultations or diagnostics will be admissible for the same injury causing event, and reimbursement can be claimed only twice during a policy year."
+    },
+    {
+      "question": "What additional benefit is provided under Common Carrier Mishap Cover?",
+      "answer": "If accidental death or permanent total disablement occurs while traveling in a common carrier on valid ticket, the company pays additional 100% of the sum insured of Benefit 1 or 2."
+    },
+    {
+      "question": "What is the definition of ICU charges?",
+      "answer": "ICU Charges means amount charged by hospital towards ICU expenses including ICU bed, general medical support services, monitoring devices, critical care nursing and intensivist charges."
+    },
+    {
+      "question": "What is the cashless facility?",
+      "answer": "Cashless Facility is extended by the insurer where payments for treatment costs are directly made to the Network Provider by the insurer to the extent pre-authorization is approved."
+    },
+    {
+      "question": "What is the definition of medically necessary treatment?",
+      "answer": "Medically Necessary Treatment means treatment required for medical management of illness/injury, not exceeding necessary level of care, prescribed by Medical Practitioner, and conforming to accepted professional standards."
+    },
+    {
+      "question": "What is the child education benefit eligibility?",
+      "answer": "Child Education benefit is payable if claim under Benefit 1 or 2 is admitted, for education of insured person's child who is financially dependent, has no independent income, and has not attained 25 years of age."
+    },
+    {
+      "question": "What is the time limit for major diagnostic tests coverage?",
+      "answer": "Major diagnostic tests like CT Scan or MRI must be conducted within 3 months from the date of accident and must be undertaken on written medical advice of a Medical Practitioner."
+    },
+    {
+      "question": "What is domiciliary hospitalization?",
+      "answer": "Domiciliary Hospitalization means medical treatment at home for illness/injury that would normally require hospital care, either because patient cannot be moved to hospital or due to non-availability of hospital room."
+    }
+  ],
+  "source_file": "secure---policy-terms-and-conditions-(effective-from-05-march-2025).txt",
+  "category": "Hi Document"
+}

@@ -1,0 +1,179 @@
+{
+  "product_name": "Care Supreme",
+  "product_type": "Health Insurance",
+  "summary": "Care Supreme is a comprehensive health insurance policy offered by Care Health Insurance Limited that provides coverage for hospitalization expenses, day care treatments, AYUSH treatments, and various other medical benefits with features like unlimited automatic recharge and cumulative bonus.",
+  "coverage": [
+    "In-patient Care - minimum 24 consecutive hours hospitalization",
+    "Day Care Treatment - treatment in less than 24 hours",
+    "Advance Technology Methods including robotic surgeries, immunotherapy, stem cell therapy",
+    "Pre-Hospitalization Medical Expenses - 60 days prior to admission",
+    "Post-Hospitalization Medical Expenses - 180 days after discharge",
+    "AYUSH Treatment - Ayurveda, Yoga, Naturopathy, Siddha, Unani, Homeopathy",
+    "Domiciliary Hospitalization - treatment at home for more than 3 consecutive days",
+    "Organ Donor Cover - medical expenses for organ donor",
+    "Road Ambulance Cover - transportation to nearest hospital",
+    "Unlimited E-Consultation with qualified General Physicians",
+    "Health Services including Health Portal and Discount Connect"
+  ],
+  "waiting_periods": [
+    "Initial waiting period of 30 days",
+    "Pre-existing diseases - 36 months waiting period",
+    "Named ailments - 24 months waiting period",
+    "Specific waiting period up to 36 months for specified diseases/treatments"
+  ],
+  "room_rent": [
+    "Base policy - No limit on room rent charges",
+    "No limit on ICU charges",
+    "Optional Room Rent Modification available for Single Private AC Room or Twin Sharing Room",
+    "Associate Medical Expenses vary with room category if Room Rent Modification is opted"
+  ],
+  "co_pay": [
+    "Co-payment option available if opted",
+    "Applicable on Hospitalization Expenses, Road Ambulance Cover, Claim Shield, Plus Benefit, Air Ambulance Cover, Unlimited Care",
+    "Smart Select option includes 20% co-payment for non-listed hospitals",
+    "Co-payment does not reduce the sum insured"
+  ],
+  "deductible": [
+    "Deductible option available if opted",
+    "Provides discount on premium payable",
+    "Applicable on Hospitalization Expenses, Road Ambulance Cover, Claim Shield, Plus Benefit, Air Ambulance Cover, Unlimited Care",
+    "Company liable to pay only when deductible is exhausted",
+    "Deductible does not reduce the Sum Insured"
+  ],
+  "claims_information": [
+    "Cashless facility available at network providers",
+    "Reimbursement facility available",
+    "Pre-authorization required for cashless treatment",
+    "Notification of claim required through recognized modes of communication",
+    "Post-hospitalization claim documents to be submitted within 30 days after completion of 180 days from discharge",
+    "Claims subject to reasonable and customary charges",
+    "Maximum liability limited to Sum Insured per policy year"
+  ],
+  "exclusions": [
+    "Domiciliary Hospitalization not covered for Asthma, Bronchitis, Chronic Nephritis, Diarrhoea, Diabetes, Epilepsy, Hypertension, Influenza, Psychiatric disorders, Pyrexia of unknown origin, Tonsillitis, Arthritis",
+    "Treatment normally taken on out-patient basis not included in Day Care Treatment",
+    "Unproven/Experimental treatments not covered",
+    "Hazardous activities and adventure sports excluded",
+    "Preventive care treatments excluded"
+  ],
+  "faqs": [
+    {
+      "question": "What is the minimum hospitalization period required for in-patient care coverage?",
+      "answer": "The minimum hospitalization period required is 24 consecutive hours, except for specified procedures/treatments where admission could be for less than 24 consecutive hours."
+    },
+    {
+      "question": "What is Day Care Treatment and how is it covered?",
+      "answer": "Day Care Treatment is medical treatment and/or surgical procedure undertaken under anesthesia in less than 24 consecutive hours due to technological advancement, which would have otherwise required hospitalization of more than 24 hours. It is covered up to the Sum Insured."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "The waiting period for pre-existing diseases is 36 months from the commencement of the policy, unless modified through the PED Wait Period Modification optional benefit."
+    },
+    {
+      "question": "How long is the coverage for pre-hospitalization expenses?",
+      "answer": "Pre-hospitalization medical expenses are covered for 60 days immediately prior to the date of admission to the hospital, provided they are related to the same illness/injury for which hospitalization claim is accepted."
+    },
+    {
+      "question": "What is the coverage period for post-hospitalization expenses?",
+      "answer": "Post-hospitalization medical expenses are covered for 180 days immediately after discharge from the hospital, and claim documents must be submitted within 30 days after completion of 180 days from discharge date."
+    },
+    {
+      "question": "What is Cumulative Bonus and how does it work?",
+      "answer": "Cumulative Bonus is an enhancement of Sum Insured by 50% flat on a cumulative basis for each completed and continuous policy year, with maximum accrual not exceeding 100% of the Sum Insured."
+    },
+    {
+      "question": "What is Unlimited Automatic Recharge?",
+      "answer": "Unlimited Automatic Recharge provides automatic reinstatement of up to the base Sum Insured unlimited times in a policy year, utilized only after base Sum Insured, Cumulative Bonus, and other benefits are completely exhausted."
+    },
+    {
+      "question": "Are there any room rent limits in the base policy?",
+      "answer": "No, the base policy has 'No limit' on room rent charges and ICU charges, meaning there is no separate restriction on room charges or ICU charges incurred during hospitalization."
+    },
+    {
+      "question": "What AYUSH treatments are covered?",
+      "answer": "AYUSH treatments covered include Ayurveda, Yoga, Naturopathy, Siddha, Unani, and Homeopathy treatments taken at registered AYUSH hospitals or healthcare facilities."
+    },
+    {
+      "question": "What is Domiciliary Hospitalization and when is it covered?",
+      "answer": "Domiciliary Hospitalization is medical treatment at home when the patient cannot be moved to hospital or due to non-availability of hospital room. It is covered when treatment continues for more than 3 consecutive days."
+    },
+    {
+      "question": "What diseases are excluded from Domiciliary Hospitalization coverage?",
+      "answer": "Excluded diseases include Asthma, Bronchitis, Chronic Nephritis, Diarrhoea, Diabetes, Epilepsy, Hypertension, Influenza, Psychiatric disorders, Pyrexia of unknown origin, Tonsillitis, and Arthritis."
+    },
+    {
+      "question": "What is covered under Organ Donor Cover?",
+      "answer": "Organ Donor Cover provides coverage for medical expenses incurred for the donor during organ transplant surgery, where the insured person is the recipient and the donor is eligible under applicable laws."
+    },
+    {
+      "question": "When is Road Ambulance Cover applicable?",
+      "answer": "Road Ambulance Cover is applicable for transportation from place of medical emergency to nearest hospital, or from one hospital to another for advanced medical support, related to accepted hospitalization claims."
+    },
+    {
+      "question": "What advance technology methods are covered?",
+      "answer": "Covered methods include Uterine Artery Embolization, Balloon Sinuplasty, Deep Brain stimulation, Oral chemotherapy, Immunotherapy, Robotic surgeries, Stereotactic radio surgeries, and Stem cell therapy for bone marrow transplant."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is fifteen days for monthly premium payment mode and thirty days for all other payment modes, during which premium can be paid without loss of continuity benefits."
+    },
+    {
+      "question": "What happens if policy details are incorrect?",
+      "answer": "Any discrepancy in policy details must be informed within 30 days from receipt of policy, failing which the details will be taken as correct and claims will be dealt with based on proposal/policy details."
+    },
+    {
+      "question": "What is the Smart Select optional benefit?",
+      "answer": "Smart Select provides premium reduction but requires 20% co-payment for treatment in hospitals not listed in Annexure III, with no additional co-payment for listed hospitals."
+    },
+    {
+      "question": "Can children be covered under this policy?",
+      "answer": "Yes, children can be covered, but they will be migrated to a separate adult policy upon attaining age 25 years or above at renewal time."
+    },
+    {
+      "question": "What is the Instant Cover optional benefit?",
+      "answer": "Instant Cover waives the PED waiting period for Diabetes, Hypertension, Hyperlipidemia, and Asthma, with coverage starting from the 31st day after initial 30-day waiting period."
+    },
+    {
+      "question": "How does the deductible option work?",
+      "answer": "Deductible option provides premium discount, where the claim amount is reduced by the specified deductible amount, and the company pays only when the deductible is exhausted."
+    },
+    {
+      "question": "What is a pre-existing disease as per this policy?",
+      "answer": "Pre-existing disease is any condition diagnosed or for which medical advice/treatment was received not more than 36 months prior to policy commencement date."
+    },
+    {
+      "question": "What is the definition of accident under this policy?",
+      "answer": "Accident is defined as a sudden, unforeseen and involuntary event caused by external, visible and violent means."
+    },
+    {
+      "question": "What is cashless facility?",
+      "answer": "Cashless facility allows direct payment by the insurer to network providers for treatment costs, subject to pre-authorization approval and policy terms."
+    },
+    {
+      "question": "What is the maximum liability of the company per policy year?",
+      "answer": "The maximum liability is limited to the Sum Insured mentioned in the policy schedule, plus any applicable Cumulative Bonus, Plus Benefit, and Unlimited Care benefits."
+    },
+    {
+      "question": "Can mid-term inclusion of persons be done?",
+      "answer": "Yes, mid-term inclusion is allowed only upon marriage or childbirth, with additional differential premium calculated on pro-rata basis."
+    },
+    {
+      "question": "What happens to Cumulative Bonus if policy is not renewed?",
+      "answer": "The entire Cumulative Bonus will be forfeited if the policy is not continued/renewed on or before the Policy Period End Date or expiry of grace period."
+    },
+    {
+      "question": "Are there any restrictions on ICU charges?",
+      "answer": "No, there are no separate restrictions on ICU charges in the base policy, and ICU charges are covered with 'No limit' as specified in the policy schedule."
+    },
+    {
+      "question": "What health services are provided under the policy?",
+      "answer": "Health services include Health Portal for accessing health information and services, and Discount Connect for special rates on OPD, diagnostics, maternity, and pharmacy through network providers."
+    },
+    {
+      "question": "What is unlimited e-consultation benefit?",
+      "answer": "The policy provides unlimited e-consultations with qualified General Physicians through various communication modes like voice/video call, chat, or email during the policy year."
+    }
+  ],
+  "source_file": "care-supreme---policy-terms-&-conditions-(effective-from-19-march-2025) (1).txt",
+  "category": "Hi Document"
+}

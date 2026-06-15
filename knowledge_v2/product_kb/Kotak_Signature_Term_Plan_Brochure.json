@@ -1,0 +1,246 @@
+{
+  "product_name": "Kotak Signature Term Plan",
+  "company": "Kotak Mahindra Life Insurance Company Ltd.",
+  "product_type": "A Non-Participating Non-Linked Life Insurance Individual Pure Risk Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Pure Risk Term Plan",
+  "summary": "The Kotak Signature Term Plan is a pure risk life insurance product designed for discerning clients to provide comfort, happiness, and security for their families. It offers high insurance cover at an economical price to safeguard achievements for future generations, ensuring they can thrive unburdened by life’s unpredictable challenges. The plan offers enhanced protection through optional riders against accidental death, permanent disability, and critical illnesses.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "65 years",
+    "sum_insured": "Minimum: ₹ 2,00,00,000; Maximum: No limit, subject to Underwriting Policy",
+    "policy_term": "Minimum: 5 Years; Maximum: Highest of 40 Years or 65 Years less Age at Entry or 70 Years less Age at Entry or 75 Years less Age at Entry or 85 Years less Age at Entry",
+    "waiting_period": "There is no waiting period for the death benefit, except for the suicide clause which is applicable for 12 months from the date of commencement or revival of the policy."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the life insured during the policy term, the Sum Assured on Death is paid as a onetime Lumpsum Payout.",
+      "details": [
+        "For Regular and Limited Premium: Sum Assured on Death is the highest of Basic Sum Assured, 11 times Annualized Premium, or 105% of the Total Premiums paid till the date of death.",
+        "For Single Premium: Sum Assured on Death is the higher of Basic Sum Assured or 1.25 times the Single Premium paid."
+      ]
+    },
+    {
+      "type": "Optional Rider Coverage",
+      "description": "Policyholders can enhance protection by adding optional riders on payment of additional premium.",
+      "details": [
+        "Kotak Accidental Death Benefit Rider: Lump sum benefit paid on accidental death in addition to the base plan's Death Benefit.",
+        "Kotak Critical Illness Plus Benefit Rider: Rider Sum Assured is payable on diagnosis of any one of the 37 covered critical illnesses.",
+        "Kotak Permanent Disability Benefit Rider: 120% of the Rider Sum Assured is payable over a period of 5 years."
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "name": "High Insurance Cover",
+      "description": "Provides high insurance coverage at an economical price."
+    },
+    {
+      "name": "Flexible Terms",
+      "description": "Offers flexible Policy Terms and Premium Payment Terms (Regular, Limited, Single) to suit protection needs."
+    },
+    {
+      "name": "Flexible Premium Modes",
+      "description": "Option to pay premiums yearly, half-yearly, quarterly, or monthly."
+    },
+    {
+      "name": "Insta Payout on Claim Intimation",
+      "description": "An advance payment of ₹ 2 Lakh to the claimant within two working days from claim registration, subject to terms and conditions."
+    },
+    {
+      "name": "Special Exit Benefit",
+      "description": "Option to exit the policy early and receive a return of total premiums paid. This is available for policy terms of 40 years or more, under specific conditions."
+    },
+    {
+      "name": "Enhanced Protection with Riders",
+      "description": "Option to add Accidental Death, Critical Illness Plus, and Permanent Disability Riders for comprehensive coverage."
+    },
+    {
+      "name": "Longer Life Coverage",
+      "description": "Provides life coverage up to the age of 85 years."
+    },
+    {
+      "name": "Inbuilt Health & Wellness Benefits",
+      "description": "Access to services like telemedicine, diagnostics, mental wellbeing programs, and a wellness mobile application to encourage a healthy lifestyle."
+    },
+    {
+      "name": "Discount for Female Lives",
+      "description": "A special discount of 16% is applicable throughout the premium paying term for female life insured."
+    },
+    {
+      "name": "Additional Discount for Salaried Customers",
+      "description": "An additional discount of 5% in the first policy year for Limited & Regular pay options, and 1% for Single pay option, applicable for salaried customers, existing KLI customers, or members of group policyholders."
+    },
+    {
+      "name": "Tax Benefit",
+      "description": "Tax benefits may be available as per the Income Tax Act, 1961, subject to conditions and changes in tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criterion": "Entry Age",
+      "value": "Minimum: 18 years, Maximum: 65 years. For the 'Pay till 60 Years' option, the maximum entry age is 50 years."
+    },
+    {
+      "criterion": "Maturity Age",
+      "value": "Minimum: 23 years, Maximum: 85 years."
+    },
+    {
+      "criterion": "Policy Term",
+      "value": "Minimum: 5 years. Maximum is the highest of 40 years or varies based on coverage up to age 65, 70, 75, or 85."
+    },
+    {
+      "criterion": "Premium Payment Term (PPT)",
+      "value": "Options include Regular Pay (same as policy term), Limited Pay (5, 7, 10, 15 years, or Pay till 60), and Single Pay."
+    },
+    {
+      "criterion": "Premium Payment Option",
+      "value": "Regular, Limited and Single Pay."
+    },
+    {
+      "criterion": "Premium Payment Mode",
+      "value": "Single, Yearly, Half-Yearly, Quarterly and Monthly."
+    },
+    {
+      "criterion": "Basic Sum Assured",
+      "value": "Minimum: ₹ 2,00,00,000. Maximum: No limit, subject to Underwriting Policy."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the Life Insured dies by suicide within 12 months from the date of commencement of risk or date of revival, the nominee will be entitled to the higher of 80% of the total premiums paid or the Voluntary Termination Value, if any."
+    },
+    {
+      "type": "Maturity/Survival Benefit",
+      "description": "There is no benefit available on Survival or Maturity of the Policy."
+    },
+    {
+      "type": "Policy Loans",
+      "description": "Loans are not allowed under this plan."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Insta Payout on Claim Intimation",
+      "description": "For policies in force for at least 3 consecutive years, the insurer aims to pay an advance of ₹ 2,00,000 to the claimant within two working days of claim registration, subject to submission of required documents. This is not an acceptance of full liability."
+    },
+    {
+      "type": "Final Claim Settlement",
+      "description": "The remaining balance of the Death Benefit is paid to the claimant once the death benefit claim is found admissible by the insurer as per the policy's terms and conditions."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Kotak Signature Term Plan?",
+      "answer": "It is a Non-Participating, Non-Linked, Individual Pure Risk Life Insurance Product designed to provide a high insurance cover at an economical price to protect your family's future."
+    },
+    {
+      "question": "What is the minimum age to be eligible for this plan?",
+      "answer": "The minimum entry age is 18 years (as on last birthday)."
+    },
+    {
+      "question": "What is the maximum age at which one can enter this plan?",
+      "answer": "The maximum entry age is 65 years (as on last birthday). However, for the 'Pay till 60 Years' premium payment option, the maximum entry age is 50 years."
+    },
+    {
+      "question": "Up to what age can I get coverage under this plan?",
+      "answer": "The plan offers coverage up to a maximum maturity age of 85 years."
+    },
+    {
+      "question": "What is the minimum sum assured I can opt for?",
+      "answer": "The minimum Basic Sum Assured is ₹ 2,00,00,000 (Two Crore)."
+    },
+    {
+      "question": "Is there an upper limit on the sum assured?",
+      "answer": "No, there is no maximum limit on the Basic Sum Assured, but it is subject to the company's underwriting policy."
+    },
+    {
+      "question": "What are the available premium payment options?",
+      "answer": "You can choose from three premium payment options: Regular Pay (pay throughout the policy term), Limited Pay (pay for a limited period like 5, 7, 10, 15 years or till age 60), and Single Pay (pay once)."
+    },
+    {
+      "question": "How frequently can I pay my premiums?",
+      "answer": "You can pay premiums on a Yearly, Half-Yearly, Quarterly, or Monthly basis for Regular and Limited Pay options. The Single Pay option requires a one-time payment."
+    },
+    {
+      "question": "How is the death benefit calculated for a Regular or Limited pay policy?",
+      "answer": "The Sum Assured on Death will be the highest of: Basic Sum Assured, 11 times the Annualized Premium, or 105% of the total premiums paid till the date of death."
+    },
+    {
+      "question": "How is the death benefit calculated for a Single pay policy?",
+      "answer": "The Sum Assured on Death will be the higher of: Basic Sum Assured or 1.25 times the Single Premium paid."
+    },
+    {
+      "question": "Can I add extra coverage to this plan?",
+      "answer": "Yes, you can enhance your protection by choosing optional riders like Kotak Accidental Death Benefit Rider, Kotak Critical Illness Plus Benefit Rider, and Kotak Permanent Disability Benefit Rider on payment of additional premiums."
+    },
+    {
+      "question": "Are there any discounts available for female customers?",
+      "answer": "Yes, a special discount of 16% is applicable throughout the premium paying term for a female life insured."
+    },
+    {
+      "question": "Are there any other discounts I can avail?",
+      "answer": "Yes, an additional discount is available for salaried customers, existing Kotak Life customers, or members of group policyholders. It is 5% in the first policy year for Limited & Regular Pay policies and 1% for Single Premium policies. Only one of these discounts can be availed."
+    },
+    {
+      "question": "What is the 'Insta Payout on Claim Intimation' feature?",
+      "answer": "If the insured dies after 3 consecutive policy years, the company will try to pay an advance of ₹ 2 Lakh to the claimant within two working days of claim registration, subject to certain conditions. This is an advance part of the total death benefit."
+    },
+    {
+      "question": "What is the 'Special Exit Benefit'?",
+      "answer": "For policies with a term of 40 years or more, this inbuilt benefit allows you to terminate the policy after a specific period (e.g., 25th or 30th policy year) and get a return of all premiums paid. Conditions apply."
+    },
+    {
+      "question": "Does this plan offer any health-related benefits?",
+      "answer": "Yes, the plan includes inbuilt Health & Wellbeing Management Services, providing access to telemedicine, diagnostics, mental wellbeing programs, and a wellness mobile application to encourage a healthy lifestyle."
+    },
+    {
+      "question": "What happens in case of death due to suicide?",
+      "answer": "If death by suicide occurs within 12 months of the policy's start or revival date, the nominee receives the higher of 80% of total premiums paid or the policy's Voluntary Termination Value, if any."
+    },
+    {
+      "question": "Can I take a loan against my Kotak Signature Term Plan?",
+      "answer": "No, loans are not allowed under this plan."
+    },
+    {
+      "question": "Do I get any money back if I survive the policy term?",
+      "answer": "No, this is a pure risk plan. There is no benefit available on survival or maturity of the policy."
+    },
+    {
+      "question": "What is the grace period for paying the premium?",
+      "answer": "There is a grace period of 30 days for yearly, half-yearly, and quarterly modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "What happens if my policy lapses?",
+      "answer": "If a lapsed policy is not revived within the revival period, all premiums paid are forfeited, the policy terminates, and no benefits are payable."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed policy can be revived within five years from the date of the first unpaid premium by paying all outstanding premiums with interest and providing evidence of continued insurability."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 30-day free-look period from the date you receive the policy document to review its terms and conditions. You can return the policy for a refund (with some deductions) if you are not satisfied."
+    },
+    {
+      "question": "Can I surrender my policy? Is there a surrender value?",
+      "answer": "For Regular Pay policies, there is no Voluntary Termination Value. For Limited and Single Pay policies, a Voluntary Termination Value is acquired after certain conditions are met, which is a percentage of total premiums paid."
+    },
+    {
+      "question": "Are the premiums shown in illustrations inclusive of taxes?",
+      "answer": "No, the sample premiums mentioned in the brochure are exclusive of Goods and Services Tax and Cess, which are levied as applicable."
+    },
+    {
+      "question": "Does this plan offer any tax benefits?",
+      "answer": "Yes, you may avail of tax benefits as per the Income Tax Act, 1961, subject to the conditions specified in the relevant sections. It is advisable to consult a tax advisor."
+    },
+    {
+      "question": "What is covered under the Kotak Critical Illness Plus Benefit Rider?",
+      "answer": "The rider sum assured is payable upon the diagnosis of any one of the 37 covered critical illnesses, subject to its specific terms, conditions, and exclusions."
+    }
+  ],
+  "source_file": "Kotak_Signature_Term_Plan_Brochure.txt",
+  "category": "LI Plan Brochure"
+}

@@ -1,0 +1,176 @@
+{
+  "product_name": "ManipalCigna Sarvah",
+  "product_type": "Health Insurance",
+  "summary": "ManipalCigna Sarvah is a comprehensive health insurance product with three plans: Param, Uttam, and Pratham. The product offers features like reduced waiting periods with Sarathi benefit, unlimited restoration of sum insured, maternity coverage, and various optional covers including Anant benefit for infinite coverage on specific conditions.",
+  "coverage": [
+    "In-patient Hospitalization up to Sum Insured",
+    "Day Care Treatment up to Sum Insured",
+    "Pre-hospitalization Medical Expenses up to 90 days before hospitalization",
+    "Post-hospitalization Medical Expenses up to 180 days post discharge",
+    "Domiciliary Hospitalization with Pre and Post Hospitalization Expenses up to 30 days each",
+    "Road Ambulance up to Sum Insured",
+    "Donor Expenses up to Sum Insured",
+    "AYUSH Treatment up to Sum Insured",
+    "Air Ambulance up to Sum Insured subject to maximum of ₹10 Lacs",
+    "Health Check Up available each policy year for adults above 18 years",
+    "Unlimited Tele-consultation with General Physician",
+    "Personal Accident Cover with benefit amounts from ₹10L to ₹3Cr",
+    "Maternity & New Born Hospitalization Expenses up to 20% of Base Sum Insured subject to maximum of ₹5 Lac",
+    "Coverage for Non-Medical Items up to Sum Insured",
+    "Durable Medical Equipment up to ₹1 Lac",
+    "Modern and Advanced Treatments up to Sum Insured",
+    "HIV/AIDS & STD up to Sum Insured",
+    "Mental Illness up to Sum Insured"
+  ],
+  "waiting_periods": [
+    "Pre-existing diseases: 36 months (reduced to 30 days with Sarathi benefit)",
+    "Specified Diseases or Procedures: 24 months (can be extended to 36 months with optional cover)",
+    "Maternity: 36 months minimum coverage required before availing benefit"
+  ],
+  "room_rent": [
+    "Single Private AC Room covered up to Sum Insured",
+    "ICU covered up to Sum Insured",
+    "Option to modify to Twin Sharing AC room with ICU up to Sum Insured"
+  ],
+  "co_pay": [
+    "Voluntary Co-Payment options of 10%, 20% or 30% applicable on each and every claim",
+    "No Zonal Co-Pay - treatment available in any city without additional financial burden"
+  ],
+  "deductible": [
+    "Option 1: Aggregate Deductible of ₹10K, ₹25K, ₹50K, ₹1L, ₹2L, ₹3L, ₹4L, ₹5L or ₹10L",
+    "Option 2: Per Day Deductible of ₹1K, ₹2K, ₹3K, ₹4K or ₹5K per day of Hospitalization"
+  ],
+  "claims_information": [
+    "Multiple Restoration available in a Policy Year for all illnesses and injury",
+    "Restoration shall not get triggered for the 1st claim",
+    "Claims under Accidental Death, Permanent Total Disablement, and Permanent Partial Disablement payable only for accidents occurring within India",
+    "Anant benefit claims applicable only for diagnosis, occurrences, and treatments taken within India",
+    "Health Check Up packages offered on cashless basis only"
+  ],
+  "exclusions": [
+    "Expenses towards acquisition of organ not covered under Donor Expenses",
+    "Anant benefit not available for treatments outside India",
+    "TTD Cover available only for earning members in India",
+    "Personal Accident benefits applicable only for events within geographical boundaries of India"
+  ],
+  "faqs": [
+    {
+      "question": "What are the three plans available under ManipalCigna Sarvah?",
+      "answer": "The three plans available are Param, Uttam, and Pratham."
+    },
+    {
+      "question": "What is the Sarathi benefit?",
+      "answer": "Sarathi is an optional cover that reduces the waiting period for pre-existing diseases like Asthma, Diabetes, Dyslipidemia, Obesity, and Hypertension from 36 months to 30 days."
+    },
+    {
+      "question": "What Base Sum Insured options are available?",
+      "answer": "Base Sum Insured options are ₹5 Lacs, 7.5 Lacs, 10 Lacs, 15 Lacs, 20 Lacs, 25 Lacs, 50 Lacs, 100 Lacs, 200 Lacs, and 300 Lacs."
+    },
+    {
+      "question": "How does the Restoration benefit work?",
+      "answer": "Multiple Restoration is available in a Policy Year for all illnesses and injury, in addition to the Base Sum Insured. However, restoration shall not get triggered for the 1st claim."
+    },
+    {
+      "question": "What is the Gullak benefit?",
+      "answer": "Gullak provides a guaranteed increase of 100% of Base Sum Insured for each policy year, up to maximum of 1500% of Base Sum Insured, irrespective of any claim made in the previous Policy Year."
+    },
+    {
+      "question": "What is covered under Maternity expenses?",
+      "answer": "Maternity Cover up to maximum 2 deliveries or terminations, covered up to 20% of Base Sum Insured subject to maximum of ₹5 Lac, New Born Baby Coverage, and First Year Vaccination as per national immunization program."
+    },
+    {
+      "question": "What is the waiting period for Maternity benefits?",
+      "answer": "The female adult Insured Person should have been covered under the base Policy & Maternity Expenses for at least 36 months before availing this benefit."
+    },
+    {
+      "question": "What is the Anant benefit?",
+      "answer": "Anant provides unlimited Sum Insured coverage for hospitalizations related to Cancer, Heart, Stroke, Major Organ/Bone Marrow Transplant, or Accident without any Sum Insured limit."
+    },
+    {
+      "question": "What is the Surplus Benefit?",
+      "answer": "Surplus Benefit provides additional 100% of Base Sum Insured, available from day 1 for 1st claim only, in each policy year."
+    },
+    {
+      "question": "What room rent coverage is provided?",
+      "answer": "Coverage is provided for Single Private AC Room up to Sum Insured, and ICU up to Sum Insured. Option to modify to Twin Sharing AC room is also available."
+    },
+    {
+      "question": "What are the Pre-hospitalization coverage limits?",
+      "answer": "Medical Expenses incurred during policy period are covered up to 90 days before the date of hospitalization, covered up to the Sum Insured."
+    },
+    {
+      "question": "What are the Post-hospitalization coverage limits?",
+      "answer": "Medical Expenses are covered up to 180 days post discharge from the hospital, covered up to the Sum Insured."
+    },
+    {
+      "question": "What is covered under Personal Accident Cover?",
+      "answer": "Coverage includes Accidental Death (100% of benefit amount), Permanent Total Disablement, and Permanent Partial Disablement with benefit amounts from ₹10L to ₹3Cr."
+    },
+    {
+      "question": "What is the age limit for Personal Accident Cover?",
+      "answer": "Minimum Age at Entry is 5 Years and Maximum Age at Entry is 65 Years."
+    },
+    {
+      "question": "What is the TTD (Temporary Total Disablement) benefit?",
+      "answer": "TTD provides fixed weekly benefit for the duration of Temporary Total Disablement with coverage options of ₹5K, ₹10K, ₹15K, ₹20K, ₹25K, ₹50K, ₹1L per week for maximum 100 weeks."
+    },
+    {
+      "question": "What Health Check Up packages are available?",
+      "answer": "For Base Sum Insured of ₹5 lacs: Package 1, For ₹7.5 lacs and ₹10 lacs: Package 2, For above ₹10 lacs: Package 3. Available each policy year for adults above 18 years."
+    },
+    {
+      "question": "What is the Air Ambulance coverage limit?",
+      "answer": "Air Ambulance is covered up to Sum Insured subject to maximum of ₹10 Lacs in addition to the Base Sum Insured."
+    },
+    {
+      "question": "What Voluntary Co-Payment options are available?",
+      "answer": "Options of 10%, 20% or 30% will be applicable on each and every claim."
+    },
+    {
+      "question": "What Deductible options are available?",
+      "answer": "Option 1: Aggregate Deductible of ₹10K, ₹25K, ₹50K, ₹1L, ₹2L, ₹3L, ₹4L, ₹5L or ₹10L. Option 2: Per Day Deductible of ₹1K, ₹2K, ₹3K, ₹4K or ₹5K per day of Hospitalization."
+    },
+    {
+      "question": "What is covered under Durable Medical Equipment?",
+      "answer": "Covered up to ₹1 Lac when prescribed during hospitalization or within 30 days post-discharge, including CPAP Machine, BPAP Machine, Ventilator, Wheelchair, Prosthetic Device, etc."
+    },
+    {
+      "question": "What is the no-claim discount structure?",
+      "answer": "Year 1: 2.5%, Year 2: 5%, Year 3: 7.5%, Year 4: 7.5%. No claim discount earned till eldest age is less than 56, and resets to 0% after a claim."
+    },
+    {
+      "question": "What relationships are covered under Individual policies?",
+      "answer": "Self, legally married spouse or live-in partner, son, daughter, father/mother/father-in-law/mother-in-law/son-in-law/daughter-in-law/grand-parents/grandchildren/uncle/aunt/nephew/niece/brother/sister/sister in-law/brother in-law."
+    },
+    {
+      "question": "What relationships are covered under Floater policies?",
+      "answer": "Self, legally married spouse or live-in partner, dependent children (natural/legally adopted), dependent parents/parents-in-law."
+    },
+    {
+      "question": "What is the waiting period for Mental Illness coverage?",
+      "answer": "Mental Illness coverage has a waiting period of 24 months for specified ICD codes."
+    },
+    {
+      "question": "Can Sarathi benefit be added at renewal?",
+      "answer": "No, Sarathi optional cover is available only at inception (First Policy Year) and not at renewal. Once opted, it cannot be withdrawn in subsequent renewals."
+    },
+    {
+      "question": "What is the maximum coverage under Wellness Program rewards?",
+      "answer": "Rewards can be earned up to maximum of 20% of expiring base Premium by completing activities under Healthy Life Management Program."
+    },
+    {
+      "question": "What is covered under Donor Expenses?",
+      "answer": "Covered up to Sum Insured including Pre & Post Hospitalization expenses (up to 30 days each), cost towards donor screening once per policy year, and complications up to 25% of Base Sum Insured subject to maximum ₹2 Lacs."
+    },
+    {
+      "question": "What is the benefit amount eligibility for Personal Accident based on age?",
+      "answer": "Age 18-45: Max 20 times of Gainful Annual Income, Age 46-60: Max 10 times of Gainful Annual Income, Above 60: Up to maximum times of Annual Income as detailed in policy."
+    },
+    {
+      "question": "Can the Extension of Specific Disease Waiting Period be opted at renewal?",
+      "answer": "No, this optional cover is available only at inception of the Policy (first Policy Year) and cannot be availed at renewal. Once opted, it cannot be opted out in subsequent renewals."
+    }
+  ],
+  "source_file": "db5c0052ae0d7373b739943e92350e17790e938a.txt",
+  "category": "Hi Document"
+}

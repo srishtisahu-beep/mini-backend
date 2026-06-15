@@ -1,0 +1,229 @@
+{
+  "product_name": "Bajaj Allianz Life Invest Protect Goal III",
+  "company": "Bajaj Allianz Life Insurance Co. Ltd.",
+  "product_type": "A Unit-Linked Non-Participating Individual Life Savings Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit-Linked Savings Plan",
+  "summary": "This is a non-participating, individual, regular premium Unit-Linked savings plan where the investment risk in the portfolio is borne by the policyholder. The policy provides a Death Benefit, Maturity Benefit, and Surrender Value. It also offers Loyalty Advantages (including Return of Premium Allocation Charge and Return of Mortality Charge), a Fund Maintenance Booster, and an optional Family Benefit. Policyholders can choose between an Investor Selectable Portfolio Strategy and an Automatic Transfer Strategy for managing their funds.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As specified in the Policy Schedule.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "The policy has a Lock-in Period of five consecutive completed Policy Years from the Policy Commencement Date."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the policy term, provided the policy is in-force or paid-up."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable if the Life Assured is alive on the Maturity Date. The benefit is equal to the Fund Value."
+    },
+    {
+      "name": "Accidental Death Benefit (ADB)",
+      "description": "An additional rider benefit available under the Bajaj Allianz Life Linked Accident Protection Rider II."
+    },
+    {
+      "name": "Accidental Total Permanent Disability (ATPD) Benefit",
+      "description": "An additional rider benefit available under the Bajaj Allianz Life Linked Accident Protection Rider II."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit Calculation",
+      "description": "For an in-force policy, the benefit is the higher of (Prevailing Sum Assured or Regular Premium Fund Value) plus the higher of (Top Up Sum Assured or Top Up Premium Fund Value). This is subject to a minimum of the Guaranteed Benefit, which is 105% of all Regular and Top Up Premiums received."
+    },
+    {
+      "name": "Maturity Benefit Calculation",
+      "description": "On survival to the maturity date, the policyholder receives the total Fund Value, which is the sum of the Regular Premium Fund Value and the Top Up Premium Fund Value, if any."
+    },
+    {
+      "name": "Loyalty Advantage",
+      "description": "A set of additions to the fund value for in-force policies, comprising Return Of Premium Allocation Charge (ROAC), Return Of Mortality Charge (ROMC), and Loyalty Additions (LAs)."
+    },
+    {
+      "name": "Return Of Premium Allocation Charge (ROAC)",
+      "description": "At the end of the 15th Policy Year, the total of all Premium Allocation Charges deducted from Regular Premiums will be added back to the Fund Value."
+    },
+    {
+      "name": "Return Of Mortality Charge (ROMC)",
+      "description": "A percentage of the total mortality charges deducted is returned to the Regular Premium Fund Value at the end of policy years 7, 15, 20, 25, 30, 35, and 40 or at maturity, whichever is earlier."
+    },
+    {
+      "name": "Loyalty Additions (LAs)",
+      "description": "A percentage of the average Regular Premium Fund Value of the previous three years is added at the end of the 10th, 20th, 30th, and 40th policy years."
+    },
+    {
+      "name": "Fund Maintenance Booster (FMB)",
+      "description": "From the 4th policy year onwards, if the Fund Value is below one Annualized Premium, an amount will be added to the Regular Premium Fund Value to bring it up to one Annualized Premium."
+    },
+    {
+      "name": "Family Benefit",
+      "description": "If opted for, an amount equal to a percentage of the last 3 years' average Regular Premium Fund Value is added to the fund on the maturity date."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "Allowed any time after the 5-year Lock-in Period. Minimum withdrawal amount is ₹5,000. The Regular Premium Fund Value must not fall below 3 times the Annualized Premium after withdrawal."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy can be surrendered anytime. If surrendered during the lock-in period, the fund value moves to a Discontinued Life Policy Fund and is paid out after 5 years. If surrendered after the lock-in period, the Fund Value is paid immediately."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Individual Plan",
+      "description": "This is an individual life insurance plan."
+    },
+    {
+      "criteria": "Age at Entry",
+      "description": "As specified in the Policy Schedule. The document does not state a minimum or maximum age."
+    }
+  ],
+  "exclusions": [
+    {
+      "condition": "Discontinued, Surrendered, or Paid-up Policies",
+      "details": "Loyalty Advantage (ROAC, ROMC, LAs), Fund Maintenance Booster (FMB), and Family Benefit are not available for policies that are surrendered, discontinued, or converted to paid-up status."
+    },
+    {
+      "condition": "Partial Withdrawal Impact on Death Benefit",
+      "details": "For calculating the Death Benefit, the Sum Assured will be reduced by the amount of partial withdrawals made from the Regular Premium Fund during the two years immediately preceding the date of death."
+    },
+    {
+      "condition": "Top-Up Premiums",
+      "details": "Top-up premiums are not allowed during the last five policy years. Each top-up has a lock-in period of five years from its payment date."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "details": "The claimant must provide intimation of the death of the Life Assured to the company. The benefits are calculated as on the date of receipt of this intimation."
+    },
+    {
+      "process_step": "Claimant",
+      "details": "The benefits under the policy are payable to the Claimant, who can be the Life Assured (if alive), Policyholder, Assignee, Nominee, or the legal heirs of the Policyholder/Nominee(s)."
+    },
+    {
+      "process_step": "Death During Grace Period",
+      "details": "If the death of the Life Assured occurs during the Grace Period, the full Death Benefit for an in-force policy is payable."
+    },
+    {
+      "process_step": "Payment on Death",
+      "details": "Upon receipt of intimation of death, the company calculates the Death Benefit as per the policy status (In-Force, Paid-up, or Discontinued) and pays it to the claimant. The policy terminates thereafter."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Bajaj Allianz Life Invest Protect Goal III plan?",
+      "answer": "It is a Unit-Linked, non-participating, individual life savings insurance plan where the policyholder bears the investment risk. It offers life cover along with market-linked returns."
+    },
+    {
+      "question": "What is the Lock-in Period for this policy?",
+      "answer": "The policy has a Lock-in Period of five consecutive completed policy years from the policy commencement date."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "You have a Free Look Period of 30 days from the date of receipt of the policy document to review its terms and conditions. You can cancel the policy during this period if you disagree with any terms."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "For an in-force policy, it is the higher of (Prevailing Sum Assured or Regular Premium Fund Value) plus the higher of (Top Up Sum Assured or Top Up Premium Fund Value), subject to a minimum of 105% of all premiums paid."
+    },
+    {
+      "question": "What happens to the Death Benefit if I make a partial withdrawal?",
+      "answer": "The Sum Assured used for calculating the Death Benefit will be reduced by the total amount of partial withdrawals made from the Regular Premium Fund in the two years just before the date of death."
+    },
+    {
+      "question": "What is the Maturity Benefit of this plan?",
+      "answer": "If the Life Assured survives until the maturity date, the total Fund Value (Regular Premium Fund Value plus Top Up Premium Fund Value) is payable."
+    },
+    {
+      "question": "What are Loyalty Advantages?",
+      "answer": "Loyalty Advantages are additional benefits added to the fund value for in-force policies. They include Return of Premium Allocation Charge (ROAC), Return of Mortality Charge (ROMC), and Loyalty Additions (LAs)."
+    },
+    {
+      "question": "When is the Return Of Premium Allocation Charge (ROAC) paid?",
+      "answer": "At the end of the 15th Policy Year, the total Premium Allocation Charges deducted from regular premiums are added back to your Fund Value."
+    },
+    {
+      "question": "How does the Return Of Mortality Charge (ROMC) work?",
+      "answer": "A percentage of the mortality charges deducted is returned to your fund at specific intervals: 25% at year 7, 50% of total by year 15, and 100% of charges by year 20, with subsequent returns at later milestones."
+    },
+    {
+      "question": "What happens if I stop paying premiums during the Lock-in Period?",
+      "answer": "The policy becomes a 'Discontinued Life Policy'. The fund value, after deducting charges, is moved to the Discontinued Life Policy Fund, and all risk cover ceases. The amount is payable at the end of the lock-in period."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the Lock-in Period?",
+      "answer": "The policy converts to a 'reduced paid-up' policy with a lower Sum Assured. You will have a revival period of three years to resume premium payments. If not revived, the surrender value is paid at the end of the revival period."
+    },
+    {
+      "question": "Can I revive a discontinued or paid-up policy?",
+      "answer": "Yes, you can request to revive the policy within the Revival Period, which is three consecutive years from the date of the first unpaid premium, by paying all due premiums."
+    },
+    {
+      "question": "Can I surrender the policy before the policy term ends?",
+      "answer": "Yes, you can surrender the policy at any time. The payout depends on whether you surrender during or after the 5-year lock-in period."
+    },
+    {
+      "question": "What are the main charges in this policy?",
+      "answer": "The main charges are Premium Allocation Charge, Mortality Charge, Fund Management Charge (FMC), Policy Administration Charge, and Discontinuance/Surrender Charge."
+    },
+    {
+      "question": "Are the Mortality Charges and Premium Allocation Charges guaranteed?",
+      "answer": "Yes, the Premium Allocation Charge and Mortality Charge are guaranteed not to change throughout the Policy Term."
+    },
+    {
+      "question": "Can I make partial withdrawals from my fund?",
+      "answer": "Yes, partial withdrawals are allowed after the 5-year Lock-in Period. The minimum withdrawal amount is ₹5,000."
+    },
+    {
+      "question": "Is there a limit on how much I can withdraw?",
+      "answer": "Yes, after a partial withdrawal, the Regular Premium Fund Value must not fall below three times the Annualized Premium."
+    },
+    {
+      "question": "Can I pay extra premiums into my policy?",
+      "answer": "Yes, you can pay Top Up Premiums anytime except during the last five policy years, provided all due regular premiums are paid. The minimum Top Up amount is ₹5,000."
+    },
+    {
+      "question": "What are the investment portfolio strategies available?",
+      "answer": "You can choose between two strategies: the 'Investor Selectable Portfolio Strategy', where you select the funds, and the 'Automatic Transfer Strategy', which systematically transfers funds from a debt/liquid fund to other funds monthly."
+    },
+    {
+      "question": "Can I switch between funds?",
+      "answer": "Yes, if you have chosen the Investor Selectable Portfolio Strategy, you can make unlimited free switches between the available funds."
+    },
+    {
+      "question": "Can I increase or decrease my Sum Assured?",
+      "answer": "Yes, you have the option to increase or decrease the Sum Assured at any policy anniversary, subject to underwriting and product rules."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other payment frequencies (yearly, half-yearly, quarterly)."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "It is a charge for managing the investment funds, expressed as a percentage of the fund value. It is deducted by adjusting the Net Asset Value (NAV) of the units. For most equity funds, it is 1.35% per annum, while for the Discontinued Life Policy Fund it is 0.50% per annum."
+    },
+    {
+      "question": "What is a Discontinued Life Policy Fund?",
+      "answer": "It is a segregated fund where the fund value of a policy is transferred if the policyholder discontinues premium payments during the lock-in period. It has a low-risk investment profile, consisting mainly of government securities and money market instruments."
+    },
+    {
+      "question": "What is the Policy Administration Charge?",
+      "answer": "It is a monthly charge for the administration of the policy. For the first five years, it is 1.08% p.a. of the Annualized Premium, and thereafter it is 4.50% p.a. of the Annualized Premium, capped at a maximum of ₹500 per month."
+    },
+    {
+      "question": "What is the 'Foreclosure' condition?",
+      "answer": "Any time after three policy years, if a policy has discontinued paying premiums and its Fund Value falls below one Annualized Premium, the policy shall be foreclosed and the surrender value will be paid out."
+    },
+    {
+      "question": "What is the 'Guaranteed Benefit'?",
+      "answer": "The Guaranteed Benefit ensures that the Death Benefit will be at least 105% of all the Regular Premiums plus Top Up Premiums received under the policy until the date of death."
+    }
+  ],
+  "source_file": "Bajaj Allianz Life Invest Protect Goal III-UIN-116L205V01.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,180 @@
+{
+  "product_name": "FAMILY SHIELD",
+  "product_type": "Health Insurance",
+  "summary": "FAMILY SHIELD is a health insurance policy offered by ICICI Lombard General Insurance Company Limited that provides coverage for specific infectious diseases, hospital daily cash benefits, and various medical conditions. The policy covers specific vector-borne diseases, rabies and tetanus, gastro-intestinal infections, viral infections, and nervous system infections along with hospital daily cash benefits.",
+  "coverage": [
+    "Specific Vector Borne Disease related Hospitalization (Malaria, Dengue, Chickungunya, Kala Azar, Japanese encephalitis, Zika Fever and Filariasis)",
+    "Rabies and Tetanus related Hospitalization",
+    "Rabies and Tetanus related Death Benefit",
+    "Specific Gastro Intestinal Infections Hospitalization (Acute Inflammatory Diarrhoea, Typhoid Fever)",
+    "Specific Viral Infections Hospitalization (Viral Hepatitis A, B, C and E, Measles, Mumps, Poliomyelitis, Avian Influenza and Swine Influenza)",
+    "Specific Nervous System Infections Hospitalization (Meningitis, Encephalitis, Creutzfeldt–Jakob disease, Guillain–Barré syndrome)",
+    "Hospital Daily Cash Benefit for Illness",
+    "Intensive Care Unit (ICU) Cash Benefit",
+    "Cashless facility at network providers",
+    "Pre-hospitalization and Post-hospitalization Medical Expenses (where applicable)",
+    "Emergency Care",
+    "Ambulance Charges",
+    "Air Ambulance services"
+  ],
+  "waiting_periods": [
+    "30 days waiting period for specific vector-borne disease hospitalization from commencement of policy",
+    "30 days waiting period for rabies and tetanus hospitalization from commencement of policy",
+    "30 days waiting period for specific gastro-intestinal infections hospitalization from commencement of policy",
+    "30 days waiting period for specific viral infections hospitalization from commencement of policy",
+    "30 days waiting period for specific nervous system infections hospitalization from commencement of policy",
+    "30 days initial waiting period for any hospitalization (maximum)",
+    "24 months waiting period for pre-existing diseases",
+    "Waiting period exclusions cease to apply from first renewal of policy"
+  ],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [
+    "Deductible applicable per year, per life or per event as stated in policy certificate",
+    "Deductible does not reduce the Sum Insured",
+    "Hospital Daily Cash Benefit subject to per event Deductible or Franchise",
+    "ICU Cash Benefit subject to Deductible stated in Policy Certificate"
+  ],
+  "claims_information": [
+    "Claims can be made through cashless facility at network providers",
+    "Notification of claim through recognized modes of communication",
+    "Only one claim accepted per benefit during policy period for infectious disease benefits",
+    "Claims subject to availability of Sum Insured and policy terms",
+    "Grace period available for premium payment to maintain continuity",
+    "Claims payable to Insured Person or Nominee as applicable"
+  ],
+  "exclusions": [
+    "30-day waiting period for any hospitalization",
+    "Pre-existing diseases (24 months waiting period)",
+    "Maternity expenses including childbirth, caesarean sections except ectopic pregnancy",
+    "Cosmetic or plastic surgery unless for reconstruction following accident, burns or cancer",
+    "Investigation and evaluation expenses for diagnostic purposes only",
+    "Obesity/Weight control surgery unless specific conditions met",
+    "Rest cure, rehabilitation and respite care",
+    "Hazardous or adventure sports unless specifically covered",
+    "Change of gender treatments",
+    "Pre-hospitalization and Post-hospitalization expenses for infectious disease benefits",
+    "Hospitalization prior to policy commencement",
+    "Coma resulting from alcohol or drug abuse"
+  ],
+  "faqs": [
+    {
+      "question": "What is the minimum hospitalization period required for vector-borne disease claims?",
+      "answer": "The insured person's stay in hospital should continue for a minimum period of 2 successive days for vector-borne disease claims."
+    },
+    {
+      "question": "Which vector-borne diseases are covered under this policy?",
+      "answer": "The policy covers Malaria, Dengue, Chickungunya, Kala Azar, Japanese encephalitis, Zika Fever and Filariasis."
+    },
+    {
+      "question": "What is the waiting period for infectious disease claims?",
+      "answer": "There is a 30 days waiting period from the commencement of the policy period for all infectious disease claims. This exclusion ceases to apply from the first renewal."
+    },
+    {
+      "question": "How many claims can I make for infectious disease benefits in one policy year?",
+      "answer": "Only one claim is accepted under each infectious disease benefit during the policy period per insured person."
+    },
+    {
+      "question": "What happens to my coverage after an infectious disease claim is accepted?",
+      "answer": "On acceptance of a claim under infectious disease benefits, coverage under that specific benefit ceases immediately, but coverage under other applicable benefits continues subject to sum insured availability."
+    },
+    {
+      "question": "What laboratory reports are required for dengue claims?",
+      "answer": "For dengue claims, NS1 antigen test or Ig M-Elisa test reports are required to confirm the diagnosis."
+    },
+    {
+      "question": "What laboratory reports are required for malaria claims?",
+      "answer": "For malaria claims, Peripheral Smear Test confirming the presence of malarial parasites is required."
+    },
+    {
+      "question": "Is there a death benefit for rabies and tetanus?",
+      "answer": "Yes, there is a death benefit if death occurs within 15 days from the first laboratory diagnosis of rabies or tetanus."
+    },
+    {
+      "question": "What gastro-intestinal infections are covered?",
+      "answer": "The policy covers Acute Inflammatory Diarrhoea and Typhoid Fever under gastro-intestinal infections."
+    },
+    {
+      "question": "Which viral infections are covered under the policy?",
+      "answer": "Viral Hepatitis (A, B, C and E), Measles, Mumps, Poliomyelitis, Avian Influenza and Swine Influenza are covered."
+    },
+    {
+      "question": "What nervous system infections are covered?",
+      "answer": "Meningitis, Encephalitis, Creutzfeldt–Jakob disease, and Guillain–Barré syndrome are covered under nervous system infections."
+    },
+    {
+      "question": "How does the Hospital Daily Cash Benefit work?",
+      "answer": "The daily amount specified in the policy certificate is paid for each continuous and completed day of hospitalization for medically necessary treatment lasting minimum 24 hours."
+    },
+    {
+      "question": "Is there additional benefit for ICU admission?",
+      "answer": "Yes, there is an ICU Cash Benefit that pays the daily amount specified for each continuous and completed day of confinement in the Intensive Care Unit."
+    },
+    {
+      "question": "What is the definition of accident under this policy?",
+      "answer": "Accident means sudden, unforeseen and involuntary event caused by external, visible and violent means."
+    },
+    {
+      "question": "What is the definition of pre-existing disease?",
+      "answer": "Pre-existing disease means any condition diagnosed by a physician within 48 months prior to policy effective date or for which medical advice or treatment was received within 48 months prior to policy effective date."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases have a waiting period of 24 months of continuous coverage after the date of inception of the first policy."
+    },
+    {
+      "question": "Are maternity expenses covered?",
+      "answer": "No, maternity expenses including childbirth and caesarean sections are excluded, except ectopic pregnancy."
+    },
+    {
+      "question": "Is cosmetic surgery covered?",
+      "answer": "Cosmetic or plastic surgery is excluded unless for reconstruction following an accident, burns or cancer or as medically necessary treatment."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is the specified period immediately following premium due date during which payment can be made to continue policy without loss of continuity benefits."
+    },
+    {
+      "question": "What is cashless facility?",
+      "answer": "Cashless facility allows direct payment by the insurer to network providers for treatment costs, subject to pre-authorization approval."
+    },
+    {
+      "question": "What is the minimum age for a child to be covered?",
+      "answer": "Child means dependent children up to age 25 years who are dependent on the insured person for maintenance and financial support."
+    },
+    {
+      "question": "What customer support contact details are available?",
+      "answer": "Toll free numbers: 1800 2666 601 & 602, Alternate number: 86552 22666 (chargeable), Email: customersupport@icicilombard.com"
+    },
+    {
+      "question": "What is the company's website?",
+      "answer": "The company website is www.icicilombard.com"
+    },
+    {
+      "question": "Can I port this policy to another insurer?",
+      "answer": "Yes, portability allows transfer of credit gained for pre-existing conditions and time bound exclusions from one insurer to another."
+    },
+    {
+      "question": "What happens if there is a break in policy?",
+      "answer": "Break in policy occurs when premium is not paid on or before renewal date or within 30 days thereof, leading to loss of continuity benefits."
+    },
+    {
+      "question": "Are adventure sports covered?",
+      "answer": "Adventure sports are excluded unless specifically covered and mentioned in the policy certificate."
+    },
+    {
+      "question": "What documents are required for infectious disease claims?",
+      "answer": "Duly filled claim form, hospital discharge summary, treating doctor certificate with diagnosis details, and specific laboratory reports confirming the diagnosis are required."
+    },
+    {
+      "question": "Is there coverage for ambulance charges?",
+      "answer": "Yes, ambulance charges for transportation from accident site to nearest hospital or to higher care center in life-threatening emergencies are covered."
+    },
+    {
+      "question": "What is the definition of Sum Insured?",
+      "answer": "Sum Insured is the maximum, total and cumulative liability for any and all claims made for an insured person during the policy period under specific benefits."
+    }
+  ],
+  "source_file": "FS_PW.txt",
+  "category": "Hi Document"
+}

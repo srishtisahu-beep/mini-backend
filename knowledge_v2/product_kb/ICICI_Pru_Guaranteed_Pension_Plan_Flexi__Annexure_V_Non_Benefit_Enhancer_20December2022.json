@@ -1,0 +1,286 @@
+{
+  "product_name": "ICICI Pru Guaranteed Pension Plan Flexi",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "A Non-Linked Non-Participating Individual Deferred Annuity Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Pension Plan",
+  "summary": "An individual deferred annuity plan that provides a guaranteed annuity amount for life after a chosen deferment period. It offers seven different annuity options for single and joint lives, including features like return of premium, booster payouts, accelerated health boosters, and waiver of premium. The plan allows policyholders to choose a deferment period between 5 to 15 years and provides flexibility in annuity payment frequency.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "",
+    "policy_term": "Life-long annuity after a deferment period of 5 to 15 years",
+    "waiting_period": "No waiting period for Death Benefit or CI/PD. For Accelerated Health Boosters, the inability to perform 3 of 6 ADLs must persist for at least 6 months. For Permanent Disability due to accident, the disability should have lasted for at least 180 days."
+  },
+  "coverage": [
+    {
+      "name": "Single life without Return of Premium",
+      "description": "Annuity is paid for the life of the Annuitant after the deferment period. On death during the deferment period, a Death Benefit is paid. On death after the deferment period, the policy terminates with no death benefit."
+    },
+    {
+      "name": "Joint Life without Return of Premium",
+      "description": "Annuity is paid to the primary Annuitant. After their death, the secondary Annuitant receives the same annuity for life. The policy terminates on the death of the last survivor. Death benefit is payable only if both annuitants die during the deferment period."
+    },
+    {
+      "name": "Single life with Return of Premium",
+      "description": "Annuity is paid for the life of the Annuitant. On death of the Annuitant (either during or after the deferment period), a Death Benefit is payable to the nominee and the policy terminates."
+    },
+    {
+      "name": "Joint Life with Return of Premium",
+      "description": "Annuity is paid to the primary Annuitant. After their death, the secondary Annuitant receives the same annuity for life. On the death of the last survivor, a Death Benefit is payable to the nominee and the policy terminates."
+    },
+    {
+      "name": "Single Life with Return of Premium on Critical illness (CI) or Permanent Disability due to accident (PD) or Death",
+      "description": "Annuity is paid for life. A lump sum benefit is paid on the occurrence of a specified CI or PD before age 80, or on death, after which the policy terminates."
+    },
+    {
+      "name": "Single Life with Booster Payouts",
+      "description": "Annuity is paid for life. Additionally, booster payouts equal to 10% of Total Premiums Paid are made every 5 years, starting from the 5th policy anniversary after the deferment period, up to a maximum of 5 payouts. Death benefit is reduced by booster payouts already made."
+    },
+    {
+      "name": "Single Life with Accelerated Health Boosters",
+      "description": "Annuity is paid for life. An additional amount of 10% of Total Premiums Paid is paid annually for 10 years (or till death, if earlier) on diagnosis of inability to perform at least 3 of 6 Activities of Daily Living. This benefit can be claimed after the deferment period or age 60, whichever is later, and up to age 80. Death benefit is reduced by the additional amounts paid."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Additions (GA)",
+      "description": "Additions that accrue to the policy at the end of every policy month from inception until the end of the deferment period, provided all due premiums have been paid. Two options (GA-I and GA-II) are available at inception and cannot be changed later."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Available for all options except 'without Return of Premium' variants. During the deferment period, loan up to 75% of surrender value can be availed. Post deferment, loans are available only for health-related ailments for the annuitant or family members."
+    },
+    {
+      "name": "Top-up",
+      "description": "The policyholder can pay an additional premium anytime during the deferment period to increase the annuity amount, while the policy is in-force. The additional annuity is calculated using the prevailing annuity rates at the time of top-up."
+    },
+    {
+      "name": "Waiver of Premium Benefit Option",
+      "description": "Available with Joint Life options at inception. On the death of the primary Annuitant during the premium payment term, future premiums are waived, and the policy continues with benefits for the secondary Annuitant."
+    },
+    {
+      "name": "Save the Date",
+      "description": "The policyholder can choose to receive annuity payments on any specific date succeeding the due date of the first annuity payment. The annuity payable from the selected date will be increased for the deferment period at a specified interest rate."
+    },
+    {
+      "name": "Change of Annuity Frequency",
+      "description": "The policyholder can change the frequency of annuity payment (monthly, quarterly, half-yearly, or annual) on any policy anniversary."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Joint Life Option",
+      "details": "For Joint Life options, there must be an insurable interest between the primary and secondary annuitant. The secondary annuitant can be the spouse, child, parent, or sibling of the primary annuitant."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the annuitant (or last survivor in a joint life policy) commits suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee will be entitled to at least 80% of the total premiums paid till the date of death or the surrender value, whichever is higher. This clause is only applicable during the deferment period."
+    },
+    {
+      "type": "General",
+      "description": "There is no exclusion other than the suicide clause for the Death Benefit."
+    },
+    {
+      "type": "Critical Illness - Cancer of Specified Severity",
+      "description": "Excludes tumors which are carcinoma in situ, benign, pre-malignant, borderline malignant, low malignant potential; non-melanoma skin carcinoma unless metastasized; malignant melanoma not invading beyond the epidermis; specific types of prostate, thyroid, bladder cancers, and chronic lymphocytic leukaemia less than RAI stage 3."
+    },
+    {
+      "type": "Critical Illness - First Heart Attack of specified severity",
+      "description": "Excludes other acute Coronary Syndromes, any type of angina pectoris, and a rise in cardiac biomarkers in the absence of overt ischemic heart disease or following an intra-arterial cardiac procedure."
+    },
+    {
+      "type": "Critical Illness - Open Chest CABG",
+      "description": "Excludes Angioplasty and/or any other intra-arterial procedures."
+    },
+    {
+      "type": "Critical Illness - Stroke Resulting In Permanent Symptoms",
+      "description": "Excludes Transient ischemic attacks (TIA), traumatic injury of the brain, and vascular disease affecting only the eye, optic nerve, or vestibular functions."
+    },
+    {
+      "type": "Critical Illness - Major Organ/ Bone Marrow Transplant",
+      "description": "Excludes other stem-cell transplants and where only islets of langerhans are transplanted."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "General Condition",
+      "details": "The Company reserves the right to call for additional information, documents or particulars for processing any claim. Claim payments are made only in Indian currency."
+    },
+    {
+      "type": "Natural Death Claim",
+      "documents_required": [
+        "Claimant’s Statement",
+        "Original Policy Document",
+        "Death Certificate of the Annuitant issued by the local municipal authority",
+        "Photo ID and Address Proof of Claimant",
+        "Cancelled cheque/ Copy of bank passbook",
+        "Copy of medico legal cause of death and medical records, if any"
+      ]
+    },
+    {
+      "type": "Unnatural Death Claim",
+      "documents_required": [
+        "Claimant’s Statement",
+        "Original Policy Document",
+        "Death Certificate of the Annuitant issued by the local municipal authority",
+        "Photo ID and Address Proof of Claimant",
+        "Cancelled cheque/ Copy of bank passbook",
+        "Copy of FIR (First Information Report), Panchanama, Post Mortem Report, Driving license"
+      ]
+    },
+    {
+      "type": "Accelerated Health Boosters Claim",
+      "documents_required": [
+        "Claimant’s Statement",
+        "Original Policy Document",
+        "Photo ID and Address Proof of Claimant",
+        "Cancelled cheque/ Copy of bank passbook",
+        "Medical records (Admission notes, Test reports, Discharge Summary etc.)",
+        "All diagnostic reports",
+        "Treating Doctor Certificate confirming the inability to perform activities of daily living after 6 months from the date of diagnosis"
+      ]
+    },
+    {
+      "type": "Critical Illness Claim",
+      "documents_required": [
+        "Claimant’s Statement",
+        "Original Policy Document",
+        "Photo ID and Address Proof of Claimant",
+        "Cancelled cheque/ Copy of passbook",
+        "Medical records (Admission notes, Test & surgery reports, Discharge Summary etc.)",
+        "All consultation notes in connection with the diagnosis",
+        "All diagnostic reports",
+        "Treating Doctor Certificate"
+      ]
+    },
+    {
+      "type": "Permanent Disability due to Accident Claim",
+      "documents_required": [
+        "Claimant’s Statement",
+        "Original Policy Document",
+        "Photo ID and Address Proof of Claimant",
+        "Cancelled cheque/ Copy of passbook",
+        "Medical records and all diagnostic reports",
+        "Disability Certificate from Govt. Authority",
+        "Copy of FIR/ Panchanama/ Inquest Report",
+        "Copy of Driving License if Life Assured was driving",
+        "Treating Doctor Certificate confirming the degree of disability after 180 days from diagnosis"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ICICI Pru Guaranteed Pension Plan Flexi?",
+      "answer": "It is a non-linked, non-participating individual deferred annuity plan that provides a guaranteed annuity for life after a chosen deferment period."
+    },
+    {
+      "question": "What is a Deferment Period?",
+      "answer": "It is the period from the policy commencement date during which you pay premiums. It can be between 5 to 15 years. The annuity payments start after this period ends."
+    },
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "The Free Look Period is 15 days from the date of receiving the policy document, or 30 days if the policy was purchased electronically or through distance marketing."
+    },
+    {
+      "question": "What are Guaranteed Additions (GA)?",
+      "answer": "Guaranteed Additions are amounts that accrue to the policy every month from inception until the end of the deferment period, provided all premiums are paid. You can choose between two GA options at the start of the policy."
+    },
+    {
+      "question": "Can I change my Guaranteed Additions (GA) option after buying the policy?",
+      "answer": "No, the form of GA (either GA-I or GA-II) must be chosen at the inception of the policy and cannot be changed thereafter."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums after at least 2 full years, the policy becomes a paid-up policy with reduced benefits. If you stop before paying 2 full years' premiums, the policy will lapse, and no benefits will be payable if not revived."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for all other modes (yearly, half-yearly)."
+    },
+    {
+      "question": "Can I surrender this policy?",
+      "answer": "Yes, the policy acquires a surrender value after payment of at least 2 full years' premium. Before that, the surrender value is zero. For some options, surrender is not allowed after the deferment period."
+    },
+    {
+      "question": "Is there a loan facility available on this policy?",
+      "answer": "Yes, a loan facility is available for all annuity options except 'Single life without Return of Premium' and 'Joint Life without Return of Premium'."
+    },
+    {
+      "question": "How can I revive a lapsed or paid-up policy?",
+      "answer": "You can apply for revival within 5 consecutive years from the date of the first unpaid premium, subject to providing satisfactory evidence of health and payment of all arrears of premiums with interest."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the annuitant dies due to suicide within 12 months of policy commencement or revival, the nominee will receive at least 80% of total premiums paid or the surrender value, whichever is higher. This is applicable only during the deferment period."
+    },
+    {
+      "question": "What are the different annuity options available?",
+      "answer": "There are seven options: Single/Joint Life with or without Return of Premium, Single Life with Return of Premium on CI/PD or Death, Single Life with Booster Payouts, and Single Life with Accelerated Health Boosters."
+    },
+    {
+      "question": "What is the 'Joint Life with Return of Premium' option?",
+      "answer": "Under this option, the annuity is first paid to the primary annuitant. After their death, the secondary annuitant receives the same annuity. On the death of the last survivor, a death benefit is paid to the nominee."
+    },
+    {
+      "question": "What are 'Booster Payouts'?",
+      "answer": "Available under the 'Single Life with Booster Payouts' option, these are payouts equal to 10% of Total Premiums Paid, made every 5 years starting from the 5th policy anniversary after the deferment period, up to 5 times. These payouts reduce the final death benefit."
+    },
+    {
+      "question": "What are 'Accelerated Health Boosters'?",
+      "answer": "This is a benefit where an additional amount (10% of Total Premiums Paid) is paid for 10 years if the annuitant is diagnosed with an inability to perform at least 3 of 6 specified Activities of Daily Living. This can be claimed between age 60 and 80, after the deferment period."
+    },
+    {
+      "question": "Can I choose the date on which I receive my annuity?",
+      "answer": "Yes, with the 'Save the Date' option, you can choose to receive your annuity payment on any one date succeeding the due date of the first annuity payment. The annuity amount will be adjusted upwards for the delay."
+    },
+    {
+      "question": "What is the Waiver of Premium benefit?",
+      "answer": "This is an optional benefit for Joint Life options. If chosen, on the death of the primary annuitant during the premium payment term, all future premiums are waived, and the policy continues for the secondary annuitant."
+    },
+    {
+      "question": "Can I increase my annuity amount after purchasing the policy?",
+      "answer": "Yes, you can pay a 'Top-up' premium anytime during the deferment period to increase your annuity amount. The additional annuity will be calculated based on prevailing rates at that time."
+    },
+    {
+      "question": "Can I change my annuity option or deferment period after the policy is issued?",
+      "answer": "No, the annuity option, GA option, premium payment term, and the deferment period, once opted for, cannot be changed after the free-look period."
+    },
+    {
+      "question": "Can I change the frequency of my annuity payments?",
+      "answer": "Yes, you can change the frequency of annuity payments (monthly, quarterly, half-yearly, or annual) on any policy anniversary."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "Common documents include the Claimant's Statement, original policy document, death certificate, and claimant's ID/address proof and bank details. For unnatural death, an FIR, Panchanama, and Post Mortem report are also required."
+    },
+    {
+      "question": "What happens if my age was declared incorrectly in the proposal form?",
+      "answer": "The annuity payable will be adjusted based on the correct age. If the correct age would have made you ineligible, the policy may be cancelled and premiums refunded, subject to deductions."
+    },
+    {
+      "question": "Who can be a secondary annuitant in a Joint Life policy?",
+      "answer": "The secondary annuitant can be the spouse, child, parent, or sibling of the primary annuitant, as there must be an insurable interest between them."
+    },
+    {
+      "question": "Are there any waiting periods for this policy?",
+      "answer": "There is no waiting period for the Death Benefit or the benefit for Critical Illness/Permanent Disability. However, for the 'Accelerated Health Boosters' benefit, the inability to perform daily activities must persist for at least 6 months."
+    },
+    {
+      "question": "How does an outstanding loan affect the policy benefits?",
+      "answer": "In case of death or surrender, the outstanding loan amount along with any interest will be deducted from the benefit payable. If a loan taken during the deferment period is not repaid, it will lead to a reduction in the annuity amount."
+    },
+    {
+      "question": "What is a paid-up policy?",
+      "answer": "A policy where premium payment has been discontinued after at least 2 full years' premiums have been paid. The policy continues with reduced benefits, and Guaranteed Additions will not accrue further."
+    },
+    {
+      "question": "What are the Activities of Daily Living (ADLs) mentioned in the policy?",
+      "answer": "The six ADLs are Washing, Dressing, Transferring, Toileting, Feeding, and Mobility. An inability to perform at least three of these is required to claim the Accelerated Health Boosters benefit."
+    }
+  ],
+  "source_file": "ICICI_Pru_Guaranteed_Pension_Plan_Flexi__Annexure_V_Non_Benefit_Enhancer_20December2022.txt",
+  "category": "LI Policy Bond Documents"
+}

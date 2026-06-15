@@ -1,0 +1,208 @@
+{
+  "product_name": "Axis Max Life Savings Advantage Plan",
+  "company": "Axis Max Life Insurance Limited",
+  "product_type": "Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual",
+  "summary": "The Axis Max Life Savings Advantage Plan is an individual life insurance plan designed to grow systematic savings into a corpus for various life stage needs, while also providing life coverage for financial protection of loved ones. It offers flexibility in choosing policy and premium payment terms, guaranteed additions for the first five years, and enhanced death and maturity benefits.",
+  "quick_facts": {
+    "minimum_age": "Single Pay: 8 years; Limited/Regular Pay: 0 years (91 days)",
+    "maximum_age": "Single Pay: 65 years; Limited Pay: 60 years; Regular Pay: 45 years",
+    "sum_insured": "Minimum varies by pay type and policy term (e.g., ₹24,425 for Limited/Regular Pay with PT >= 15 years). Maximum is subject to the company's board-approved underwriting policy.",
+    "policy_term": "Single Pay: 10 years; Limited Pay: 10-30 years; Regular Pay: 20-30 years",
+    "waiting_period": ""
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival till the end of the policy term, a benefit of 110% of Guaranteed Sum Assured on Maturity + Accrued Guaranteed Additions + Accrued Paid Up Additions (if any) + Terminal Bonus (if any) is payable."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In case of death, a death benefit is payable. For Limited/Regular Pay policies, this benefit increases to 110% of the Guaranteed Death Benefit if death occurs after 10 policy years. The benefit includes the applicable death benefit plus any accrued additions and bonuses."
+    },
+    {
+      "name": "Terminal Illness Benefit",
+      "description": "An advance payment of 50% of the Guaranteed Sum Assured on Maturity (up to a maximum of ₹10 Lakhs) is provided if the life insured is diagnosed with a terminal illness with a life expectancy of six months or less."
+    },
+    {
+      "name": "Optional Rider Coverage",
+      "description": "The plan offers three optional riders to enhance protection: Axis Max Life Term Plus Rider, Axis Max Life Accidental Death & Dismemberment Rider, and Axis Max Life Waiver Of Premium Plus Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexibility",
+      "description": "Flexibility to choose the Premium Payment Term and Policy Term to align with your financial goals and life stage needs."
+    },
+    {
+      "name": "Guaranteed Additions",
+      "description": "The plan provides guaranteed additions of 5.5% of the Guaranteed Sum Assured on Maturity at the end of each policy year for the first 5 policy years."
+    },
+    {
+      "name": "Increasing Death Benefit",
+      "description": "For Limited and Regular Pay policies, the death benefit increases to 110% of the Guaranteed Death Benefit if the death of the life insured occurs after 10 policy years."
+    },
+    {
+      "name": "Settlement And Commutation Benefit",
+      "description": "The policyholder or nominee has the flexibility to convert the lump sum Maturity or Death Benefit into a regular income (monthly or annual) for a period of 10 years."
+    },
+    {
+      "name": "Bonus Options",
+      "description": "The plan provides flexibility in how bonuses are used, with options for Paid Up Additions, Premium Offset (using bonus value to pay future premiums), or Paid In Cash (receiving the bonus value annually)."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "You may be entitled to applicable tax benefits under Section 80(C) and Section 10(10D) of the Income Tax Act 1961, subject to prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry (Minimum)",
+      "details": "Single Pay: 8 years | Limited / Regular Pay: 0 years (91 days)"
+    },
+    {
+      "criteria": "Age at Entry (Maximum)",
+      "details": "Single Pay: 65 years | Limited Pay: 60 years | Regular Pay: 45 years"
+    },
+    {
+      "criteria": "Age at Maturity (Maximum)",
+      "details": "Single Premium: 75 years | Limited Premium: 80 years | Regular Premium: 65 years"
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "details": "Single Pay: 10 years | Limited Pay: 10 to 30 years | Regular Pay: 20 to 30 years"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "Single Pay | Limited Pay: 5 to 12 years | Regular Pay"
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "details": "Annual, Semi-Annual, Quarterly and Monthly"
+    },
+    {
+      "criteria": "Minimum Premium",
+      "details": "Single Pay: ₹1,00,000 | Limited/Regular Pay (Annual): ₹50,000"
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [
+    {
+      "type": "Helpline",
+      "details": "For claims or other support, you can call the Customer Helpline No. 1860 120 5577."
+    },
+    {
+      "type": "Website",
+      "details": "Further details can be found on the company website: www.axismaxlife.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Axis Max Life Savings Advantage Plan?",
+      "answer": "It is an individual life insurance plan that helps you grow systematic savings to build a corpus for your life stage needs while also providing life coverage against risk."
+    },
+    {
+      "question": "What are Guaranteed Additions in this plan?",
+      "answer": "This plan provides Guaranteed Additions equal to 5.5% of the Guaranteed Sum Assured on Maturity at the end of each policy year, for the first 5 policy years."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "If the life insured survives the policy term, the plan pays 110% of the Guaranteed Sum Assured on Maturity, plus accrued Guaranteed Additions, accrued Paid Up Additions (if any), and Terminal Bonus (if any)."
+    },
+    {
+      "question": "How does the Death Benefit change over time for Limited and Regular Pay policies?",
+      "answer": "If the death of the Life Insured occurs anytime after 10 policy years, the death benefit payable is 110% of the Guaranteed Death Benefit, along with other accrued benefits."
+    },
+    {
+      "question": "Can I receive the policy benefits as regular income instead of a lump sum?",
+      "answer": "Yes, the plan offers a Settlement Benefit that allows you or your nominee to convert the lump sum Maturity or Death Benefit into regular monthly or annual income for 10 years."
+    },
+    {
+      "question": "Are there any tax benefits with this plan?",
+      "answer": "Yes, you may be entitled to tax benefits under Section 80(C) for premiums paid and Section 10(10D) for benefits received, as per prevailing tax laws."
+    },
+    {
+      "question": "What is the minimum age to buy this plan?",
+      "answer": "The minimum entry age is 8 years for a Single Pay policy and 0 years (91 days) for Limited and Regular Pay policies."
+    },
+    {
+      "question": "What is the maximum age to purchase this plan?",
+      "answer": "The maximum entry age is 65 years for Single Pay, 60 years for Limited Pay, and 45 years for Regular Pay policies."
+    },
+    {
+      "question": "What are the available options for the Policy Term?",
+      "answer": "The policy term is 10 years for Single Pay, 10 to 30 years for Limited Pay, and 20 to 30 years for Regular Pay."
+    },
+    {
+      "question": "What are the Premium Payment Term options?",
+      "answer": "You can choose a Single Pay (one-time payment), a Limited Pay term of 5 to 12 years, or a Regular Pay option where you pay throughout the policy term."
+    },
+    {
+      "question": "What payment frequencies are available for premiums?",
+      "answer": "The plan allows for Annual, Semi-Annual, Quarterly, and Monthly premium payment modes."
+    },
+    {
+      "question": "Does this plan cover terminal illness?",
+      "answer": "Yes, if the life insured is diagnosed with a terminal illness with a life expectancy of 6 months or less, the company will advance 50% of the Guaranteed Sum Assured on Maturity, up to a maximum of ₹10 Lakhs."
+    },
+    {
+      "question": "Can I add extra coverage to this plan?",
+      "answer": "Yes, the plan offers three optional riders to enhance your coverage: Axis Max Life Term Plus Rider, Axis Max Life Accidental Death & Dismemberment Rider, and Axis Max Life Waiver Of Premium Plus Rider."
+    },
+    {
+      "question": "What is the minimum premium for this policy?",
+      "answer": "The minimum premium for a Single Pay policy is ₹1,00,000. For Limited and Regular Pay policies, the minimum annualised premium is ₹50,000."
+    },
+    {
+      "question": "Is there a limit on the maximum premium or sum assured?",
+      "answer": "There is no specified maximum limit; it is subject to the company's board-approved underwriting policy."
+    },
+    {
+      "question": "What is a Terminal Bonus?",
+      "answer": "A Terminal Bonus is an additional, non-guaranteed bonus that is paid only once, on the earlier of death, surrender, or maturity, provided the policy has been in force for at least 5 years."
+    },
+    {
+      "question": "What is the 'Premium Offset' bonus option?",
+      "answer": "Under this option, the surrender value of the declared Paid Up Additions is utilised to pay for future premiums. If the value exceeds the premium, the balance is paid to the policyholder."
+    },
+    {
+      "question": "What does the Axis Max Life Waiver Of Premium Plus Rider do?",
+      "answer": "This rider provides for the waiver of all future premiums under the policy upon the occurrence of critical illness, dismemberment, or death (if the policyholder and life insured are different individuals)."
+    },
+    {
+      "question": "What is the maximum maturity age under this policy?",
+      "answer": "The maximum age at maturity is 75 years for Single Pay, 80 years for Limited Pay, and 65 years for Regular Pay policies."
+    },
+    {
+      "question": "Can I change my premium payment mode during the policy term?",
+      "answer": "Yes, the document states that the premium payment mode can be changed during the policy term."
+    },
+    {
+      "question": "Are the bonuses shown in the product illustration guaranteed?",
+      "answer": "No, bonuses are non-guaranteed and depend on various factors, including future investment performance. The illustration shows potential scenarios at assumed rates of return (4% and 8%) and are not guaranteed outcomes."
+    },
+    {
+      "question": "What are 'Paid Up Additions'?",
+      "answer": "These are bonuses that, once declared, accrue and are payable in full on death or maturity. They also participate in future bonuses and can be partially or fully surrendered for their cash value at any time during the policy term."
+    },
+    {
+      "question": "How can I contact Axis Max Life for more information?",
+      "answer": "You can call the Customer Helpline at 1860 120 5577 or visit the website at www.axismaxlife.com."
+    },
+    {
+      "question": "Who is eligible to be covered under this policy?",
+      "answer": "The policy covers all individuals, including Males, Females, and Transgender, in accordance with the board-approved underwriting policy of the company."
+    },
+    {
+      "question": "How is the Guaranteed Death Benefit for a Single Pay policy calculated?",
+      "answer": "The Guaranteed Death Benefit for the Single Pay variant is defined as the highest of: 125% of the Single Premium, the Guaranteed Sum Assured on Maturity, or any absolute amount assured to be paid on death (which is 110% of Guaranteed Sum Assured on Maturity)."
+    },
+    {
+      "question": "What is the relationship between Policy Term and Premium Payment Term for Limited Pay policies?",
+      "answer": "For the Limited Pay option, the Policy Term must be greater than or equal to the Premium Payment Term plus 5 years."
+    }
+  ],
+  "source_file": "max-life-savings-advantage-plan.txt",
+  "category": "LI Plan Brochure"
+}

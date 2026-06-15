@@ -1,0 +1,237 @@
+{
+  "product_name": "Kotak Fortune Maximiser",
+  "company": "Kotak Mahindra Life Insurance Company Ltd.",
+  "product_type": "Participating Non-Linked Life Insurance Individual Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "A customizable Participating Non-Linked Life Insurance Individual Savings Product designed to help accumulate a corpus for future goals like children's education, retirement, or leaving a legacy, while providing financial protection to loved ones. It offers multiple plan options, bonus payout choices, and rider benefits.",
+  "quick_facts": {
+    "minimum_age": "0 years (90 days)",
+    "maximum_age": "50 years for 6 & 15 year premium payment terms; 55 years for 8, 10 & 12 year premium payment terms.",
+    "sum_insured": "Minimum Basic Sum Assured for 6 & 8 Pay is ₹48,000; for 10, 12 & 15 Pay is ₹36,000. No maximum limit, subject to Board Approved Underwriting Policy.",
+    "policy_term": "85 years minus the Entry Age of the Life Insured.",
+    "waiting_period": "Suicide Exclusion: 12 months from the date of commencement of risk or date of revival."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the event of the Life Insured’s demise during the policy term, a death benefit is payable. This is defined as the highest of 11 times the Annualised Premium, the Basic Sum Assured, or 105% of all premiums paid. In addition, accrued Paid-Up Additions (if any), Interim Bonus (if declared), and Terminal Bonus (if declared) are also payable."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the policy term, a maturity benefit is paid. This includes the Basic Sum Assured, plus accrued Paid-Up Additions (if applicable), and any declared Cash Bonus and Terminal Bonus."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "Benefits are paid out during the policy term as per the chosen Bonus Payout option (e.g., Cash Bonus payouts or accumulation as Paid-Up Additions)."
+    },
+    {
+      "type": "Spouse Cover",
+      "description": "An optional cover available at inception to include the spouse of the Primary Life Insured under the same policy, providing a death benefit for the spouse."
+    },
+    {
+      "type": "Rider Benefits",
+      "description": "Optional additional protection can be availed through various riders covering events like accidental death, disability, and critical illness on payment of additional premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Multiple Plan Options",
+      "description": "Flexibility to choose from 3 plan options to suit different life goals: Life Goal Maximiser, Bright Future Maximiser, and Golden Years Maximiser."
+    },
+    {
+      "name": "Multiple Bonus Payout Options",
+      "description": "Choice of 3 bonus payout options: Cash Bonus (Immediate Payout), Cash Bonus (Deferred Payout), and Paid-Up Additions."
+    },
+    {
+      "name": "Long Life Cover",
+      "description": "Provides life insurance coverage for the primary life insured up to the age of 85 years."
+    },
+    {
+      "name": "Spouse Cover",
+      "description": "Option to secure the spouse's life under the same policy, ensuring comprehensive family protection."
+    },
+    {
+      "name": "Comprehensive Rider Options",
+      "description": "Availability of 6 optional riders for enhanced and all-round protection against various eventualities."
+    },
+    {
+      "name": "Enhanced Sum Assured for Female Life",
+      "description": "Female primary life insureds are eligible for an enhanced Sum Assured at the same premium."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans of up to 50% of the policy's Surrender Value, once it is acquired."
+    },
+    {
+      "name": "Encashment of Paid-Up Additions",
+      "description": "Flexibility to encash the cash value of accrued Paid-Up Additions from the second policy year onwards."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Premiums paid and benefits received may be eligible for tax benefits under the Income Tax Act, 1961, subject to prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Entry Age (Life Insured)",
+      "value": "Minimum: 0 years (90 days); Maximum: 50 years (for 6 & 15 year PPT), 55 years (for 8, 10 & 12 year PPT)."
+    },
+    {
+      "parameter": "Entry Age (Spouse in Spouse Cover)",
+      "value": "Minimum: 18 years; Maximum: 60 years."
+    },
+    {
+      "parameter": "Maturity Age",
+      "value": "85 years for Primary Life Insured."
+    },
+    {
+      "parameter": "Policy Term",
+      "value": "85 years minus Entry Age of Life Insured."
+    },
+    {
+      "parameter": "Premium Payment Term",
+      "value": "6, 8, 10, 12, or 15 years."
+    },
+    {
+      "parameter": "Premium Payment Mode",
+      "value": "Yearly, Half-yearly, Quarterly, and Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the life insured commits suicide within 12 months from the date of commencement of risk, 80% of the total premiums paid will be refunded. If suicide occurs within 1 year of revival (when revived after 6 months from the first unpaid premium), the benefit is the higher of 80% of premiums paid or the surrender value."
+    }
+  ],
+  "claims_information": [
+    {
+      "process": "Death Claim",
+      "details": "On the death of the Life Insured during the policy term, the death benefit is paid to the nominee. The benefit includes the Sum Assured on Death, plus any accrued bonuses (Paid-Up Additions, Interim, Terminal)."
+    },
+    {
+      "process": "Suicide Claim",
+      "details": "In case of suicide within 12 months from risk commencement, 80% of the total premiums paid are payable to the nominee."
+    },
+    {
+      "process": "Claim during Grace Period",
+      "details": "If death occurs during the grace period, the due unpaid premium for that policy year will be deducted from the death benefit."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Kotak Fortune Maximiser?",
+      "answer": "It is a Participating Non-Linked Life Insurance Individual Savings Product from Kotak Life Insurance, designed to help you save for your goals while providing life insurance coverage."
+    },
+    {
+      "question": "What are the different plan options available under this policy?",
+      "answer": "There are three plan options to choose from: Life Goal Maximiser, Bright Future Maximiser, and Golden Years Maximiser."
+    },
+    {
+      "question": "Can I choose how I receive my bonuses?",
+      "answer": "Yes, you have three Bonus Payout Options: Cash Bonus (Immediate Payout), Cash Bonus (Deferred Payout), and Paid-Up Additions. Note that Cash Bonus (Deferred Payout) is not available for Bright Future Maximiser and Golden Years Maximiser."
+    },
+    {
+      "question": "Can I cover my spouse under this policy?",
+      "answer": "Yes, the plan offers a Spouse Cover option, allowing you to secure your spouse's life under the same policy at inception."
+    },
+    {
+      "question": "What is the maximum age until which I can be covered?",
+      "answer": "The policy provides a long life cover for the primary life insured till the age of 85 years."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this plan?",
+      "answer": "The minimum entry age for the life insured is 90 days. The maximum entry age is 50 years for 6 & 15 year premium payment terms, and 55 years for 8, 10 & 12 year terms. For a spouse, the age must be between 18 and 60 years."
+    },
+    {
+      "question": "How is the policy term determined?",
+      "answer": "The policy term is calculated as 85 years minus the entry age of the life insured."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "You can choose to pay premiums for 6, 8, 10, 12, or 15 years."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "The death benefit is the highest of 11 times the Annualised Premium, the Basic Sum Assured, or 105% of all premiums paid. Additionally, any accrued Paid-Up Additions, Interim Bonus, and Terminal Bonus (if applicable and declared) are also paid."
+    },
+    {
+      "question": "What benefit will I receive if I survive the policy term?",
+      "answer": "On surviving the policy term, you will receive the Maturity Benefit, which includes the Basic Sum Assured, any accrued Paid-Up Additions (if applicable), and Cash Bonus and Terminal Bonus, if declared."
+    },
+    {
+      "question": "Are there any special benefits for female customers?",
+      "answer": "Yes, female primary life insureds are eligible for an enhanced Sum Assured by an additional 1% at the same premium."
+    },
+    {
+      "question": "Can I change my bonus payout option after the policy has started?",
+      "answer": "If you initially chose Cash Bonus (Immediate or Deferred Payout), you can switch to the Paid-Up Additions option once during the policy term. However, if you chose Paid-Up Additions at inception, you cannot switch to the Cash Bonus option."
+    },
+    {
+      "question": "What is the 'Life Goal Maximiser' plan option for?",
+      "answer": "This option provides flexibility by allowing you to choose any of the three bonus payout options (Immediate Cash Bonus, Deferred Cash Bonus, or Paid-Up Additions) to meet your general life goals."
+    },
+    {
+      "question": "How does the 'Bright Future Maximiser' plan help?",
+      "answer": "This plan is designed to help you plan for your child's future needs like education or marriage. Bonuses are accumulated as Paid-Up Additions for a chosen period (5 to 18 years) and then paid out as a lump sum or in installments. The child must be the nominee."
+    },
+    {
+      "question": "What is the purpose of the 'Golden Years Maximiser' plan option?",
+      "answer": "This option helps create a retirement corpus. Bonuses are accumulated as Paid-Up Additions until the life insured turns 60, after which the accrued value is paid out as a lump sum survival benefit."
+    },
+    {
+      "question": "What are Paid-Up Additions?",
+      "answer": "Under this option, the declared Cash Bonus is used to purchase additional Sum Assured, known as Paid-Up Additions. These additions also participate in future profits and are payable on death or maturity."
+    },
+    {
+      "question": "Can I access the value of my Paid-Up Additions before maturity?",
+      "answer": "Yes, you have the flexibility to encash the Cash Value of your accrued Paid-Up Additions from the second policy year onwards, up to 6 times in a policy year, with a minimum amount of ₹3,000."
+    },
+    {
+      "question": "What are the optional riders available with this plan?",
+      "answer": "You can enhance your coverage with six optional riders: Kotak Term Benefit, Kotak Accidental Death Benefit, Kotak Permanent Disability Benefit, Kotak Life Guardian Benefit, Kotak Accidental Disability Guardian Benefit, and Kotak Critical Illness Plus Benefit Rider."
+    },
+    {
+      "question": "Are the premiums paid eligible for tax benefits?",
+      "answer": "Yes, you may avail of tax benefits as specified under the Income Tax Act, 1961. It is advisable to consult a tax advisor for details."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 30 days (for yearly, half-yearly, quarterly modes) or 15 days (for monthly mode) is provided. If the premium is not paid within the grace period after the first year, the policy will lapse. If premiums for at least two years have been paid, it will become a Reduced Paid-Up policy."
+    },
+    {
+      "question": "Is it possible to revive a lapsed or Reduced Paid-Up policy?",
+      "answer": "Yes, a policy can be revived within five years from the due date of the first unpaid premium by paying all outstanding premiums with interest and providing evidence of good health if required."
+    },
+    {
+      "question": "Can I surrender the policy and get my money back?",
+      "answer": "The policy acquires a Guaranteed Surrender Value after payment of at least two consecutive full years' premiums. On surrender, you will receive the higher of the Guaranteed Surrender Value or the Special Surrender Value."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a loan of up to 50% of the policy's surrender value. The minimum loan amount is ₹10,000."
+    },
+    {
+      "question": "What is the suicide exclusion in this policy?",
+      "answer": "If the life insured commits suicide within 12 months of the policy's risk commencement, the nominee will receive 80% of the total premiums paid. Specific conditions apply for suicide after policy revival."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 30-day free-look period from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation and a refund of the premium, subject to certain deductions."
+    },
+    {
+      "question": "What happens if both the primary life insured and the spouse die simultaneously under the Spouse Cover option?",
+      "answer": "In case of simultaneous demise, the death benefit for the primary life insured (including bonuses) and the Sum Assured on death for the spouse are both payable to the nominee, after which the policy terminates."
+    },
+    {
+      "question": "What is the minimum annual premium for this policy?",
+      "answer": "The policy has premium bands starting from an annual premium of ₹36,000, which corresponds to the minimum basic sum assured for certain premium payment terms."
+    },
+    {
+      "question": "What does 'Sum Assured on death' mean?",
+      "answer": "'Sum Assured on death' is defined as the highest of: 1) 11 times the Annualised Premium, 2) Basic Sum Assured (the guaranteed maturity benefit), or 3) 105% of all premiums paid till the date of death."
+    }
+  ],
+  "source_file": "kotak-fortune-maximiser.txt",
+  "category": "LI Plan Brochure"
+}

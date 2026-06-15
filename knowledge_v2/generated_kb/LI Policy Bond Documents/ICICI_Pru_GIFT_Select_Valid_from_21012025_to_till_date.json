@@ -1,0 +1,238 @@
+{
+  "product_name": "ICICI Pru GIFT Select",
+  "product_type": "Non-Participating, Non-Linked, Life Individual Savings Insurance Plan",
+  "summary": "ICICI Pru GIFT Select is a non-participating, non-linked life insurance savings plan that provides guaranteed income during the policy term along with life cover. The plan offers flexible income options (level or increasing), maturity benefits, and various premium payment modes. It includes features like Flexi Save Option for accumulating guaranteed income, loan facility, and revival options.",
+  "definitions": [
+    {
+      "term": "Age",
+      "definition": "Age of the Life Assured in complete years as on the Date of commencement of risk of Policy"
+    },
+    {
+      "term": "Annualized Premium",
+      "definition": "The premium amount payable in a Year (Policy year), excluding taxes, rider premiums, underwriting extra premiums and loadings for modal premiums"
+    },
+    {
+      "term": "Guaranteed Income (GI)",
+      "definition": "The amount specified in the Policy Schedule that is guaranteed to be paid for the chosen Income Term during the Policy Term. If Increasing Guaranteed Income is chosen, then the GI will increase every Policy Year by 5% on compounding basis"
+    },
+    {
+      "term": "Guaranteed Maturity Benefit",
+      "definition": "The percentage of the sum of Annualized Premiums payable under the Policy as a lump sum and opted at Policy inception"
+    },
+    {
+      "term": "Sum Assured on Death",
+      "definition": "The absolute amount specified in the Policy Schedule"
+    },
+    {
+      "term": "Revival Period",
+      "definition": "The period of five consecutive complete years from the date of first unpaid Premium"
+    },
+    {
+      "term": "Surrender Value",
+      "definition": "An amount, if any, that becomes payable on Surrender of the Policy during its term, in accordance with the terms and conditions of the Policy"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "benefit": "Suicide exclusion",
+      "period": "12 months from the date of commencement of risk under the policy or from the date of revival"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk under the policy or from the date of revival of the policy, the Claimant shall be entitled to 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death whichever is higher, provided the Policy is in force"
+    }
+  ],
+  "claims_process": [
+    {
+      "claim_type": "Death Claim - Basic Documents",
+      "documents": [
+        "Duly filled and signed Claimant Statement Form",
+        "Recent photograph of the claimant",
+        "Death Certificate issued by local government authority",
+        "Signed copy of photo identity proof of the claimant",
+        "Current Address proof of the claimant",
+        "Signed copy of PAN card / Form 60 of the claimant",
+        "Copy of cancelled cheque / bank statement / passbook"
+      ]
+    },
+    {
+      "claim_type": "Death Claim - Natural/Medical reasons",
+      "additional_documents": [
+        "Past medical records and treatment papers",
+        "All hospitalization records",
+        "Medico-legal cause of death",
+        "Employer Certificate (if Life Assured was salaried)"
+      ]
+    },
+    {
+      "claim_type": "Death Claim - Other reasons",
+      "additional_documents": [
+        "First Information report (FIR)",
+        "Postmortem report (PMR)",
+        "Inquest/Panchnama Report",
+        "Final Police Investigation Report",
+        "Medical records and treatment papers",
+        "All hospital papers"
+      ]
+    },
+    {
+      "claim_type": "Survival/Maturity Claim",
+      "documents": [
+        "Cancelled Cheque for processing electronic payment",
+        "KYC of Proposer of the policy"
+      ]
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Grace Period",
+      "details": "15 days for monthly frequency, 30 days for other frequencies from premium due date"
+    },
+    {
+      "condition": "Free Look Period",
+      "details": "30 days from receipt of Policy Document to review and cancel if not satisfied"
+    },
+    {
+      "condition": "Surrender eligibility",
+      "details": "Policy can be surrendered any time after payment of at least one full Policy Year's Premium"
+    },
+    {
+      "condition": "Loan availability",
+      "details": "Up to 80% of Surrender Value can be availed as loan when positive Surrender Value exists"
+    },
+    {
+      "condition": "Revival period",
+      "details": "Policy can be revived within 5 years from the due date of first unpaid premium"
+    },
+    {
+      "condition": "Premium payment modes",
+      "details": "Yearly, half-yearly or monthly modes available with additional loadings for non-annual modes"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru GIFT Select?",
+      "answer": "ICICI Pru GIFT Select is a Non-Participating, Non-Linked, Life Individual Savings Insurance Plan that provides guaranteed income during the policy term along with life cover and maturity benefits."
+    },
+    {
+      "question": "What are the guaranteed income options available?",
+      "answer": "Two options are available: Level Guaranteed Income (remains constant throughout) and Increasing Guaranteed Income (increases by 5% every policy year on compounding basis)."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "Death benefit is the highest of: Sum Assured on Death, 105% of Total Premiums Paid up to date of death, or Surrender Value payable as on date of death."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is 15 days for monthly frequency and 30 days for other frequencies, commencing from the premium due date. Life cover continues during grace period."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "You have 30 days from receipt of Policy Document to review terms and conditions. If not satisfied, you can return the policy for cancellation with premium refund subject to certain deductions."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy any time after payment of at least one full Policy Year's Premium. Prior to one full year's premium, no Surrender Value is payable."
+    },
+    {
+      "question": "How is surrender value calculated?",
+      "answer": "Surrender value is the higher of Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV). GSV is calculated using GSV factor multiplied by total premiums paid less survival benefits."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premium payment stops after at least one full year's premium is paid, the policy becomes paid-up with reduced benefits. If stopped before one year, policy lapses with no benefits."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed policy can be revived within 5 years from the due date of first unpaid premium, subject to underwriting, payment of arrears with interest, and satisfactory evidence of health."
+    },
+    {
+      "question": "What is the Flexi Save Option?",
+      "answer": "It allows you to accumulate accrued Guaranteed Income with the company instead of receiving it. Unpaid GI earns loyalty addition at Reverse Repo Rate published by RBI."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, loans up to 80% of Surrender Value are available when positive Surrender Value exists. Current loan interest rate is 8.23% p.a. compounded half-yearly."
+    },
+    {
+      "question": "What are the premium payment modes available?",
+      "answer": "Premiums can be paid yearly, half-yearly, or monthly. Additional loadings apply: 4.5% for monthly and 2.5% for half-yearly modes."
+    },
+    {
+      "question": "What is Instant CashBack Benefit?",
+      "answer": "It's a percentage of Annualized Premium chosen at policy inception, payable once after policy issuance. Available only for annual premium payment frequency with specific conditions."
+    },
+    {
+      "question": "What happens in case of suicide?",
+      "answer": "If death occurs due to suicide within 12 months from commencement of risk or revival, claimant gets 80% of Total Premiums Paid or Surrender Value, whichever is higher."
+    },
+    {
+      "question": "What is Low Cover Income Booster?",
+      "answer": "It's an option chosen at policy inception to avail lower death cover to enjoy increased Guaranteed Income. This option cannot be changed during policy term."
+    },
+    {
+      "question": "How are guaranteed income payments made?",
+      "answer": "GI can be paid annually in arrears (default), monthly in arrears, or annually in advance, depending on premium payment frequency and option chosen."
+    },
+    {
+      "question": "What documents are required for death claim?",
+      "answer": "Basic documents include claimant statement form, death certificate, claimant's photo ID and address proof, PAN card, and bank details. Additional documents may be required based on cause of death."
+    },
+    {
+      "question": "Can policy terms be changed after inception?",
+      "answer": "No, several options chosen at inception cannot be changed including Premium Payment Term, Policy Term, Income Term, GI options, and Guaranteed Maturity Benefit percentage."
+    },
+    {
+      "question": "What is the maturity benefit?",
+      "answer": "For a fully paid policy, Guaranteed Maturity Benefit as mentioned in Policy Schedule is payable on survival until Date of Maturity. Policy terminates after this payment."
+    },
+    {
+      "question": "How is revival interest calculated?",
+      "answer": "Revival interest rate is 1.50% plus prevailing yield on 10-year Government Securities. Current rate is 8.23% p.a. compounded half-yearly, reviewed monthly."
+    },
+    {
+      "question": "What happens if Life Assured dies on Date of Maturity?",
+      "answer": "Only Maturity Benefit and last GI payout (if applicable) are payable. Death Benefit is not payable if death occurs on Date of Maturity."
+    },
+    {
+      "question": "Can I change premium payment frequency?",
+      "answer": "Yes, change in premium payment mode is allowed during Premium Payment Term, but only on policy anniversary."
+    },
+    {
+      "question": "What is a paid-up policy?",
+      "answer": "A policy where premium payment has been discontinued after acquiring Surrender Value. It continues with reduced benefits including reduced death benefit, GI, and maturity benefit."
+    },
+    {
+      "question": "How can I pay premiums?",
+      "answer": "Premiums can be paid through cheque, demand draft, pay order, internet banking, ECS/Direct Debit, credit/debit cards, or other approved modes subject to company policies."
+    },
+    {
+      "question": "What is the current Reverse Repo Rate for Flexi Save Option?",
+      "answer": "The current Reverse Repo Rate as of December 1, 2024 is 3.35% p.a., which is used for calculating loyalty addition on accumulated GI under Flexi Save Option."
+    },
+    {
+      "question": "How do I file a grievance?",
+      "answer": "You can contact customer service, escalate to Grievance Redressal Officer, then to internal grievance committee, IRDAI's grievance cell, or Insurance Ombudsman as per the escalation process."
+    },
+    {
+      "question": "What is the charge for duplicate policy issuance?",
+      "answer": "The current charge for issuance of duplicate policy document is Rs. 200. Free look option is not available on duplicate policy issuance."
+    },
+    {
+      "question": "Can renewal premium be paid in advance?",
+      "answer": "Yes, renewal premium can be collected in advance within the same financial year, or maximum 3 months in advance from due date if collecting in earlier financial year."
+    },
+    {
+      "question": "What happens to policy benefits during grace period?",
+      "answer": "Life cover continues during grace period. In case of death during grace period, applicable Death Benefit will be paid."
+    },
+    {
+      "question": "How is paid-up factor calculated?",
+      "answer": "Reduced Paid-up Factor is the ratio of total period for which premiums have been paid divided by maximum period for which premiums were originally payable, with adjustment for excess survival benefits."
+    }
+  ],
+  "source_file": "ICICI_Pru_GIFT_Select_Valid_from_21012025_to_till_date.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,205 @@
+{
+  "product_name": "Axis Max Life Smart Value Income & Benefit Enhancer Plan",
+  "product_type": "Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "summary": "A comprehensive life insurance savings plan that combines protection and guaranteed returns with three variants: Insta Wealth, Future Wealth, and Insta Wealth Boost. Offers flexible income benefits, death benefit multiples of 5, 7, or 11 times annualized premium, and customizable payout options to meet various financial milestones.",
+  "definitions": [
+    {
+      "term": "Policy Continuance Benefit (PCB)",
+      "definition": "An optional benefit that ensures survival and maturity benefits continue to be paid as and when due in case of death of the Life Insured without any need of premium payment"
+    },
+    {
+      "term": "Future Income Period (FIP)",
+      "definition": "The period following completion of policy term during which Future Income benefits are payable, available in durations of 5, 10, 15, 20, 25, or 30 years"
+    },
+    {
+      "term": "RPU Factor",
+      "definition": "The ratio of the total period for which premiums have already been paid to the maximum period for which premiums were originally payable"
+    },
+    {
+      "term": "Enhanced Maturity Booster",
+      "definition": "Additional benefit equal to 10% of annualized premium payable at end of policy term for existing customers, staff, transgender lives, and female lives"
+    },
+    {
+      "term": "Income Booster (IB)",
+      "definition": "Benefit that accrues at the end of each policy year starting from 2nd policy year till end of policy term, calculated as percentage of Total Premiums Paid"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "type": "Death Benefit - POS Policies",
+      "duration": "90 days",
+      "description": "Applicable from date of acceptance of risk for policies sold through POS Persons. If death occurs during waiting period, only refund of 100% premium paid is given excluding taxes",
+      "exceptions": "Waiting period not applicable if death is due to accident or on revival of policy"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Death during waiting period",
+      "description": "For POS policies, if customer dies during 90-day waiting period, no death benefit is payable except refund of premium paid excluding taxes"
+    },
+    {
+      "type": "Suicide exclusion",
+      "description": "Premium refund net of any survival benefits already paid in case of suicide within first 12 months from date of commencement of risk or revival"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": "Death Claim Notification",
+      "description": "Notify the company immediately upon death of Life Insured"
+    },
+    {
+      "step": "Document Submission",
+      "description": "Submit required claim documents including death certificate and policy documents"
+    },
+    {
+      "step": "Claim Assessment",
+      "description": "Company will assess the claim based on submitted documents and policy terms"
+    },
+    {
+      "step": "Benefit Payment",
+      "description": "Death benefit will be paid as higher of Sum Assured on Death, 105% of total premiums paid, or surrender value"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Minimum Premium Payment",
+      "description": "Policy acquires surrender value only after payment of two full years' premiums"
+    },
+    {
+      "condition": "PCB Eligibility",
+      "description": "Policy Continuance Benefit can only be opted at inception and policyholder and life insured must be same person"
+    },
+    {
+      "condition": "Cover Continuance Benefit",
+      "description": "Available after completion of 3 policy years with all due premiums paid for last 3 years, provides coverage for up to 12 months during premium non-payment"
+    },
+    {
+      "condition": "Reduced Paid Up Status",
+      "description": "Policy automatically becomes RPU if premiums are not paid after acquiring surrender value"
+    },
+    {
+      "condition": "Maximum Sum Assured - POS",
+      "description": "For policies sold through POS persons, maximum Sum Assured on Death is Rs. 25 lakhs"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the three variants available under this plan?",
+      "answer": "The three variants are: 1) Insta Wealth - provides immediate income flow from year 1, 2) Future Wealth - focuses on accumulating savings during policy term for future income, 3) Insta Wealth Boost - provides balance between short-term income and long-term maturity benefit"
+    },
+    {
+      "question": "What is the minimum entry age for this plan?",
+      "answer": "The minimum entry age is 91 days for all variants when PCB is not opted, and 18 years when PCB is opted"
+    },
+    {
+      "question": "What are the available death benefit multiple options?",
+      "answer": "Option 1: 7 times annualized premium for entry age less than 50 years, 5 times for 50 years and above. Option 2: 11 times annualized premium for all ages"
+    },
+    {
+      "question": "What is the minimum annualized premium?",
+      "answer": "The minimum annualized premium is Rs. 5,000 for all variants"
+    },
+    {
+      "question": "What premium payment frequencies are available?",
+      "answer": "Annual, semi-annual, quarterly, and monthly premium payment modes are available"
+    },
+    {
+      "question": "What is Policy Continuance Benefit (PCB)?",
+      "answer": "PCB ensures that survival and maturity benefits continue to be paid as scheduled even after death of Life Insured, without requiring any future premium payments"
+    },
+    {
+      "question": "Can I change the income payout frequency after policy inception?",
+      "answer": "Yes, you can change the income benefit payout mode by submitting written request 30 days before policy anniversary. Change will be effective from subsequent policy anniversary"
+    },
+    {
+      "question": "What is Flexi Income Benefit?",
+      "answer": "Flexi Income Benefit is paid in the first policy year and allows you to choose the income amount at inception. You can even choose nil flexi income benefit"
+    },
+    {
+      "question": "When does the policy acquire surrender value?",
+      "answer": "The policy acquires Guaranteed Surrender Value after payment of two full years' premiums and Special Surrender Value after completion of first policy year"
+    },
+    {
+      "question": "What happens if I stop paying premiums after the policy acquires surrender value?",
+      "answer": "The policy will automatically become Reduced Paid Up (RPU) and benefits will be paid based on RPU Factor"
+    },
+    {
+      "question": "What is the waiting period for POS policies?",
+      "answer": "There is a 90-day waiting period for policies sold through POS persons from date of acceptance of risk. This waiting period does not apply for accidental death or policy revival"
+    },
+    {
+      "question": "What Enhanced Maturity Boosters are available?",
+      "answer": "Enhanced Maturity Boosters of 10% of annualized premium are available for existing customers, staff members, transgender lives, and female lives"
+    },
+    {
+      "question": "Can I accumulate my income benefits?",
+      "answer": "Yes, you can choose to accumulate survival benefits and future income benefits. The accumulated amount earns interest at RBI Bank Rate + 1%"
+    },
+    {
+      "question": "What is Cover Continuance Option?",
+      "answer": "It maintains full death benefit for up to 12 months from first unpaid premium date during temporary financial difficulties, available after 3 policy years"
+    },
+    {
+      "question": "What riders are available with this plan?",
+      "answer": "Available riders include Waiver of Premium plus Rider, Accidental Death and Dismemberment Rider, Term plus Rider, and Critical Illness and Disability Rider"
+    },
+    {
+      "question": "What is the maximum maturity age?",
+      "answer": "Maximum maturity age varies by variant: Insta Wealth - 75 years (70 with PCB), Future Wealth - 80 years (75 with PCB), Insta Wealth Boost - 90 years (85 with PCB)"
+    },
+    {
+      "question": "Can I take death benefit in installments?",
+      "answer": "Yes, settlement options include regular monthly income for 60 months (1.88% monthly) or regular annual income for 5 years (22.10% annually)"
+    },
+    {
+      "question": "What is Future Milestone Benefit?",
+      "answer": "Future Milestone Benefit is a lump sum payment at the end of Future Income Period, available as 0%, 50%, 100%, or 150% of Total Premiums Paid"
+    },
+    {
+      "question": "What happens to accumulated benefits if I surrender the policy?",
+      "answer": "Any accumulated survival benefits and income boosters that are not already paid will be paid in addition to the surrender value"
+    },
+    {
+      "question": "Can I advance my Future Milestone Benefit?",
+      "answer": "Yes, you have the option to advance your Future Milestone Benefit to meet immediate liquidity needs during the Future Income Period"
+    },
+    {
+      "question": "What is the interest rate for accumulated benefits?",
+      "answer": "Accumulated benefits earn interest at RBI Bank Rate + 1%. Current rate is 7.75% p.a. (based on RBI Bank Rate of 6.75% as of March 31, 2024)"
+    },
+    {
+      "question": "Are there different premium bands with varying benefits?",
+      "answer": "Yes, there are 9 premium bands ranging from less than Rs. 50,000 to Rs. 1 crore and above, with higher benefits for higher premium bands"
+    },
+    {
+      "question": "What is Senior Citizen Benefit Option?",
+      "answer": "Available for life insured aged 60+ diagnosed with terminal illness or specified critical illnesses in Variants 1 and 2, providing lump sum financial support"
+    },
+    {
+      "question": "Can I choose income payment in advance or arrears?",
+      "answer": "Yes, Flexi, Insta and Future income benefits can be taken either in arrears (end of period) or in advance (beginning of period)"
+    },
+    {
+      "question": "What is the commutation option?",
+      "answer": "During Future Income Period, you can receive present value of all future benefits as lump sum. Once exercised, all future benefits cease and policy terminates"
+    },
+    {
+      "question": "Is medical examination required for POS policies?",
+      "answer": "No, this product will be made available without medical examination when sourced through Point of Sale persons"
+    },
+    {
+      "question": "What are the tax benefits available?",
+      "answer": "You may be eligible for tax benefits as per prevailing tax laws"
+    },
+    {
+      "question": "Can minors be covered under this plan?",
+      "answer": "Yes, minimum entry age is 91 days. For minor lives, the policy vests in the life insured upon attaining majority (18 years)"
+    },
+    {
+      "question": "What is Income Booster and when does it accrue?",
+      "answer": "Income Booster accrues at end of each policy year from 2nd year till end of policy term, calculated as percentage of Total Premiums Paid, available if at least two full years' premiums are paid"
+    }
+  ],
+  "source_file": "Axis max Smart-VIBE-Prospectus-V04.txt",
+  "category": "LI Policy Bond Documents"
+}

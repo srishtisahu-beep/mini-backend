@@ -1,0 +1,241 @@
+{
+  "product_name": "Max Life Smart Wealth Annuity Guaranteed Pension Plan",
+  "company": "Max Life Insurance Company Limited",
+  "product_type": "Non-Linked Non-Participating",
+  "insurance_type": "Individual/Group General Annuity Savings Plan",
+  "plan_category": "Pension Plan",
+  "summary": "A guaranteed pension plan designed to provide a lifetime income to secure your future and that of your loved ones. It is a single solution with the flexibility to customize premium payments, income timing, and annuity options to suit specific financial needs for a retired life on your own terms.",
+  "quick_facts": {
+    "minimum_age": "25 years (Age last birthday). Varies for POS policies (40 years) and QROPS (55 years).",
+    "maximum_age": "85 years (Age last birthday). Varies for POS policies (70 years) and specific variants.",
+    "sum_insured": "Not applicable. The plan is based on premium paid or annuity amount chosen. Minimum purchase price is subject to a minimum annuity payout of Rs. 1,000 monthly, Rs. 3,000 quarterly, Rs. 6,000 half-yearly, or Rs. 12,000 annually.",
+    "policy_term": "Lifelong, until the death of the annuitant or the last survivor in case of joint life policies, depending on the variant chosen.",
+    "waiting_period": "For Immediate Annuity variants, payouts start immediately after premium payment. For Deferred Annuity variants, there is a deferment period. For single premium, it ranges from 1 month to 12 years. For limited premium, it is the same as the premium payment term."
+  },
+  "coverage": [
+    {
+      "name": "Single Premium Variants",
+      "description": "Annuity options available with a one-time premium payment.",
+      "options": [
+        "Immediate Annuity: Single Life without Death Benefit",
+        "Immediate Annuity: Joint Life without Death Benefit",
+        "Immediate Annuity: Single Life with Death Benefit (Return of 25%-100% of Premiums)",
+        "Immediate Annuity: Joint Life with Death Benefit (Return of 0%-100% of Premiums on deaths)",
+        "Immediate Annuity with chosen proportion of Annuity to Last Survivor (50% or 110%): Joint Life without/with Death Benefit",
+        "Immediate Annuity with Early Return of Premium: Single Life with Death Benefit (50% or 100% ROP at milestone age)",
+        "Immediate Annuity for Guaranteed Period (5/10/15/20 years) and Life thereafter: Single Life without Death Benefit",
+        "Increasing Immediate Annuity: Single Life Increasing Annuity Each Year (1%-6%) with Death Benefit",
+        "Increasing Immediate Annuity: Single Life Increasing Annuity Every 3 Years (15% simple increase) with Death Benefit",
+        "Deferred Annuity: Single Life with Death Benefit till Deferment Period",
+        "Deferred Annuity: Joint Life with Death Benefit till Deferment Period",
+        "Deferred Annuity: Single Life with Death Benefit for Life",
+        "Deferred Annuity: Joint Life with Death Benefit for Life"
+      ]
+    },
+    {
+      "name": "Limited Premium Variants",
+      "description": "Annuity options available with premium payments for a limited term.",
+      "options": [
+        "Deferred Annuity: Single Life with Death Benefit till Deferment Period",
+        "Deferred Annuity: Joint Life with Death Benefit till Deferment Period",
+        "Deferred Annuity: Single Life with Death Benefit for Life",
+        "Deferred Annuity: Joint Life with Death Benefit for Life"
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Lifelong Annuity",
+      "description": "Receive a guaranteed income for you and your loved ones for life."
+    },
+    {
+      "name": "Flexible Annuity Options",
+      "description": "Design your policy from a wide range of Immediate and Deferred annuity options."
+    },
+    {
+      "name": "Flexible Premium Payments",
+      "description": "Choose between Single Premium or Limited Premium payment options."
+    },
+    {
+      "name": "Personalised Income Timing",
+      "description": "Decide when you want to start receiving your annuity income with flexible deferment periods."
+    },
+    {
+      "name": "Inflation-Friendly Income",
+      "description": "Opt for increasing annuity variants to boost your annual income and stay ahead of inflation."
+    },
+    {
+      "name": "Tailored Return of Premium",
+      "description": "Choose when and how much return of premium you require to meet your financial goals."
+    },
+    {
+      "name": "Advance Annuity Option",
+      "description": "An option to take the present value of the next 5 years' annuities in advance as a lump sum under specific joint life variants."
+    },
+    {
+      "name": "Loyalty Annuity",
+      "description": "For Limited Premium Deferred Annuity variants, a Loyalty Annuity of 20% of the Base Annuity accrues on completion of the deferment period."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "details": "25 years (age last birthday). For Point of Sale (POS) Policies, the minimum age is 40 years."
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "details": "85 years (age last birthday). For Point of Sale (POS) Policies, the maximum age is 70 years. For 'Immediate Annuity with Early Return of Premium' variant, the maximum age is the Opted Milestone Age minus 10 years."
+    },
+    {
+      "criteria": "Minimum Premium/Purchase Price",
+      "details": "Subject to minimum annuity payout being at least Rs. 1,000 monthly, Rs. 3,000 quarterly, Rs. 6,000 half-yearly, or Rs. 12,000 annually."
+    },
+    {
+      "criteria": "Maximum Premium/Purchase Price",
+      "details": "As per the Board Approved Underwriting policy of the company."
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "details": "Single Premium or Limited Premium options available."
+    },
+    {
+      "criteria": "Annuity Payout Modes",
+      "details": "Annual, Semi-annual, Quarterly, or Monthly."
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [
+    {
+      "name": "Death Benefit",
+      "description": "Upon the death of the annuitant(s), a death benefit may be payable to the nominee depending on the chosen variant. This can range from a proportion of total premiums paid to a minimum of 105% of total premiums paid."
+    },
+    {
+      "name": "Proof of Living Certificate",
+      "description": "Annuity payments are subject to the submission of a 'Proof of Living' certificate along with a self-attested identification proof. The frequency of submission depends on the policy variant."
+    },
+    {
+      "name": "Frequency of Proof of Living Certificate",
+      "description": "For policies with death benefit variants: 30 days before the end of every 5 policy years. For policies without death benefit variants: 30 days before the end of every policy year. Specific rules apply to certain variants like 'Immediate Annuity with Early Return of Premium'."
+    },
+    {
+      "name": "Consequence of Non-submission",
+      "description": "Max Life Insurance reserves the right to suspend the Annuity payment until the 'Proof of Living' certificate is provided."
+    },
+    {
+      "name": "Customer Helpline",
+      "description": "For any queries or claims, you can call the customer helpline at 1860 120 5577."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Max Life Smart Wealth Annuity Guaranteed Pension Plan?",
+      "answer": "It is a non-linked, non-participating individual or group general annuity savings plan that provides a guaranteed lifelong income to help you live your retired life on your own terms."
+    },
+    {
+      "question": "Are the annuity payouts from this plan guaranteed?",
+      "answer": "Yes, the plan offers a guaranteed lifelong annuity for you and your loved ones, provided all due premiums are paid."
+    },
+    {
+      "question": "What are the main types of annuity available?",
+      "answer": "The plan offers two main types: Immediate Annuity, where payments start immediately, and Deferred Annuity, where payments start after a chosen deferment period."
+    },
+    {
+      "question": "Can this plan cover my spouse?",
+      "answer": "Yes, the plan offers Joint Life variants where the annuity continues for the surviving spouse after the death of the first annuitant."
+    },
+    {
+      "question": "What happens to my premium amount after my death?",
+      "answer": "Depending on the variant chosen, a death benefit may be payable. This can include a return of a proportion (from 25% to 100%) of the total premiums paid to your nominee. Some variants do not have a death benefit."
+    },
+    {
+      "question": "Can my annuity income increase over time?",
+      "answer": "Yes, you can opt for the 'Increasing Immediate Annuity' variants, where the annuity can increase annually by 1% to 6% or by 15% every 3 years to help counter inflation."
+    },
+    {
+      "question": "What is the minimum age to purchase this plan?",
+      "answer": "The minimum entry age is 25 years (age last birthday). However, for policies sold through Point of Sales (POS) persons, the minimum age is 40 years."
+    },
+    {
+      "question": "What is the maximum age to purchase this plan?",
+      "answer": "The maximum entry age is 85 years (age last birthday) for most variants. For POS policies, it is 70 years."
+    },
+    {
+      "question": "What are the available premium payment options?",
+      "answer": "You can choose to pay a Single Premium (one-time payment) or choose a Limited Premium payment term."
+    },
+    {
+      "question": "How frequently can I receive my annuity payouts?",
+      "answer": "You can choose to receive your annuity payouts on an annual, semi-annual, quarterly, or monthly basis."
+    },
+    {
+      "question": "What is the 'Advance Annuity Option'?",
+      "answer": "This option allows you to withdraw the present value of annuities payable in the next 5 years in advance as a lump sum. It is available under specific joint life with death benefit variants and can be availed within 3 months of the first death."
+    },
+    {
+      "question": "Do I need to submit any proof that I am alive to continue receiving my pension?",
+      "answer": "Yes, you need to submit a 'Proof of Living' certificate. The frequency depends on your chosen variant, typically every 5 years for policies with death benefits and every year for those without."
+    },
+    {
+      "question": "What happens if I fail to submit the 'Proof of Living' certificate?",
+      "answer": "Max Life Insurance reserves the right to suspend your annuity payments until the proof is provided."
+    },
+    {
+      "question": "What is the death benefit if death occurs during the deferment period in a Deferred Annuity plan?",
+      "answer": "A minimum of 105% of the total premium paid shall be payable to the nominee(s) as a death benefit."
+    },
+    {
+      "question": "What is a 'Loyalty Annuity'?",
+      "answer": "For limited premium deferred annuity variants, a Loyalty Annuity, which is 20% of the Base Annuity, is added to your payout after the completion of the deferment period."
+    },
+    {
+      "question": "What is the 'Early Return of Premium' feature?",
+      "answer": "Available in the 'Immediate Annuity with Early Return of Premium' variant, it allows you to get back 50% or 100% of your total premiums upon surviving till a chosen milestone age (70, 75, 80, or 85 years)."
+    },
+    {
+      "question": "Is this plan suitable for NPS subscribers?",
+      "answer": "Yes, the plan adheres to all rules, regulations, and notifications for NPS subscribers for the issuance of an annuity product."
+    },
+    {
+      "question": "Is this a market-linked plan?",
+      "answer": "No, this is a Non-Linked, Non-Participating plan. The benefits are guaranteed and do not depend on market performance or company profits."
+    },
+    {
+      "question": "Can I change my premium payment mode during the policy term?",
+      "answer": "Yes, for limited premium variants, the premium payment mode can be altered during the premium payment term. The change will be effective from the next policy anniversary."
+    },
+    {
+      "question": "What is the minimum amount of annuity I can receive?",
+      "answer": "The minimum annuity payout is Rs. 1,000 monthly, Rs. 3,000 quarterly, Rs. 6,000 half-yearly, or Rs. 12,000 annually."
+    },
+    {
+      "question": "What is the deferment period?",
+      "answer": "It is the period between the end of the premium payment term and the start of annuity payouts. It applies only to Deferred Annuity variants and must be equal to or greater than the premium payment term."
+    },
+    {
+      "question": "What happens in a 'Joint Life with Death Benefit' policy upon the first death?",
+      "answer": "A proportion of the total premiums paid (chosen at inception, from 0% to 100%) is paid out. The annuity continues for the last survivor, and the remaining premium is paid on the second death."
+    },
+    {
+      "question": "Are loan or surrender options available under this plan?",
+      "answer": "The brochure mentions that Surrender, Loan, and other options are available depending on the Annuity option chosen and directs to the detailed prospectus for further details."
+    },
+    {
+      "question": "How is the annuity amount calculated for limited premium variants?",
+      "answer": "The Fixed Annuity Amount is a sum of the Base Annuity and the Loyalty Annuity (which is 20% of the Base Annuity)."
+    },
+    {
+      "question": "What is the 'Immediate Annuity for Guaranteed Period and Life thereafter' variant?",
+      "answer": "In this variant, the annuity is paid for a guaranteed period (5, 10, 15, or 20 years) or till the death of the annuitant, whichever is later. It is a single life variant without death benefits after the guaranteed period."
+    },
+    {
+      "question": "Are there any specific options for policies sold through Point Of Sales (POS) persons?",
+      "answer": "Yes, currently only 'Immediate Annuity – Single Life with Death Benefit' and 'Immediate Annuity – Joint Life with Death Benefit' with 100% return of premium on death are available for POS."
+    },
+    {
+      "question": "What is QROPS and are there special conditions for it?",
+      "answer": "QROPS stands for Qualifying Recognized Overseas Pension Scheme. As per HMRC regulations, for QROPS policies, the minimum age at which annuity payouts can start is 55 years."
+    }
+  ],
+  "source_file": "max-life-smart-wealth-annuity-guaranteed-pension-plan.txt",
+  "category": "LI Plan Brochure"
+}

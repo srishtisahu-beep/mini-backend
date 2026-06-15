@@ -1,0 +1,235 @@
+{
+  "product_name": "HDFC Life Sampoorna Jeevan Plan",
+  "product_type": "Non-linked participating individual life insurance savings policy",
+  "summary": "HDFC Life Sampoorna Jeevan Plan is a non-linked participating individual life insurance savings policy that entitles the policyholder to participate in the surplus (profits) of the company. It offers two variants - Sampoorna Jeevan 75 and Sampoorna Jeevan 100, with four guaranteed benefit options and multiple bonus options.",
+  "definitions": [
+    {
+      "term": "Age",
+      "definition": "Age of Life Assured at Policy Commencement Date as at last birthday i.e. the Age in completed years and is recorded in the Policy Schedule"
+    },
+    {
+      "term": "Basic Sum Assured",
+      "definition": "An absolute amount chosen by the Policyholder at the Date of Inception of Policy and as specified in the Policy Schedule"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "The time granted by the Company from the due date for the payment of Premium without levy of any interest or penalty during which time the Policy is considered to be In Force. 15 days for monthly Premium payment mode and 30 days for other available Premium payment modes"
+    },
+    {
+      "term": "Guaranteed Income Benefit",
+      "definition": "A fixed percentage of Basic Sum Assured payable annually, or any other payout frequency as selected by the Policyholder during the Policy Term, subject to the survival of Life Assured"
+    },
+    {
+      "term": "Lapse",
+      "definition": "A non-active life insurance contract on account of nonpayment of Premium within the Grace Period"
+    },
+    {
+      "term": "Policy Year",
+      "definition": "A period of twelve consecutive months starting from the Policy Commencement Date and ending on the day immediately preceding the following Policy anniversary date"
+    },
+    {
+      "term": "Revival",
+      "definition": "Restoration of the Policy, which was discontinued due to non-payment of the Premium, by the Company with all the Benefits mentioned in the terms and conditions"
+    },
+    {
+      "term": "Surrender",
+      "definition": "Complete withdrawal/termination of the entire Policy by the Policyholder in accordance with the terms of the Surrender"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "benefit": "Policy Loan",
+      "period": "Two full years' Premiums must be paid"
+    },
+    {
+      "benefit": "Surrender Value",
+      "period": "At least two full years' Premiums must be paid"
+    },
+    {
+      "benefit": "Reduced Paid-up Value",
+      "period": "At least two full years' Premiums must be paid"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Age Restrictions",
+      "description": "Policy becomes void if Age of Life Assured at Policy Commencement Date is found to be higher than maximum or lower than minimum entry Age permissible"
+    },
+    {
+      "type": "Revival Limitations",
+      "description": "Policy cannot be revived if it has been surrendered for cash or if a claim has arisen under the Policy"
+    },
+    {
+      "type": "Surrender Restrictions",
+      "description": "Policy cannot be surrendered after the death of the Life Assured"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": 1,
+      "description": "Submit proof of the Benefits having become payable as set out in the Policy"
+    },
+    {
+      "step": 2,
+      "description": "Provide proof of the title of the person or persons claiming the Benefits"
+    },
+    {
+      "step": 3,
+      "description": "Verify correctness of the Age of the Life Assured as stated in the Proposal, if not previously admitted"
+    },
+    {
+      "step": 4,
+      "description": "Company processes payment subject to deduction of any unpaid Premium due and any Indebtedness"
+    },
+    {
+      "step": 5,
+      "description": "Benefits paid by NEFT, account payee cheque or other permissible modes"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Free Look Period",
+      "description": "15 days from receipt of Policy Document to review terms and return for cancellation (30 days for Distance Marketing)"
+    },
+    {
+      "condition": "Premium Payment",
+      "description": "For monthly premium payment mode, three months premiums collected in advance on Policy commencement date"
+    },
+    {
+      "condition": "Revival Period",
+      "description": "Lapsed Policy may be revived within five years from due date of first unpaid Premium"
+    },
+    {
+      "condition": "Guaranteed Benefit Option",
+      "description": "Cannot be changed during the Policy Term once specified in Policy Schedule"
+    },
+    {
+      "condition": "Bonus Option",
+      "description": "Cannot be changed during the Policy Term once specified in Policy Schedule"
+    },
+    {
+      "condition": "Policy Loan Interest",
+      "description": "Current interest rate is 9.50% p.a., reviewed half-yearly"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Sampoorna Jeevan Plan?",
+      "answer": "It is a non-linked participating individual life insurance savings policy that entitles the policyholder to participate in the surplus (profits) of the company."
+    },
+    {
+      "question": "What are the two variants available under this policy?",
+      "answer": "Sampoorna Jeevan 75 and Sampoorna Jeevan 100 are the two variants offered under this policy."
+    },
+    {
+      "question": "What is the difference between Sampoorna Jeevan 75 and Sampoorna Jeevan 100?",
+      "answer": "Sampoorna Jeevan 75 provides Maturity Benefit when Life Assured attains age 75 years, while Sampoorna Jeevan 100 provides Maturity Benefit when Life Assured attains age 100 years."
+    },
+    {
+      "question": "How many guaranteed benefit options are available?",
+      "answer": "Four guaranteed benefit options are available: Lumpsum, Income, Lumpsum with Income, and Income with Lumpsum."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "Grace Period is 15 days for monthly premium payment mode and 30 days for other available premium payment modes from the respective premium payment due date."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "The Free Look Period is 15 days from the date of receipt of the Policy Document to review terms and conditions. For Distance Marketing, it is 30 days."
+    },
+    {
+      "question": "Can I change my Guaranteed Benefit Option after policy commencement?",
+      "answer": "No, once specified in the Policy Schedule, the Guaranteed Benefit Option cannot be changed during the Policy Term."
+    },
+    {
+      "question": "Can I change my Bonus Option after policy commencement?",
+      "answer": "No, once specified in the Policy Schedule, the Bonus Option cannot be changed during the Policy Term."
+    },
+    {
+      "question": "When can I take a policy loan?",
+      "answer": "You can obtain a policy loan after two full years' premiums have been paid and if any Surrender Value is available under the Policy."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "The maximum loan amount shall not exceed 80% of the available Surrender Value at that point of time, provided the loan amount is not less than Rs.1,000."
+    },
+    {
+      "question": "What is the current interest rate on policy loan?",
+      "answer": "The current interest rate on loan is 9.50% per annum, which is reviewed half-yearly."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy if at least two full year's premiums are paid. The policy cannot be surrendered after the death of the Life Assured."
+    },
+    {
+      "question": "What happens if I don't pay premiums for two years?",
+      "answer": "If at least two full years' premiums have not been paid, the policy will lapse on expiry of Grace Period and no benefits will be paid."
+    },
+    {
+      "question": "What is Reduced Paid-up Value?",
+      "answer": "If at least two full years' premiums have been paid and further premiums are unpaid, the policy acquires Reduced Paid-up status with reduced benefits."
+    },
+    {
+      "question": "Can I revive my lapsed policy?",
+      "answer": "Yes, a lapsed policy may be revived within five years from the due date of first unpaid premium, subject to company approval and payment of arrears with interest."
+    },
+    {
+      "question": "What is the current revival interest rate?",
+      "answer": "The current revival interest rate is 9.50% per annum, calculated as Average Annualised 10-year benchmark G-Sec Yield + 2%."
+    },
+    {
+      "question": "What are Paid-up Additions?",
+      "answer": "Paid-up Additions are additional benefits that policyholder purchases with declared Cash Bonus, available for Bonus Options 3 or 4."
+    },
+    {
+      "question": "When are Paid-up Additions payable?",
+      "answer": "Paid-up Additions are payable at the end of Policy Year during which Life Assured survives and attains age 75 or on earlier death or surrender."
+    },
+    {
+      "question": "Can I encash Paid-up Additions?",
+      "answer": "Yes, you can encash vested Paid-up Additions partially or fully from 2nd Policy Year onwards, with minimum encashment amount of Rs.10,000."
+    },
+    {
+      "question": "What is Terminal Bonus?",
+      "answer": "Terminal Bonus is non-guaranteed bonus declared as a percentage of Basic Sum Assured, payable on Policy Maturity Date or on death of Life Assured, whichever is earlier."
+    },
+    {
+      "question": "How is Sum Assured on Death calculated?",
+      "answer": "Sum Assured on Death is the highest of: X times Annualized Premium, Minimum Guaranteed Sum Assured on Maturity, Absolute amount assured on Death, or 105% of Total Premiums Paid till date of death."
+    },
+    {
+      "question": "What is the multiple 'X' for Sum Assured on Death calculation?",
+      "answer": "For entry age less than 45 years, X is 10 times. For entry age 45 years and above, X is 7 or 10 times as chosen at policy inception."
+    },
+    {
+      "question": "What happens to future survival benefits if Life Assured dies?",
+      "answer": "If Life Assured dies after beginning of Survival Benefit payouts but before Policy Maturity Date, future installments cease and Death Benefit becomes payable."
+    },
+    {
+      "question": "How are benefits paid?",
+      "answer": "All benefits are payable by NEFT, account payee cheque or other permissible modes in the currency allowed under regulations."
+    },
+    {
+      "question": "What customer service options are available?",
+      "answer": "You can contact customer service at onlinenquery@hfclife.in, call toll free number 1800 266 9777, or reach via social media platforms."
+    },
+    {
+      "question": "Are there any tax implications?",
+      "answer": "Yes, all premiums and benefits are subject to applicable taxes, cess, etc. which shall be paid by the policyholder. GST at applicable rates will be charged on premiums."
+    },
+    {
+      "question": "What happens in case of fraud or misstatement?",
+      "answer": "In case of fraud or misstatement, the policy shall be treated in accordance with provisions of Section 45 of the Insurance Act, 1938 as amended."
+    },
+    {
+      "question": "Can the company change policy terms and conditions?",
+      "answer": "Yes, the company reserves the right to review, revise, delete and/or alter any terms and conditions with prior approval of IRDAI."
+    },
+    {
+      "question": "What law governs this policy?",
+      "answer": "This policy shall be governed by and interpreted in accordance with the laws of India, with exclusive jurisdiction of Indian courts."
+    }
+  ],
+  "source_file": "HDFC-Life-Sampoorna-Jeevan-101N158V03-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

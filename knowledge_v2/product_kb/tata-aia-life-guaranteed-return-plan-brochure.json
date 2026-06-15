@@ -1,0 +1,205 @@
+{
+  "product_name": "Tata AIA Life Insurance Guaranteed Return Insurance Plan (GRIP)",
+  "company": "Tata AIA Life Insurance Company Ltd.",
+  "product_type": "Guaranteed Return Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings & Protection",
+  "summary": "A guaranteed return insurance plan with UIN 110N152V07 that offers three distinct options to suit different financial goals: Regular Income, Whole Life Income, and Endowment. This plan provides life insurance coverage throughout the policy term, coupled with guaranteed tax-free income or a lump sum maturity benefit. It features flexible premium payment terms, various payout options including Joint Life, and optional riders for enhanced protection.",
+  "quick_facts": {
+    "minimum_age": "0 years (for Endowment Option)",
+    "maximum_age": "65 years (for Whole Life Income Option)",
+    "sum_insured": "Basic Sum Assured is calculated as a multiple of the Annualised Premium. The specific multiple depends on the insured's age and the chosen plan option.",
+    "policy_term": "Varies by option: Regular Income (11, 13 years), Endowment (10, 12, 20 years), Whole Life Income (5, 10 years premium paying term followed by whole life coverage).",
+    "waiting_period": "No waiting period for coverage. Income payouts begin after the premium paying term, either immediately or after a deferment period, depending on the chosen option."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the Life Assured during the policy term, a Sum Assured on Death is payable. For the Endowment option, this is the highest of: 10 times Annualized Premium (for age < 45) or 7 times (for age >= 45), 105% of Total Premiums Paid, Guaranteed Maturity Benefit, or Basic Sum Assured, plus accrued Guaranteed Additions. For the Whole Life Income option, the death benefit during the policy term is a multiple of the annual premium (e.g., 7 or 11 times). For the Regular Income option, a life cover is provided during the policy term."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "For the Endowment Option, on survival till maturity, the benefit is the Guaranteed Maturity Benefit (GMB) plus accrued Guaranteed Additions (GA). The income options do not have a lump sum maturity benefit but provide a stream of income."
+    },
+    {
+      "type": "Survival Benefit (Income Payouts)",
+      "description": "For Regular Income and Whole Life Income options, a guaranteed income is paid for a specified period or for whole life after the premium payment term. For the Whole Life Income option, there is also a Return of Premium on the death of the last surviving life assured."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Optional riders are available for additional protection at a nominal extra cost. Available riders include Tata AIA Insurance Accidental Death and Dismemberment (Long Scale) (ADDL) Rider and Tata AIA Life Insurance Waiver of Premium Plus (WOPP) Rider. Riders are not allowed under the Single Pay variant of the Whole Life Income option."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Returns",
+      "description": "The plan offers guaranteed benefits in the form of regular income, whole life income, or a lump sum maturity amount, ensuring certainty of returns."
+    },
+    {
+      "name": "Life Insurance Cover",
+      "description": "Provides a life cover during the policy term, ensuring financial protection for the family in case of an unfortunate event."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Premiums paid are eligible for tax benefits under Section 80C and proceeds are eligible under Section 10(10D) of the Income Tax Act, 1961, as per applicable tax laws."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Choice of various premium payment terms (Single Pay, 5, 6, 10, 12 years) and modes (Annual, Half-yearly, Quarterly, Monthly)."
+    },
+    {
+      "name": "Joint Life Option",
+      "description": "The Whole Life Income option can be taken on a joint life basis, ensuring income continues for the surviving partner."
+    },
+    {
+      "name": "Legacy Creation",
+      "description": "The Whole Life Income option provides a Return of Premium on the death of the life assured(s), creating a legacy for the nominee."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policyholders can avail a loan of up to 80% of the Surrender Value, once the policy acquires one."
+    },
+    {
+      "name": "Guaranteed Additions",
+      "description": "The Endowment option accrues Guaranteed Additions at 5% of the Guaranteed Maturity Benefit each year, payable on maturity or death."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Regular Income Option",
+      "details": "Minimum Entry Age: 5 years, Maximum Entry Age: 55 years, Premium Paying Term: 10 or 12 years, Policy Term: 11 or 13 years, Minimum Annualised Premium: Rs. 50,000."
+    },
+    {
+      "criteria": "Whole Life Income Option",
+      "details": "Minimum Entry Age: 45 years, Maximum Entry Age: 65 years, Premium Paying Term: Single Pay, 5 or 10 years, Policy Term: 5 or 10 years, Minimum Premium: Rs. 24,000, Maximum Maturity Age: 70 years (for 5 Pay) or 75 years (for 10 Pay)."
+    },
+    {
+      "criteria": "Endowment Option",
+      "details": "Minimum Entry Age: 0 years, Maximum Entry Age: 60 years (for 5/6 PPT) or 55 years (for 10 PPT), Premium Paying Term: 5, 6, or 10 years, Policy Term: 10, 12, or 20 years, Minimum Annualised Premium: Rs. 50,000, Maximum Maturity Age: 70, 72, or 75 years depending on the chosen term."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the nominee or beneficiary shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact for Claims and Complaints",
+      "details": "For any information including cancellation, claims and complaints, please contact our Insurance Advisor or visit Tata AIA Life’s nearest branch office or call 1-860-266-9966 (local charges apply) or write to us at customercare@tataaia.com. Visit us at: www.tataaia.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Tata AIA GRIP plan?",
+      "answer": "The Tata AIA Guaranteed Return Insurance Plan (GRIP) is a life insurance plan that offers guaranteed returns along with life cover. It comes in three options: Regular Income, Whole Life Income, and Endowment, designed to meet various financial goals."
+    },
+    {
+      "question": "What are the different options available under the GRIP plan?",
+      "answer": "There are three options: 1) Regular Income Option for a guaranteed annual income for a period equal to the premium paying term. 2) Whole Life Income Option for a tax-free guaranteed income for whole life. 3) Endowment Option for a guaranteed lump sum amount on maturity."
+    },
+    {
+      "question": "Are the returns from this plan guaranteed?",
+      "answer": "Yes, all benefits, including income payouts and maturity benefits, are guaranteed as specified in the plan option chosen."
+    },
+    {
+      "question": "What is the Regular Income Option?",
+      "answer": "This option allows you to pay premiums for 10 or 12 years and in return, you get a regular tax-free guaranteed annual income for 10 or 12 years respectively, after a short deferment period. It also provides a life cover during the policy term."
+    },
+    {
+      "question": "How does the Whole Life Income Option work?",
+      "answer": "Under this option, you pay premiums for a limited period (Single, 5, or 10 years) and receive a guaranteed income for your entire life, starting immediately after the premium payment term. On death, the total premiums paid are returned to your nominee."
+    },
+    {
+      "question": "What is the Endowment Option?",
+      "answer": "The Endowment option is a lump sum savings plan. You pay premiums for a limited term (5, 6, or 10 years) and receive a guaranteed lump sum amount at the end of the policy term (10, 12, or 20 years). It includes insurance protection from day one."
+    },
+    {
+      "question": "Can I choose how often I receive my income payouts?",
+      "answer": "Yes, for the Whole Life Income option, you can choose to receive your guaranteed income payouts on a monthly or annual basis."
+    },
+    {
+      "question": "Is a Joint Life option available?",
+      "answer": "Yes, the Whole Life Income option offers a Joint Life feature, where the guaranteed income continues as long as either of the two life assureds is alive."
+    },
+    {
+      "question": "What happens if the policyholder dies during the policy term?",
+      "answer": "In case of the life assured's death during the policy term, a Sum Assured on Death is paid to the nominee. The calculation of this benefit varies depending on the plan option chosen."
+    },
+    {
+      "question": "What is the minimum premium amount required?",
+      "answer": "The minimum annualised premium is Rs. 50,000 for the Regular Income and Endowment options, and the minimum premium for the Whole Life Income option is Rs. 24,000."
+    },
+    {
+      "question": "What are the available premium payment terms (PPT)?",
+      "answer": "The premium payment terms vary by option: Single Pay, 5, 6, 10, or 12 years are available depending on the specific plan variant you choose."
+    },
+    {
+      "question": "What are the age limits for buying this policy?",
+      "answer": "The entry age varies significantly by option. It can be as low as 0 years for the Endowment option and as high as 65 years for the Whole Life Income option."
+    },
+    {
+      "question": "Are there any tax benefits with this plan?",
+      "answer": "Yes, premiums paid are eligible for tax benefits under Section 80C, and the proceeds enjoy tax benefits as per Section 10(10D) of the Income Tax Act, 1961, subject to prevailing tax laws."
+    },
+    {
+      "question": "Can I add riders to this policy?",
+      "answer": "Yes, you can enhance your protection by opting for riders like the Tata AIA Insurance Accidental Death and Dismemberment (ADDL) Rider and the Tata AIA Life Insurance Waiver of Premium Plus (WOPP) Rider, at an additional cost. However, no riders are allowed under the Single Pay variant of the Whole Life Income option."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "There is a free look period of 15 days from the date of receipt of the policy document (30 days for policies sourced through online channels) to review the terms and conditions."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 15 days is provided for the monthly premium payment mode and 30 days for all other modes (Annual, Half-yearly, Quarterly)."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums for at least two full years have been paid, the policy will be converted into a Reduced Paid-up Policy by default, and benefits will be paid proportionately. If two years' premiums have not been paid, the policy will lapse and no benefits will be payable."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can apply for a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life assured dies by suicide within 12 months from the policy's start date or revival date, the nominee will receive at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "How are Guaranteed Additions calculated in the Endowment option?",
+      "answer": "Guaranteed Additions accrue at a simple rate of 5% of the Guaranteed Maturity Benefit for each completed policy year. They are payable on maturity or death, whichever is earlier."
+    },
+    {
+      "question": "In the Whole Life Income option, what happens to the premiums I've paid?",
+      "answer": "Under the Whole Life Income option, you receive a guaranteed income for life. Additionally, upon the death of the last surviving life assured, the total premiums paid (excluding taxes and extra premiums) are returned to the nominee."
+    },
+    {
+      "question": "For the Regular Income option, when does the income start?",
+      "answer": "For the 10-year premium payment term, the income starts from the end of the 12th year. For the 12-year premium payment term, the income starts from the end of the 14th year."
+    },
+    {
+      "question": "For the Whole Life Income option, when does the income start?",
+      "answer": "The income starts immediately after the premium paying term ends. For example, with a 5-year premium payment term, the income starts from the end of the 6th year."
+    },
+    {
+      "question": "What happens in a Joint Life policy if one person dies during the policy term?",
+      "answer": "If one of the life assureds dies during the policy term, the surviving life assured will start receiving the guaranteed income from the end of the policy term, and the income will continue for their lifetime."
+    },
+    {
+      "question": "What happens in a Joint Life policy if the second person dies after the policy term?",
+      "answer": "Once the second (last surviving) life assured dies after the policy term, the nominee receives a Return of Premium, which is the total premiums paid under the policy."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can choose to pay premiums Annually, Half-yearly, Quarterly, or Monthly. Note that modal loading is applicable for non-annual modes."
+    },
+    {
+      "question": "Is there a maximum limit on the premium I can pay?",
+      "answer": "No, there is no maximum limit on the annualised premium, but it is subject to the company's underwriting policy."
+    }
+  ],
+  "source_file": "tata-aia-life-guaranteed-return-plan-brochure.txt",
+  "category": "LI Plan Brochure"
+}

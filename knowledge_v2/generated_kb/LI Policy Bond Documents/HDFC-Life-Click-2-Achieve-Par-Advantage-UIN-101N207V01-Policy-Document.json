@@ -1,0 +1,225 @@
+{
+  "product_name": "HDFC Life Click 2 Achieve Par Advantage",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "Individual Non-Linked, Participating, Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "An individual, non-linked, participating savings life insurance plan designed to provide financial security. The plan offers various benefits including death benefit, maturity benefit, and survival payouts, with multiple plan options to choose from. It also offers optional riders for enhanced protection like Waiver of Premium on Critical Illness and Total and Permanent Disability.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As specified in the Policy Schedule. Includes Basic Sum Assured, Sum Assured on Maturity, and Sum Assured on Death.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "90 days for Waiver of Premium on Critical Illness (WOP CI) and Waiver of Premium on Total and Permanent Disability (WOP TPD) from policy commencement or revival. Not applicable for claims arising solely due to an accident."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the policy term."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable at the end of the policy term if the Life Assured survives."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Regular payouts in the form of cash bonus and/or guaranteed income, depending on the plan option chosen."
+    },
+    {
+      "name": "Waiver of Premium on Critical Illness (WOP CI)",
+      "description": "An optional benefit where future premiums are waived on diagnosis of a covered critical illness."
+    },
+    {
+      "name": "Waiver of Premium on Total and Permanent Disability (WOP TPD)",
+      "description": "An optional benefit where future premiums are waived on occurrence of total and permanent disability."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit",
+      "description": "The highest of: (a) Sum Assured on Death plus applicable bonuses (Reversionary, Interim, Terminal) or (b) 105% of Total Premiums Paid as on the date of death. Specific bonus structures vary by plan option (Lumpsum, Balanced Income, etc.)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival to the maturity date, the benefit includes the Sum Assured on Maturity plus applicable bonuses (accrued Reversionary, Interim, Terminal, or Cash bonuses). Specifics depend on the plan option chosen."
+    },
+    {
+      "name": "Free-Look Period Cancellation",
+      "description": "The policyholder can return the policy within 30 days of receipt if not agreeable to the terms. The premium will be refunded after deducting proportionate risk premium, medical examination expenses, and stamp duty."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policyholders can avail loans against the policy, subject to terms and conditions."
+    },
+    {
+      "name": "Revival of Lapsed Policy",
+      "description": "A lapsed policy can be revived within a period of five consecutive years from the date of the first unpaid premium, subject to underwriting and payment of all due premiums."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy acquires a Surrender Value which is payable on complete withdrawal/termination of the policy during its term."
+    },
+    {
+      "name": "Grace Period",
+      "description": "A grace period of 15 days for monthly premium payments and 30 days for all other frequencies is provided for premium payment from the due date."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Life Assured",
+      "details": "The policy can be taken for an individual (Single Life) or two lives jointly ('Additional Life Option')."
+    },
+    {
+      "criteria": "Minor Life",
+      "details": "The policy can be issued on the life of a minor (a person below 18 years of age)."
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "Waiver of Premium on Critical Illness (WOP CI) - Permanent Exclusions",
+      "description": "Includes but is not limited to: Pre-existing diseases (within 36 months prior); intentional self-injury or suicide attempt; conditions caused by alcohol, drug or substance abuse; war, hostilities, or military service; ionizing radiation or nuclear contamination; participation as a professional in hazardous or adventure sports; congenital external anomalies; specified treatments like cosmetic surgery, obesity surgery (unless medically necessary), and sterility/infertility treatments."
+    },
+    {
+      "category": "Waiver of Premium on Total and Permanent Disability (WOP TPD) - Exclusions",
+      "description": "Includes but is not limited to: Pre-existing diseases (within 36 months prior); intentional self-injury or suicide attempt; conditions caused by alcohol, drug or substance abuse; war, hostilities, or military service; service in military or similar organizations; working in hazardous environments like underground mines; participation as a professional in hazardous sports; congenital anomalies; specified medical treatments."
+    },
+    {
+      "category": "Suicide",
+      "description": "The policy document includes a heading for 'Suicide Exclusions' in Part F, but the specific terms and conditions of this clause are not provided in the supplied document text."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Process",
+      "details": "The document heading 'Claim Procedure' exists in Part F, but the detailed steps for filing a claim are not provided. Policyholders should contact HDFC Life for assistance."
+    },
+    {
+      "type": "Contact for Claims and Service",
+      "details": "Phone: 022-68446530 (Mon to Sat – 10 AM to 7 PM IST). Email: service@hdfclife.com."
+    },
+    {
+      "type": "Correspondence Address",
+      "details": "HDFC Life Insurance Company Limited, 11th Floor, Lodha Excelus, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi, Mumbai- 400011."
+    },
+    {
+      "type": "Nomination",
+      "details": "The policyholder can nominate one or more persons to receive the death benefit. If a nominee is a minor, an Appointee must be named to receive the benefit on the minor's behalf."
+    },
+    {
+      "type": "Required Documents",
+      "details": "The specific list of documents required for claim submission is not mentioned in the provided policy document."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the HDFC Life Click 2 Achieve Par Advantage plan?",
+      "answer": "It is an Individual, Non-Linked, Participating, Savings Life Insurance Plan from HDFC Life Insurance Company Limited."
+    },
+    {
+      "question": "What does 'participating' mean for this policy?",
+      "answer": "It means the policy is entitled to share in the surplus (profits) of the company, which are paid out in the form of bonuses."
+    },
+    {
+      "question": "What is the Free-Look period for this policy?",
+      "answer": "You have a Free-Look period of 30 days from the date you receive the policy document to review its terms and conditions."
+    },
+    {
+      "question": "How can I cancel the policy if I am not satisfied during the Free-Look period?",
+      "answer": "You can return the original policy document to the company, stating the reasons for your disagreement with the terms and conditions."
+    },
+    {
+      "question": "If I cancel during the Free-Look period, will I get a full refund?",
+      "answer": "You will receive a refund of the premium paid, subject to a deduction for the proportionate risk premium for the period of cover, expenses on medical examination, and stamp duty."
+    },
+    {
+      "question": "What is the grace period for paying my premiums?",
+      "answer": "The grace period is 15 days if you pay premiums monthly and 30 days for all other payment frequencies (annual, half-yearly, quarterly)."
+    },
+    {
+      "question": "What happens if I don't pay the premium within the grace period?",
+      "answer": "The policy will lapse, and the benefits may be affected. However, you have the option to revive the policy."
+    },
+    {
+      "question": "What is the revival period for a lapsed policy?",
+      "answer": "You can revive a lapsed policy within five consecutive years from the date of the first unpaid premium, subject to the company's terms and conditions."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is the highest of (a) the Sum Assured on Death plus any accrued bonuses, or (b) 105% of the Total Premiums Paid up to the date of death."
+    },
+    {
+      "question": "What is the Maturity Benefit if I survive the policy term?",
+      "answer": "You will receive the Sum Assured on Maturity plus any accrued Reversionary Bonus, Interim Bonus, and Terminal Bonus, as applicable to your plan option."
+    },
+    {
+      "question": "Are there any regular payouts during the policy term?",
+      "answer": "Yes, depending on the plan option chosen (like Balanced Income, Early Income, etc.), you may receive Survival Benefits in the form of cash bonuses or guaranteed payouts."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, the policy provides a loan facility. The terms are specified in the policy document."
+    },
+    {
+      "question": "What is the 'Waiver of Premium on Critical Illness' option?",
+      "answer": "It is an optional benefit. If you are diagnosed with one of the 60 specified critical illnesses and have opted for this benefit, HDFC Life will waive all future premiums for the policy."
+    },
+    {
+      "question": "Is there a waiting period before the Critical Illness benefit can be claimed?",
+      "answer": "Yes, there is an initial waiting period of 90 days from the policy commencement or revival date. This waiting period does not apply to claims arising solely from an accident."
+    },
+    {
+      "question": "What is the survival period for a Critical Illness claim?",
+      "answer": "The Life Assured must survive for a period of 15 days from the date of diagnosis of the critical illness for the benefit to be payable."
+    },
+    {
+      "question": "Are pre-existing diseases covered under the Critical Illness benefit?",
+      "answer": "No, any critical illness related to a pre-existing disease diagnosed or treated within 36 months before the policy start date is excluded."
+    },
+    {
+      "question": "What is the 'Waiver of Premium on Total and Permanent Disability' (WOP TPD) option?",
+      "answer": "It is an optional benefit where future premiums are waived if the Life Assured suffers a Total and Permanent Disability as defined in the policy."
+    },
+    {
+      "question": "Are there any exclusions for the Total and Permanent Disability benefit?",
+      "answer": "Yes, exclusions include self-inflicted injuries, disability due to alcohol or drug abuse, participation in hazardous sports as a professional, and war or military service, among others."
+    },
+    {
+      "question": "Who receives the death benefit if the nominee is a minor?",
+      "answer": "The Appointee, who is named in the policy schedule, will receive the benefit on behalf of the minor nominee."
+    },
+    {
+      "question": "How can I contact HDFC Life for any service requests?",
+      "answer": "You can call 022-68446530, email service@hdfclife.com, or write to their correspondence address in Mumbai."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "It is the premium amount payable in a year, excluding taxes, rider premiums, and any extra premiums for underwriting or payment modes."
+    },
+    {
+      "question": "What is a 'Terminal Bonus'?",
+      "answer": "It is a non-guaranteed, one-time bonus that may be paid at the time of policy maturity or on the death of the Life Assured, based on the company's surplus."
+    },
+    {
+      "question": "Can I choose to defer my survival benefit payouts?",
+      "answer": "Yes, the policy has a feature for 'Deferral of Survival Benefit', allowing you to accrue the benefits instead of receiving them immediately."
+    },
+    {
+      "question": "Is disability from participating in adventure sports like rock climbing or scuba diving covered under WOP TPD?",
+      "answer": "No, disability caused by participation as a professional in hazardous or adventure sports is specifically excluded."
+    },
+    {
+      "question": "Does the Critical Illness benefit cover Cancer?",
+      "answer": "Yes, 'Cancer of Specified Severity' is one of the 60 listed critical illnesses, subject to specific definitions and exclusions mentioned in the policy."
+    },
+    {
+      "question": "What is the 'Additional Life Option'?",
+      "answer": "It is an option to cover two lives under the same policy. On the first death, the death benefit is paid, and future premiums are waived. The policy continues, and a second death benefit is paid on the death of the second life."
+    },
+    {
+      "question": "Is a claim payable if the diagnosis of a critical illness is made after the Life Assured's death?",
+      "answer": "No, a claim is not admitted if the diagnosis is made post-mortem. The diagnosis must be confirmed while the insured is alive."
+    }
+  ],
+  "source_file": "HDFC-Life-Click-2-Achieve-Par-Advantage-UIN-101N207V01-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

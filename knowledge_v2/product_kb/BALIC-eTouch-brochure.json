@@ -1,0 +1,249 @@
+{
+  "product_name": "MediShield Gold",
+  "company": "Global Health Insurance Inc.",
+  "product_type": "Individual & Family Floater",
+  "insurance_type": "Health Insurance",
+  "plan_category": "Comprehensive",
+  "summary": "MediShield Gold is a comprehensive health insurance plan designed to protect you and your family against rising medical costs. It offers extensive coverage for hospitalization, pre and post-hospitalization expenses, and critical illnesses, ensuring financial security during medical emergencies.",
+  "quick_facts": {
+    "minimum_age": "18 years for adults, 91 days for children",
+    "maximum_age": "65 years for adults, 25 years for children",
+    "sum_insured": "₹5 Lakhs, ₹10 Lakhs, ₹15 Lakhs, ₹25 Lakhs",
+    "policy_term": "1, 2, or 3 years",
+    "waiting_period": "30 days for illnesses, 24 months for specific diseases, 48 months for pre-existing conditions."
+  },
+  "coverage": [
+    {
+      "name": "In-patient Hospitalization",
+      "description": "Covers expenses like room rent, nursing expenses, ICU charges, surgeon's fees, doctor fees, anesthesia, blood, oxygen, and operation theatre charges."
+    },
+    {
+      "name": "Pre-hospitalization Expenses",
+      "description": "Covers medical expenses incurred for up to 60 days immediately before being admitted to the hospital."
+    },
+    {
+      "name": "Post-hospitalization Expenses",
+      "description": "Covers medical expenses incurred for up to 90 days immediately after being discharged from the hospital."
+    },
+    {
+      "name": "Day Care Procedures",
+      "description": "Covers medical expenses for listed day care treatments which do not require 24-hour hospitalization due to technological advancement."
+    },
+    {
+      "name": "Domiciliary Hospitalization",
+      "description": "Covers medical treatment for an illness which in the normal course would require care and treatment at a hospital but is actually taken at home."
+    },
+    {
+      "name": "Organ Donor Expenses",
+      "description": "Covers medical expenses for an organ donor's in-patient treatment for harvesting the organ."
+    },
+    {
+      "name": "Ambulance Cover",
+      "description": "Covers expenses up to ₹2,000 per hospitalization for utilizing ambulance service for transporting the insured person to the hospital."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "No Claim Bonus",
+      "description": "A 10% increase in Sum Insured is provided for every claim-free year, up to a maximum accumulation of 100% of the basic sum insured."
+    },
+    {
+      "name": "Cashless Facility",
+      "description": "Avail cashless treatment facilities at over 8,000 network hospitals across India."
+    },
+    {
+      "name": "Restoration Benefit",
+      "description": "100% restoration of the basic sum insured if it is exhausted during the policy year. This benefit is available for subsequent claims."
+    },
+    {
+      "name": "Health Check-up",
+      "description": "Entitled to one free preventive health check-up at the end of every two consecutive claim-free policy years."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "The premium paid for the policy is eligible for tax deduction under Section 80D of the Income Tax Act, 1961."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Proposer's Age",
+      "details": "Minimum 18 years."
+    },
+    {
+      "criteria": "Insured Person's Age",
+      "details": "Adults: 18 years to 65 years. Dependent Children: 91 days to 25 years."
+    },
+    {
+      "criteria": "Policy Basis",
+      "details": "Can be taken for an Individual or on a Family Floater basis."
+    },
+    {
+      "criteria": "Family Floater Composition",
+      "details": "Covers Self, Spouse, and up to 3 dependent children."
+    },
+    {
+      "criteria": "Renewability",
+      "details": "Lifelong renewability is offered, subject to timely payment of premiums."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Initial Waiting Period",
+      "description": "Any treatment within the first 30 days from the policy start date, except for claims arising due to an accident."
+    },
+    {
+      "name": "Specific Diseases Waiting Period",
+      "description": "A waiting period of 24 months for specific illnesses and procedures like cataracts, hernia, joint replacement surgery, etc."
+    },
+    {
+      "name": "Pre-existing Diseases",
+      "description": "Any pre-existing disease is not covered for the first 48 months of continuous coverage."
+    },
+    {
+      "name": "Self-inflicted Injuries",
+      "description": "Expenses related to attempted suicide or intentionally self-inflicted injury."
+    },
+    {
+      "name": "Cosmetic and Aesthetic Treatments",
+      "description": "Cosmetic, aesthetic, or related treatments. Plastic surgery is excluded unless necessary for treatment of an injury or illness."
+    },
+    {
+      "name": "Obesity and Weight Control",
+      "description": "Treatment of obesity or conditions arising therefrom, including bariatric surgery."
+    },
+    {
+      "name": "Infertility and Sterility",
+      "description": "Expenses related to sterility, infertility, and assisted conception procedures."
+    },
+    {
+      "name": "External Factors",
+      "description": "Treatments arising from war, invasion, act of foreign enemy, and nuclear weapons/materials."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Cashless Claims",
+      "process": "For planned hospitalization, notify the TPA/insurer at least 48 hours in advance. For emergencies, notify within 24 hours of admission. Present the health card at the network hospital for cashless authorization."
+    },
+    {
+      "type": "Reimbursement Claims",
+      "process": "Notify the insurer within 7 days of hospitalization. Pay all bills directly to the hospital. Submit all original documents including bills, receipts, and reports to the TPA within 15 days of discharge for claim processing."
+    },
+    {
+      "type": "Required Documents",
+      "process": "Duly filled claim form, original hospital discharge summary, original bills and receipts from the hospital, pharmacy bills, all investigation reports, and doctor's prescriptions."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the MediShield Gold plan?",
+      "answer": "MediShield Gold is a comprehensive health insurance plan from Global Health Insurance Inc. that covers hospitalization and related medical expenses for individuals and families."
+    },
+    {
+      "question": "What is the entry age for this policy?",
+      "answer": "The minimum entry age for adults is 18 years and the maximum is 65 years. For dependent children, the age range is 91 days to 25 years."
+    },
+    {
+      "question": "What Sum Insured options are available under MediShield Gold?",
+      "answer": "You can choose from Sum Insured options of ₹5 Lakhs, ₹10 Lakhs, ₹15 Lakhs, and ₹25 Lakhs."
+    },
+    {
+      "question": "Is there an initial waiting period after buying the policy?",
+      "answer": "Yes, there is an initial waiting period of 30 days for all illnesses. However, this is not applicable for claims arising from accidents."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases are covered after a waiting period of 48 months of continuous coverage."
+    },
+    {
+      "question": "Are medical expenses before hospitalization covered?",
+      "answer": "Yes, the policy covers medical expenses incurred up to 60 days before the date of hospitalization."
+    },
+    {
+      "question": "Are medical expenses after discharge from the hospital covered?",
+      "answer": "Yes, the policy covers medical expenses incurred up to 90 days after the date of discharge from the hospital."
+    },
+    {
+      "question": "What is a Family Floater policy?",
+      "answer": "A Family Floater policy is a single policy that covers your entire family (self, spouse, and up to 3 dependent children) under a single sum insured."
+    },
+    {
+      "question": "Can I get cashless treatment under this policy?",
+      "answer": "Yes, you can avail cashless facility at any of our 8,000+ network hospitals across India."
+    },
+    {
+      "question": "What is the No Claim Bonus (NCB)?",
+      "answer": "For every year you do not make a claim, we will increase your sum insured by 10% as a bonus, without any increase in your premium. This is known as the No Claim Bonus."
+    },
+    {
+      "question": "What is the maximum No Claim Bonus I can earn?",
+      "answer": "You can accumulate a No Claim Bonus up to a maximum of 100% of your basic sum insured."
+    },
+    {
+      "question": "What is the Restoration Benefit?",
+      "answer": "If your basic sum insured gets exhausted during a policy year, it will be restored by 100% for subsequent claims within the same year."
+    },
+    {
+      "question": "Do I get any tax benefits?",
+      "answer": "Yes, the premium paid for MediShield Gold is eligible for tax deduction under Section 80D of the Income Tax Act."
+    },
+    {
+      "question": "Is there coverage for ambulance charges?",
+      "answer": "Yes, the policy covers ambulance charges up to ₹2,000 per hospitalization."
+    },
+    {
+      "question": "Are day care treatments covered?",
+      "answer": "Yes, the policy covers listed day care procedures that do not require 24-hour hospitalization."
+    },
+    {
+      "question": "Can I renew this policy for my entire life?",
+      "answer": "Yes, the MediShield Gold policy comes with a lifelong renewability feature."
+    },
+    {
+      "question": "Are cosmetic surgeries covered?",
+      "answer": "No, cosmetic or plastic surgery is generally not covered, unless it is required as part of a treatment for an injury or illness."
+    },
+    {
+      "question": "How do I file a cashless claim?",
+      "answer": "You need to get admitted to a network hospital. Inform our TPA desk at least 48 hours before planned admission or within 24 hours of an emergency admission. The hospital will handle the authorization process."
+    },
+    {
+      "question": "What is the procedure for a reimbursement claim?",
+      "answer": "For a reimbursement claim, you can get treated at any hospital, pay the bills, and then submit the original documents like bills and reports to us within 15 days of discharge to claim the amount."
+    },
+    {
+      "question": "Are health check-ups provided under this plan?",
+      "answer": "Yes, you are entitled to a free preventive health check-up at the end of every two consecutive claim-free policy years."
+    },
+    {
+      "question": "What is domiciliary hospitalization?",
+      "answer": "It refers to a situation where the insured person is treated at home for an illness that would normally require hospitalization. This is covered under specific conditions."
+    },
+    {
+      "question": "Are expenses for an organ donor covered?",
+      "answer": "Yes, the policy covers the in-patient medical expenses of the organ donor for harvesting the organ."
+    },
+    {
+      "question": "Can I cover my dependent parents in this family floater plan?",
+      "answer": "This specific family floater plan covers self, spouse, and up to 3 dependent children. You may need to purchase a separate policy for your parents."
+    },
+    {
+      "question": "What happens to my No Claim Bonus if I make a claim?",
+      "answer": "The No Claim Bonus is applicable only for claim-free years. If you make a claim, the accumulated bonus may be reduced as per the policy terms and conditions at the time of renewal."
+    },
+    {
+      "question": "What is not covered in the first 30 days?",
+      "answer": "Any medical treatment for illnesses contracted within the first 30 days of the policy start date is not covered. This exclusion does not apply to accidental injuries."
+    },
+    {
+      "question": "Are maternity expenses covered under MediShield Gold?",
+      "answer": "Based on the provided information, maternity and related expenses are not listed as a coverage and may be an exclusion. Please refer to the detailed policy wording."
+    },
+    {
+      "question": "What documents are needed for a reimbursement claim?",
+      "answer": "You would typically need the filled claim form, original hospital discharge summary, original bills and payment receipts, pharmacy bills, and all medical and investigation reports."
+    }
+  ],
+  "source_file": "BALIC-eTouch-brochure.txt",
+  "category": "LI Plan Brochure"
+}

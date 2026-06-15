@@ -1,0 +1,187 @@
+{
+  "product_name": "Health Companion",
+  "product_type": "Health Insurance",
+  "summary": "Health Companion is a comprehensive health insurance policy that covers Allopathic and AYUSH treatments taken in India only. The policy provides coverage for hospitalization expenses, pre and post hospitalization expenses, ambulance charges, modern treatments, organ donor expenses, and includes benefits like No Claim Bonus, Refill benefit, and health checkup. Optional benefits include Hospital Cash and Personal Accident coverage.",
+  "coverage": [
+    "Ambulance expenses: By road maximum Rs.2,000 & by air maximum Rs.2,50,000 per hospitalization",
+    "Hospitalization expenses for admission of 2 hours or more (minimum 24 hours for AYUSH Hospital)",
+    "Dialysis (Hemo/Peritoneal), Radiotherapy or Chemotherapy for cancer",
+    "Modern treatments including Uterine Artery Embolization, HIFU, Immunotherapy, Robotic surgeries, etc.",
+    "Pre-hospitalization expenses: 60 days before admission",
+    "Post-hospitalization expenses: 180 days after discharge",
+    "Organ donor hospitalization expenses",
+    "Health checkup once every policy year from day 1",
+    "Vaccination for animal bite up to Rs.5,000",
+    "Home Care/Domiciliary treatment",
+    "Hospital Cash (optional): Fixed amount for each day of hospitalization, maximum 30 days",
+    "Personal Accident coverage (optional): Accidental Death, Permanent Total Disability, Permanent Partial Disability"
+  ],
+  "waiting_periods": [
+    "Pre-existing diseases: 36 months of continuous coverage",
+    "Specified disease/procedure waiting period: 24 months of continuous coverage",
+    "30-day waiting period for any illness from first policy commencement date",
+    "Personal Waiting Period: Up to 48 months for conditions specified in Policy Schedule"
+  ],
+  "room_rent": [
+    "For Variant 2023: Room type capping up to Shared Room",
+    "20% co-payment applies for higher room category in Variant 2023"
+  ],
+  "co_pay": [
+    "20% co-payment applies for higher room category than Shared Room in Variant 2023"
+  ],
+  "deductible": [
+    "Annual Aggregate Deductible: Aggregate amount in a year incurred by policyholder on hospital admission which insurer will not pay",
+    "Once total expense exceeds deductible amount, balance will be paid by insurer",
+    "Deductible will not apply to Health Check-up, Vaccination for Animal Bite and Hospital Cash benefits"
+  ],
+  "claims_information": [
+    "Company shall settle or reject claim within 15 days from claim submission date",
+    "In case of delay in payment, company liable to pay interest at 2% above bank rate",
+    "Cashless facility available at network providers",
+    "Health checkup must be booked through digital assets (Mobile App) - cashless only, no reimbursement",
+    "Claims arising due to accident covered from day 1",
+    "Cancer covered after 30-day waiting period"
+  ],
+  "exclusions": [
+    "Pre-existing diseases until 36 months of continuous coverage",
+    "Specified diseases/procedures until 24 months of continuous coverage",
+    "30-day waiting period for illness from first policy commencement",
+    "Investigation and evaluation expenses for diagnostic purposes only",
+    "Rest cure, rehabilitation and respite care",
+    "Obesity/weight control surgery unless specific conditions met",
+    "Cosmetic or plastic surgery unless for reconstruction",
+    "Hazardous or adventure sports",
+    "Breach of law with criminal intent",
+    "Treatment for alcoholism, drug or substance abuse",
+    "Refractive error treatment less than 7.5 dioptres",
+    "Sterility and infertility treatments",
+    "Maternity expenses except ectopic pregnancy",
+    "Circumcision unless necessary for disease treatment",
+    "External congenital anomaly",
+    "Dental/oral treatment except due to accident during hospitalization",
+    "Medical devices used at home",
+    "OPD treatment expenses",
+    "Intentional self-inflicted injury or attempted suicide",
+    "Artificial life maintenance for brain dead patients"
+  ],
+  "faqs": [
+    {
+      "question": "What is the product name and UIN of this health insurance policy?",
+      "answer": "The product name is Health Companion with Product UIN: NBHHLIP26051V092526."
+    },
+    {
+      "question": "Does this policy cover treatments outside India?",
+      "answer": "No, this policy covers Allopathic and AYUSH treatments taken in India ONLY."
+    },
+    {
+      "question": "What happens to unutilized Sum Insured at the end of policy year?",
+      "answer": "Unutilized Sum Insured will expire at the end of policy year."
+    },
+    {
+      "question": "What is the minimum admission period required for hospitalization coverage?",
+      "answer": "Admission for 2 hours or more is required. However, minimum 24 hours admission in AYUSH Hospital is mandatory for AYUSH treatment."
+    },
+    {
+      "question": "What is the maximum ambulance coverage provided?",
+      "answer": "By road maximum Rs.2,000 and by air maximum Rs.2,50,000 per hospitalization. Air ambulance is available only for Emergency care."
+    },
+    {
+      "question": "What is the pre-hospitalization coverage period?",
+      "answer": "Pre-hospitalization expenses are covered for 60 days before date of admission if related to the condition for which hospital admission claim is paid."
+    },
+    {
+      "question": "What is the post-hospitalization coverage period?",
+      "answer": "Post-hospitalization expenses are covered for 180 days after date of discharge if related to the condition for which hospital admission claim is paid."
+    },
+    {
+      "question": "How does the No Claim Bonus work?",
+      "answer": "For every claim free year, 20% of expiring policy base sum insured is added as NCB, maximum up to 100%."
+    },
+    {
+      "question": "What is the Refill benefit?",
+      "answer": "An amount equal to the base sum insured is added after the first claim is paid, even at partial utilization. This benefit applies only once in a policy year."
+    },
+    {
+      "question": "When is health checkup benefit available?",
+      "answer": "Health checkup is available once every Policy Year, from day 1 of the policy. Tests must be booked through digital assets (Mobile App) and are available only on cashless basis."
+    },
+    {
+      "question": "What is covered under vaccination for animal bite?",
+      "answer": "Vaccination required post an animal bite is covered up to Rs.5,000."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases are excluded until expiry of 36 months of continuous coverage after the date of inception of the first Policy."
+    },
+    {
+      "question": "What is the waiting period for specified diseases/procedures?",
+      "answer": "24 months of continuous coverage after the date of inception of the first Policy. This exclusion is not applicable for claims arising due to accident or cancer."
+    },
+    {
+      "question": "What is the 30-day waiting period?",
+      "answer": "Expenses related to treatment of any illness within 30 days from first policy commencement date are excluded except claims arising due to accident."
+    },
+    {
+      "question": "Are investigation and diagnostic expenses covered?",
+      "answer": "Expenses related to admission primarily for diagnostics and evaluation purposes only are excluded. However, invasive angiography is covered even though it is an investigation."
+    },
+    {
+      "question": "Is obesity treatment covered?",
+      "answer": "Surgical treatment of obesity is covered only if specific conditions are met including BMI requirements and presence of severe co-morbidities."
+    },
+    {
+      "question": "Is cosmetic surgery covered?",
+      "answer": "Cosmetic or plastic surgery is excluded unless for reconstruction following an accident, burns or cancer or as part of medically necessary treatment."
+    },
+    {
+      "question": "Are maternity expenses covered?",
+      "answer": "Maternity expenses are excluded except ectopic pregnancy."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "The free look period is 30 days from date of receipt of policy document to review terms and conditions and cancel if not satisfied."
+    },
+    {
+      "question": "Can the policy be renewed?",
+      "answer": "Yes, the policy is renewable except on grounds of established fraud or non-disclosure or misrepresentation by the insured."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is 15 days for monthly premium payment mode and 30 days in all other cases."
+    },
+    {
+      "question": "What is the moratorium period?",
+      "answer": "After completion of 60 continuous months of coverage, no policy and claim shall be contestable except on grounds of established fraud."
+    },
+    {
+      "question": "How does the Hospital Cash benefit work?",
+      "answer": "A fixed amount is paid for each day of hospitalization, maximum up to 30 days. Benefit applies only when admitted for 48 hours or more continuously."
+    },
+    {
+      "question": "What is covered under Personal Accident benefit?",
+      "answer": "Personal Accident covers Accidental Death, Permanent Total Disability, and Permanent Partial Disability within 365 days from date of accident."
+    },
+    {
+      "question": "Are AYUSH treatments covered?",
+      "answer": "Yes, AYUSH treatments (Ayurveda, Yoga and Naturopathy, Unani, Sidha and Homeopathy) are covered when taken at qualified AYUSH hospitals."
+    },
+    {
+      "question": "What modern treatments are specifically covered?",
+      "answer": "Modern treatments include Uterine Artery Embolization, HIFU, Immunotherapy, Robotic surgeries, Stem cell therapy for bone marrow transplant, Balloon Sinuplasty, and others as specified in the policy."
+    },
+    {
+      "question": "Is domiciliary treatment covered?",
+      "answer": "Yes, home care treatment is covered when advised by medical practitioner with continuous monitoring and daily treatment records maintained."
+    },
+    {
+      "question": "What room rent restrictions apply in Variant 2023?",
+      "answer": "For Variant 2023, there is room type capping up to Shared Room. 20% co-payment applies for higher room category."
+    },
+    {
+      "question": "How is the claim settlement timeline defined?",
+      "answer": "The company shall settle or reject a claim within 15 days from claim submission date. For delays, interest at 2% above bank rate will be paid."
+    }
+  ],
+  "source_file": "Health-Companion-Variant2022-PolicyWording (2).txt",
+  "category": "Hi Document"
+}

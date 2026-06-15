@@ -1,0 +1,155 @@
+{
+  "product_name": "CARE",
+  "product_type": "Health Insurance",
+  "summary": "CARE is a comprehensive health insurance product offering coverage with sum insured options ranging from 7L to 1 Cr, featuring unlimited automatic recharge, cumulative bonus benefits, and extensive coverage including in-patient care, day care treatments, AYUSH treatment, and optional OPD coverage.",
+  "coverage": [
+    "In-Patient Care up to Sum Insured",
+    "Day Care Treatment - All Day Care Procedures up to Sum Insured",
+    "Room Rent - All Category Rooms Allowed",
+    "ICU - No Limit",
+    "Advance Technology Methods up to Sum Insured",
+    "Pre-Hospitalization Medical Expenses up to Sum Insured, up to 60 days prior to hospitalization",
+    "Post Hospitalization Medical Expenses up to Sum Insured, up to 180 days after discharge",
+    "AYUSH Treatment up to Sum Insured",
+    "Domiciliary Hospitalization up to Sum Insured",
+    "Organ Donor Cover up to Sum Insured",
+    "Road Ambulance Cover up to Rs.10,000 per year for SI<15 Lacs, Up to SI for SI>=15 Lacs",
+    "Unlimited E-Consultations with General Physicians",
+    "Health Services Discount Connect for consultations, diagnostics, maternity etc. at network"
+  ],
+  "waiting_periods": [
+    "Initial Waiting Period: 30 Days for all Hospitalization except Accidental Hospitalization",
+    "Named Ailment Waiting Period: 24 months",
+    "Pre-Existing Diseases Waiting Period: 36 months"
+  ],
+  "room_rent": [
+    "All Category Rooms Allowed"
+  ],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Cumulative Bonus: 50% of SI per year, max up to 100% of SI; Claim will not reduce Bonus Accrued",
+    "Unlimited Automatic Recharge: Available for unlimited times for unrelated or same illness"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What are the sum insured options available?",
+      "answer": "Sum insured options are 7L/10L/15L/25L/50L & 1 Cr"
+    },
+    {
+      "question": "What is the minimum age for a proposer?",
+      "answer": "The minimum age for a proposer is 18 years or above"
+    },
+    {
+      "question": "What is the minimum entry age for adults and children?",
+      "answer": "Minimum entry age for adults is 18 years and for children is 5 years or 91 days for family floater"
+    },
+    {
+      "question": "What is the maximum entry age for adults and children?",
+      "answer": "There is no upper age limit for adults, and maximum entry age for children is 24 years"
+    },
+    {
+      "question": "What is the exit age for adults and children?",
+      "answer": "Adults can continue lifelong, and children can continue until 25 years"
+    },
+    {
+      "question": "What cover types are available?",
+      "answer": "Individual cover for max up to 6 persons and Floater cover for max up to 2A2C (2 Adults 2 Children)"
+    },
+    {
+      "question": "What are the tenure options available?",
+      "answer": "Tenure options are 1/2/3 Years"
+    },
+    {
+      "question": "How many pricing zones are there?",
+      "answer": "There are 4 pricing zones: Zone 1 (Delhi NCR, Surat, Mathura, Aligarh), Zone 1A (Mumbai MMR, Rest of Gujarat), Zone 2 (Pune, Indore, Nashik, Telangana), and Zone 3 (Rest of India)"
+    },
+    {
+      "question": "Who can be covered under this policy?",
+      "answer": "Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered"
+    },
+    {
+      "question": "What is the initial waiting period?",
+      "answer": "Initial waiting period is 30 days for all hospitalization except accidental hospitalization"
+    },
+    {
+      "question": "What is the waiting period for named ailments?",
+      "answer": "Named ailment waiting period is 24 months"
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases waiting period is 36 months"
+    },
+    {
+      "question": "Is there any room rent restriction?",
+      "answer": "No, all category rooms are allowed"
+    },
+    {
+      "question": "Is there any limit on ICU charges?",
+      "answer": "No, there is no limit on ICU charges"
+    },
+    {
+      "question": "How many days of pre-hospitalization expenses are covered?",
+      "answer": "Pre-hospitalization medical expenses are covered up to 60 days prior to hospitalization"
+    },
+    {
+      "question": "How many days of post-hospitalization expenses are covered?",
+      "answer": "Post-hospitalization medical expenses are covered up to 180 days after discharge"
+    },
+    {
+      "question": "Is AYUSH treatment covered?",
+      "answer": "Yes, AYUSH treatment is covered up to sum insured"
+    },
+    {
+      "question": "What is the ambulance cover limit?",
+      "answer": "Road ambulance cover is up to Rs.10,000 per year for SI<15 Lacs, and up to SI for SI>=15 Lacs"
+    },
+    {
+      "question": "How does the cumulative bonus work?",
+      "answer": "Cumulative bonus is 50% of SI per year, maximum up to 100% of SI, and claims will not reduce bonus accrued"
+    },
+    {
+      "question": "How does the automatic recharge feature work?",
+      "answer": "Unlimited automatic recharge is available for unlimited times for unrelated or same illness"
+    },
+    {
+      "question": "Are e-consultations available?",
+      "answer": "Yes, unlimited e-consultations are available with general physicians"
+    },
+    {
+      "question": "What is Health Services Discount Connect?",
+      "answer": "It provides discounts on services such as consultations, diagnostics, maternity etc. at the network"
+    },
+    {
+      "question": "How many physical consultations with general physicians are covered under CARE OPD?",
+      "answer": "Each insured is eligible for 4 physical consultations from a general physician in a year with max Rs.500 reimbursement per consultation"
+    },
+    {
+      "question": "How many specialist consultations are covered under CARE OPD?",
+      "answer": "Each insured is eligible for 4 physical consultations from 14 specified specialists in a year with max Rs.500 reimbursement per consultation"
+    },
+    {
+      "question": "Which specialists are covered under CARE OPD?",
+      "answer": "Pediatrician, Psychiatrist, Obstetrics and Gynecologist, Cardiologist, Homeopathic Physician, Neurologist, Dietician, Orthopedic Surgeon, Diabetologist, Nephrologist, Dermatologist, ENT Specialist, Pulmonologist, Gastroenterologist"
+    },
+    {
+      "question": "Is OPD coverage included in the main policy?",
+      "answer": "No, OPD coverage is provided under add-on policy CARE OPD"
+    },
+    {
+      "question": "Is domiciliary hospitalization covered?",
+      "answer": "Yes, domiciliary hospitalization is covered up to sum insured"
+    },
+    {
+      "question": "Is organ donor cover included?",
+      "answer": "Yes, organ donor cover is included up to sum insured"
+    },
+    {
+      "question": "Are day care procedures covered?",
+      "answer": "Yes, all day care procedures are covered up to sum insured"
+    }
+  ],
+  "source_file": "Care Supreme PPT 2025.txt",
+  "category": "Hi Document"
+}

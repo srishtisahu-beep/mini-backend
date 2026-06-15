@@ -1,0 +1,224 @@
+{
+  "product_name": "Tata AIA Life Insurance Fortune Pro",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Unit Linked Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit Linked, Endowment",
+  "summary": "Tata AIA Life Insurance Fortune Pro is a Unit Linked, Endowment Individual Life Insurance Savings plan designed to grow your money over time while providing protection. It offers flexibility in policy duration and investment choices to help fulfill medium to long-term goals such as children’s education, retirement planning, and wealth creation.",
+  "quick_facts": {
+    "minimum_age": "0 years (30 days)",
+    "maximum_age": "59 years",
+    "sum_insured": "Single Pay: 1.25 times the Single Premium. Regular/Limited Pay: Minimum is Higher of (10 * Annualised Premium) or (0.5 * Policy Term * Annualised Premium). Maximum varies based on entry age.",
+    "policy_term": "15 to 40 years",
+    "waiting_period": "5-year lock-in period. No surrender or withdrawal is possible during the first five years of the contract."
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival to the end of the policy term, the policyholder will receive the Total Fund Value, which is the sum of Regular/Single Premium Fund Value and Top-Up Premium Fund Value, valued at the applicable NAV on the date of Maturity."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In case of death during the policy term while the policy is in force, the nominee receives the highest of (i) Basic Sum Assured net of deductible partial withdrawals, (ii) Regular/Single Premium Fund Value, or (iii) 105% of total Regular/Single Premiums paid. Additionally, a similar benefit is paid for the Top-up Premium account, if any."
+    },
+    {
+      "name": "Optional Rider Coverage",
+      "description": "Option to add riders like Tata AIA Life Insurance Waiver of Premium (Linked) Rider, Tata AIA Life Insurance Waiver of Premium Plus (Linked) Rider, and Tata AIA Life Insurance Accidental Death and Dismemberment (Long Scale) (ADDL) Linked Rider for additional coverage."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Premium Payment Flexibility",
+      "description": "Choice to pay premium one time (Single Pay) or for a limited period (5, 7, 10, 15, or 20 years)."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Regular Loyalty Additions are credited as additional units to boost investments. For regular/limited pay, 0.20% of units are added annually from the 11th policy anniversary. For single pay, 0.35% of units are added annually from the 6th policy anniversary."
+    },
+    {
+      "name": "Investment Flexibility",
+      "description": "Flexibility to choose from 11 different fund options or an Enhanced Systematic Money Allocation & Regular Transfer (Enhanced SMART) Investment Portfolio Strategy."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "Partial withdrawals are allowed after five policy anniversaries to meet emergency needs."
+    },
+    {
+      "name": "Top-up Premiums",
+      "description": "Flexibility to pay additional premiums as 'Top-up Premium' anytime except during the last five years of the policy term, to enhance savings."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive the maturity benefit in installments over a period of up to five years from the date of maturity."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Eligible for tax benefits under Section 80C and 10(10D) of the Income Tax Act, 1961, as per prevailing tax laws."
+    },
+    {
+      "name": "Switching and Redirection",
+      "description": "Option to switch investments between funds (12 free switches per year) and redirect future premiums to different funds."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Issue Age",
+      "value": "0 years (30 days) (Age last birthday)"
+    },
+    {
+      "criteria": "Maximum Issue Age",
+      "value": "59 years (Age last birthday)"
+    },
+    {
+      "criteria": "Minimum Maturity Age",
+      "value": "18 years (Age last birthday)"
+    },
+    {
+      "criteria": "Maximum Maturity Age",
+      "value": "75 years (Age last birthday)"
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "15 to 40 years"
+    },
+    {
+      "criteria": "Premium Paying Term",
+      "value": "Single Pay, Limited Pay (5, 7, 10 years), Regular/Limited Pay (15, 20 years)"
+    },
+    {
+      "criteria": "Pay Mode",
+      "value": "Single, Annual, Semi-Annual, Quarterly, Monthly"
+    },
+    {
+      "criteria": "Minimum Premium",
+      "value": "Single Pay: ₹1,00,000. Regular/Limited Pay: ₹12,000 per annum."
+    },
+    {
+      "criteria": "Maximum Premium",
+      "value": "Single Pay: ₹5,00,000. Regular/Limited Pay: ₹5,00,000 per annum."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement or revival of the policy, the nominee will be entitled to the fund value/policy account value as available on the date of intimation of death."
+    }
+  ],
+  "claims_information": [
+    {
+      "process": "To make a claim or for any information, contact your Insurance Advisor/Intermediary, visit the nearest Tata AIA Life branch office, call 1-860-266-9966, or write to customercare@tataaia.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Life Insurance Fortune Pro?",
+      "answer": "It is a Unit Linked Individual Life Insurance Savings Plan that combines investment growth with life insurance protection."
+    },
+    {
+      "question": "Who bears the investment risk in this plan?",
+      "answer": "The investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "Can I withdraw my money during the first five years?",
+      "answer": "No, linked insurance products do not offer any liquidity during the first five years. You cannot surrender or withdraw funds, partially or completely, until the end of the fifth year."
+    },
+    {
+      "question": "What are the key features of this plan?",
+      "answer": "Key features include flexible premium payment options, regular loyalty additions, a choice of 11 investment funds, optional riders, an enhanced investment strategy, and tax benefits."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this policy?",
+      "answer": "The minimum issue age is 0 years (30 days) and the maximum issue age is 59 years."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "The policy term can be between 15 and 40 years."
+    },
+    {
+      "question": "What are the premium payment options available?",
+      "answer": "You can choose from Single Pay, Limited Pay (5, 7, or 10 years), and Regular/Limited Pay (15 or 20 years)."
+    },
+    {
+      "question": "What is the minimum premium amount?",
+      "answer": "The minimum premium for a Single Pay policy is ₹1,00,000. For Regular/Limited Pay policies, it is ₹12,000 per annum."
+    },
+    {
+      "question": "What will I receive on maturity?",
+      "answer": "On survival to the end of the policy term, you will receive the Total Fund Value at the prevailing NAV on the maturity date."
+    },
+    {
+      "question": "What does the nominee receive in case of death?",
+      "answer": "In case of death, the nominee receives the highest of the Basic Sum Assured (net of withdrawals), the Regular/Single Premium Fund Value, or 105% of total premiums paid, plus a similar amount for any Top-up fund."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are rewards credited as extra units to your fund. For single pay policies, it's 0.35% of units annually from the 6th year. For regular/limited pay, it's 0.20% of units annually from the 11th year, provided the policy is in force."
+    },
+    {
+      "question": "How many investment fund options are there?",
+      "answer": "There are 11 investment fund options ranging from 100% debt to 100% equity to suit different risk appetites."
+    },
+    {
+      "question": "What is the Enhanced SMART portfolio strategy?",
+      "answer": "Enhanced SMART is a systematic transfer plan where your premium is initially parked in a debt fund and then systematically transferred to a chosen equity fund on a monthly basis to average out the cost of investment in volatile markets."
+    },
+    {
+      "question": "When can I make a partial withdrawal?",
+      "answer": "Partial withdrawals are allowed after five policy anniversaries, provided the policy is in force and the insured is at least 18 years old."
+    },
+    {
+      "question": "What is the minimum amount for a partial withdrawal?",
+      "answer": "The minimum partial withdrawal amount is ₹5,000, subject to certain conditions on the remaining fund value."
+    },
+    {
+      "question": "Can I add more funds to my policy later?",
+      "answer": "Yes, you can pay additional premiums as 'Top-up Premiums' anytime except during the last five years of the policy term. The minimum top-up amount is ₹5,000."
+    },
+    {
+      "question": "What is the Settlement Option?",
+      "answer": "The Settlement Option allows you to receive your maturity benefit in installments over a period of up to five years instead of a lump sum."
+    },
+    {
+      "question": "Can I enhance my coverage with riders?",
+      "answer": "Yes, you can customize your plan by adding optional riders like Waiver of Premium or Accidental Death and Dismemberment at policy inception."
+    },
+    {
+      "question": "What are the main charges in this policy?",
+      "answer": "The main charges are Premium Allocation Charge, Policy Administration Charge, Fund Management Charge, and Mortality Charge."
+    },
+    {
+      "question": "Is there a charge for switching between funds?",
+      "answer": "You are allowed 12 free switches in a policy year. Thereafter, a charge of ₹100 per switch is applicable."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first five years?",
+      "answer": "If you discontinue premiums within the 5-year lock-in period, the fund value, after deducting discontinuance charges, is moved to the Discontinued Policy Fund. The risk cover ceases, and the proceeds are paid out at the end of the lock-in period."
+    },
+    {
+      "question": "What happens if I stop paying premiums after five years?",
+      "answer": "If premiums are discontinued after five years, the policy is converted into a reduced paid-up policy. You will have a revival period of three years to resume payments, or you can opt for complete withdrawal."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "You have a period of 15 days (30 days for distance marketing) from the date of receiving the policy document to review the terms and conditions. If you are not satisfied, you can cancel the policy and get a refund of the premium, subject to certain deductions."
+    },
+    {
+      "question": "Is there a grace period for premium payment?",
+      "answer": "Yes, a grace period of 30 days is offered for annual, semi-annual, or quarterly modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "No, a policy loan is not allowed under this plan."
+    },
+    {
+      "question": "Are there any tax benefits with this plan?",
+      "answer": "Yes, premiums paid are eligible for tax benefits under Section 80C and maturity proceeds are eligible under Section 10(10D) of the Income Tax Act, 1961, subject to prevailing laws."
+    },
+    {
+      "question": "What is the Discontinued Policy Fund?",
+      "answer": "It is a fund where the money from a discontinued policy during the lock-in period is held. It provides capital protection and a minimum guaranteed interest of 4% p.a. as per regulations."
+    }
+  ],
+  "source_file": "Fortune-Pro-V4-Brochure.txt",
+  "category": "LI Plan Brochure"
+}

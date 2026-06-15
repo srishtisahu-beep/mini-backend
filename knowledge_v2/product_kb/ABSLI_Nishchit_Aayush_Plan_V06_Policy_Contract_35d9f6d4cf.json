@@ -1,0 +1,196 @@
+{
+  "product_name": "Aditya Birla Sun Life Insurance Nishchit Aayush Plan",
+  "company": "Aditya Birla Sun Life Insurance Company Limited",
+  "product_type": "A non-linked non-participating individual savings life insurance plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "The Aditya Birla Sun Life Insurance Nishchit Aayush Plan is a non-linked, non-participating individual savings life insurance plan. It provides a combination of death benefit for financial protection of the nominee, survival benefits in the form of guaranteed income, and a maturity benefit. The plan offers flexibility in premium payment and benefit payout frequencies.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As specified in the Policy Schedule.",
+    "policy_term": "Policy terms range from 15 to 70 years as indicated in the Guaranteed Surrender Value Factor table.",
+    "waiting_period": "Suicide within 12 months from the Risk Commencement Date or date of Revival is excluded. A Deferment Period applies before Income Benefits become payable."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On death of the Life Insured during the Policy Term, a lump sum Death Benefit is paid to the Nominee(s)/legal heir(s). The benefit is the highest of: a) Sum Assured on Death, or b) Surrender Benefit. The Sum Assured on Death is the highest of: Sum Assured, or 105% of the Total Premiums Paid till the date of death."
+    },
+    {
+      "type": "Staggered Death Benefit Option",
+      "description": "The Nominee(s)/legal heir(s) have an option to receive the Death Benefit in Monthly or Annual installments over a period of 5 years instead of a lump sum."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "On survival of the Life Insured during the Policy Term, provided all due premiums are paid, a Survival Benefit in the form of Guaranteed Income is payable as per the benefit option, income variant, and deferment period chosen."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy Term, a Guaranteed Lumpsum Benefit (GLB) is payable as the Maturity Benefit. This is equal to the Total Premiums Paid multiplied by the applicable Lumpsum factor. The GLB is enhanced by 100% if all due premiums are paid. No GLB is payable if the 'Income Only Benefit' variant is chosen."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Policy Loan",
+      "description": "Policyholders can take a loan against the policy once it has acquired a Surrender Value. The minimum loan amount is Rs. 5,000 and the maximum is 80% of the then applicable Surrender Value."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy acquires a Surrender Value after all due premiums for the first two policy years have been paid. The Surrender Value is the higher of Guaranteed Surrender Value (GSV) and Special Surrender Value (SSV)."
+    },
+    {
+      "name": "Reduced Paid-Up (RPU) Benefits",
+      "description": "If the policy has acquired a Surrender Value and premiums are discontinued, the policy continues with reduced paid-up benefits instead of lapsing."
+    },
+    {
+      "name": "Revival Option",
+      "description": "A Lapsed or Reduced Paid-Up policy can be revived within a period of five consecutive years from the date of the first unpaid premium."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Premiums can be paid annually, semi-annually, quarterly, or monthly."
+    }
+  ],
+  "eligibility": [],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case the Life Insured dies due to suicide within 12 months from the Risk Commencement Date or date of Revival of the Policy, the policy will terminate. The company will pay the higher of the Surrender Value or Total Premiums Paid (plus underwriting extras and modal loadings) if the policy has acquired surrender value. If not, it will pay the Total Premiums Paid (plus underwriting extras and modal loadings)."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "description": "The claim should be intimated to the company within 90 days from the date of death. This can be done at the nearest branch, through the customer portal, or via email to claimsnotification.lifeinsurance@adityabirlacapital.com."
+    },
+    {
+      "process_step": "Document Submission for Death Claim (Mandatory)",
+      "description": "1) Claimant Statement Form, 2) Death Certificate (Self attested copy), 3) Original Policy Document, 4) KYC Document of beneficiary (Self attested copy), 5) Proof of relationship of beneficiary with Life Insured, 6) Bank details of the beneficiary."
+    },
+    {
+      "process_step": "Document Submission for Death Claim (Additional for claims within 3 years)",
+      "description": "1) Medical Attendant's Certificate, if any, 2) Hospital or treatment records, if any (Self attested copy), 3) Employer's Certificate (if applicable)."
+    },
+    {
+      "process_step": "Document Submission for Accidental/Unnatural Death",
+      "description": "1) FIR & Final Police Closure Report, 2) Post Mortem Report, 3) Policy Inquest Report/Inquest Panchnama, 4) News Paper Cutting (if any)."
+    },
+    {
+      "process_step": "Document Submission for Maturity Claim",
+      "description": "1) Original policy document, 2) Policy Payout Form. Maturity proceeds will be credited to the policyholder's bank account on record."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Aditya Birla Sun Life Insurance Nishchit Aayush Plan?",
+      "answer": "It is a non-linked, non-participating individual savings life insurance plan that offers a combination of death, survival, and maturity benefits."
+    },
+    {
+      "question": "What is the 'Annualized Premium'?",
+      "answer": "It is the amount of premium payable in a year chosen by the Policyholder, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "What is the Death Benefit under this plan?",
+      "answer": "On the death of the Life Insured during the policy term, the Death Benefit paid is the highest of the Sum Assured on Death or the Surrender Benefit. The Sum Assured on Death is the highest of the Sum Assured or 105% of Total Premiums Paid till the date of death."
+    },
+    {
+      "question": "Can the Death Benefit be received in installments?",
+      "answer": "Yes, the nominee has an option to receive the Death Benefit in monthly or annual installments over a period of 5 years. This is called the Staggered Death Benefit Option."
+    },
+    {
+      "question": "What is the Survival Benefit?",
+      "answer": "If the Life Insured survives during the policy term and all premiums are paid, a Survival Benefit in the form of Guaranteed Income is payable by the company."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "On survival till the end of the policy term, a Guaranteed Lumpsum Benefit (GLB) is paid. This is calculated as the Total Premiums Paid multiplied by a Lumpsum factor. If all premiums are paid, this benefit is enhanced by 100%. However, no GLB is paid if the 'Income Only Benefit' variant is chosen."
+    },
+    {
+      "question": "What is the Grace Period for paying premiums?",
+      "answer": "The grace period is 30 days for annual, semi-annual, or quarterly premium payment modes, and 15 days for the monthly premium payment mode."
+    },
+    {
+      "question": "What happens if I miss a premium payment within the first two years?",
+      "answer": "If a premium is not paid within the grace period during the first two policy years, the policy will lapse, and all benefits will cease immediately."
+    },
+    {
+      "question": "What happens if I miss a premium payment after the first two years?",
+      "answer": "If the policy has acquired a Surrender Value (i.e., after two full years of premiums have been paid), it will not lapse. Instead, it will continue on a Reduced Paid-Up basis with reduced benefits."
+    },
+    {
+      "question": "What is a Reduced Paid-Up (RPU) policy?",
+      "answer": "It is a policy that continues with reduced benefits after premium payments are stopped, provided the policy has already acquired a surrender value. Future income benefits cease and other benefits are proportionally reduced."
+    },
+    {
+      "question": "Can I revive a lapsed or RPU policy?",
+      "answer": "Yes, a lapsed or RPU policy can be revived within a Revival Period of five consecutive years from the due date of the first unpaid premium, subject to paying all outstanding premiums with interest and providing evidence of insurability."
+    },
+    {
+      "question": "What is the Free-Look Period?",
+      "answer": "You have a free-look period of 15 days from receiving the policy document (30 days for electronic or distance mode policies) to review the terms and conditions. If you disagree, you can return the policy for cancellation and a refund, subject to certain deductions."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy anytime after it has acquired a Surrender Value, which happens after all due premiums for the first two policy years have been paid."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can take a loan against the policy once it has acquired a Surrender Value. The maximum loan amount is 80% of the applicable Surrender Value."
+    },
+    {
+      "question": "What is the minimum loan amount I can take?",
+      "answer": "The minimum loan amount is Rs. 5,000."
+    },
+    {
+      "question": "What is the Suicide Exclusion clause?",
+      "answer": "If the Life Insured dies by suicide within 12 months from the risk commencement date or the date of policy revival, the policy terminates. A specified amount, either the surrender value or total premiums paid, will be payable to the nominee."
+    },
+    {
+      "question": "Can I change the Benefit Option or Income Variant after the policy is issued?",
+      "answer": "No, the Benefit Option and Income Variant chosen at the policy issue date cannot be changed thereafter."
+    },
+    {
+      "question": "Can I change the frequency of my income benefit payout?",
+      "answer": "Yes, for added flexibility, the Benefit Payout Frequency (annually, semi-annually, quarterly, or monthly) can be changed anytime during the Policy Term."
+    },
+    {
+      "question": "What happens to the policy if the Life Insured is a minor when the policy is issued?",
+      "answer": "The policy will automatically vest in the Life Insured upon him/her attaining the age of majority (18 years)."
+    },
+    {
+      "question": "How do I file a claim?",
+      "answer": "You should notify the claim at the nearest Aditya Birla Sun Life Insurance branch, through the customer portal, or via email. You must also submit the required claim documents."
+    },
+    {
+      "question": "What documents are required for a death claim?",
+      "answer": "Mandatory documents include the Claimant Statement Form, Death Certificate, original policy document, and KYC of the beneficiary. Additional documents may be required for accidental death or claims made within 3 years of policy issuance."
+    },
+    {
+      "question": "What documents are needed for a maturity claim?",
+      "answer": "The required documents are the original policy document and the Policy Payout Form."
+    },
+    {
+      "question": "Are there any restrictions on travel or occupation?",
+      "answer": "No, the policy document states there are no restrictions on travel or occupation under this policy."
+    },
+    {
+      "question": "What happens if I lose my policy document?",
+      "answer": "You can apply for a duplicate policy document by paying a fee of ₹250 and fulfilling other requirements as prescribed by the company."
+    },
+    {
+      "question": "Who can I contact if I have a grievance?",
+      "answer": "You can register a grievance at any branch, via the toll-free number 1-800-270-7000, or by emailing care.lifeinsurance@adityabirlacapital.com. If unresolved, you can escalate it or approach the IRDAI or the Insurance Ombudsman."
+    },
+    {
+      "question": "What does 'Lapsed Policy' mean?",
+      "answer": "A Lapsed Policy is a policy which has not acquired Surrender Value and where the due premium has not been received for any of the first two Policy Years."
+    },
+    {
+      "question": "Can I assign my policy to someone else?",
+      "answer": "Yes, assignment is allowed as per the provisions of Section 38 of the Insurance Act, 1938. This means you can transfer the rights and benefits of the policy to another person or entity."
+    }
+  ],
+  "source_file": "ABSLI_Nishchit_Aayush_Plan_V06_Policy_Contract_35d9f6d4cf.txt",
+  "category": "LI Policy Bond Documents"
+}

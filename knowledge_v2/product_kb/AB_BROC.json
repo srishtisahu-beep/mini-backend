@@ -1,0 +1,147 @@
+{
+  "product_name": "Health Insurance Policy",
+  "product_type": "Health Insurance",
+  "summary": "A comprehensive health insurance policy providing coverage for hospitalization, medical treatments, and related healthcare expenses with various benefit options and deductible structures.",
+  "coverage": [
+    "Hospitalization expenses",
+    "Medical treatments",
+    "Accommodation expenses up to Rs. 1,500 per day for dependent",
+    "Unlimited teleconsultations with qualified medical practitioners via audio, video, online portals",
+    "Pre-existing conditions coverage after waiting period",
+    "Cashless and reimbursement claim options"
+  ],
+  "waiting_periods": [
+    "Pre-existing conditions have waiting periods",
+    "Specific waiting periods apply for certain medical conditions"
+  ],
+  "room_rent": [
+    "Coverage provided for room rent expenses",
+    "Accommodation expenses covered up to specified limits"
+  ],
+  "co_pay": [
+    "Co-pay provisions may apply to certain treatments",
+    "Percentage-based co-payment structure for specific services"
+  ],
+  "deductible": [
+    "Deductible amount applies to claims",
+    "Guaranteed deductible reduction feature reduces deductible by 50% at each renewal",
+    "Customers can avail maximum reduction of up to 50% of the deductible opted during first policy issuance",
+    "Deductible of up to 25% of the deductible after during the first policy issuance"
+  ],
+  "claims_information": [
+    "Cashless treatment available at network hospitals",
+    "Reimbursement option available for non-network treatments",
+    "Claims can be submitted with proper documentation",
+    "Pre-authorization required for planned treatments"
+  ],
+  "exclusions": [
+    "Certain pre-existing conditions during waiting period",
+    "Treatments not covered under policy terms",
+    "Non-medical expenses",
+    "Experimental or investigational treatments"
+  ],
+  "faqs": [
+    {
+      "question": "What is the maximum accommodation expense covered per day for dependents?",
+      "answer": "The policy covers accommodation expenses up to Rs. 1,500 per day for dependents, with a maximum of 60 consecutive days."
+    },
+    {
+      "question": "Are teleconsultations covered under this policy?",
+      "answer": "Yes, unlimited teleconsultations with qualified medical practitioners are covered via audio, video, and online portals."
+    },
+    {
+      "question": "What is the guaranteed deductible reduction feature?",
+      "answer": "This feature reduces the deductible by 50% at each renewal, allowing customers to avail maximum reduction of up to 50% of the deductible opted during first policy issuance."
+    },
+    {
+      "question": "How much deductible reduction can I get during the first policy issuance?",
+      "answer": "You can get a deductible reduction of up to 25% of the deductible during the first policy issuance."
+    },
+    {
+      "question": "What types of claim settlement options are available?",
+      "answer": "The policy offers both cashless treatment at network hospitals and reimbursement options for treatments at non-network facilities."
+    },
+    {
+      "question": "Are pre-existing conditions covered?",
+      "answer": "Pre-existing conditions are covered after the completion of specified waiting periods as mentioned in the policy terms."
+    },
+    {
+      "question": "Is pre-authorization required for treatments?",
+      "answer": "Yes, pre-authorization is required for planned treatments to ensure coverage under the policy."
+    },
+    {
+      "question": "What documentation is required for claim submission?",
+      "answer": "Proper documentation including medical reports, bills, and other relevant documents are required for claim submission."
+    },
+    {
+      "question": "Are experimental treatments covered?",
+      "answer": "No, experimental or investigational treatments are excluded from coverage under this policy."
+    },
+    {
+      "question": "What is the maximum benefit period for accommodation expenses?",
+      "answer": "The maximum benefit period for accommodation expenses is 60 consecutive days."
+    },
+    {
+      "question": "Can I use teleconsultation services multiple times?",
+      "answer": "Yes, the policy provides unlimited teleconsultations with qualified medical practitioners."
+    },
+    {
+      "question": "What platforms are available for teleconsultations?",
+      "answer": "Teleconsultations are available via audio, video, and online portals with qualified medical practitioners."
+    },
+    {
+      "question": "How does the deductible reduction work at renewal?",
+      "answer": "The guaranteed deductible reduction feature automatically reduces your deductible by 50% at each policy renewal."
+    },
+    {
+      "question": "Are non-medical expenses covered?",
+      "answer": "No, non-medical expenses are excluded from coverage under this health insurance policy."
+    },
+    {
+      "question": "What is the waiting period for pre-existing conditions?",
+      "answer": "Pre-existing conditions have specific waiting periods as defined in the policy terms before coverage begins."
+    },
+    {
+      "question": "Can I get treatment at any hospital?",
+      "answer": "You can get cashless treatment at network hospitals or opt for reimbursement at non-network hospitals."
+    },
+    {
+      "question": "What is the maximum deductible reduction I can achieve?",
+      "answer": "You can achieve a maximum deductible reduction of up to 50% of the original deductible amount opted during first policy issuance."
+    },
+    {
+      "question": "Are there any co-payment requirements?",
+      "answer": "Yes, co-pay provisions may apply to certain treatments with percentage-based co-payment structure for specific services."
+    },
+    {
+      "question": "What types of medical treatments are covered?",
+      "answer": "The policy covers hospitalization expenses, medical treatments, and related healthcare expenses as per policy terms."
+    },
+    {
+      "question": "How do I access teleconsultation services?",
+      "answer": "Teleconsultation services can be accessed through audio, video, or online portals with qualified medical practitioners."
+    },
+    {
+      "question": "What happens if I need treatment during the waiting period?",
+      "answer": "Treatments for conditions under waiting period may not be covered until the waiting period is completed."
+    },
+    {
+      "question": "Is there a limit on the number of claims I can make?",
+      "answer": "The policy terms specify the coverage limits and claim provisions, which should be referred to for specific claim limitations."
+    },
+    {
+      "question": "What is required for cashless treatment?",
+      "answer": "For cashless treatment, you need to visit network hospitals and complete the pre-authorization process as required."
+    },
+    {
+      "question": "How is the accommodation expense calculated?",
+      "answer": "Accommodation expenses are covered up to Rs. 1,500 per day for dependents, subject to a maximum of 60 consecutive days."
+    },
+    {
+      "question": "Can the deductible reduction be applied immediately?",
+      "answer": "Deductible reduction of up to 25% can be applied during the first policy issuance, with further reductions available at renewals."
+    }
+  ],
+  "source_file": "AB_BROC.txt",
+  "category": "Hi Document"
+}

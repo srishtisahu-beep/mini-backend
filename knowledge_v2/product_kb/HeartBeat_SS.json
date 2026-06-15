@@ -1,0 +1,176 @@
+{
+  "product_name": "Heart Beat Health Insurance Plan",
+  "product_type": "Health Insurance",
+  "summary": "Heart Beat is a comprehensive health insurance plan offering coverage from Rs 5 lacs to Rs 1 crore with individual and family floater options. It provides comprehensive hospitalization coverage, cashless claims processing within 30 minutes, alternative treatment coverage, maternity benefits, and international treatment for specified illnesses.",
+  "coverage": [
+    "Inpatient care covered up to Sum Insured",
+    "Room rent covered up to Sum Insured (except for Suite or above room category)",
+    "Pre-hospitalization medical expenses (60 days) covered up to Sum Insured",
+    "Post-hospitalization medical expenses (90 days) covered up to Sum Insured",
+    "Alternative treatment including Ayurveda, Unani, Siddha and Homeopathy",
+    "Day care treatment covered up to Sum Insured",
+    "Domiciliary hospitalization covered up to Sum Insured",
+    "Maternity benefit ranging from Rs 40,000 to Rs 200,000 depending on plan",
+    "New born baby covered up to Sum Insured until end of policy year",
+    "Vaccination of new born baby covered until baby completes one year",
+    "Living organ donor transplant covered up to Sum Insured",
+    "Emergency ambulance - Network hospital covered up to Sum Insured, Non-network hospital covered up to Rs 2,000 per event",
+    "HIV/AIDS covered up to Rs 50,000",
+    "Mental disorder treatment covered up to Sum Insured with sub-limit of Rs 50,000 on few conditions",
+    "International treatment for specified illnesses",
+    "OPD treatment and diagnostic services (Platinum plans only)",
+    "Child care benefits including vaccinations for children up to 12 years",
+    "Emergency medical evacuation (worldwide excluding USA, Canada & India for Gold plans)",
+    "Second medical opinion for specified illness/planned surgery",
+    "Pharmacy and diagnostic services",
+    "Emergency assistance services within India"
+  ],
+  "waiting_periods": [
+    "No waiting period for accidental hospitalization",
+    "No specific waiting period for insured up to 45 years of age",
+    "Maternity benefit subject to continuous coverage of 24 months"
+  ],
+  "room_rent": [
+    "Covered up to Sum Insured except for Suite or above room category"
+  ],
+  "co_pay": [
+    "Zone 2 selection: 20% co-payment applies for treatment in Mumbai (including Navi Mumbai & Thane), Delhi NCR, Kolkata & Gujarat State",
+    "Options of 10% and 20% co-payment available for certain plans"
+  ],
+  "deductible": [],
+  "claims_information": [
+    "Cashless claims processing within 30 minutes upon approval",
+    "Available at over 10,000+ network hospitals",
+    "Claims processed directly and not via third party",
+    "Pre-authorization processed within 30 minutes for all active policies subject to receiving all documents"
+  ],
+  "exclusions": [
+    "Suite or above room category not covered under room rent",
+    "Emergency medical evacuation excludes USA, Canada & India for Gold plans",
+    "Mental disorder treatment has sub-limit of Rs 50,000 applicable on few conditions"
+  ],
+  "faqs": [
+    {
+      "question": "What is the coverage range for Heart Beat Health Insurance Plan?",
+      "answer": "Heart Beat provides comprehensive cover ranging from Rs 5 lacs to Rs 1 crore."
+    },
+    {
+      "question": "How quickly are cashless claims processed?",
+      "answer": "Cashless claims are processed within 30 minutes upon approval at over 10,000+ network hospitals."
+    },
+    {
+      "question": "What is the freelook period for this policy?",
+      "answer": "In case you are not satisfied with policy terms and conditions, you may cancel it within 30 days of receipt of policy."
+    },
+    {
+      "question": "Does the plan cover alternative treatments?",
+      "answer": "Yes, the plan covers alternative treatments including Ayurveda, Unani, Siddha and Homeopathy up to Sum Insured."
+    },
+    {
+      "question": "What are the pre and post hospitalization coverage periods?",
+      "answer": "The plan covers medical expenses 60 days prior and 90 days post hospitalization up to Sum Insured."
+    },
+    {
+      "question": "Is there any waiting period for accidental hospitalization?",
+      "answer": "No, there is no waiting period for accidental hospitalization."
+    },
+    {
+      "question": "What is the waiting period for insured persons up to 45 years of age?",
+      "answer": "There is no specific waiting period for insured up to 45 years of age."
+    },
+    {
+      "question": "Does the plan offer maternity benefits?",
+      "answer": "Yes, maternity expenses are covered ranging from Rs 40,000 to Rs 200,000 depending on the plan, subject to continuous coverage of 24 months."
+    },
+    {
+      "question": "Is newborn baby coverage included?",
+      "answer": "Yes, newborn baby is covered up to Sum Insured until the end of policy year, and newborn child cover is provided only where maternity claim is payable."
+    },
+    {
+      "question": "Are vaccinations for newborn babies covered?",
+      "answer": "Yes, vaccination of the newborn baby is covered until the baby completes one year, as per defined list."
+    },
+    {
+      "question": "What are loyalty benefits offered?",
+      "answer": "You can increase your sum insured by 10% of existing base Sum Insured each year, with maximum up to 100% of Base Sum Insured."
+    },
+    {
+      "question": "Are health check-ups covered?",
+      "answer": "Yes, annual health check-ups are covered ranging from Rs 1,250 to Rs 5,000 per insured person depending on the plan."
+    },
+    {
+      "question": "What is the refill benefit?",
+      "answer": "One time refill of Base Sum Insured is available, which triggers after 1st claim is paid and is applicable for same illness and insured."
+    },
+    {
+      "question": "Does the plan cover emergency ambulance services?",
+      "answer": "Yes, emergency ambulance is covered up to Sum Insured for network hospitals and up to Rs 2,000 per event for non-network hospitals."
+    },
+    {
+      "question": "Is HIV/AIDS treatment covered?",
+      "answer": "Yes, HIV/AIDS is covered up to Rs 50,000."
+    },
+    {
+      "question": "Does the plan cover mental disorder treatment?",
+      "answer": "Yes, mental disorder treatment is covered up to Sum Insured with a sub-limit of Rs 50,000 applicable on few conditions."
+    },
+    {
+      "question": "Are there any tax benefits available?",
+      "answer": "Yes, tax saving is available under Section 80D of the Income Tax Act, subject to changes in tax law."
+    },
+    {
+      "question": "Is policy renewal guaranteed?",
+      "answer": "Yes, renewability for life is assured without any extra loadings based on your claims."
+    },
+    {
+      "question": "What room rent categories are excluded?",
+      "answer": "Suite or above room category is excluded from room rent coverage."
+    },
+    {
+      "question": "Does the plan cover international treatment?",
+      "answer": "Yes, international treatment is covered for specified illnesses, with 9 specific illnesses covered for treatment abroad as per plan."
+    },
+    {
+      "question": "Is second medical opinion covered?",
+      "answer": "Yes, second medical opinion is covered - one opinion per insured person per specified illness/planned surgery/surgical procedure."
+    },
+    {
+      "question": "What is the co-payment structure for Zone 2?",
+      "answer": "If you select Zone 2, then 20% co-payment will apply for treatment in Mumbai (including Navi Mumbai & Thane), Delhi NCR, Kolkata & Gujarat State."
+    },
+    {
+      "question": "Are there optional co-payment options available?",
+      "answer": "Yes, options of 10% and 20% co-payment are available for certain plans."
+    },
+    {
+      "question": "Does the plan cover domiciliary treatment?",
+      "answer": "Yes, domiciliary treatment coverage is provided as prescribed by a medical practitioner, covered up to Sum Insured."
+    },
+    {
+      "question": "What emergency assistance services are included?",
+      "answer": "Emergency assistance services include medical referral, air ambulance, medical repatriation, compassionate visit, etc., covered up to Sum Insured within India."
+    },
+    {
+      "question": "Is emergency medical evacuation covered internationally?",
+      "answer": "Yes, emergency medical evacuation is covered worldwide excluding USA, Canada & India for Gold plans, while Platinum plans include USA & Canada."
+    },
+    {
+      "question": "What is the minimum hospitalization period required for hospital cash benefit?",
+      "answer": "Minimum 48 hours of continuous hospitalization is required for hospital cash benefit, with maximum coverage for 30 days per policy year per insured person."
+    },
+    {
+      "question": "Are child care benefits included in the plan?",
+      "answer": "Yes, child care benefits include vaccinations for children up to 12 years including one consultation for nutrition and growth during the visit for vaccination, covered up to Sum Insured as per defined list."
+    },
+    {
+      "question": "When do health check-up benefits become available?",
+      "answer": "Health check-up benefits are available if the policy is renewed without a break or if the policy continues to be in force for the 2nd policy year in the 2-year policy period."
+    },
+    {
+      "question": "What is covered under OPD treatment for Platinum plans?",
+      "answer": "OPD treatment and diagnostic services are covered ranging from Rs 15,000 to Rs 50,000 depending on the Platinum plan selected."
+    }
+  ],
+  "source_file": "HeartBeat_SS.txt",
+  "category": "Hi Document"
+}

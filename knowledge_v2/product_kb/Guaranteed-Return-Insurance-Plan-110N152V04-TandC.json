@@ -1,0 +1,201 @@
+{
+  "product_name": "Tata AIA Life Guaranteed Return Insurance Plan (110N152V04)",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Individual, Non-linked, Non-participating Life Insurance Savings plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings plan",
+  "summary": "Tata AIA Life Guaranteed Return Insurance Plan is an Individual, Non-linked, Non-participating Life Insurance Savings plan. It provides guaranteed returns along with life insurance coverage, with three distinct plan options to choose from: Endowment, Regular Income, and Whole Life Income.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document. Subject to the company's Underwriting Policy.",
+    "maximum_age": "Not specified in the document. Subject to the company's Underwriting Policy.",
+    "sum_insured": "The Basic Sum Assured shall be as mentioned in the Policy Schedule.",
+    "policy_term": "Varies based on the plan option and premium payment term chosen.",
+    "waiting_period": "12 months for death due to suicide from the date of commencement of risk or date of revival."
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "A guaranteed benefit is paid to the policyholder upon survival till the date of maturity of the policy. The benefit structure varies based on the plan option selected (Endowment, Regular Income, or Whole Life Income)."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In the unfortunate event of the life insured's death during the policy term, a lump sum amount is paid to the claimant. The amount and payout conditions vary based on the plan option selected."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Maturity Benefit - Option I (Endowment)",
+      "description": "On maturity, the policyholder receives the Guaranteed Maturity Benefit plus accrued Guaranteed Additions. The policy terminates after this payment."
+    },
+    {
+      "name": "Maturity Benefit - Option II (Regular Income)",
+      "description": "On maturity, the policyholder starts receiving a Guaranteed Annual Income (GAI) for a specified Income Term. There is an option to receive the commuted value of all future GAIs as a lump sum at maturity."
+    },
+    {
+      "name": "Maturity Benefit - Option III (Whole Life Income)",
+      "description": "On maturity, the policyholder starts receiving a Guaranteed Annual Income (GAI) for the rest of their life (or the life of the last survivor in case of a joint life policy). There is an option to receive this income on a monthly basis."
+    },
+    {
+      "name": "Death Benefit - Option I (Endowment) & II (Regular Income)",
+      "description": "On death of the Life Insured during the Policy Term, the Sum Assured on Death is paid to the claimant. For Option I, accrued Guaranteed Additions are also paid. The Sum Assured on Death is the highest of: a) 10 times (for age < 45) or 7 times (for age >= 45) the Annualised Premium, b) 105% of Total Premiums paid, c) Guaranteed Maturity Benefit, or d) Basic Sum Assured."
+    },
+    {
+      "name": "Death Benefit - Option III (Whole Life Income)",
+      "description": "On death during the Policy Term, the Sum Assured on Death is paid. On death after the Policy Term, the Total Premiums Paid are paid to the claimant."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan of up to 80% of the Surrender Value can be availed once the policy acquires a surrender value. The policy must be assigned to the company."
+    },
+    {
+      "name": "Surrender Benefit",
+      "description": "The policy can be surrendered for a Surrender Value, which will be the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV). The policy acquires a surrender value after at least two full years' premiums have been paid (for non-single premium policies)."
+    },
+    {
+      "name": "Reduced Paid-up Benefit",
+      "description": "If premiums are discontinued after the policy acquires surrender value, it will by default be converted into a Reduced Paid-up Policy with reduced benefits, instead of lapsing."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "The age of the life insured is calculated as age on the last birthday. Specific minimum and maximum age limits are not mentioned and are subject to the company's Underwriting Policy."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the Date of Commencement of Risk under the Policy or from the date of revival of the Policy, the Claimant shall be entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death, whichever is higher, provided the Policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Notification",
+      "details": "All death claims must be notified to the company in writing within 90 days. A delay may be condoned if the reason for the delay is proved to be beyond the claimant's control."
+    },
+    {
+      "type": "Claim Submission",
+      "details": "Appropriate forms and supporting documents must be submitted at the claimant's expense within 90 days after the insured event occurs."
+    },
+    {
+      "type": "Documents for Death Claim (General)",
+      "details": "a) Claim Forms Part I & II, b) Death Certificate from a local government body, c) Medical Records (if applicable), d) Claimant's Photo ID with age and address proof, e) Claimant's bank details (cancelled cheque/passbook copy). Proof of legal title is required if there is no nominee."
+    },
+    {
+      "type": "Additional Documents for Accidental Death Claim",
+      "details": "In addition to general documents, the following are required: a) Postmortem report (Autopsy report) & Chemical Viscera report (if performed), b) All Police Papers – Panchnama, Inquest, First Information Report (FIR) and Final Investigation Report."
+    },
+    {
+      "type": "Claims Intimation Process",
+      "details": "Claims can be intimated via: Online at www.tataaia.com, Email to Customercare@tataaia.com, Calling helpline 1-860-266-9966, Visiting any company office, or writing to the company's Thane address."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What type of plan is the Tata AIA Life Guaranteed Return Insurance Plan?",
+      "answer": "It is an Individual, Non-linked, Non-participating Life Insurance Savings plan."
+    },
+    {
+      "question": "What are the different plan options available under this policy?",
+      "answer": "There are three plan options: Option I – Endowment, Option II – Regular Income, and Option III – Whole Life Income. The option must be chosen at the inception of the policy and cannot be changed later."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days from the due date for the monthly premium payment mode and 30 days for all other premium payment modes."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums are not paid within the grace period and the policy has not acquired a Surrender Value, it will lapse and no benefits will be payable. If it has acquired a Surrender Value, it will be converted into a Reduced Paid-up Policy by default with reduced benefits."
+    },
+    {
+      "question": "When does my policy acquire a Surrender Value?",
+      "answer": "For Single Premium policies, the policy acquires a surrender value throughout the policy term. For other policies, it acquires a surrender value after at least two full years' premiums have been paid."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed or reduced paid-up policy can be revived within the Revival Period of 5 years from the due date of the first unpaid premium, subject to submission of a written application, proof of insurability, and payment of all overdue premiums with interest."
+    },
+    {
+      "question": "What is the maturity benefit under Option I - Endowment?",
+      "answer": "Under Option I, the maturity benefit consists of the Guaranteed Maturity Benefit and accrued Guaranteed Additions."
+    },
+    {
+      "question": "What is the death benefit under Option I and II?",
+      "answer": "On death of the Life Insured during the policy term, the Sum Assured on Death is paid. Under Option I, accrued Guaranteed Additions are also paid. The Sum Assured on Death is the highest of a specified multiple of Annualised Premium, 105% of Total Premiums paid, Guaranteed Maturity Benefit, or the Basic Sum Assured."
+    },
+    {
+      "question": "What are Guaranteed Additions?",
+      "answer": "Guaranteed Additions are an amount of benefit payable at the rate of 5% of the Guaranteed Maturity Benefit. They accrue at a simple rate at the end of each completed Policy Year and are payable on death or maturity, whichever is earlier, provided all due premiums are paid."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can apply for a loan up to 80% of the Surrender Value, provided the policy has acquired a surrender value."
+    },
+    {
+      "question": "What is the exclusion for death due to suicide?",
+      "answer": "If death occurs due to suicide within 12 months from the date of commencement of risk or date of revival, the claimant will receive at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "There is a free look period of 15 days from the date of receipt of the policy document (30 days if obtained through online/direct sales channels) to review the terms and conditions."
+    },
+    {
+      "question": "What happens if I cancel the policy during the free look period?",
+      "answer": "If you cancel during the free look period, you are entitled to a refund of the premiums paid, after deduction of proportionate risk premium, stamp duty, and medical examination costs."
+    },
+    {
+      "question": "How do I notify the company about a claim?",
+      "answer": "All cases of death must be notified to the company in writing within 90 days of the event. You can do this online, via email, phone, or by visiting a branch."
+    },
+    {
+      "question": "What documents are required for a death claim?",
+      "answer": "The primary documents are claim forms, the original death certificate, medical records, and the claimant's ID, address, and bank details. Additional documents like police reports are required for accidental death."
+    },
+    {
+      "question": "What happens if the age of the Life Insured is found to be incorrect?",
+      "answer": "The company may revise the premium and benefits based on the correct age. If the correct age would have made the person ineligible for the policy, the policy will be void, and the company will refund the total premiums paid without interest, after deducting charges."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can change the frequency of premium payments (e.g., from annual to half-yearly) by submitting a written request. This may lead to a change in the premium amount due to modal loading."
+    },
+    {
+      "question": "What is a 'Reduced Paid-Up' policy?",
+      "answer": "A 'Reduced Paid-Up' policy is one that has acquired a surrender value but subsequent premiums have not been paid. The policy continues with reduced benefits (like a lower sum assured and maturity amount) instead of lapsing entirely."
+    },
+    {
+      "question": "What happens if the Life Insured dies during the Income Term under Option II?",
+      "answer": "Under Option II, if the life insured dies during the Income Term, all future Guaranteed Annual Incomes (GAI) will be paid to the claimant. The claimant also has the option to receive the commuted value of these future payments as a lump sum."
+    },
+    {
+      "question": "What is the death benefit after the policy term under Option III - Whole Life Income?",
+      "answer": "On death of the Life Insured (or the last surviving Life Insured for a joint policy) after the policy term, the Total Premiums Paid are paid to the claimant and the policy terminates."
+    },
+    {
+      "question": "Can I pay my premiums in advance?",
+      "answer": "Yes, advance premium collection is allowed within the same financial year. For premiums due in the next financial year, they can be collected a maximum of three months in advance."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' calculated?",
+      "answer": "It is the highest of: a) a multiple of Annualised Premium (e.g., 10x or 7x depending on age), b) 105% of the Total Premiums paid up to the date of death, c) the Guaranteed Maturity Benefit, and d) the Basic Sum Assured."
+    },
+    {
+      "question": "What should I do if I lose my policy document?",
+      "answer": "You can request the company to issue a duplicate policy document. A fee of Rs. 250 plus applicable taxes will be charged for issuing a duplicate."
+    },
+    {
+      "question": "When does this policy terminate?",
+      "answer": "The policy terminates on the earliest of the following: payment of a death claim, payment of surrender benefit, expiry of the revival period for a lapsed policy, payment of the last Guaranteed Annual Income, or upon a freelook cancellation."
+    },
+    {
+      "question": "How can I update my address or the nominee's address?",
+      "answer": "You should intimate the company in the event of any change in the address of the policyholder or the nominee to ensure better service."
+    },
+    {
+      "question": "What is meant by 'Annualised Premium'?",
+      "answer": "Annualised Premium is the premium payable in a year as chosen by the policyholder, excluding any extra premiums for underwriting, loading for modal premiums, taxes, and rider premiums."
+    }
+  ],
+  "source_file": "Guaranteed-Return-Insurance-Plan-110N152V04-TandC.txt",
+  "category": "LI Policy Bond Documents"
+}

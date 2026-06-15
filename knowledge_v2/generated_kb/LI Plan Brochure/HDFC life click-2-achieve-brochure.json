@@ -1,0 +1,239 @@
+{
+  "product_name": "HDFC Life Click 2 Achieve",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An individual non-participating, non-linked savings life insurance plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "HDFC Life Click 2 Achieve is an individual, non-participating, non-linked savings life insurance plan designed to help individuals achieve their financial goals like a dream home, child's education, or retirement. It offers guaranteed benefits and life insurance cover to safeguard the family’s future against unforeseen events. The plan provides versatility with a spectrum of options to secure loved ones' futures and attain financial objectives, available through two main plan options: Smart Student and Dream Achiever.",
+  "quick_facts": {
+    "minimum_age": "30 days",
+    "maximum_age": "65 years",
+    "sum_insured": "Minimum Sum Assured on Death: Rs. 50,000. Maximum: No limit, subject to Board Approved Underwriting Policy (BAUP).",
+    "policy_term": "5 to 40 years",
+    "waiting_period": "No waiting period for death benefit. A 90-day waiting period applies for Critical Illness cover from the policy commencement or revival date."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Assured during the policy term, the death benefit payable is the highest of: Sum Assured on Death, 105% of Total Premiums Paid, or Surrender Value on the date of death. Upon payment, the policy terminates."
+    },
+    {
+      "name": "Survival & Maturity Benefit",
+      "description": "The plan provides guaranteed benefits as a lump sum or regular income, depending on the plan option chosen. Under the Smart Student plan, survival benefits are paid in the last 3, 4, or 5 policy years, with the last installment being the maturity benefit. Under the Dream Achiever plan, a Sum Assured on Maturity is payable, and the policyholder can also opt for an income benefit for a chosen term starting from maturity."
+    },
+    {
+      "name": "Inbuilt Waiver of Premium Benefits",
+      "description": "The plan includes inbuilt options where all future premiums can be waived upon the occurrence of specific events like the death, diagnosis of a covered critical illness, or total and permanent disability of the proposer. The policy continues with all applicable benefits."
+    },
+    {
+      "name": "Juvenile Critical Illness Cover",
+      "description": "An optional cover available for the life assured (child) aged between 4 and 17 years. If the life assured is diagnosed with a covered critical illness, a lump sum (Sum Assured on CI) is paid, and the policy continues. This cover ceases at age 21."
+    },
+    {
+      "name": "Optional Riders",
+      "description": "Policyholders can enhance their protection by choosing from a range of optional riders on payment of additional premium. Available riders include HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Protect Plus Rider, HDFC Life Waiver of Premium Rider, HDFC Life Health Plus Rider, and HDFC Life LiveWell Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Benefits",
+      "description": "The plan provides guaranteed returns either as a lump sum or as regular income, provided all due premiums have been paid and the policy is in force."
+    },
+    {
+      "name": "Flexibility",
+      "description": "Offers flexibility to choose the Death Benefit, Premium Payment Term, Policy Term, and benefit structure as per the customer's choice."
+    },
+    {
+      "name": "Premium Offset Feature",
+      "description": "Policyholders have an option to adjust the premium payable against the survival benefits receivable, provided the frequency and timing match."
+    },
+    {
+      "name": "Deferral of Survival/Income Benefit",
+      "description": "Policyholders can defer receiving survival/income benefits. The deferred amount accumulates with interest and can be withdrawn partly or fully at any time or paid at policy termination."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Policyholders may be eligible for tax benefits as per prevailing tax laws."
+    },
+    {
+      "name": "Outstanding Achievement Award",
+      "description": "Under the Smart Student plan, an amount equal to 2 times the Annualized Premium is paid if the child (Life Assured) achieves certain exceptional academic or extracurricular milestones."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policyholders can avail a loan of up to 80% of the policy's surrender value, subject to terms and conditions."
+    },
+    {
+      "name": "Option to Decrease Premiums",
+      "description": "After the first five policy years, the policyholder can decrease the premium by up to 50% of the original Annualized Premium, which will proportionally reduce the policy benefits."
+    }
+  ],
+  "eligibility": [
+    {
+      "plan_option": "Smart Student",
+      "age_at_entry": "0 (30 days) to 13 years",
+      "age_at_maturity": "19 to 23 years",
+      "premium_payment_term": "5 to 10 years",
+      "policy_term": "12 to 23 years",
+      "minimum_sum_assured_on_death": "Rs. 50,000",
+      "maximum_sum_assured_on_death": "Non POS: No limit, subject to Board Approved Underwriting Policy (BAUP). POS: Rs 25,00,000."
+    },
+    {
+      "plan_option": "Dream Achiever",
+      "age_at_entry": "0 (30 days) to 65 years",
+      "age_at_maturity": "18 to 99 years",
+      "premium_payment_term": "5 to 35 years",
+      "policy_term": "5 to 40 years",
+      "minimum_sum_assured_on_death": "Rs. 50,000",
+      "maximum_sum_assured_on_death": "No limit, subject to Board Approved Underwriting Policy (BAUP)."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or date of revival, the nominee will be entitled to at least 80% of the total premiums paid till the date of death or the surrender value, whichever is higher."
+    },
+    {
+      "type": "Critical Illness Permanent Exclusions",
+      "description": "Includes but not limited to: Pre-existing diseases diagnosed within 36 months prior to policy issuance; conditions caused by alcohol/drug abuse, intentional self-injury, war or civil unrest, participation in hazardous sports, congenital anomalies, and cosmetic surgery."
+    },
+    {
+      "type": "Total and Permanent Disability Exclusions",
+      "description": "Excludes disabilities arising from pre-existing conditions, alcohol/drug abuse, narcotics unless prescribed, and other specific conditions mentioned in the policy document."
+    }
+  ],
+  "claims_information": [
+    {
+      "topic": "Grace Period",
+      "details": "A grace period of 15 days is provided for monthly premium payments and 30 days for other frequencies. The policy remains in-force during this period."
+    },
+    {
+      "topic": "Lapse",
+      "details": "If a premium is not paid by the end of the grace period and the policy has not acquired a Surrender Value (i.e., less than two years' premiums paid), the policy will lapse, and all benefits will cease."
+    },
+    {
+      "topic": "Paid-up",
+      "details": "If the policy has acquired a Surrender Value (at least two years' premiums paid) and a due premium is unpaid after the grace period, the policy becomes a reduced paid-up policy. The benefits under the policy will be reduced proportionally."
+    },
+    {
+      "topic": "Surrender",
+      "details": "The policy acquires a Guaranteed Surrender Value after payment of at least two years' premiums. The Surrender Benefit will be the higher of the Guaranteed Surrender Value (GSV) and Special Surrender Value (SSV)."
+    },
+    {
+      "topic": "Revival",
+      "details": "A lapsed or paid-up policy can be revived within five years from the due date of the first unpaid premium, subject to payment of all due premiums with interest and satisfactory proof of continued insurability."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click 2 Achieve?",
+      "answer": "It is an individual, non-participating, non-linked savings life insurance plan from HDFC Life that offers guaranteed returns and life cover to help you achieve your financial goals."
+    },
+    {
+      "question": "Are the returns from this plan guaranteed?",
+      "answer": "Yes, the plan offers guaranteed benefits, provided all due premiums have been paid and the policy is in force."
+    },
+    {
+      "question": "What are the main plan options available under this product?",
+      "answer": "There are two plan options: Smart Student, which is designed for planning a child's educational expenses, and Dream Achiever, a versatile savings solution for various financial goals."
+    },
+    {
+      "question": "Can I change my plan option after purchasing the policy?",
+      "answer": "No, the plan option once chosen at inception cannot be changed throughout the policy term."
+    },
+    {
+      "question": "What is the primary purpose of the 'Smart Student' plan option?",
+      "answer": "The Smart Student plan is designed to provide a stable income stream for 3 to 5 years to cover planned educational expenses for a child, with income starting at age 16 or 18."
+    },
+    {
+      "question": "What is the 'Outstanding Achievement Award'?",
+      "answer": "Under the Smart Student plan, it is a special benefit where an amount equal to 2 times the Annualized Premium is paid if the child (Life Assured) achieves a specified milestone, such as admission into a top-ranked university or winning a medal in a major sporting event. This can be claimed only once."
+    },
+    {
+      "question": "What does the 'Dream Achiever' plan offer?",
+      "answer": "The Dream Achiever plan offers a guaranteed immediate income or a lump sum, with flexibility in choosing the death benefit multiple, premium payment term, policy term, and income term to align with various financial goals."
+    },
+    {
+      "question": "What is the minimum entry age for this policy?",
+      "answer": "The minimum age at entry for both plan options is 30 days."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "The maximum age at entry is 13 years for the Smart Student plan and 65 years for the Dream Achiever plan."
+    },
+    {
+      "question": "What happens if the life assured dies during the policy term?",
+      "answer": "In case of death of the life assured, the nominee receives a death benefit, which is the highest of: Sum Assured on Death, 105% of Total Premiums Paid, or the Surrender Value on the date of death."
+    },
+    {
+      "question": "Can I take a loan against my HDFC Life Click 2 Achieve policy?",
+      "answer": "Yes, you can avail a policy loan for up to 80% of the surrender value, subject to the company's terms and conditions."
+    },
+    {
+      "question": "What is the 'Premium Offset' feature?",
+      "answer": "This feature allows you to use your receivable survival or income benefits to pay for your due premiums, as long as the payment frequency and timing match."
+    },
+    {
+      "question": "What if I don't want to receive my survival benefits immediately?",
+      "answer": "You can use the 'Deferral of Survival Benefit' feature. Your unpaid benefits will accumulate with interest, and you can withdraw this accumulated amount partly or fully at any time."
+    },
+    {
+      "question": "Can I add extra coverage to this plan?",
+      "answer": "Yes, you can enhance your protection by adding optional riders like the HDFC Life Income Benefit on Accidental Disability Rider or HDFC Life Health Plus Rider on payment of additional premium."
+    },
+    {
+      "question": "What happens if I miss a premium payment?",
+      "answer": "You get a grace period (15 days for monthly mode, 30 days for others) to pay the premium. If not paid within the grace period, the policy may lapse or become a reduced paid-up policy, depending on whether it has acquired a surrender value."
+    },
+    {
+      "question": "How can I revive a lapsed policy?",
+      "answer": "A policy can be revived within five years from the due date of the first unpaid premium. You would need to pay all outstanding premiums with interest and provide proof of continued insurability."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a 30-day free-look period from the date of receipt of the policy document to review the terms and conditions. If you are not satisfied, you can return the policy for a refund, subject to certain deductions."
+    },
+    {
+      "question": "What is the suicide clause in this policy?",
+      "answer": "If death occurs due to suicide within 12 months of policy commencement or revival, the nominee will receive at least 80% of total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "Are there any waiting periods for claims?",
+      "answer": "There is no waiting period for the death benefit. However, for the optional Critical Illness cover, there is an initial waiting period of 90 days from the policy start or revival date, and a 15-day survival period after diagnosis."
+    },
+    {
+      "question": "What is the Waiver of Premium benefit?",
+      "answer": "The plan has inbuilt waiver of premium options. If selected, all future premiums are waived if the proposer dies, is diagnosed with a covered critical illness, or suffers a total and permanent disability. The policy continues to be in force."
+    },
+    {
+      "question": "Can I reduce my premium amount during the policy term?",
+      "answer": "Yes, after paying premiums for the first five completed policy years, you can choose to decrease the premium by up to 50% of the original annualized premium. However, all policy benefits will be reduced proportionally."
+    },
+    {
+      "question": "Is there a special cover for children's critical illnesses?",
+      "answer": "Yes, the plan offers an optional Juvenile Critical Illness Cover. If the life assured child (between 4 and 17 years) is diagnosed with a covered illness, a lump sum is paid, and the policy continues. This cover ceases when the child turns 21."
+    },
+    {
+      "question": "Can I change the frequency of my premium payments?",
+      "answer": "Yes, you are allowed to change the premium payment frequency (e.g., from annual to half-yearly). This will be effective from the next policy anniversary."
+    },
+    {
+      "question": "What is the Sum Assured on Death for this plan?",
+      "answer": "For the Smart Student plan, the Sum Assured on Death is 10 times the Annualized Premium. For the Dream Achiever plan, it is as chosen by the policyholder at inception, subject to a minimum of 7 times the Annualized Premium."
+    },
+    {
+      "question": "Are there any major exclusions for the Critical Illness cover?",
+      "answer": "Yes, major exclusions include pre-existing diseases, conditions arising from alcohol or drug abuse, intentional self-injury, participation in hazardous sports, and congenital disorders."
+    },
+    {
+      "question": "How is the survival benefit paid under the Smart Student plan?",
+      "answer": "The survival benefit is payable in the last 3, 4, or 5 policy years, as chosen by the policyholder at inception. The last installment is paid on maturity."
+    },
+    {
+      "question": "What happens to the income benefit under the Dream Achiever plan if the policyholder dies during the income payout period?",
+      "answer": "If the policyholder dies during the income term (after maturity), the nominee would continue receiving the income benefit till the end of the income term. The nominee also has an option to receive the present value of future payouts as a lump sum."
+    }
+  ],
+  "source_file": "HDFC life click-2-achieve-brochure.txt",
+  "category": "LI Plan Brochure"
+}

@@ -1,0 +1,164 @@
+{
+  "product_name": "ManipalCigna Super Top Up",
+  "product_type": "Health Insurance Top Up",
+  "summary": "ManipalCigna Super Top Up is a health insurance top-up policy that provides additional hospitalization coverage up to Rs. 30 lacs at affordable premium amounts. It offers choice of any hospital room, covers both Allopathic and AYUSH treatments, provides inflation protection with Guaranteed Cumulative Bonus, and includes guaranteed continuity benefit on deductible when buying a separate Base policy from 5th Policy year onwards.",
+  "coverage": [
+    "In-patient Hospitalization for more than 24 hours including room charges, ICU expenses, nursing charges, doctor fees, surgeon fees, blood, oxygen, operation theatre charges",
+    "Pre-Hospitalization expenses up to 60 days before hospitalization",
+    "Post-Hospitalization expenses up to 90 days after discharge",
+    "AYUSH Cover for Ayurveda, Yoga & Naturopathy, Unani, Siddha & Homeopathy treatments",
+    "Day Care Treatment for procedures requiring less than 24 hours hospitalization",
+    "Non-Medical Expenses cover for items listed in policy terms",
+    "Road Ambulance Cover for transportation to hospital",
+    "Donor Expenses for major organ transplant",
+    "Medical expenses for HIV, AIDS and related diseases up to Rs. 2 Lacs after 2 years waiting period",
+    "Modern and Advanced treatment methods up to Sum Insured",
+    "Artificial life maintenance including life support machine use"
+  ],
+  "waiting_periods": [
+    "First 30 days waiting period for all illnesses other than accidents",
+    "24 months waiting period for specified diseases/procedures",
+    "Pre-existing diseases waiting period of 36 months (option to reduce to 24 months)",
+    "HIV/AIDS waiting period of 2 years",
+    "Critical Illness Add on Cover: 90 days waiting period and 30 days survival period"
+  ],
+  "room_rent": [
+    "Choice of any hospital room category",
+    "No room rent restrictions mentioned"
+  ],
+  "co_pay": [],
+  "deductible": [
+    "Deductible options: Rs. 3 lacs, Rs. 3.5 lacs, Rs. 4 lacs, Rs. 4.5 lacs, Rs. 5 lacs, Rs. 5.5 lacs, Rs. 7.5 lacs, Rs. 10 lacs"
+  ],
+  "claims_information": [
+    "Guaranteed Cumulative Bonus of 5% of Sum Insured per year maximum up to 50% of Sum Insured",
+    "Coverage available irrespective of claims in expiring policy",
+    "Medical expenses for enteral feedings covered maximum up to 7 days in a Policy Year"
+  ],
+  "exclusions": [
+    "Any illness resulting from breach of law",
+    "Suicide or drug abuse",
+    "Contamination from Nuclear fuel or radiation",
+    "Foreign invasion or civil war"
+  ],
+  "faqs": [
+    {
+      "question": "What is ManipalCigna Super Top Up?",
+      "answer": "ManipalCigna Super Top Up is a health insurance top-up policy that provides additional hospitalization coverage up to Rs. 30 lacs at affordable premium amounts with choice of any hospital room."
+    },
+    {
+      "question": "What is the maximum coverage available under this policy?",
+      "answer": "The policy provides additional coverage up to Rs. 30 lacs."
+    },
+    {
+      "question": "What types of treatments are covered?",
+      "answer": "The policy covers both Allopathic and AYUSH treatments (Ayurveda, Yoga & Naturopathy, Unani, Siddha & Homeopathy) up to Sum Insured."
+    },
+    {
+      "question": "What is the minimum hospitalization period required for coverage?",
+      "answer": "For in-patient hospitalization, you need to be admitted to hospital for more than 24 hours due to illness or injury."
+    },
+    {
+      "question": "Are pre and post hospitalization expenses covered?",
+      "answer": "Yes, pre-hospitalization expenses up to 60 days before hospitalization and post-hospitalization expenses up to 90 days after discharge are covered."
+    },
+    {
+      "question": "What is Day Care Treatment coverage?",
+      "answer": "Day Care Treatment covers medical expenses for treatment or surgery that requires less than 24 hours of hospitalization."
+    },
+    {
+      "question": "Is ambulance coverage included?",
+      "answer": "Yes, Road Ambulance Cover is included for transportation expenses by ambulance service provider to the hospital."
+    },
+    {
+      "question": "What is the waiting period for illnesses?",
+      "answer": "There is a 30 days waiting period for all illnesses other than accidents."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases have a waiting period of 36 months, with an option to reduce it to 24 months by paying additional premium."
+    },
+    {
+      "question": "What is the waiting period for specified diseases?",
+      "answer": "There is a 24 months waiting period for specified diseases/procedures."
+    },
+    {
+      "question": "Are HIV/AIDS related expenses covered?",
+      "answer": "Yes, medical expenses for HIV, AIDS and related diseases are covered up to Rs. 2 Lacs after a waiting period of 2 years."
+    },
+    {
+      "question": "What is Guaranteed Cumulative Bonus?",
+      "answer": "Guaranteed Cumulative Bonus provides 5% of Sum Insured per year as additional coverage, maximum up to 50% of Sum Insured, irrespective of claims."
+    },
+    {
+      "question": "What are the available deductible options?",
+      "answer": "Deductible options include Rs. 3, 3.5, 4, 4.5, 5, 5.5, 7.5, and 10 lacs."
+    },
+    {
+      "question": "What are the Sum Insured options available?",
+      "answer": "Sum Insured options range from Rs. 3 lacs to Rs. 30 lacs with various combinations based on chosen deductible."
+    },
+    {
+      "question": "What is the minimum entry age for adults?",
+      "answer": "The minimum entry age for adults is 18 years."
+    },
+    {
+      "question": "What is the maximum entry age for adults?",
+      "answer": "There is no maximum entry age limit for adults."
+    },
+    {
+      "question": "What is the minimum entry age for children?",
+      "answer": "The minimum entry age for children is 91 days."
+    },
+    {
+      "question": "What is the maximum entry age for children?",
+      "answer": "The maximum entry age for children is 23 years for family floater policy."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "Policy terms available are 1, 2, and 3 years."
+    },
+    {
+      "question": "What premium payment frequencies are available?",
+      "answer": "Premium can be paid on Single, Yearly, Half Yearly, Quarterly and Monthly basis."
+    },
+    {
+      "question": "Are there any loadings for different payment frequencies?",
+      "answer": "Yes, Monthly payment has 5.50% loading, Quarterly has 3.50% loading, and Half yearly has 2.50% loading on premium."
+    },
+    {
+      "question": "What discounts are available?",
+      "answer": "Family Discount of 10% for 2+ members, Long-term Discount of 7.5% for 2 years and 10% for 3 years, Online Renewal Discount of 3%, and Worksite Marketing Discount of 10%."
+    },
+    {
+      "question": "What is the grace period for renewal?",
+      "answer": "Grace period is 30 days for quarterly, half yearly, yearly, single premium payment policies and 15 days for monthly premium payment policies."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "Free-look period is 30 days from date of receipt of policy document to review terms and return if not acceptable."
+    },
+    {
+      "question": "Are renewals guaranteed?",
+      "answer": "Yes, lifetime renewals are available."
+    },
+    {
+      "question": "What is the Critical Illness Add on Cover?",
+      "answer": "Critical Illness Add on Cover pays a lump sum benefit up to 100% of opted Sum Insured for first diagnosis of 11 covered critical illnesses."
+    },
+    {
+      "question": "What is the Guaranteed Continuity on Deductible benefit?",
+      "answer": "From 5th policy year onwards, you can opt for a separate base policy with guaranteed continuity on waiting periods for Sum Insured up to the deductible amount, available for insured aged 54 years or below."
+    },
+    {
+      "question": "Can I cancel the policy?",
+      "answer": "Yes, policyholder can cancel by giving 7 days written notice and receive refund for unexpired policy period as per policy contract."
+    },
+    {
+      "question": "Are there any tax benefits?",
+      "answer": "Yes, Income Tax deduction is available under Section 80D of Income Tax Act 1961."
+    }
+  ],
+  "source_file": "3990c41968def1723ef4c1d5ebdb599b7c7a5f2e.txt",
+  "category": "Hi Document"
+}

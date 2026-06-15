@@ -1,0 +1,237 @@
+{
+  "product_name": "ABSLI Assured Income Plus",
+  "company": "Aditya Birla Sun Life Insurance Company Limited",
+  "product_type": "A Non-Linked Non-Participating Individual Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A non-linked non-participating individual savings life insurance plan that provides the benefit of life insurance cover along with a regular guaranteed income for a period of 20, 25 or 30 years to ensure fulfilment of a family’s long-term goals and aspirations.",
+  "quick_facts": {
+    "minimum_age": "1 year (subject to minimum maturity age of 18 years)",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum: ₹5,50,000; Maximum: Subject to Board Approved Underwriting Policy",
+    "policy_term": "Varies by premium payment term, from 5 to 17 years",
+    "waiting_period": ""
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the unfortunate event of Death of the Life Insured anytime during the policy term, provided the Policy is in-force, Sum Assured on Death shall be payable as a lump-sum to the nominee. The policy covers death under all situations except death due to suicide as specified in the suicide clause."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "On surviving till the end of policy term, Income Benefit is payable for 20, 25 or 30 years as per the Benefit Payout Frequency chosen. This can be under the 'Income Only Benefit' or 'Income with Lumpsum Benefit' option. Loyalty additions are also paid."
+    },
+    {
+      "type": "Guaranteed Lumpsum Benefit",
+      "description": "Payable at the end of the benefit payout period under the 'Income with Lumpsum Benefit' option. It is a percentage of Total Premiums Paid and is enhanced by 100% if all due premiums have been paid."
+    },
+    {
+      "type": "Rider Benefits",
+      "description": "Option to enhance insurance cover with riders like ABSLI Accidental Death Benefit Rider Plus, ABSLI Critical Illness Rider, ABSLI Surgical Care Rider, ABSLI Hospital Care Rider, and ABSLI Waiver of Premium Rider at a nominal extra cost."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Benefit Options",
+      "description": "Flexibility to choose between two benefit options: a) Income only Benefit or b) Income with Lumpsum Benefit."
+    },
+    {
+      "name": "Long-Term Income",
+      "description": "Get guaranteed regular income for a period of 20, 25 or 30 years to ensure fulfilment of your recurring needs."
+    },
+    {
+      "name": "Commutation Option",
+      "description": "Flexibility to receive a discounted value of future survival benefits as a lump sum based on your needs."
+    },
+    {
+      "name": "Guaranteed Lumpsum Benefit",
+      "description": "A guaranteed lumpsum benefit, if applicable, shall be payable at the end of the benefit payout period to boost your savings."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Loyalty Additions are paid as an additional boost to the Income Benefit pay-out during the benefit payout period, provided all premiums have been paid."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "You may take a loan against your Policy once it has acquired a surrender value. The minimum loan amount is ₹5,000 and the maximum is 80% of the then applicable surrender value."
+    },
+    {
+      "name": "Staggered Death Benefit",
+      "description": "The Nominee has an option to receive the amount of Death Benefit in Annual/Monthly instalments over a period of 10 years instead of a lump-sum."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "You may be entitled to certain applicable tax benefits on the premiums paid and benefits received under your Policy, subject to tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age of the Life Insured at Entry",
+      "value": "Minimum: 1 year (subject to minimum maturity age of 18 years). Maximum: 60 years."
+    },
+    {
+      "criteria": "Maturity Age of the Life Insured",
+      "value": "Minimum: 18 years. Maximum: 77 Years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "5, 6, 8, 10, or 12 years."
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "value": "Varies from 5 to 17 years, depending on the chosen PPT."
+    },
+    {
+      "criteria": "Benefit Payout Period",
+      "value": "20, 25, or 30 years."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "value": "₹50,000."
+    },
+    {
+      "criteria": "Maximum Annualized Premium",
+      "value": "No Limit (subject to Board Approved Underwriting Policy)."
+    },
+    {
+      "criteria": "Coverage for Individuals",
+      "value": "All Individuals (Male | Female | Transgender)."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the Life Insured dies by suicide within 12 months of the effective date of risk commencement or the date of revival of Policy, the Policy shall terminate. In such cases, the Company shall pay higher of Surrender Value or total premiums paid (excluding applicable taxes)."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Benefit Claim",
+      "description": "In case of death of the Life Insured during the policy term, the Sum Assured on Death is payable as a lump-sum to the nominee. The nominee can also opt to receive this benefit in annual or monthly instalments over 10 years."
+    },
+    {
+      "type": "Survival Benefit Claim",
+      "description": "On survival till the end of the policy term, Income Benefit is paid out for the chosen benefit payout period. In case of death during the benefit payout period, the Survival Benefit will continue to be paid to the nominee/legal heir(s)."
+    },
+    {
+      "type": "Nomination",
+      "description": "Nomination shall be applicable in accordance with provisions of Section 39 of the Insurance Act 1938, as amended from time to time."
+    },
+    {
+      "type": "Assignment",
+      "description": "Assignment shall be applicable in accordance with provisions of Section 38 of the Insurance Act 1938, as amended from time to time."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ABSLI Assured Income Plus?",
+      "answer": "It is a non-linked, non-participating individual savings life insurance plan from Aditya Birla Sun Life Insurance that provides life insurance cover along with a regular income for a period of 20, 25, or 30 years."
+    },
+    {
+      "question": "What are the two main benefit options available in this plan?",
+      "answer": "You can choose between two benefit options at inception: 1) Income Only Benefit or 2) Income with Lumpsum Benefit."
+    },
+    {
+      "question": "Can I change the benefit option after purchasing the policy?",
+      "answer": "No, the Benefit Option is chosen at the inception of the policy and cannot be changed thereafter."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this plan?",
+      "answer": "The minimum entry age is 1 year (subject to minimum maturity age of 18 years) and the maximum entry age is 60 years."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annualized premium required is ₹50,000."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "You can pay your premiums annually, semi-annually, quarterly, or monthly."
+    },
+    {
+      "question": "What is the benefit payout period?",
+      "answer": "The benefit payout period is the period after the policy term during which you receive the survival benefits. You can choose a period of 20, 25, or 30 years."
+    },
+    {
+      "question": "What happens if the life insured dies during the policy term?",
+      "answer": "In case of death of the life insured during the policy term, the Sum Assured on Death will be paid as a lump sum to the nominee and the policy will terminate."
+    },
+    {
+      "question": "How is the Sum Assured on Death calculated?",
+      "answer": "The Sum Assured on Death is defined as the higher of: a) 10 times the Annualized Premium, b) 150% of Total Premiums paid till the date of death, or c) Sum Assured."
+    },
+    {
+      "question": "Can the death benefit be received in instalments?",
+      "answer": "Yes, the nominee has an option to receive the death benefit in annual or monthly instalments over a period of 10 years instead of a lump-sum."
+    },
+    {
+      "question": "What is the Survival Benefit under this plan?",
+      "answer": "If you survive till the end of the policy term, you will receive a regular Income Benefit for the chosen benefit payout period. Depending on the option chosen, you may also receive a Guaranteed Lumpsum Benefit at the end of the payout period."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are an extra amount added to your Income Benefit each year during the benefit payout period, provided all due premiums have been paid. The percentage depends on your annualized premium and premium payment term."
+    },
+    {
+      "question": "What happens if the life insured dies during the benefit payout period?",
+      "answer": "If the life insured dies during the benefit payout period, the survival benefits (Income Benefit and Guaranteed Lumpsum Benefit, if any) will continue to be paid to the nominee or legal heirs."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can take a loan against the policy once it has acquired a surrender value. The maximum loan amount is 80% of the surrender value."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 30 days (15 days for monthly mode) is provided. If the premium is not paid within the grace period and the policy has not acquired a surrender value, it will lapse. If it has acquired a surrender value, it will become a Reduced Paid-Up (RPU) policy with reduced benefits."
+    },
+    {
+      "question": "When does the policy acquire a surrender value?",
+      "answer": "The policy acquires a surrender value after all due premiums for at least two full policy years are paid."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, you can revive a lapsed policy within a revival period of five years from the due date of the first unpaid premium, by paying all outstanding premiums with interest and providing evidence of insurability."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "You have a right to return the policy within 15 days (30 days for electronic policies) from the date of receipt if you are not satisfied with the terms and conditions. The premium paid will be refunded after some deductions."
+    },
+    {
+      "question": "What is the Commutation Option?",
+      "answer": "The Commutation Option gives you the flexibility to get a lump sum amount, which is the discounted value of the outstanding future survival benefits, instead of receiving them as regular income."
+    },
+    {
+      "question": "Are there any tax benefits available under this plan?",
+      "answer": "Yes, you may be entitled to applicable tax benefits on premiums paid and benefits received as per the prevailing tax laws. It is advisable to seek independent tax advice."
+    },
+    {
+      "question": "Can I add riders to enhance my coverage?",
+      "answer": "Yes, you can enhance your risk coverage by adding riders such as Accidental Death Benefit, Critical Illness, Surgical Care, Hospital Care, and Waiver of Premium for a nominal extra cost."
+    },
+    {
+      "question": "What is the 'Income with Lumpsum Benefit' option?",
+      "answer": "Under this option, in addition to the regular Income Benefit during the payout period, a Guaranteed Lumpsum Benefit is also payable at the end of the benefit payout period."
+    },
+    {
+      "question": "What happens if a minor is the life insured?",
+      "answer": "If the Life Insured is a minor, the policy will automatically vest once the life insured attains the age of majority. The risk coverage for the minor starts from the Date of Commencement of Risk."
+    },
+    {
+      "question": "Can I change the frequency of my income benefit payouts?",
+      "answer": "Yes, you have the flexibility to change the chosen Benefit Payout Frequency (annual, semi-annual, quarterly, monthly) during the policy term as per your changing needs."
+    },
+    {
+      "question": "What is the suicide clause in this policy?",
+      "answer": "If the life insured dies by suicide within 12 months from the start of the policy or its revival, the policy terminates. The company will pay the higher of the Surrender Value or the total premiums paid, excluding taxes."
+    },
+    {
+      "question": "Who can be covered under ABSLI Assured Income Plus?",
+      "answer": "The plan provides coverage for all individuals, including Male, Female, and Transgender."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "The policy terminates on the earliest of payment of surrender value, settlement of death benefit, end of the benefit payout period, end of the revival period for a lapsed policy, or on payment of the free look cancellation amount, among other conditions."
+    }
+  ],
+  "source_file": "ABSLI_Assured_Income_Plus_Brochure_Web_version_V10_9571050b25.txt",
+  "category": "LI Plan Brochure"
+}

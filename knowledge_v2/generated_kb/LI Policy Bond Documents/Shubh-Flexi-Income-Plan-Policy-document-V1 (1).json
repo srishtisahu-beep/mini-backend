@@ -1,0 +1,265 @@
+{
+  "product_name": "Tata AIA Shubh Flexi Income Plan",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Individual, Non-linked, Participating, Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "An individual, non-linked, participating life insurance savings plan that provides guaranteed lumpsum benefits, supplemented by the declaration of non-guaranteed regular reversionary or cash bonuses, along with a terminal bonus. It offers three benefit options: Endowment, Early Income, and Deferred Income, each catering to different financial goals with varying payout structures for survival, maturity, and death benefits.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Sum Assured on Death is the highest of 11 x Annualised Premium or Basic Sum Assured on Death. Sum Assured on Maturity is equal to Maturity Benefit Multiple (MBM) × Total Premiums Payable.",
+    "policy_term": "As chosen by the Policyholder at the inception of the Policy.",
+    "waiting_period": "If death of the Life Insured occurs during the first 90 days from the Date of Commencement of Risk (for Point-of-Sale Product), the Total Premiums Paid will be refunded. This is not applicable for accidental death."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On death of the Life Insured during the Policy Term, a lumpsum death benefit is paid to the Claimant, provided the policy is in-force. The benefit varies by the chosen option.",
+      "details": [
+        {
+          "option": "Option 1 (Endowment) & Option 3 (Deferred Income)",
+          "benefit": "Sum Assured on Death + Accrued Simple Reversionary Bonus (if any) + Interim Bonus (if any) + Terminal Bonus on Death (if declared)."
+        },
+        {
+          "option": "Option 2 (Early Income)",
+          "benefit": "Sum Assured on Death + Interim Bonus (if any) + Terminal Bonus on Death (if declared)."
+        }
+      ],
+      "minimum_benefit": "The minimum Death Benefit shall be 105% of Total Premiums Paid (excluding modal loadings) as on the date of death."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "Payable upon survival of the Life Insured during the policy term, post the deferment period, as per the chosen option and payout frequency.",
+      "details": [
+        {
+          "option": "Option 1 (Endowment)",
+          "benefit": "No survival benefit is payable."
+        },
+        {
+          "option": "Option 2 (Early Income) & Option 3 (Deferred Income)",
+          "benefit": "You shall receive Cash Bonus, if declared, until the death of the Life Insured or end of the Policy Term, whichever is earlier."
+        }
+      ]
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "Payable if the Life Insured survives till the end of the Policy Term, provided the policy is in-force and all due premiums have been paid.",
+      "details": [
+        {
+          "option": "Option 1 (Endowment)",
+          "benefit": "Sum Assured on Maturity + Accrued Reversionary Bonus (if any) + Terminal Bonus on Maturity (if declared)."
+        },
+        {
+          "option": "Option 2 (Early Income)",
+          "benefit": "Sum Assured on Maturity + Balance in Sub-wallet (if any) + Terminal Bonus on Maturity (if declared)."
+        },
+        {
+          "option": "Option 3 (Deferred Income)",
+          "benefit": "Sum Assured on Maturity + Accrued Simple Reversionary Bonus (if any) + Balance in Sub-wallet (if any) + Terminal Bonus on Maturity (if declared)."
+        }
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Non-Guaranteed Bonuses",
+      "description": "The plan participates in profits and may receive Regular Bonus, Interim Bonus, and Terminal Bonus, as declared by the company annually. Once declared, bonuses become guaranteed."
+    },
+    {
+      "name": "Cover Continuance Benefit (Optional)",
+      "description": "If chosen, upon the death of the Life Insured, the policy continues to be in force, future premiums are waived, and the policy continues to participate in bonuses. This benefit can be opted only if the Life Assured and Proposer are the same person."
+    },
+    {
+      "name": "Waiver of Premium Benefit (Optional)",
+      "description": "If chosen, upon the death of the proposer (who is different from the Life Insured), future outstanding premiums are waived, and the policy continues as if in force. This benefit can be opted only if the Life Assured and Proposer are different people."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "You may apply for a loan up to 80% of the Surrender Value once the policy acquires a surrender value. The policy must be assigned to the company."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "An option to receive the Maturity Benefit in equal instalments over a period of 3 to 5 years instead of a lumpsum. This must be exercised at least 3 months prior to the maturity date."
+    },
+    {
+      "name": "Sub-Wallet Feature",
+      "description": "You can choose to receive full or part of the survival benefits into a 'Sub-Wallet', which earns loyalty additions. You can withdraw the balance from the Sub-wallet at any time during the policy term."
+    },
+    {
+      "name": "Premium Offset Feature (Option 2 Only)",
+      "description": "Under Option 2, you may opt to use the survival benefits payable to offset the premium due. If the benefit is insufficient, the balance premium must be paid."
+    },
+    {
+      "name": "Health Management Services",
+      "description": "Eligible Life Insureds can avail Second Opinion, Personal Medical Case Management, or Medical Consultation services from affiliated service providers at no additional cost."
+    }
+  ],
+  "eligibility": [],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "condition": "In case of death due to suicide within 12 months from the Date of Commencement of Risk or from the date of revival of the Policy.",
+      "payout": "The Claimant shall be entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death, whichever is higher.",
+      "policy_status": "The Policy shall terminate, and no further benefits shall be payable."
+    },
+    {
+      "type": "Waiting Period (Point-of-Sale Product)",
+      "condition": "If death of any of the Life Insureds occurs during the first 90 days from the Date of Commencement of Risk due to non-accidental causes.",
+      "payout": "We shall refund the Total Premiums Paid.",
+      "policy_status": "The Policy will terminate with immediate effect."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Notification",
+      "details": "All cases of death must be notified to the company in writing within a period of 90 days. Delay may be condoned on merit for reasons beyond the Claimant's control."
+    },
+    {
+      "type": "Death Claim Requirements (Common)",
+      "documents": [
+        "Claimant Statement",
+        "Copy of Death Certificate issued by a local Municipal Authority",
+        "Original Policy Document",
+        "Copy of Claimant's Photo Identification Proof & Current Address Proof",
+        "Cancelled cheque with name and account number printed or cancelled cheque with copy of Bank Passbook / Bank Statement",
+        "Proof of legal title to the claim proceeds (if no nomination)"
+      ]
+    },
+    {
+      "type": "Death Claim Requirements (Additional)",
+      "details": "Additional documents are required based on the cause of death. For medical/natural death: Attending Physician's Statement, Medical Records. For unnatural death: FIR, Post Mortem Report, Final Police Investigation Report."
+    },
+    {
+      "type": "Maturity Claim Requirements",
+      "documents": [
+        "NEFT Form",
+        "A cancelled cheque or copy of passbook with pre-printed name and bank account number",
+        "A self-attested photo ID proof"
+      ]
+    },
+    {
+      "type": "Claims Intimation Process",
+      "methods": [
+        "Online claim intimation at https://www.tataaia.com/premium-payment/claim-authentication.html",
+        "Email to claims@tataaia.com",
+        "Call helpline number 1-860-266-9966",
+        "Visit any branch office",
+        "Write to the Claims Department at the specified address",
+        "Contact your Agent/Intermediary"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Tata AIA Shubh Flexi Income Plan?",
+      "answer": "It is an Individual, Non-linked, Participating, Life Insurance Savings Plan that provides guaranteed benefits as a lumpsum, supplemented by non-guaranteed bonuses, with options for endowment, early income, or deferred income."
+    },
+    {
+      "question": "What are the three benefit options available under this plan?",
+      "answer": "The plan offers three options: Option 1 – Endowment, Option 2 – Early Income, and Option 3 – Deferred Income. The option must be chosen at the inception of the policy."
+    },
+    {
+      "question": "Can I change my chosen benefit option after the policy has started?",
+      "answer": "No, the option(s) once chosen at the inception of the policy cannot be altered later."
+    },
+    {
+      "question": "What is a 'Deferment Period'?",
+      "answer": "The Deferment Period, applicable under Option 2 and Option 3, is the period during which no survival benefit is payable. It is chosen by the policyholder at inception and cannot be changed later."
+    },
+    {
+      "question": "What is the death benefit under this policy?",
+      "answer": "The death benefit includes the Sum Assured on Death plus applicable bonuses. For Option 1 & 3, it includes Accrued Simple Reversionary Bonus. The minimum death benefit is 105% of total premiums paid."
+    },
+    {
+      "question": "Are survival benefits paid under all options?",
+      "answer": "No. Survival benefits, in the form of Cash Bonus (if declared), are payable only under Option 2 (Early Income) and Option 3 (Deferred Income) after the deferment period."
+    },
+    {
+      "question": "What is the maturity benefit under the 'Endowment' (Option 1)?",
+      "answer": "The maturity benefit for Option 1 is the Sum Assured on Maturity, plus any Accrued Reversionary Bonus, and a Terminal Bonus on Maturity, if declared."
+    },
+    {
+      "question": "Are the bonuses in this plan guaranteed?",
+      "answer": "The bonuses (Regular, Interim, Terminal) are not guaranteed and are declared annually by the company based on its performance. However, once a bonus is declared, it becomes guaranteed to be paid as per the policy terms."
+    },
+    {
+      "question": "What is the optional 'Cover Continuance Benefit'?",
+      "answer": "If this option is chosen and the Life Insured dies, the death benefit is paid, future premiums are waived, and the policy continues to receive benefits like bonuses until the end of the policy term."
+    },
+    {
+      "question": "What is the optional 'Waiver of Premium Benefit'?",
+      "answer": "This can be opted for when the policyholder and life insured are different. If the policyholder dies, all future premiums are waived by the company, and the policy continues with all benefits for the life insured."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other payment frequencies (quarterly, half-yearly, annual)."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums are not paid within the grace period and the policy has not acquired a surrender value (after one full year's premium is paid), the policy will lapse and no benefits will be payable. If it has acquired a surrender value, it will become a 'Reduced Paid-up' policy with reduced benefits."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed or reduced paid-up policy can be revived within a revival period of five consecutive years from the date of the first unpaid premium, subject to payment of all overdue premiums with interest and submission of health declarations."
+    },
+    {
+      "question": "What happens in case of death due to suicide?",
+      "answer": "If death by suicide occurs within 12 months from the policy's start or revival date, the claimant will receive at least 80% of the total premiums paid or the surrender value, whichever is higher. The policy then terminates."
+    },
+    {
+      "question": "Is there a waiting period for claims at the start of the policy?",
+      "answer": "Yes, for point-of-sale products, if death (other than by accident) occurs within the first 90 days from the start of the policy, the company will refund the total premiums paid and the policy will terminate."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can apply for a loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "You have a period of 30 days after you receive the policy document to review the terms and conditions. If you are not satisfied, you can cancel the policy and receive a refund of premiums paid, after certain deductions."
+    },
+    {
+      "question": "How can I file a claim?",
+      "answer": "You can intimate a claim online, via email (claims@tataaia.com), by calling the helpline, visiting a branch, or contacting your agent. You must notify the company of a death claim within 90 days."
+    },
+    {
+      "question": "What are the basic documents required for a death claim?",
+      "answer": "The primary documents are the Claimant's Statement, copy of the Death Certificate, original Policy Document, and the claimant's ID, address proof, and bank details."
+    },
+    {
+      "question": "What is the 'Sub-Wallet' feature?",
+      "answer": "It is an option to receive your survival benefits into a digital wallet, which accrues loyalty additions. You can withdraw this amount, in part or full, at any time during the policy term."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can change the frequency of premium payments (from annual to half-yearly, quarterly, or monthly, and vice-versa) by submitting a written request. This may lead to a change in the premium amount due to modal loadings."
+    },
+    {
+      "question": "What is the 'Settlement Option' for maturity benefit?",
+      "answer": "It allows you to receive the maturity benefit in instalments over a period of 3 to 5 years, instead of a single lumpsum. You must choose this option at least 3 months before the policy's maturity date."
+    },
+    {
+      "question": "When does the policy acquire a surrender value?",
+      "answer": "The policy acquires a surrender value upon completion of one policy year, provided one full year's premium has been paid."
+    },
+    {
+      "question": "What is a 'Reduced Paid-up' policy?",
+      "answer": "If you stop paying premiums after the policy has acquired a surrender value, it automatically converts to a Reduced Paid-up policy. The benefits under the policy, such as Sum Assured on Death and Maturity, are reduced proportionally to the number of premiums paid."
+    },
+    {
+      "question": "What is the 'Special Date' feature for survival benefits?",
+      "answer": "Under Options 2 and 3, you can choose to receive your survival benefit payouts on a specific date of your choice, such as a birthday or anniversary, instead of on the policy anniversary."
+    },
+    {
+      "question": "What is 'Annualised Premium'?",
+      "answer": "It is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums. It is the base premium before any discounts."
+    },
+    {
+      "question": "What are the Health Management Services offered with this plan?",
+      "answer": "Eligible life insureds can avail services like Second Opinion, Personal Medical Case Management, and Medical Consultation from service providers affiliated with Tata AIA, at no additional cost."
+    }
+  ],
+  "source_file": "Shubh-Flexi-Income-Plan-Policy-document-V1 (1).txt",
+  "category": "LI Policy Bond Documents"
+}

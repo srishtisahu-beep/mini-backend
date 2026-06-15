@@ -1,0 +1,173 @@
+{
+  "product_name": "Kotak Fortune Maximiser",
+  "product_type": "Non-Linked Participating Savings Life Insurance Plan",
+  "summary": "A participating savings life insurance plan offering guaranteed maturity benefits, death benefits, and survival benefits through cash bonuses and paid-up additions. Available with three plan options: Life Goal Maximiser, Bright Future Maximiser, and Golden Years Maximiser. Includes optional spouse cover and various rider benefits.",
+  "definitions": [
+    {
+      "term": "Basic Sum Assured",
+      "definition": "The guaranteed maturity benefit payable on the death of Life Insured/Primary Life Insured or maturity of the Policy"
+    },
+    {
+      "term": "Cash Bonus",
+      "definition": "Survival benefit payable by the Company calculated as Cash Bonus Rate multiplied by Basic Sum Assured under the Policy. Not guaranteed and applicable if all due premiums are paid"
+    },
+    {
+      "term": "Paid-Up Additions",
+      "definition": "Additional guaranteed benefits payable on death or maturity, purchased using declared cash bonuses"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "30 days from due date for annual, half-yearly and quarterly mode; 15 days for monthly mode for premium payment without penalty"
+    },
+    {
+      "term": "Sum Assured on Death",
+      "definition": "Highest of: 11 times Annualized Premium, Basic Sum Assured, or 105% of all Premiums paid till date of death"
+    }
+  ],
+  "waiting_periods": [],
+  "exclusions": [],
+  "claims_process": [],
+  "important_conditions": [
+    {
+      "condition": "Minimum age at entry is 90 days for Life Insured, 18 years for Primary Life Insured and Spouse"
+    },
+    {
+      "condition": "Maximum entry age varies by Premium Payment Term: 6 years (50 years), 8/10/12 years (55 years), 15 years (50 years)"
+    },
+    {
+      "condition": "Maximum age for Spouse at entry is 60 years"
+    },
+    {
+      "condition": "Maturity age is fixed at 85 years"
+    },
+    {
+      "condition": "Policy lapses if premiums for first two consecutive years are not paid within Grace Period"
+    },
+    {
+      "condition": "Surrender value acquired after payment of 2 consecutive full years' premiums"
+    },
+    {
+      "condition": "Revival allowed within 5 years from first unpaid premium date"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the three plan options available?",
+      "answer": "Life Goal Maximiser, Bright Future Maximiser, and Golden Years Maximiser. The plan option chosen at inception cannot be changed during the Policy Term."
+    },
+    {
+      "question": "What is the minimum and maximum entry age?",
+      "answer": "Minimum age is 90 days for Life Insured, 18 years for Primary Life Insured and Spouse. Maximum entry age depends on Premium Payment Term and ranges from 50-55 years for Primary Life Insured, 60 years for Spouse."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "30 days from due date for annual, half-yearly and quarterly mode; 15 days for monthly mode, without levy of interest or penalty."
+    },
+    {
+      "question": "How is Sum Assured on Death calculated?",
+      "answer": "Highest of: 11 times Annualized Premium plus extra premium, Basic Sum Assured, or 105% of all Premiums paid till date of death."
+    },
+    {
+      "question": "When does the policy lapse?",
+      "answer": "If premiums for the first two consecutive Policy years are not paid within the Grace Period, the policy lapses from the due date of the first unpaid premium."
+    },
+    {
+      "question": "When can I surrender the policy?",
+      "answer": "Surrender value is acquired after payment of 2 consecutive full years' premiums. You can surrender anytime after that before maturity."
+    },
+    {
+      "question": "What is the revival period?",
+      "answer": "You can revive a lapsed policy within 5 years from the date of first unpaid premium and before maturity date."
+    },
+    {
+      "question": "What are the different bonus options available?",
+      "answer": "Cash Bonus Payout - Immediate, Cash Bonus Payout - Deferred, and Paid-Up Additions option."
+    },
+    {
+      "question": "How does the Cash Bonus Payout - Immediate option work?",
+      "answer": "Cash bonuses are payable at the end of each policy year. First year bonus is payable at end of 13th policy month. You can choose yearly or monthly payout."
+    },
+    {
+      "question": "What is the Cash Bonus Payout - Deferred option?",
+      "answer": "You can defer cash bonus for 5, 7, or 10 years. No cash bonus is declared during the deferment period. Payouts start after the deferment period ends."
+    },
+    {
+      "question": "How do Paid-Up Additions work?",
+      "answer": "Cash bonuses are used to purchase additional sum assured (Paid-Up Additions) using Paid-Up Addition factors. These additions also participate in future bonuses."
+    },
+    {
+      "question": "Can I change my bonus option during the policy term?",
+      "answer": "You can change from Cash Payout to Paid-Up Addition once during policy term by giving written request 3 months prior to policy anniversary. Change from Paid-Up Addition to Cash Payout is not allowed."
+    },
+    {
+      "question": "What is the Spouse Cover Option?",
+      "answer": "An option covering two lives - Primary Life Insured and Spouse. Spouse sum assured can range from 50% to 100% of Primary Life Insured's Basic Sum Assured."
+    },
+    {
+      "question": "What happens on death of Primary Life Insured under Spouse Cover?",
+      "answer": "Death benefit is paid, future premiums are waived, and spouse cover continues until spouse reaches 85 years or policy term ends."
+    },
+    {
+      "question": "What riders are available?",
+      "answer": "Kotak Accidental Death Benefit, Permanent Disability Benefit, Term Benefit, Life Guardian Benefit, Accidental Disability Guardian Benefit, and Critical Illness Plus Benefit riders."
+    },
+    {
+      "question": "What are the modal factors for premium payment?",
+      "answer": "Yearly: 100%, Half-yearly: 51%, Quarterly: 26%, Monthly: 8.8% of yearly premium."
+    },
+    {
+      "question": "What is Minor Revival?",
+      "answer": "Revival within 6 months from first unpaid premium due date without evidence of good health, paying outstanding premiums plus 9% simple interest."
+    },
+    {
+      "question": "What is Major Revival?",
+      "answer": "Revival after 6 months but within 5 years, requiring evidence of good health and payment of premiums in arrears plus 9% simple interest."
+    },
+    {
+      "question": "How is Guaranteed Surrender Value calculated?",
+      "answer": "Percentage of total premiums paid (per GSV factors table) less total applicable survival benefits paid, or zero, whichever is higher."
+    },
+    {
+      "question": "What happens when policy becomes Reduced Paid-Up?",
+      "answer": "Basic Sum Assured is reduced proportionately based on premiums paid vs. total premiums payable. No future bonuses are declared unless policy is revived."
+    },
+    {
+      "question": "Are loans available under this policy?",
+      "answer": "No, there are no loans provided under this policy."
+    },
+    {
+      "question": "What happens when a minor Life Insured attains majority?",
+      "answer": "The policy automatically vests in the Life Insured at age 18, and the company will correspond directly with them thereafter."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "15 days for regular policies (30 days for electronic policies) to return the policy if not agreeable to provisions, stating reasons thereof."
+    },
+    {
+      "question": "How does the Bright Future Maximiser plan work?",
+      "answer": "Designed for child's future, cash bonuses purchase Paid-Up Additions for selected tenure (5-18 years). At tenure end, accrued additions are paid as survival benefit."
+    },
+    {
+      "question": "How does the Golden Years Maximiser plan work?",
+      "answer": "Cash bonuses purchase Paid-Up Additions until Primary Life Insured's 60th birthday, then accrued additions are paid as lump-sum survival benefit."
+    },
+    {
+      "question": "Can Paid-Up Additions be encashed during policy term?",
+      "answer": "Yes, from second policy year onwards, up to 6 times per year, subject to minimum cash value of Rs. 3,000. Remaining additions continue to participate in profits."
+    },
+    {
+      "question": "What is Terminal Bonus?",
+      "answer": "Additional bonus that may be declared on maturity, death (if policy completed 25 years), or surrender (if policy completed 3 years), expressed as percentage of Basic Sum Assured and Paid-Up Additions."
+    },
+    {
+      "question": "What is Interim Bonus?",
+      "answer": "Bonus that may be declared for in-force premium paying policies exiting between policy anniversaries due to death or surrender, calculated proportionately from previous anniversary."
+    },
+    {
+      "question": "How is monthly cash bonus calculated?",
+      "answer": "Monthly cash bonus payout = 96% × (yearly cash bonus payout) ÷ 12."
+    }
+  ],
+  "source_file": "Kotak_Fortune_Maximiser_Policy_Document.txt",
+  "category": "LI Policy Bond Documents"
+}

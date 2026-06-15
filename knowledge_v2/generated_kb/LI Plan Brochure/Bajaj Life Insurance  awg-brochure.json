@@ -1,0 +1,192 @@
+{
+  "product_name": "Bajaj Life Assured Wealth Goal",
+  "company": "Bajaj Life",
+  "product_type": "Non-Linked, Non-Participating, Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings & Investment",
+  "summary": "A non-participating, non-linked life insurance plan designed to provide guaranteed income and wealth creation to meet long-term financial goals like a child's higher education. It offers various options including different premium payment terms, policy terms, deferment periods, and a joint life cover option under the single premium variant.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Calculated as Premium multiplied by SA Multiple. For POS channel, the maximum is Rs. 25 lacs. Sum Assured on Death is the higher of Sum Assured or 10 times the Annualised Premium.",
+    "policy_term": "Varies based on the variant chosen. For the POS channel, the maximum policy term is 20 years.",
+    "waiting_period": ""
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "On the death of the life assured, the nominee receives the Sum Assured on Death. This benefit can be taken as a lump sum or in regular income payouts."
+    },
+    {
+      "name": "Survival & Maturity Benefit",
+      "description": "On survival of the life assured and payment of all due premiums, the plan offers Regular Guaranteed Payouts. There is also an option to receive the benefit as a lump sum at maturity."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Payouts",
+      "description": "Receive regular guaranteed income in arrears after the end of the Deferment Period. The default option is yearly payouts."
+    },
+    {
+      "name": "Return of Premium (ROP)",
+      "description": "An option is available to get a Return of Premium (ROP), which is the sum of all premiums paid under the policy."
+    },
+    {
+      "name": "Joint Life Cover",
+      "description": "A joint life option is available exclusively under the Wealth Creation – Single premium payment variant."
+    },
+    {
+      "name": "Optional Rider",
+      "description": "The plan offers the optional Bajaj Life Waiver of Premium (WOP) Rider."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan facility is available under Variant 6 of the plan."
+    },
+    {
+      "name": "Higher Benefits for specific customers",
+      "description": "Higher benefits are provided to customers paying higher premiums, existing customers, and those who opt for auto pay/auto debit."
+    },
+    {
+      "name": "Flexibility in Payouts",
+      "description": "The nominee can choose to receive death benefits as a lump sum or in installments. Similarly, maturity benefits can be taken as a lump sum."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Life Assured",
+      "details": "The policy can be taken on a Single Life or Joint Life basis. For joint life, relationships can be spouse, child, parent, grandparent, etc., subject to underwriting norms."
+    },
+    {
+      "criteria": "Minor Lives",
+      "details": "In the case of a policy for a minor, it will vest on the life assured on the earlier of attaining age 18 or the maturity date."
+    },
+    {
+      "criteria": "Female Lives",
+      "details": "For female lives, an age set-back of 3 years is applicable for the calculation of Sum Assured Multiple and Maturity Benefit/Income payout."
+    },
+    {
+      "criteria": "POS Channel",
+      "details": "For policies purchased through the POS channel: Maximum Maturity Age is 65 years, only Single life is available, Maximum Policy Term is 20 years, Maximum Sum Assured is Rs. 25 lacs, and no medical underwriting is required."
+    }
+  ],
+  "exclusions": [],
+  "claims_information": [
+    {
+      "type": "Nomination",
+      "details": "Nomination should be in accordance with the provisions of section 39 of the Insurance Act 1938 as amended from time to time."
+    },
+    {
+      "type": "Death Claim Payout",
+      "details": "The option to receive the death benefit as a lump sum or in installments can be exercised at the time of death intimation."
+    },
+    {
+      "type": "Contact",
+      "details": "For any queries or claims, contact details are provided in the policy document."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Bajaj Life Assured Wealth Goal plan?",
+      "answer": "It is an insurance plan designed to create a corpus for financial goals like a child's higher education by providing guaranteed benefits and payouts."
+    },
+    {
+      "question": "What is the 'Income Period' in this plan?",
+      "answer": "The Income Period is the period over which you receive your guaranteed benefits in the form of regular payouts."
+    },
+    {
+      "question": "Can I change my plan options like Policy Term or Deferment Period after the policy starts?",
+      "answer": "No. The Variant, Deferment Period, Income Period, Premium Payment Term, Policy Term, and Return of Premium (ROP) option, once chosen, cannot be changed."
+    },
+    {
+      "question": "What are 'Regular Guaranteed Payouts'?",
+      "answer": "These are the guaranteed income payments made to you after the Deferment Period ends. The default payout frequency is yearly."
+    },
+    {
+      "question": "What is the 'Deferment Period'?",
+      "answer": "The Deferment Period is the number of years after the end of your Premium Payment Term (PPT) and before your Income Period begins."
+    },
+    {
+      "question": "How is the Sum Assured on Death calculated?",
+      "answer": "The Sum Assured on Death is the higher of the Sum Assured or 10 times the Single/Annualised Premium."
+    },
+    {
+      "question": "How is the basic Sum Assured determined?",
+      "answer": "The Sum Assured is calculated by multiplying the premium by the Sum Assured Multiple (SA Multiple)."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "Annualized Premium is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and any loadings for modal premiums."
+    },
+    {
+      "question": "Is a joint life policy available with this plan?",
+      "answer": "Yes, a joint life option is available, but only under the Wealth Creation – Single premium payment option."
+    },
+    {
+      "question": "Who can be covered under a joint life policy?",
+      "answer": "The relationship between the two Life Assureds can be spouse, child, parent, grandparent, or other relationships based on underwriting norms."
+    },
+    {
+      "question": "Can I get higher benefits with this policy?",
+      "answer": "Yes, higher benefits are offered to customers who pay higher premiums, existing customers of the company, and customers who opt for auto pay/auto debit for premium payments."
+    },
+    {
+      "question": "Can I take the maturity benefit as a single lump sum amount?",
+      "answer": "Yes, you can exercise the option to take the maturity benefit as a lump sum at the time of maturity."
+    },
+    {
+      "question": "Does the nominee have a choice in how to receive the death benefit?",
+      "answer": "Yes, the nominee can choose to receive the death benefit as a lump sum or as regular income payouts."
+    },
+    {
+      "question": "Is there a waiver of premium rider available?",
+      "answer": "Yes, the Bajaj Life Waiver of Premium (WOP) Rider is available as an optional benefit with this plan."
+    },
+    {
+      "question": "When does the risk cover start under this policy?",
+      "answer": "The risk cover commences immediately on the date of commencement of risk of the policy."
+    },
+    {
+      "question": "What happens if the policy is for a minor?",
+      "answer": "For a minor life, the policy will vest on the life assured on the earlier of them attaining the age of 18 (majority) or the policy maturity date."
+    },
+    {
+      "question": "Are there any special provisions for female policyholders?",
+      "answer": "Yes, for female lives, a 3-year age set-back is applied for the purpose of calculating the SA Multiple and Maturity Benefit/Income payout."
+    },
+    {
+      "question": "How is the Income Period calculated for variants 1 to 5?",
+      "answer": "For variants 1 to 5, the formula is: Income period = Policy term – Premium Payment Term – Deferment period."
+    },
+    {
+      "question": "What are the specific conditions for policies bought through the POS channel?",
+      "answer": "For the POS channel, the maximum maturity age is 65 years, only single life policies are available, the maximum policy term is 20 years, the maximum Sum Assured is Rs. 25 lacs, and no medical underwriting is required."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "A loan facility is mentioned as being available under Variant 6 of the plan. The interest rate is benchmarked to the G-Sec yield."
+    },
+    {
+      "question": "What is meant by the 'Return of Premium (ROP)' option?",
+      "answer": "The Return of Premium (ROP) option means you will receive the sum total of all premiums paid under the base policy."
+    },
+    {
+      "question": "Is this product available for purchase online?",
+      "answer": "Yes, the product is available for sale through the online mode."
+    },
+    {
+      "question": "In a joint life policy, who is considered the primary life assured?",
+      "answer": "In a Single Pay with Joint life policy under the Wealth Creation option, the older life assured is considered the primary life assured."
+    },
+    {
+      "question": "What does 'Total Premiums paid' exclude?",
+      "answer": "It excludes any extra premium, rider premium, and GST or any other applicable tax."
+    },
+    {
+      "question": "When does the income period start for variant 6?",
+      "answer": "For variant 6, the Income Period will commence after the end of the policy term."
+    }
+  ],
+  "source_file": "Bajaj Life Insurance  awg-brochure.txt",
+  "category": "LI Plan Brochure"
+}

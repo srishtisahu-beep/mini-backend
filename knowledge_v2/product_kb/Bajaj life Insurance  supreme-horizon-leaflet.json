@@ -1,0 +1,229 @@
+{
+  "product_name": "Bajaj Life Supreme Horizon",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "Unit-linked Non-Participating Individual Life Savings Insurance Plan",
+  "insurance_type": "Life Savings Insurance",
+  "plan_category": "ULIP",
+  "summary": "A Unit-linked Non-Participating Individual Life Savings Insurance Plan that offers potentially high market-linked returns where the investment risk is borne by the policyholder. The plan provides a combination of life insurance cover with maturity and death benefits. It features additions to the fund such as Guaranteed Wealth Booster, Return of Mortality Charges, and Loyalty Additions. The plan is designed to help achieve various life goals like education, home ownership, and retirement.",
+  "quick_facts": {
+    "minimum_age": "0 Years (age as on last birthday)",
+    "maximum_age": "Regular/Limited Pay: 60 years; Single Pay: 70 years (age as on last birthday)",
+    "sum_insured": "Varies based on age, premium type and amount. For example, for a regular premium policy with entry age 0-30, the minimum sum assured is 10 times the annualized premium and the maximum is 30 times the annualized premium.",
+    "policy_term": "15, 20, 25, 30, 40 years and Whole Life",
+    "waiting_period": "The policy has a lock-in period of five years. The policyholder cannot surrender or withdraw monies, completely or partially, till the end of the fifth year."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Assured during the Policy term while the policy is in force, the benefit payable will be the Higher of: a. Prevailing Sum Assured (including top-up sum assured), b. Fund Value as available on date of intimation of death, or c. Guaranteed Death Benefit i.e. 105% of Total Premiums Paid till the date of death. The policy terminates on intimation of death."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the life assured until the Maturity Date, the Fund Value is payable. The policyholder can opt to receive this benefit as a lump-sum or as a systematic payout for a maximum of five years under the Settlement Option."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Market Linked Returns",
+      "description": "Opportunity to get potentially high market-linked returns by investing in a choice of funds."
+    },
+    {
+      "name": "Guaranteed Wealth Booster",
+      "description": "Premium Allocation Charges deducted are accumulated at a guaranteed rate of 7% per year (compounded annually) and added to the fund value at the end of the 15th policy year."
+    },
+    {
+      "name": "Return of Mortality Charge (ROMC)",
+      "description": "Life cover charges (Mortality Charges) deducted during the policy term are added back to the fund value at specified intervals: 100% of charges till the 15th year are returned at the end of the 15th year, and subsequently every 5 years for charges deducted in the last 5 years, and the balance at maturity."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Starting from the 16th policy year, 0.25% of the average fund value of the last 3 years is added to the fund value as additional units at the end of every year until the end of the policy term."
+    },
+    {
+      "name": "Systematic Partial Withdrawals",
+      "description": "Facility to make systematic partial withdrawals after the 5-year lock-in period, providing a potential second income stream."
+    },
+    {
+      "name": "Fund Switching",
+      "description": "Provides the flexibility to switch investments between available funds."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be applicable as per prevailing Section 10(10D) and Section 80C of the Income Tax Act (under old tax regime). Consultation with a tax advisor is recommended."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Minimum Age at Entry",
+      "value": "0 Years (age as on last birthday)"
+    },
+    {
+      "parameter": "Maximum Age at Entry",
+      "value": "Regular/Limited Pay: 60 years; Single Pay: 70 years"
+    },
+    {
+      "parameter": "Minimum Age at Maturity",
+      "value": "18 Years"
+    },
+    {
+      "parameter": "Maximum Age at Maturity",
+      "value": "Whole Life"
+    },
+    {
+      "parameter": "Policy Term",
+      "value": "15, 20, 25, 30, 40 years and Whole Life"
+    },
+    {
+      "parameter": "Premium Payment Term",
+      "value": "Regular/Limited Pay: 5 years up to 75 years minus entry age; Single Pay: One-time payment"
+    },
+    {
+      "parameter": "Premium Payment Frequency",
+      "value": "Annual, Half Yearly, Quarterly, Monthly, Single Pay"
+    },
+    {
+      "parameter": "Minimum Premium",
+      "value": "Annual: Rs.12,000; Half Yearly: Rs.6,000; Quarterly: Rs.4,000; Monthly: Rs.1,000; Single Pay: Rs.20,000"
+    },
+    {
+      "parameter": "Maximum Premium",
+      "value": "No Limit, subject to Board Approved Underwriting Policy (BAUP)"
+    },
+    {
+      "parameter": "Minimum Top-up Premium",
+      "value": "Rs. 5,000"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Liquidity Lock-in",
+      "description": "The policyholder will not be able to surrender or withdraw monies invested completely or partially till the end of the fifth year."
+    },
+    {
+      "name": "Benefit Non-applicability on Surrender/Discontinuation",
+      "description": "Guaranteed Wealth Booster, Return of Mortality Charges, and Loyalty Additions will not be applicable if the policy is surrendered, discontinued, or converted to paid-up."
+    },
+    {
+      "name": "Top-up Premium Exclusions",
+      "description": "Guaranteed Wealth Booster is not applicable to premium allocation charges on top-up premiums. Loyalty Additions are not applicable to Top-up premiums paid or Top-up Premium Fund Value. Return of Mortality charge addition excludes extra mortality charge."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "The policy will terminate on the date of intimation of death of the life assured, and the death benefit will be payable."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Bajaj Life Supreme Horizon?",
+      "answer": "It is a Unit-linked Non-Participating Individual Life Savings Insurance Plan (ULIP) from Bajaj Life Insurance. It provides life insurance cover and market-linked investment returns, where the investment risk is borne by the policyholder."
+    },
+    {
+      "question": "Who bears the investment risk in this policy?",
+      "answer": "The investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is the highest of: a) Prevailing Sum Assured (including top-up), b) Fund Value on the date of death intimation, or c) 105% of total premiums paid till the date of death."
+    },
+    {
+      "question": "What will I receive on maturity?",
+      "answer": "If the life assured is alive on the maturity date, the Fund Value shall be payable. You can take this as a lump sum or in installments over a maximum of five years."
+    },
+    {
+      "question": "Is there a lock-in period for this plan?",
+      "answer": "Yes, there is a lock-in period of five years. You cannot surrender or withdraw funds, either fully or partially, during this period."
+    },
+    {
+      "question": "What is the Guaranteed Wealth Booster?",
+      "answer": "It is a feature where the Premium Allocation Charges deducted are accumulated at a guaranteed rate of 7% per year (compounded) and added back to your fund value at the end of the 15th policy year."
+    },
+    {
+      "question": "What is the Return of Mortality Charge (ROMC) benefit?",
+      "answer": "Under this benefit, the mortality charges deducted for your life cover are added back to your fund value at specific intervals - at the end of the 15th year, every 5th year thereafter, and at maturity."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Starting from the end of the 16th policy year, Loyalty Additions of 0.25% of the average fund value of the last 3 years are added to your fund as additional units every year till the end of the policy term."
+    },
+    {
+      "question": "What is the minimum age to get this policy?",
+      "answer": "The minimum age at entry is 0 years."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "The maximum entry age is 60 years for Regular/Limited Pay policies and 70 years for Single Pay policies."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "You can choose a policy term of 15, 20, 25, 30, 40 years, or a Whole Life term."
+    },
+    {
+      "question": "What are the premium payment options?",
+      "answer": "You can pay premiums annually, half-yearly, quarterly, monthly, or as a one-time single payment."
+    },
+    {
+      "question": "What is the minimum annual premium required?",
+      "answer": "The minimum annual premium for a regular pay policy is Rs. 12,000."
+    },
+    {
+      "question": "What are the main charges in this plan?",
+      "answer": "The main charges are Premium Allocation Charge, Policy Administration Charge, Fund Management Charge, and Mortality Charge. A Miscellaneous Charge of Rs. 100 per transaction may also apply."
+    },
+    {
+      "question": "What are the Premium Allocation Charges?",
+      "answer": "These are charges deducted from your premium before investment. For a regular pay policy, it is 12% in Year 1, 4.5% in Years 2 & 3, and 4% in Years 4 & 5. For a single pay policy, it is 3% in Year 1."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "It is a charge for managing the investment funds. It is a percentage of the fund value and is adjusted from the NAV daily. For most funds listed, it is 1.35% per annum, but it varies by fund."
+    },
+    {
+      "question": "Can I make partial withdrawals from my fund?",
+      "answer": "Yes, you can make systematic partial withdrawals after the 5-year lock-in period is over."
+    },
+    {
+      "question": "Are the returns guaranteed in this ULIP?",
+      "answer": "No, the returns are linked to market performance and are not guaranteed. The NAVs of the units may go up or down based on fund performance."
+    },
+    {
+      "question": "Are there any tax benefits available?",
+      "answer": "Yes, tax benefits may be available under Section 10(10D) and Section 80C of the Income Tax Act, as per prevailing laws. It is advisable to consult a tax consultant."
+    },
+    {
+      "question": "What happens to the Guaranteed Wealth Booster if I surrender my policy before 15 years?",
+      "answer": "The Guaranteed Wealth Booster will not be applicable and will not be paid if the policy is surrendered, discontinued, or converted to paid-up before the end of the 15th policy year."
+    },
+    {
+      "question": "When does the risk cover start for a policy taken for a minor?",
+      "answer": "The risk cover commences immediately on the date of commencement of the policy, irrespective of the age of the life assured."
+    },
+    {
+      "question": "What is the Policy Administration Charge?",
+      "answer": "This charge is deducted monthly by cancellation of units. For a regular pay policy, it is 0.09% of the annualized premium per month for the first 5 years and nil from the 21st year onwards."
+    },
+    {
+      "question": "Can I switch between different investment funds?",
+      "answer": "Yes, the plan offers a fund switching facility, allowing you to move your investments from one fund to another."
+    },
+    {
+      "question": "Are the charges in the policy subject to GST?",
+      "answer": "Yes, all charges mentioned, including Premium Allocation, Policy Administration, Fund Management, and Mortality charges, are subject to applicable Goods & Service Tax (GST) and Cess."
+    },
+    {
+      "question": "What happens to the policy when the death benefit is paid?",
+      "answer": "The policy will terminate on the date of intimation of death of the life assured."
+    },
+    {
+      "question": "How are the Loyalty Additions calculated?",
+      "answer": "Loyalty Additions are calculated as 0.25% of the average fund value of the last 3 years (including the current year)."
+    },
+    {
+      "question": "Do I get Loyalty Additions on my top-up premiums?",
+      "answer": "No, Loyalty Additions will not be applicable to top-up premiums paid or the Top-up Premium Fund Value."
+    }
+  ],
+  "source_file": "Bajaj life Insurance  supreme-horizon-leaflet.txt",
+  "category": "LI Plan Brochure"
+}

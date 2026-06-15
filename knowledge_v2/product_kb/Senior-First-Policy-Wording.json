@@ -1,0 +1,188 @@
+{
+  "product_name": "Senior First",
+  "product_type": "Health Insurance",
+  "summary": "Senior First is a health insurance policy that covers Allopathic and AYUSH treatments taken in India only. The policy provides coverage for hospitalization expenses, pre and post hospitalization expenses, ambulance charges, domiciliary hospitalization, organ donor expenses, and includes benefits like No Claim Bonus and ReAssure. The policy has a default co-payment of 50% which can be modified at inception.",
+  "coverage": [
+    "Hospital admission expenses for minimum 2 hours admission (24 hours for AYUSH)",
+    "Ambulance expenses - road maximum Rs. 2,000, air maximum Rs. 2,50,000 per hospitalization",
+    "Pre-hospitalization expenses for 60 days before admission",
+    "Post-hospitalization expenses for 180 days after discharge",
+    "Domiciliary hospitalization for minimum 3 consecutive days",
+    "Organ donor hospitalization expenses",
+    "Modern treatments including robotic surgeries, stem cell therapy, immunotherapy",
+    "Day care treatments",
+    "Health checkup once every policy year from day 1",
+    "AYUSH treatments in recognized hospitals"
+  ],
+  "waiting_periods": [
+    "Pre-existing diseases: 24 months waiting period",
+    "Specific diseases/procedures: 24 months waiting period",
+    "30-day waiting period for illness (except accidents)",
+    "Personal waiting periods: 24 months as specified in policy schedule"
+  ],
+  "room_rent": [
+    "Single Private Room means air conditioned room with attached toilet",
+    "Additional 10% co-payment applies if treatment taken in higher room category than eligible"
+  ],
+  "co_pay": [
+    "Default co-payment is 50%",
+    "Can be modified to 40%, 30%, or 20% at inception of first policy",
+    "Co-payment cannot be changed once chosen",
+    "Co-payment does not apply to Ambulance and Health Check-up benefits",
+    "Additional 10% co-payment for higher room category admission"
+  ],
+  "deductible": [
+    "Annual Aggregate Deductible is optional",
+    "Once chosen cannot be changed",
+    "Deductible amount must be payable as per policy terms",
+    "Does not apply to Health Check-up benefit",
+    "If deductible opted, co-payment will not apply except for higher room category"
+  ],
+  "claims_information": [
+    "Claims must be settled or rejected within 15 days from claim submission date",
+    "Interest at 2% above bank rate for delayed claim payments",
+    "Cashless facility available at network providers",
+    "Reimbursement available for non-network providers",
+    "Notification of claim required through recognized communication modes"
+  ],
+  "exclusions": [
+    "Pre-existing diseases for 24 months",
+    "Specified diseases/procedures for 24 months",
+    "30-day waiting period for illness",
+    "Investigation and evaluation expenses",
+    "Cosmetic or plastic surgery",
+    "Obesity/weight control treatments (with conditions)",
+    "Change-of-gender treatments",
+    "Hazardous or adventure sports",
+    "Treatment outside India",
+    "OPD treatment expenses",
+    "Maternity expenses",
+    "Sterility and infertility treatments",
+    "Dental/oral treatment except due to accident",
+    "Refractive error less than 7.5 dioptres"
+  ],
+  "faqs": [
+    {
+      "question": "What is the product name and UIN?",
+      "answer": "The product name is Senior First with UIN: MAXHLIP21575V012021"
+    },
+    {
+      "question": "Does this policy cover treatments outside India?",
+      "answer": "No, this policy covers Allopathic and AYUSH treatments taken in India ONLY."
+    },
+    {
+      "question": "What happens to unutilized sum insured?",
+      "answer": "Unutilized Sum Insured will expire at the end of policy year."
+    },
+    {
+      "question": "What is the minimum admission period required for coverage?",
+      "answer": "Minimum 2 hours admission is required, except for AYUSH treatment which requires minimum 24 hours admission in AYUSH Hospital."
+    },
+    {
+      "question": "What are the ambulance coverage limits?",
+      "answer": "By road maximum Rs. 2,000 and by air maximum Rs. 2,50,000 per hospitalization. Air ambulance is available only for Emergency care."
+    },
+    {
+      "question": "What is the pre-hospitalization coverage period?",
+      "answer": "Pre-hospitalization expenses are covered for 60 days before date of admission if related to the condition for which hospital admission claim is paid."
+    },
+    {
+      "question": "What is the post-hospitalization coverage period?",
+      "answer": "Post-hospitalization expenses are covered for 180 days after date of discharge if related to the condition for which hospital admission claim is paid."
+    },
+    {
+      "question": "What is domiciliary hospitalization?",
+      "answer": "Treatment at home when the treating doctor certifies in writing that there was no room available at hospital or patient was not in position to reach hospital, with minimum 3 consecutive days of treatment."
+    },
+    {
+      "question": "What is the default co-payment percentage?",
+      "answer": "The default co-payment is 50% which can be modified to 40%, 30%, or 20% at inception of the first policy."
+    },
+    {
+      "question": "Can co-payment be changed after policy inception?",
+      "answer": "No, co-payment once chosen cannot be changed."
+    },
+    {
+      "question": "What is No Claim Bonus (NCB)?",
+      "answer": "For every claim free year, 10% of expiring policy base sum insured is added as NCB, maximum up to 100%."
+    },
+    {
+      "question": "What is ReAssure benefit?",
+      "answer": "The first paid claim triggers ReAssure, a benefit with unlimited sum insured. Maximum amount ReAssure pays for any single claim is up to base sum insured."
+    },
+    {
+      "question": "When is health checkup available?",
+      "answer": "Health checkup is available once every Policy Year, from day 1 of the policy, up to the amount specified in Policy Schedule."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases have a waiting period of 24 months of continuous coverage after the date of inception of the first Policy."
+    },
+    {
+      "question": "What is the 30-day waiting period?",
+      "answer": "Expenses related to treatment of any illness within 30 days from first policy commencement date are excluded except claims arising due to accident."
+    },
+    {
+      "question": "Are maternity expenses covered?",
+      "answer": "No, medical treatment expenses traceable to childbirth are excluded, except ectopic pregnancy."
+    },
+    {
+      "question": "Are dental treatments covered?",
+      "answer": "Dental/oral treatments are excluded except if required while hospitalized due to an accident."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "Free look period is 30 days from date of receipt of policy document to review terms and conditions and cancel if not satisfied."
+    },
+    {
+      "question": "Can the policy be renewed?",
+      "answer": "Yes, health insurance policy is renewable except on grounds of established fraud or non-disclosure or misrepresentation."
+    },
+    {
+      "question": "What is the grace period for renewal?",
+      "answer": "Grace period is 30 days for annual installment to maintain continuity of benefits without break in policy."
+    },
+    {
+      "question": "What is the claim settlement timeframe?",
+      "answer": "The Company shall settle or reject a claim within 15 days from the claim submission date."
+    },
+    {
+      "question": "What happens in case of delayed claim payment?",
+      "answer": "For delay in claim payment, the Company will pay interest at 2% above the bank rate from date of claim intimation till payment date."
+    },
+    {
+      "question": "What is moratorium period?",
+      "answer": "After completion of 60 continuous months of coverage, no policy and claim shall be contestable except on grounds of established fraud."
+    },
+    {
+      "question": "Are robotic surgeries covered?",
+      "answer": "Yes, robotic surgeries are covered with a limit of maximum Rs. 1,00,000 per claim, except for total radical prostatectomy, cardiac surgeries, partial nephrectomy and surgeries for malignancies."
+    },
+    {
+      "question": "What modern treatments are specifically covered?",
+      "answer": "Covered modern treatments include Uterine Artery Embolization, HIFU, Immunotherapy, Stem cell therapy, Balloon Sinuplasty, Oral Chemotherapy, Robotic surgeries, Stereotactic radio Surgeries, Deep Brain stimulation, and others as specified."
+    },
+    {
+      "question": "Are OPD treatments covered?",
+      "answer": "No, any expenses incurred on OPD treatment are excluded."
+    },
+    {
+      "question": "What is the limit for robotic surgeries?",
+      "answer": "Maximum Rs. 1,00,000 per claim applies to all robotic surgeries, except for total radical prostatectomy, cardiac surgeries, partial nephrectomy and surgeries for malignancies."
+    },
+    {
+      "question": "Are treatments for obesity covered?",
+      "answer": "Surgical treatment of obesity is excluded unless it fulfills specific conditions including BMI requirements and severe co-morbidities."
+    },
+    {
+      "question": "What is the specific waiting period for certain diseases?",
+      "answer": "24 months waiting period applies to specific diseases like cataract, hernia, varicose veins, joint replacement, and others as listed in the policy."
+    },
+    {
+      "question": "Can the policy be cancelled?",
+      "answer": "Yes, policyholder may cancel policy anytime with 7 days notice. Proportionate premium refund available if no claims made during policy period."
+    }
+  ],
+  "source_file": "Senior-First-Policy-Wording.txt",
+  "category": "Hi Document"
+}

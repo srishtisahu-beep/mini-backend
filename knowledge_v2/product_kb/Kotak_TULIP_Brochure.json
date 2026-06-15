@@ -1,0 +1,221 @@
+{
+  "product_name": "Kotak T.U.L.I.P (Term with Unit Linked Insurance Plan)",
+  "company": "Kotak Mahindra Life Insurance Company Ltd",
+  "product_type": "A Non-Participating Unit-Linked Life Insurance Individual Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit-Linked Insurance Plan (ULIP)",
+  "summary": "Kotak T.U.L.I.P is a protection-oriented Unit Linked Insurance Plan that provides higher life insurance coverage (Basic Sum Assured) to cater to protection needs along with investment objectives. It is a long-term financial tool designed to grow wealth while safeguarding the family's future. On survival till maturity, the plan pays the available fund value. In case of the Life Insured's demise during the policy term, the beneficiary receives the death benefit. The investment risk in the investment portfolio is borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum: 7 times of Annual Premium. Maximum: No Limit, as per BAUP (Board Approved Underwriting Policy).",
+    "policy_term": "30 to 40 years",
+    "waiting_period": "The Linked Insurance Products do not offer any liquidity during the first five years of the contract. The policyholder will not be able to surrender or withdraw the monies invested completely or partially till the end of the fifth year."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the event of death while the policy is in force, the beneficiary receives the highest of: Basic Sum Assured less applicable partial withdrawal amount, Fund Value in the Main Account, or 105% of the total Premiums paid up to the date of death less applicable partial withdrawal amount. Additionally, for each Top-Up Premium paid, the highest of Top-Up Sum Assured, Fund Value of Top-Up Account, or 105% of the total Top-Up Premiums paid is also payable. The benefit is paid out as a lump-sum."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the policy term, the Fund Value (Main Account + Top up Account, if any) inclusive of Loyalty Additions shall be payable, provided all premiums are paid and the policy is in force."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Optional additional protection is available through two riders: Kotak Accidental Death Protection Rider (Linked) and Kotak Critical Illness Benefit Rider (Linked) for 37 listed critical illnesses."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Return of 2X of Premium Allocation Charge",
+      "description": "Starting from the end of the 10th policy year, the plan returns 2X of Premium Allocation Charges deducted 10 years prior. This is added to the Fund Value, provided all due premiums have been paid."
+    },
+    {
+      "name": "Return of Mortality Charges",
+      "description": "Starting from the 11th policy year, a multiple of Mortality Charges (1X to 3X depending on the policy year) is added back to the Fund Value monthly, provided all due premiums have been paid."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Loyalty Additions are paid as a percentage of the average Fund Value at Maturity, provided all due premiums have been paid. The percentage depends on the Policy Term and Premium Payment Term."
+    },
+    {
+      "name": "Investment Strategy Flexibility",
+      "description": "Policyholders can choose between two investment strategies: Self Managed Strategy (offering a choice of multiple funds) and Age Based Strategy (automatic asset allocation based on age and risk appetite)."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "After the completion of 5 policy years, policyholders can access their investment through partial withdrawals to meet unexpected expenses."
+    },
+    {
+      "name": "Top-Up Premiums",
+      "description": "Allows policyholders to increase their investment contribution by paying additional Top-Up premiums when they have surplus money."
+    },
+    {
+      "name": "Tax Benefit",
+      "description": "Tax benefits are subject to conditions specified under the Income-tax Act, 1961. Tax laws are subject to amendments from time to time."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Entry Age",
+      "details": "Minimum: 18 years, Maximum: 60 years (age as on last birthday)"
+    },
+    {
+      "criteria": "Maturity Age",
+      "details": "Minimum: 48 years, Maximum: 100 years (age as on last birthday)"
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "30 to 40 years"
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "details": "Limited Pay: 6, 7, 8, 9, 10, 12, 15 years. Regular Pay: Same as Policy Term."
+    },
+    {
+      "criteria": "Premium Payment Mode",
+      "details": "Yearly, Half-yearly, Quarterly, and Monthly"
+    },
+    {
+      "criteria": "Premium Level",
+      "details": "Minimum: ₹1,00,000 p.a. (Annual Mode); ₹1,20,000 p.a. (other modes)"
+    },
+    {
+      "criteria": "Basic Sum Assured",
+      "details": "Minimum: 7 times of Annual Premium. Maximum: No Limit, as per Board Approved Underwriting Policy."
+    },
+    {
+      "criteria": "Top-Up Premium",
+      "details": "Minimum: ₹10,000. Maximum: Total Top-Up premium paid shall not exceed the sum of all regular premiums paid."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of the policy, the nominee or beneficiary shall be entitled to the fund value as available on the date of intimation of death. Similar conditions apply to revival of the policy."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "The death benefit is paid as an immediate lump-sum payout. The policy will terminate once the Death Benefit is paid."
+    },
+    {
+      "type": "Contact for Claims and Service",
+      "description": "Toll Free No: 1800 209 8800, WhatsApp: 9321003007, Website: www.kotaklife.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Kotak T.U.L.I.P?",
+      "answer": "Kotak T.U.L.I.P is a Non-Participating Unit-Linked Life Insurance Individual Savings Product. It is a protection-oriented plan that provides higher life insurance coverage along with the opportunity to grow wealth through market-linked investments."
+    },
+    {
+      "question": "Who bears the investment risk in this policy?",
+      "answer": "In this policy, the investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "When can I access the money invested in this plan?",
+      "answer": "The plan does not offer any liquidity during the first five years of the contract. You cannot surrender or withdraw money, either completely or partially, until the end of the fifth policy year."
+    },
+    {
+      "question": "What are the main benefits of Kotak T.U.L.I.P?",
+      "answer": "Key benefits include an option for a high Sum Assured, 2X Return of Premium Allocation Charges, up to 3X Return of Mortality Charges, Loyalty Additions on maturity, flexibility in premium payment, and a choice of investment strategies."
+    },
+    {
+      "question": "What is the death benefit under this policy?",
+      "answer": "The death benefit is the highest of: Basic Sum Assured (less applicable partial withdrawals), Fund Value in the Main Account, or 105% of total premiums paid (less applicable partial withdrawals), plus any applicable Top-Up benefits."
+    },
+    {
+      "question": "What happens when the policy matures?",
+      "answer": "On survival till the end of the policy term, the policyholder receives the total Fund Value, which includes the Main Account, Top-Up Account (if any), and Loyalty Additions."
+    },
+    {
+      "question": "What investment strategies are available?",
+      "answer": "The plan offers two investment strategies: the 'Self Managed Strategy', where you can choose from a range of funds, and the 'Age Based Strategy', where allocation is done automatically based on your age and chosen risk appetite (Aggressive, Moderate, or Conservative)."
+    },
+    {
+      "question": "Can I switch between funds or strategies?",
+      "answer": "Yes, under the Self Managed Strategy, you can switch between fund options. You can also switch from one strategy to another, which will be effective from the next policy anniversary."
+    },
+    {
+      "question": "What is the 'Return of 2X of Premium Allocation Charge' benefit?",
+      "answer": "From the end of the 10th policy year, 2 times the premium allocation charges deducted 10 years prior are added back to your fund value, provided the policy is in force."
+    },
+    {
+      "question": "How does the 'Return of Mortality Charges' benefit work?",
+      "answer": "Starting from the 11th policy year, a multiple of the mortality charges (1X for years 11-20, 2X for years 21-30, and 3X for years 31-40) is added back to your fund value monthly."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are a reward for staying invested. They are paid as a percentage of the average Fund Value of the three years preceding maturity, provided the policy is in force. The percentage varies based on the policy term and premium payment term."
+    },
+    {
+      "question": "Are there any riders available with this plan?",
+      "answer": "Yes, you can enhance your protection with two optional riders: Kotak Accidental Death Protection Rider (Linked) and Kotak Critical Illness Benefit Rider (Linked)."
+    },
+    {
+      "question": "Can I make partial withdrawals?",
+      "answer": "Yes, after the completion of 5 policy years, you can make partial withdrawals from your fund value, subject to certain conditions."
+    },
+    {
+      "question": "What is the minimum amount for a partial withdrawal?",
+      "answer": "The minimum amount for a partial withdrawal is ₹10,000 and must be in multiples of ₹1,000."
+    },
+    {
+      "question": "Can I invest additional money in my policy?",
+      "answer": "Yes, you can invest surplus money through Top-Up Premiums at any time during the policy term, except for the last 5 policy years. The minimum Top-Up amount is ₹10,000."
+    },
+    {
+      "question": "What is the eligibility criteria to buy this policy?",
+      "answer": "The entry age is between 18 and 60 years, and the policy term can be from 30 to 40 years. The maturity age can be up to 100 years."
+    },
+    {
+      "question": "What are the premium payment terms available?",
+      "answer": "You can choose either Regular Pay (pay for the entire policy term) or Limited Pay (pay for 6, 7, 8, 9, 10, 12, or 15 years)."
+    },
+    {
+      "question": "What are the main charges in this policy?",
+      "answer": "The main charges are Premium Allocation Charge, Policy Administration Charge (from the 5th year), Fund Management Charge (FMC), Mortality Charge, Switching Charge, and Partial Withdrawal Charge."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "It is a percentage of the premium deducted before allocating the units. The charge is 12% in Year 1, 6% in Year 2, 3% in Years 3 & 4, and Nil from Year 5 onwards. For Top-ups, it is 2%."
+    },
+    {
+      "question": "What are the Fund Management Charges (FMC)?",
+      "answer": "FMC is a percentage of the fund value, deducted for managing the funds. It varies by fund, for example, 1.35% p.a. for Classic Opportunities Fund, 1.20% p.a. for Dynamic Bond Fund, and 0.50% p.a. for the Discontinued Policy Fund."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 30 days (for yearly, half-yearly, quarterly modes) or 15 days (for monthly mode) is provided. If the premium is not paid within the grace period, the policy may be discontinued as per the policy terms and conditions."
+    },
+    {
+      "question": "What happens if I discontinue the policy within the first 5 years?",
+      "answer": "If you discontinue the policy during the lock-in period (first 5 years), the fund value, after deducting discontinuance charges, is moved to the Discontinued Policy Fund. The proceeds are paid out at the end of the lock-in period."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "The policyholder has a 30-day free look period from the date of receiving the policy document to review the terms and conditions and can return the policy for a refund if not satisfied."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "No, loans are not available under this plan."
+    },
+    {
+      "question": "Can I change my Sum Assured during the policy term?",
+      "answer": "You are allowed to decrease your Basic Sum Assured, subject to underwriting and minimum levels, without any change in premium. An increase in the Basic Sum Assured is not allowed."
+    },
+    {
+      "question": "How can I check my unit statement?",
+      "answer": "You can check the Unit Statement in D02 format on the Online Policy Manager (OPM) on the company's website after registering and creating a login ID and password. An annual statement is also shared at the policy anniversary."
+    },
+    {
+      "question": "What is the Sum at Risk?",
+      "answer": "Sum at Risk is the effective amount of insurance cover at any point in time on which mortality charges are calculated. It is the difference between the death benefit payable and the fund value."
+    }
+  ],
+  "source_file": "Kotak_TULIP_Brochure.txt",
+  "category": "LI Plan Brochure"
+}

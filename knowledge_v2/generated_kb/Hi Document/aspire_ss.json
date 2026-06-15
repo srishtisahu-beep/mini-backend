@@ -1,0 +1,172 @@
+{
+  "product_name": "Aspire",
+  "product_type": "Health Insurance",
+  "summary": "A comprehensive health insurance product that rewards customers for starting young, offering features like M-iracle coverage for maternity and related expenses, Booster+ for carrying forward unused sum insured, Lock the Clock+ for age-based premium savings, and various optional benefits including worldwide coverage and OPD benefits.",
+  "coverage": [
+    "Base Sum Insured: INR 3 Lakh to 1 Crore",
+    "Road & Air Ambulance up to sum insured",
+    "Hospitalisation expenses for 2+ hours (24+ hours for AYUSH treatment)",
+    "Day-care procedures",
+    "Modern treatments up to sum insured",
+    "Pre-hospitalisation: 60 days",
+    "Post-hospitalisation: 180 days",
+    "Home Care/Domiciliary up to sum insured",
+    "Organ Donor coverage up to sum insured",
+    "Annual Health Check-Up (Cashless only)",
+    "ReAssure Forever: Unlimited coverage after first claim",
+    "M-iracle: Maternity, IVF, adoption, surrogacy coverage",
+    "Second Medical Opinion: Unlimited times per policy year",
+    "E-Consultation: Unlimited within network"
+  ],
+  "waiting_periods": [
+    "M-iracle Waiting Period - Gold+: 48 Months",
+    "M-iracle Waiting Period - Diamond+: 24 Months",
+    "M-iracle Waiting Period - Platinum+: 9 Months",
+    "M-iracle Waiting Period - Titanium+: 9 Months",
+    "All Base Waiting Periods apply on WellConsult"
+  ],
+  "room_rent": [],
+  "co_pay": [
+    "Co-payment options: 0% / 20% / 30% / 40% / 50%",
+    "Borderless benefit: Co-payment applicable as per policy schedule",
+    "WellConsult: 20% co-payment for reimbursement claims",
+    "Tiered Network: 20% co-payment if treatment taken in non-Tiered Network Hospital"
+  ],
+  "deductible": [
+    "Annual Aggregate Deductible options: INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+  ],
+  "claims_information": [
+    "30 minutes cashless claim processing",
+    "10,000+ Network Hospitals",
+    "24X7 Customer Service",
+    "25 Lakh+ Claims Processed since inception",
+    "Pre-authorisation processed within 30 minutes for active policies",
+    "Customer Helpline: 1860-500-8888",
+    "Health Insurance Helpline: 1800-309-3333"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the product name and UIN?",
+      "answer": "The product name is Aspire with UIN: NBHHLIP24129V012324"
+    },
+    {
+      "question": "What are the available base sum insured options?",
+      "answer": "Base sum insured options are INR 3 Lakh, 5 Lakh, 7.5 Lakh, 10 Lakh, 15 Lakh, 20 Lakh, 25 Lakh, 50 Lakh, and 1 Crore"
+    },
+    {
+      "question": "What is M-iracle coverage?",
+      "answer": "M-iracle covers expenses around maternity, IVF, adoption, surrogacy and more, covered up to M-iracle sum insured"
+    },
+    {
+      "question": "What are the M-iracle waiting periods for different variants?",
+      "answer": "Gold+: 48 months, Diamond+: 24 months, Platinum+: 9 months, Titanium+: 9 months"
+    },
+    {
+      "question": "What is Booster+ benefit?",
+      "answer": "Booster+ allows you to carry forward unutilised Base sum insured to the next policy year. Limits vary by entry age: 18-35 years up to 10X, 36-45 years up to 5X, 46+ years up to 3X for Platinum+ and Titanium+"
+    },
+    {
+      "question": "What is Lock the Clock+ feature?",
+      "answer": "Lock the Clock+ allows you to pay premium as per your entry age until a claim is paid. M-iracle claims will not impact the age lock. Available only in Titanium+ variant"
+    },
+    {
+      "question": "How long is the minimum hospitalisation required for coverage?",
+      "answer": "Minimum 2+ hours of hospitalisation is required for coverage (24+ hours for AYUSH treatment)"
+    },
+    {
+      "question": "What is the pre and post hospitalisation coverage period?",
+      "answer": "Pre-hospitalisation: 60 days and post-hospitalisation: 180 days, both covered up to sum insured"
+    },
+    {
+      "question": "What is Fast Forward add-on?",
+      "answer": "Fast Forward allows you to combine multi-tenure sum insured to be used anytime, applicable for Base and M-iracle sum insured. Available for policies with 2 & 3 years tenure only"
+    },
+    {
+      "question": "What is Cash-Bag benefit?",
+      "answer": "Cash-Bag accumulates cashback on every claim-free year - 10% of 1st renewal premium and 5% of subsequent renewal premiums. Can be used to pay for premiums, deductible, co-payment, and OPD"
+    },
+    {
+      "question": "What is Borderless coverage?",
+      "answer": "Borderless provides treatment coverage anywhere in the world, up to sum insured, with applicable co-payment as per policy schedule"
+    },
+    {
+      "question": "What co-payment options are available?",
+      "answer": "Co-payment options available are 0%, 20%, 30%, 40%, and 50%"
+    },
+    {
+      "question": "What is ReAssure Forever benefit?",
+      "answer": "ReAssure Forever triggers after the 1st claim and provides unlimited coverage. Each claim will be up to the Base sum insured"
+    },
+    {
+      "question": "What is Live Healthy discount?",
+      "answer": "Live Healthy provides up to 30% discount on premium at the time of renewal"
+    },
+    {
+      "question": "How many times can I avail Second Medical Opinion?",
+      "answer": "Second Medical Opinion can be availed unlimited times in a policy year within the network only"
+    },
+    {
+      "question": "What is WellConsult OPD coverage?",
+      "answer": "WellConsult provides comprehensive coverage for Tele & Physical Consultations, Diagnostics, Pharmacy, Gym Membership, and wellness benefits"
+    },
+    {
+      "question": "What are the Hospital Daily Cash benefits?",
+      "answer": "Up to INR 5 Lakh base sum insured: INR 1,000/day; Between INR 7.5-15 Lakh: INR 2,000/day; Above 15 Lakh: INR 4,000/day. Minimum 24 hours continuous hospitalisation required, maximum 30 days per policy year"
+    },
+    {
+      "question": "What Personal Accident coverage options are available?",
+      "answer": "Personal Accident coverage can be chosen from 1X, 2X, 3X, 4X, or 5X of base sum insured, with maximum up to INR 1 Crore"
+    },
+    {
+      "question": "What deductible options are available?",
+      "answer": "Annual Aggregate Deductible options are INR 20,000, INR 30,000, INR 50,000, and INR 1,00,000"
+    },
+    {
+      "question": "How fast is the cashless claim processing?",
+      "answer": "Niva Bupa processes cashless claims within 30 minutes for all active policies, subject to receiving all required documents"
+    },
+    {
+      "question": "How many network hospitals are available?",
+      "answer": "There are 10,000+ network hospitals available"
+    },
+    {
+      "question": "What is Future Ready benefit?",
+      "answer": "Future Ready provides guaranteed issuance and continuity on waiting periods served by you for your future spouse"
+    },
+    {
+      "question": "What is Tiered Network rider?",
+      "answer": "Tiered Network provides 15% discount on premium, but 20% co-payment applies if treatment is taken in a non-Tiered Network Hospital"
+    },
+    {
+      "question": "What are the WellConsult Tele-consultation benefits?",
+      "answer": "WellConsult provides unlimited tele and video consultations with general physicians anytime through the Niva Bupa Health App"
+    },
+    {
+      "question": "What is the Physical Consultation Wallet limit in WellConsult?",
+      "answer": "Physical Consultation Wallet provides coverage up to INR 10,000 for consultations with specialists or general physicians, with 20% co-payment for reimbursement"
+    },
+    {
+      "question": "What is the Diagnostic Wallet coverage in WellConsult?",
+      "answer": "Diagnostic Wallet provides coverage for prescribed diagnostic tests up to INR 10,000, available on both cashless and reimbursement basis with 20% co-payment"
+    },
+    {
+      "question": "What is the Pharmacy Wallet limit in WellConsult?",
+      "answer": "Pharmacy Wallet provides coverage for prescribed medicines up to INR 2,500, available on both cashless and reimbursement basis with 20% co-payment"
+    },
+    {
+      "question": "What wellness benefits are included in WellConsult?",
+      "answer": "WellConsult includes gym access for 2 days per week per adult, unlimited fitness and diet-nutrition sessions, and 10 cashless emotional wellness sessions through the app"
+    },
+    {
+      "question": "What is Safeguard+ benefit?",
+      "answer": "Safeguard+ includes Claim Safeguard+ (covers non-payable items), Booster+ Safeguard+ (no impact on Booster+ if claim is less than INR 1,00,000), and Sum insured Safeguard+ (inflation-linked increase in base sum insured)"
+    },
+    {
+      "question": "What customer service options are available?",
+      "answer": "24X7 customer service is available with helpline numbers 1860-500-8888 and 1800-309-3333, along with website www.nivabupa.com"
+    }
+  ],
+  "source_file": "aspire_ss.txt",
+  "category": "Hi Document"
+}

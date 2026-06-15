@@ -1,0 +1,261 @@
+{
+  "product_name": "Click2Protect Life",
+  "company": "HDFC Life",
+  "product_type": "Non-Linked, Non-Participating, Individual",
+  "insurance_type": "Pure Risk Premium/ Savings Life Insurance",
+  "plan_category": "Term Insurance",
+  "summary": "Click2Protect Life is an intelligent term plan from HDFC Life designed to provide comprehensive financial protection that adapts to your changing lifestyle and needs. It offers three distinct plan options (Life & CI Rebalance, Life Protect, Income Plus) to secure your family's future against uncertainties, including COVID-19 claims. Key features include the ability to auto-balance death and critical illness cover, receive income payouts from age 60, and options for whole life coverage and return of premium.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "Up to 65 years, depending on the plan option chosen.",
+    "sum_insured": "Minimum: ₹50,000 or ₹20,00,000 depending on the plan. Maximum: No limit, subject to Board Approved Underwriting Policy (BAUP).",
+    "policy_term": "From 5 years to Whole of Life, depending on the plan option.",
+    "waiting_period": "90 days for Critical Illness benefit from the risk commencement or reinstatement date."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "A lump sum benefit is payable to the nominee upon the death of the Life Assured during the policy term. The amount is the highest of Sum Assured on Death, 105% of Total Premiums Paid, or other applicable Sum Assureds based on the plan option."
+    },
+    {
+      "name": "Critical Illness Benefit",
+      "description": "Available under the Life & CI Rebalance option as an inbuilt feature, or as an add-on (WOP CI) with the Life Protect option. On diagnosis of a covered critical illness, a lump sum is paid, and future premiums may be waived."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "If the Return of Premium (ROP) option is chosen, 100% of total premiums paid is returned upon survival till maturity. The Income Plus option also has a maturity benefit. Otherwise, for standard options, the maturity benefit is Nil."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Under the Income Plus option, on survival, a monthly income equal to 0.1% of the Basic Sum Assured is paid starting from the policy anniversary after attaining age 60, until death or policy maturity."
+    },
+    {
+      "name": "Accidental Death Benefit (Add-on)",
+      "description": "Available as an add-on with the Life Protect Option. An additional amount equal to 100% of the Basic Sum Assured is payable to the nominee on death due to an accident during the policy term."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Choice of 3 Plan Options",
+      "description": "Flexibility to choose from Life & CI Rebalance, Life Protect, or Income Plus to fit your specific needs."
+    },
+    {
+      "name": "Life & CI Rebalance",
+      "description": "A feature that automatically balances Death and Critical Illness benefits, increasing the CI cover with age while correspondingly reducing the Life Cover."
+    },
+    {
+      "name": "Income Plus Option",
+      "description": "Provides regular monthly income from age 60 onwards, in addition to life cover and a lump sum maturity payout."
+    },
+    {
+      "name": "Whole of Life Cover",
+      "description": "Option to avail life coverage for your entire life, available under Life Protect and Income Plus options."
+    },
+    {
+      "name": "Return of Premium (ROP) Option",
+      "description": "An add-on option to get back all premiums paid if you survive the policy term."
+    },
+    {
+      "name": "Waiver of Premium on Critical Illness (WOP CI)",
+      "description": "An inbuilt feature in the Life & CI Rebalance option and an add-on for Life Protect (Fixed Term), where all future premiums are waived upon diagnosis of a covered critical illness."
+    },
+    {
+      "name": "Accidental Death Benefit (ADB) Option",
+      "description": "An add-on to enhance your cover with an additional Sum Assured payable on accidental death."
+    },
+    {
+      "name": "Special Premium Rates",
+      "description": "Offers special, lower premium rates for female lives and non-tobacco users."
+    },
+    {
+      "name": "Flexibility in Premium Payment",
+      "description": "Allows alteration of premium payment frequency and an option to reduce the Premium Payment Term from Regular Pay to Limited Pay."
+    },
+    {
+      "name": "COVID-19 Coverage",
+      "description": "The plan covers claims related to COVID-19, subject to policy terms and conditions."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Premiums paid and benefits received may be eligible for tax benefits under the Income Tax Act, 1961."
+    }
+  ],
+  "eligibility": [
+    {
+      "plan_option": "Life Protect",
+      "min_age_at_entry": "18 years",
+      "max_age_at_entry": "65 years",
+      "min_age_at_maturity": "28 years (Fixed Term) / Whole of Life",
+      "max_age_at_maturity": "85 years (Fixed Term) / Whole of Life",
+      "min_policy_term": "Regular Pay: 5 years, Single Pay: 1 month, Limited Pay: 6 years / Whole of Life",
+      "max_policy_term": "40 years (Fixed Term) / Whole of Life",
+      "premium_payment_term": "Single Pay, Regular Pay, Limited Pay (5 to any PPT less than Policy Term)",
+      "min_basic_sum_assured": "₹50,000"
+    },
+    {
+      "plan_option": "Income Plus",
+      "min_age_at_entry": "45 years",
+      "max_age_at_entry": "65 years",
+      "min_age_at_maturity": "70 years (Fixed Term) / Whole of Life",
+      "max_age_at_maturity": "85 years (Fixed Term) / Whole of Life",
+      "min_policy_term": "5 years (70 years - Age at Entry) / Whole of Life",
+      "max_policy_term": "Whole of Life",
+      "premium_payment_term": "Single Pay, Limited Pay (5, 10 pay)",
+      "min_basic_sum_assured": "₹50,000"
+    },
+    {
+      "plan_option": "Life & CI Rebalance",
+      "min_age_at_entry": "18 years",
+      "max_age_at_entry": "Fixed Term: 50 years, Whole Life: 45 years",
+      "min_age_at_maturity": "Fixed Term: 30 years, Whole Life: 75 years",
+      "max_age_at_maturity": "Fixed Term: 70 years, Whole Life: Whole of Life",
+      "min_policy_term": "10 years / Whole of Life",
+      "max_policy_term": "30 years (Fixed Term) / Whole of Life",
+      "premium_payment_term": "Single Pay, Limited Pay (5, 10, 15 pay)",
+      "min_basic_sum_assured": "₹20,00,000"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If death due to suicide occurs within 12 months from the date of commencement of risk or date of revival, the nominee will be entitled to at least 80% of the total premiums paid till the date of death or the surrender value, whichever is higher."
+    },
+    {
+      "type": "Critical Illness Benefit General Exclusions",
+      "description": "No benefit is payable if the illness is caused by: diagnosis within 90 days of risk commencement, any pre-existing disease (diagnosed or treated within 48 months prior), external congenital defects, suicide or self-inflicted injury, being under the influence of drugs or alcohol, war, criminal acts, hazardous activities, nuclear contamination, or treatment outside India."
+    },
+    {
+      "type": "Accidental Death Benefit Exclusions",
+      "description": "No additional benefit is payable if death occurs after 180 days from the accident date, or is caused by: suicide or self-inflicted injury, being under the influence of drugs or alcohol, war, criminal acts, hazardous activities (like mountaineering, scuba diving), or participation in flying activity other than as a bona fide passenger."
+    }
+  ],
+  "claims_information": [
+    {
+      "info": "COVID-19 claims are covered, provided all pre-existing medical conditions were declared at the time of policy purchase."
+    },
+    {
+      "info": "If a valid claim arises during the grace period, the benefit will be paid after deducting the due and unpaid premium for that policy year."
+    },
+    {
+      "info": "For the Critical Illness benefit, the insured must survive for 30 days after the complete diagnosis of the claimed condition."
+    },
+    {
+      "info": "A policy cannot be disputed by the insurer on any grounds after three years from its start date or revival date, except in the case of proven fraud."
+    },
+    {
+      "info": "In case of policy repudiation due to misstatement (not fraud), the premiums collected will be refunded to the insured or their legal representatives."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click2Protect Life?",
+      "answer": "It is a non-linked, non-participating, individual life insurance plan that offers either pure risk premium coverage or savings. It's designed to provide financial protection that adapts to your changing needs."
+    },
+    {
+      "question": "What are the different plan options available under this policy?",
+      "answer": "There are three plan options: 1. Life & CI Rebalance, which auto-balances death and critical illness cover. 2. Life Protect, which provides a simple lump sum death benefit. 3. Income Plus, which offers life cover along with regular income from age 60."
+    },
+    {
+      "question": "Can I change my plan option after buying the policy?",
+      "answer": "No, the plan option must be selected at the inception of the policy and cannot be changed during the policy term."
+    },
+    {
+      "question": "How does the 'Life & CI Rebalance' option work?",
+      "answer": "Under this option, the Critical Illness (CI) cover increases at each policy anniversary, while the Life Cover decreases by the same amount. The total Basic Sum Assured remains constant. It also includes an inbuilt waiver of premium on diagnosis of a covered critical illness."
+    },
+    {
+      "question": "What is the 'Income Plus' option?",
+      "answer": "This option provides life cover for the entire policy term and pays a regular monthly income (0.1% of Basic Sum Assured) starting from the policy anniversary after you turn 60. It also provides a lump sum payout on maturity."
+    },
+    {
+      "question": "What is the minimum and maximum age to purchase this policy?",
+      "answer": "The minimum entry age is 18 years. The maximum entry age varies by plan option, going up to 65 years for the Life Protect and Income Plus options."
+    },
+    {
+      "question": "What is the minimum Sum Assured I can opt for?",
+      "answer": "The minimum Basic Sum Assured is ₹50,000 for the Life Protect and Income Plus options, and ₹20,00,000 for the Life & CI Rebalance option."
+    },
+    {
+      "question": "Is there an option for whole life coverage?",
+      "answer": "Yes, the option to avail cover for your whole life is available under the Life Protect and Income Plus plan options."
+    },
+    {
+      "question": "What premium payment terms are available?",
+      "answer": "The plan offers Single Pay, Regular Pay, and Limited Pay (e.g., 5, 10, 15 years) options, depending on the plan variant chosen."
+    },
+    {
+      "question": "Are there special premium rates for non-smokers or women?",
+      "answer": "Yes, the plan offers special premium rates for female lives and for non-tobacco users."
+    },
+    {
+      "question": "What is the Return of Premium (ROP) option?",
+      "answer": "By paying an additional premium, this option ensures that you receive a return of 100% of the Total Premiums Paid as a lump sum if you survive until the policy maturity date."
+    },
+    {
+      "question": "Is the Return of Premium (ROP) option available with all plan choices?",
+      "answer": "No, the ROP option is available as an inbuilt feature under the Income Plus option and can be chosen for an extra premium under the Life Protect (Fixed Term) and Life & CI Rebalance options. It is not available with the Whole Life variants of Life Protect."
+    },
+    {
+      "question": "What is the Waiver of Premium on Critical Illness (WOP CI) benefit?",
+      "answer": "This benefit waives all future premiums if you are diagnosed with any of the covered critical illnesses. It is an inbuilt feature in the Life & CI Rebalance option and an available add-on for the Life Protect (Fixed Term) option."
+    },
+    {
+      "question": "Can I get an additional benefit for accidental death?",
+      "answer": "Yes, you can choose the Accidental Death Benefit (ADB) add-on with the Life Protect Option. It pays an additional amount equal to 100% of the Basic Sum Assured if death is due to an accident."
+    },
+    {
+      "question": "Does this plan cover death due to COVID-19?",
+      "answer": "Yes, the plan covers COVID-19 claims, subject to the declaration of all pre-existing medical conditions at the time of policy purchase and other policy terms."
+    },
+    {
+      "question": "What is the policy's suicide clause?",
+      "answer": "If death by suicide occurs within 12 months of the policy's start or revival date, the nominee receives at least 80% of total premiums paid or the surrender value, whichever is higher, provided the policy is in force."
+    },
+    {
+      "question": "Is there a waiting period for Critical Illness claims?",
+      "answer": "Yes, there is a waiting period of 90 days from the risk commencement date or reinstatement date. No benefit is paid for critical illnesses diagnosed during this period, unless caused by an accident."
+    },
+    {
+      "question": "Do I have to survive for a certain period after a critical illness diagnosis to receive the benefit?",
+      "answer": "Yes, the insured has to survive for 30 days after the 'complete diagnosis' of the defined critical illness condition to be eligible for the claim."
+    },
+    {
+      "question": "What is the grace period for paying premiums?",
+      "answer": "The grace period is 30 days for yearly, half-yearly, and quarterly premium frequencies, and 15 days for the monthly frequency."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, you can revive a lapsed or paid-up policy within a revival period of five years by paying all outstanding premiums with interest and applicable taxes."
+    },
+    {
+      "question": "Are policy loans available under this plan?",
+      "answer": "No, policy loans are not available under this product."
+    },
+    {
+      "question": "What happens at maturity if I do not have the Return of Premium option?",
+      "answer": "If the ROP option has not been selected, the maturity benefit is Nil under the Life Protect and Life & CI Rebalance options. The policy terminates without any payout."
+    },
+    {
+      "question": "Can I change my premium payment frequency during the policy term?",
+      "answer": "Yes, you have the option to alter the premium payment frequency during the premium payment term without any charge or fee."
+    },
+    {
+      "question": "Are there any optional riders available with this plan?",
+      "answer": "Yes, you can enhance your protection with riders such as HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Critical Illness Plus Rider, and HDFC Life Protect Plus Rider."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a free-look period of 15 days from the date of policy receipt to review the terms and conditions. For policies purchased through distance marketing, this period is 30 days."
+    },
+    {
+      "question": "How many critical illnesses are covered under the plan?",
+      "answer": "The plan provides a list of 36 critical illnesses that are covered, subject to terms and conditions."
+    },
+    {
+      "question": "Can I convert my regular premium payments to a limited payment term?",
+      "answer": "Yes, you have an option to convert the outstanding regular premiums into any limited premium period available under the plan options without any charge."
+    }
+  ],
+  "source_file": "HDFC-Life-Click-2-Protect-Life-101N139V02-Brochure.txt",
+  "category": "LI Plan Brochure"
+}

@@ -1,0 +1,136 @@
+{
+  "product_name": "CARE GLOBAL",
+  "product_type": "Health Insurance Network",
+  "summary": "CARE GLOBAL is a health insurance network providing access to a global network of hospitals and healthcare providers across multiple countries including USA, UK, Canada, Australia, Singapore, Thailand, UAE, and many others.",
+  "coverage": [],
+  "waiting_periods": [],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is CARE GLOBAL?",
+      "answer": "CARE GLOBAL is a health insurance network that provides access to hospitals and healthcare providers worldwide."
+    },
+    {
+      "question": "Is the hospital list provided complete?",
+      "answer": "No, the list provided is a sample list and does not represent the complete Network Hospital List."
+    },
+    {
+      "question": "Can the network hospital list change?",
+      "answer": "Yes, the Network Hospital list is dynamic in nature and subject to revision without intimation."
+    },
+    {
+      "question": "What should I do before hospital admission?",
+      "answer": "Customers are advised to contact the Network Provider before admission to check Hospital status."
+    },
+    {
+      "question": "Are there hospitals available in the USA?",
+      "answer": "Yes, there are multiple hospitals available in the USA including facilities in Arizona, California, Georgia, New York, and many other states."
+    },
+    {
+      "question": "Does CARE GLOBAL have network hospitals in the UK?",
+      "answer": "Yes, there are numerous network hospitals in the United Kingdom including facilities in London, England, Scotland, and other regions."
+    },
+    {
+      "question": "Are there network hospitals in Canada?",
+      "answer": "Yes, network hospitals are available in Canada including facilities in Alberta, Ontario, British Columbia, and other provinces."
+    },
+    {
+      "question": "Does the network include hospitals in Australia?",
+      "answer": "Yes, there are network hospitals in Australia including facilities in Melbourne, Sydney, Perth, and other cities."
+    },
+    {
+      "question": "Are there network hospitals in Singapore?",
+      "answer": "Yes, several hospitals in Singapore are part of the network including Singapore General Hospital, Mount Elizabeth Hospital, and Raffles Hospital."
+    },
+    {
+      "question": "Does CARE GLOBAL have hospitals in Thailand?",
+      "answer": "Yes, network hospitals in Thailand include Bangkok Hospital, Bumrungrad International Hospital, and facilities in Pattaya and Phuket."
+    },
+    {
+      "question": "Are there network hospitals in the UAE?",
+      "answer": "Yes, there are network hospitals in the UAE including facilities in Dubai and Muscat."
+    },
+    {
+      "question": "Does the network include hospitals in European countries?",
+      "answer": "Yes, the network includes hospitals in various European countries including Germany, France, Switzerland, Belgium, Netherlands, and others."
+    },
+    {
+      "question": "Are there network hospitals in Asian countries other than Singapore and Thailand?",
+      "answer": "Yes, the network includes hospitals in Malaysia, Indonesia, Philippines, China, Japan, and other Asian countries."
+    },
+    {
+      "question": "Does CARE GLOBAL have hospitals in African countries?",
+      "answer": "Yes, there are network hospitals in South Africa, Kenya, Tanzania, and Morocco."
+    },
+    {
+      "question": "Are there network hospitals in New Zealand?",
+      "answer": "Yes, network hospitals are available in New Zealand including facilities in Auckland, Wellington, and Christchurch."
+    },
+    {
+      "question": "How many hospitals are listed in this sample?",
+      "answer": "The sample list contains 451 network hospitals and healthcare providers."
+    },
+    {
+      "question": "Should I verify hospital network status before treatment?",
+      "answer": "Yes, customers are advised to contact Network Provider before admission to check Hospital status as the list is subject to revision."
+    },
+    {
+      "question": "Are there specialized hospitals in the network?",
+      "answer": "Yes, the network includes various specialized facilities including children's hospitals, medical centers, and specialty hospitals."
+    },
+    {
+      "question": "Does the network include NHS hospitals?",
+      "answer": "Yes, multiple NHS (National Health Service) hospitals and trusts in the UK are part of the network."
+    },
+    {
+      "question": "Are university hospitals included in the network?",
+      "answer": "Yes, several university hospitals are included such as University College London, University Hospitals Birmingham, and others."
+    },
+    {
+      "question": "Does CARE GLOBAL include hospitals in the Middle East?",
+      "answer": "Yes, the network includes hospitals in UAE, Oman, and Israel."
+    },
+    {
+      "question": "Are there network hospitals in Scandinavian countries?",
+      "answer": "Yes, the network includes hospitals in Norway, Denmark, and Finland."
+    },
+    {
+      "question": "Does the network include hospitals in Switzerland?",
+      "answer": "Yes, several Swiss hospitals are part of the network including facilities in Basel, Geneva, and Zurich."
+    },
+    {
+      "question": "Are there network hospitals in major US cities?",
+      "answer": "Yes, the network includes hospitals in major US cities like New York, Los Angeles, Chicago, Boston, and many others."
+    },
+    {
+      "question": "Will I be notified if a hospital is removed from the network?",
+      "answer": "No, the Network Hospital list is subject to revision without intimation, so customers should verify status before admission."
+    },
+    {
+      "question": "Does the network include hospitals in island nations?",
+      "answer": "Yes, the network includes hospitals in island nations such as Cayman Islands, Mauritius, and Hong Kong."
+    },
+    {
+      "question": "Are there network hospitals in South America?",
+      "answer": "The sample list provided does not show any hospitals specifically located in South American countries."
+    },
+    {
+      "question": "Does CARE GLOBAL include hospitals in Russia?",
+      "answer": "Yes, there are network hospitals in the Russian Federation including facilities in Moscow and Saint Petersburg."
+    },
+    {
+      "question": "Are there network hospitals in Italy?",
+      "answer": "Yes, the network includes hospitals in Italy including facilities in Florence, Prato, Verona, and Sicily."
+    },
+    {
+      "question": "What should I do to confirm a hospital's network status?",
+      "answer": "You should contact the Network Provider before admission to check the hospital's current network status."
+    }
+  ],
+  "source_file": "CARE GLOBAL- Network Hospital List.txt",
+  "category": "Hi Document"
+}

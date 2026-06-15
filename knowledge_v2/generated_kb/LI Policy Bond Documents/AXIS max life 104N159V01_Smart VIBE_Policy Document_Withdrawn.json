@@ -1,0 +1,237 @@
+{
+  "product_name": "Axis Max Life Smart Value Income & Benefit Enhancer Plan",
+  "company": "Axis Max Life Insurance Limited (Formerly known as Max Life Insurance Company Limited)",
+  "product_type": "A Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A non-linked, non-participating individual life insurance savings plan designed to provide financial protection and savings. It offers a combination of death, survival, and maturity benefits. The plan is available in three variants: Insta Wealth, Future Wealth, and Insta Wealth Boost, each with different income payout structures. It includes optional benefits like Policy Continuance Benefit and features such as loans, surrender options, and a settlement option for death claims.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document",
+    "maximum_age": "Not specified in the document",
+    "sum_insured": "Sum Assured on Death is the Death Benefit Multiple (5, 7, or 11) times the Annualised Premium. Sum Assured on Maturity varies by plan variant.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "90 days from the date of commencement of risk, issuance, or revival (whichever is later) for non-accidental death. This is applicable only if the policy is sourced as a point of sale policy."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "A lump sum benefit is paid upon the death of the Life Insured during the policy term, provided the policy is in force."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Regular income payouts during the policy term, based on the variant chosen (Insta Wealth, Future Wealth, or Insta Wealth Boost)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Benefits payable at the end of the policy term if the Life Insured survives. The payout structure depends on the chosen variant and can be a lump sum or income payouts over a Future Income Period."
+    },
+    {
+      "name": "Terminal Illness",
+      "description": "Under the Senior Citizen Benefit Option, a lump sum amount is paid if the policyholder is diagnosed with a Terminal Illness during the Future Income Period and is aged 60 or above."
+    },
+    {
+      "name": "Critical Illness",
+      "description": "Under the Senior Citizen Benefit Option, a lump sum amount is paid if the policyholder is diagnosed with any of the specified Critical Illnesses during the Future Income Period and is aged 60 or above."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Policy Continuance Benefit",
+      "description": "If opted for, upon the death of the Life Insured (who is also the policyholder), the Sum Assured on Death is paid, and all future premiums are waived. The policy continues, and all future survival and maturity benefits are paid to the claimant as scheduled."
+    },
+    {
+      "name": "Cover Continuance Benefit Option",
+      "description": "If premiums for at least three policy years have been paid, the policyholder can opt for this benefit. The death benefit cover continues for up to 12 months from the first unpaid premium due date, even if the policy is in a reduced paid-up state. Unpaid premiums are deducted from the death benefit."
+    },
+    {
+      "name": "Senior Citizen Benefit Option",
+      "description": "Available for Insta Wealth and Future Wealth variants. If the policyholder is aged 60 or above and diagnosed with a Terminal or Critical Illness during the Future Income Period, the next five years of Future Income Benefits are paid as an accelerated lump sum."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans of up to 85% of the Surrender Value once the policy acquires it. The minimum loan amount is INR 10,000."
+    },
+    {
+      "name": "Settlement Option for Death Benefit",
+      "description": "The claimant can choose to receive the death benefit as a lump sum or as regular monthly/annual income for 5 years."
+    },
+    {
+      "name": "Enhanced Maturity Booster",
+      "description": "An additional amount payable at the end of the policy term if certain conditions are met, such as the policyholder being an existing customer, staff, or transgender. An additional amount is payable if the Life Insured is a female."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Individual Life",
+      "details": "This is an individual life insurance plan. Risk coverage for minors starts from the Date of Commencement of Risk."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the Life Insured commits suicide, whether sane or insane, within 12 months from the date of commencement of risk or from the date of revival, the company will only pay the higher of the Surrender Value or the total premiums paid. All other benefits under the policy will cease."
+    },
+    {
+      "type": "Waiting Period for Point of Sale Policies",
+      "description": "If the policy is a point of sale policy, in case of death due to any reason other than an accident during the 90-day waiting period, only 100% of the total premiums paid will be refunded. The full death benefit is payable for accidental death during this period."
+    },
+    {
+      "type": "Critical Illness Exclusions",
+      "description": "Specific exclusions for Critical Illness are mentioned in Annexure B of the policy document (Annexure B not provided in the source text)."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_name": "General Claim Procedure",
+      "steps": [
+        "The claimant needs to submit the required documents to the company.",
+        "The company will assess the claim based on the submitted proof and policy terms.",
+        "Benefits are payable to the policyholder or the claimant (Nominee, Assignee, or legal heirs).",
+        "Payment of benefits constitutes a valid discharge of the company's liability."
+      ],
+      "contact": {
+        "helpline": "1860 120 5577",
+        "email": "service.helpdesk@axismaxlife.com",
+        "website": "www.axismaxlife.com"
+      }
+    },
+    {
+      "process_name": "Documents for Death Claim",
+      "documents": [
+        "Claimant's statement (death claim application form - form A)",
+        "Original Policy document",
+        "Copy of police complaint/FIR (for accidental/unnatural death)",
+        "Medical/hospital records",
+        "Copy of post mortem/autopsy report (for accidental/unnatural death)",
+        "Original/attested copy of death certificate",
+        "Discharge summary if death occurred in a hospital",
+        "Employer certificate with leave records (Form E)",
+        "Copy of bank passbook/cancelled cheque of the Claimant",
+        "Identity proof of the Claimant",
+        "NEFT mandate form"
+      ]
+    },
+    {
+      "process_name": "Documents for Terminal/Critical Illness Claim",
+      "documents": [
+        "Claimant’s statement in the prescribed form",
+        "Copy of police complaint/first information report (wherever applicable)",
+        "Attending physician's statement",
+        "Certificate by a Medical Practitioner confirming Diagnosis of Terminal/Critical Illness",
+        "All medical/hospital records pertaining to the illness and treatment",
+        "Self-attested copy of identity proof of the Claimant"
+      ]
+    },
+    {
+      "process_name": "Documents for Maturity/Survival Benefit Claim",
+      "documents": [
+        "NEFT Form (if not provided earlier)",
+        "A cancelled cheque or copy of passbook with pre-printed name and bank account number"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Axis Max Life Smart Value Income & Benefit Enhancer Plan?",
+      "answer": "It is a Non-Linked Non-Participating Individual Life Insurance Savings Plan that offers a combination of life insurance protection and savings through various benefits like death, survival, and maturity payouts."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a period of 30 days from the date you receive the policy document to review its terms and conditions. If you disagree with them, you can cancel the policy and receive a refund of premium paid, after deductions for risk premium, stamp duty, and medical expenses, if any."
+    },
+    {
+      "question": "What should I do if I find a mistake in my policy document?",
+      "answer": "You should contact the customer helpdesk or your agent immediately. The company will rectify the mistake and send you an updated policy document."
+    },
+    {
+      "question": "What is the Death Benefit under this policy?",
+      "answer": "Upon the death of the Life Insured during the policy term, a lump sum guaranteed Death Benefit is paid. This is the higher of the Sum Assured on Death, 105% of total premiums paid, or the Surrender Value as on the date of death."
+    },
+    {
+      "question": "What is the 'Policy Continuance Benefit'?",
+      "answer": "It is an option that can be chosen at the start of the policy if the policyholder and life insured are the same person. If the life insured dies, the death benefit is paid, all future premiums are waived, and the policy continues to pay out survival and maturity benefits as scheduled to the nominee."
+    },
+    {
+      "question": "Is there a waiting period for the death benefit?",
+      "answer": "Yes, for policies sourced as 'point of sale', there is a 90-day waiting period from the policy commencement or revival date. If death occurs during this period for reasons other than an accident, 100% of premiums paid will be refunded. This waiting period does not apply to accidental deaths."
+    },
+    {
+      "question": "What are the different Survival Benefit variants available?",
+      "answer": "There are three variants: 'Insta Wealth Variant' (provides Insta Income and Flexi Income Benefit), 'Future Wealth Variant' (provides Flexi Income Benefit), and 'Insta Wealth Boost Variant' (provides Insta Income and Flexi Income Benefit)."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "If the Life Insured survives until the maturity date, a benefit is paid. For Insta Wealth and Future Wealth variants, this consists of Future Income Benefit and Future Milestone Benefit. For the Insta Wealth Boost variant, a lump sum Sum Assured on Maturity is paid."
+    },
+    {
+      "question": "Can I receive the Maturity Benefit as a lump sum instead of regular income?",
+      "answer": "Yes, for the Insta Wealth and Future Wealth variants, you have an option on the maturity date to receive the benefit as a lump sum, which will be equal to the Sum Assured on Maturity plus the present value of accrued Income Boosters."
+    },
+    {
+      "question": "What is the 'Senior Citizen Benefit Option'?",
+      "answer": "This option is available with Insta Wealth and Future Wealth variants during the Future Income Period. If the policyholder is aged 60 or above and is diagnosed with a Terminal or specified Critical Illness, the next five years of Future Income Benefits are paid as an accelerated lump sum."
+    },
+    {
+      "question": "What is the 'Cover Continuance Benefit Option'?",
+      "answer": "If you have paid premiums for at least three years, you can opt for this benefit. If you miss a subsequent premium, your death benefit cover will continue for up to 12 months. Any unpaid premiums for this period will be deducted from the death benefit if a claim arises."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for monthly premium payment mode and 30 days for annual, semi-annual, or quarterly premium payment modes. The policy remains in force during the grace period."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums before the policy has acquired a Surrender Value (typically after two full years of premium payment), the policy will lapse. If it has acquired a Surrender Value, it will continue in 'Reduced Paid Up Mode' with reduced benefits."
+    },
+    {
+      "question": "Can I revive a lapsed or reduced paid-up policy?",
+      "answer": "Yes, you can revive the policy within a Revival Period of 5 consecutive years from the due date of the first unpaid premium. This requires payment of all overdue premiums with interest and providing evidence of continued insurability."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, once the policy has acquired a Surrender Value, you can take a loan of up to 85% of the Surrender Value. The minimum loan amount is INR 10,000."
+    },
+    {
+      "question": "How can the death benefit be received?",
+      "answer": "The claimant can choose the 'Settlement Option' to receive the death benefit either as a single lump sum or as a regular monthly/annual income for a period of 5 years."
+    },
+    {
+      "question": "What is the suicide exclusion in this policy?",
+      "answer": "If the Life Insured commits suicide within 12 months from the policy's start date or revival date, the death benefit will not be paid. Instead, the company will pay the higher of the Surrender Value or the total premiums paid up to the date of death."
+    },
+    {
+      "question": "What documents are generally required to file a death claim?",
+      "answer": "Key documents include the claimant's statement form, original policy document, original/attested death certificate, and identity proof and bank details of the claimant. For accidental death, additional documents like a police FIR and post-mortem report are required."
+    },
+    {
+      "question": "Can I change the frequency of my income benefit payouts?",
+      "answer": "Yes, you can choose to receive applicable income benefits at a monthly, quarterly, semi-annual, or annual frequency. You can change the payout mode by submitting a written request at least 30 days before the Policy Anniversary."
+    },
+    {
+      "question": "Can I choose to accumulate my Survival Benefits instead of receiving them as payouts?",
+      "answer": "Yes, you have the option to accumulate the Survival Benefits and Future Income Benefit. The accumulated amount will earn interest. You can opt-in or opt-out of this option anytime by providing a 30-day notice before the policy anniversary."
+    },
+    {
+      "question": "What happens if the policy terminates?",
+      "answer": "A policy terminates on events such as free look cancellation, payment of death benefit (without Policy Continuance Benefit), expiry of the revival period for a lapsed policy, payment of surrender value, or payment of maturity benefit."
+    },
+    {
+      "question": "When can I surrender my policy for a value?",
+      "answer": "You can surrender the policy at any time, but it will only have a Surrender Value after premiums for the first two policy years have been fully paid. The Surrender Value will be the higher of the Guaranteed Surrender Value or the Special Surrender Value."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums annually, semi-annually, quarterly, or on a monthly basis. You can also request to change the premium payment mode on a policy anniversary."
+    },
+    {
+      "question": "What is the 'Commutation Option' available during the Future Income Period?",
+      "answer": "During the Future Income Period, you have an option to receive the present value of all entire future benefits as a one-time lump sum commutation amount. Once this is paid, the policy terminates."
+    },
+    {
+      "question": "Who is eligible for the 'Enhanced Maturity Booster'?",
+      "answer": "The Enhanced Maturity Booster is payable if you are an existing policyholder or an employee of the company or its intermediaries, an insurance agent with the company, or if the Life Insured is transgender. An additional amount is payable if the Life Insured is female."
+    }
+  ],
+  "source_file": "AXIS max life 104N159V01_Smart VIBE_Policy Document_Withdrawn.txt",
+  "category": "LI Policy Bond Documents"
+}

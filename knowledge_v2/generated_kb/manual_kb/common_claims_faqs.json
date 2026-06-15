@@ -1,0 +1,140 @@
+{
+  "product_name": "Insurance Claims Guide",
+  "company": "General Insurance Knowledge",
+  "category": "Manual Knowledge",
+  "summary": "General information about insurance claims, claim procedures, claim settlement, and claim assistance.",
+  "faqs": [
+    {
+      "question": "What is an insurance claim?",
+      "answer": "An insurance claim is a formal request made by a policyholder or nominee to the insurance company for benefits payable under the policy."
+    },
+    {
+      "question": "How do I file an insurance claim?",
+      "answer": "You should notify the insurer, submit the required claim form and supporting documents, and follow the insurer's claim process. Requirements may vary depending on the policy type."
+    },
+    {
+      "question": "What documents are generally required for an insurance claim?",
+      "answer": "Common documents include claim forms, identity proof, policy details, medical records, hospital bills, discharge summary, death certificate, or other documents depending on the claim type."
+    },
+    {
+      "question": "What is a cashless claim?",
+      "answer": "A cashless claim allows the insurer to directly settle eligible medical expenses with a network hospital, reducing the need for upfront payment by the policyholder."
+    },
+    {
+      "question": "What is a reimbursement claim?",
+      "answer": "In a reimbursement claim, the policyholder first pays the medical expenses and later submits documents to the insurer for reimbursement of eligible expenses."
+    },
+    {
+      "question": "What is a network hospital?",
+      "answer": "A network hospital is a hospital that has an agreement with the insurer or TPA to provide cashless treatment facilities."
+    },
+    {
+      "question": "Can I avail cashless treatment at any hospital?",
+      "answer": "Cashless treatment is generally available only at network hospitals associated with the insurer or TPA."
+    },
+    {
+      "question": "What should I do before planned hospitalization?",
+      "answer": "For planned hospitalization, you should inform the insurer or TPA in advance and obtain the required pre-authorization for cashless treatment if applicable."
+    },
+    {
+      "question": "What should I do in case of emergency hospitalization?",
+      "answer": "Seek medical treatment immediately and inform the insurer or TPA as soon as possible according to policy guidelines."
+    },
+    {
+      "question": "How long does claim settlement usually take?",
+      "answer": "Claim settlement timelines vary by insurer and claim type. Claims are generally processed after all required documents and information are received."
+    },
+    {
+      "question": "Why can an insurance claim be rejected?",
+      "answer": "Claims may be rejected due to policy exclusions, non-disclosure of material information, fraud, waiting period restrictions, policy lapse, or insufficient documentation."
+    },
+    {
+      "question": "What is claim intimation?",
+      "answer": "Claim intimation is the process of informing the insurer about an event that may result in a claim."
+    },
+    {
+      "question": "What is claim settlement ratio?",
+      "answer": "Claim settlement ratio is a measure indicating the percentage of claims settled by an insurer out of the total claims received."
+    },
+    {
+      "question": "What is pre-authorization in health insurance?",
+      "answer": "Pre-authorization is the approval obtained from the insurer or TPA before availing cashless hospitalization."
+    },
+    {
+      "question": "What is a Third Party Administrator (TPA)?",
+      "answer": "A TPA is an organization authorized by insurers to assist with health insurance services such as claim processing and cashless hospitalization coordination."
+    },
+    {
+      "question": "Can I file a claim if I lose my policy document?",
+      "answer": "Yes. Insurers generally allow claims based on policy records and identity verification, although additional documentation may be required."
+    },
+    {
+      "question": "What should nominees do when filing a life insurance death claim?",
+      "answer": "The nominee should inform the insurer, complete the claim form, and submit required documents such as the death certificate, policy details, and identity proof."
+    },
+    {
+      "question": "What documents are generally required for a life insurance death claim?",
+      "answer": "Typical documents include claim form, death certificate, policy document, nominee identity proof, bank details, and any additional documents requested by the insurer."
+    },
+    {
+      "question": "What is a maturity claim?",
+      "answer": "A maturity claim arises when the policyholder survives the policy term and becomes eligible to receive maturity benefits."
+    },
+    {
+      "question": "What documents are generally required for a maturity claim?",
+      "answer": "Requirements vary by insurer but typically include policy details, identity proof, bank account information, and any forms requested by the insurer."
+    },
+    {
+      "question": "Can an insurance claim be reopened after settlement?",
+      "answer": "This depends on insurer policies and the nature of the claim. Customers should contact the insurer for guidance in such situations."
+    },
+    {
+      "question": "What should I do if my claim is delayed?",
+      "answer": "You should contact the insurer, TPA, or advisor to understand the status of the claim and determine whether additional information is required."
+    },
+    {
+      "question": "Can Bajaj Capital assist with insurance claims?",
+      "answer": "Yes. Bajaj Capital can guide customers regarding claim procedures, required documentation, and coordination with insurers during the claim process."
+    },
+    {
+      "question": "Can Bajaj Capital help me understand claim requirements?",
+      "answer": "Yes. Bajaj Capital can help customers understand claim documentation requirements and the overall claim process."
+    },
+    {
+      "question": "Does Bajaj Capital settle claims directly?",
+      "answer": "No. Claims are settled by the insurance company. Bajaj Capital can assist and guide customers throughout the claim process."
+    },
+    {
+    "question":"How do I check my claim status?",
+    "answer":"Claim status can generally be tracked through the insurer's customer support channels, website, mobile app, or advisor."
+    },
+    {
+    "question":"What happens after claim approval?",
+    "answer":"After claim approval, the insurer processes payment according to policy terms and the approved claim amount."
+    },
+    {
+    "question":"Can missing documents delay claim settlement?",
+    "answer":"Yes. Missing or incomplete documentation may delay claim processing and settlement."
+    },
+    {
+    "question":"Who should be informed first during a claim?",
+    "answer":"The insurer or designated claims contact should be informed as soon as reasonably possible after the insured event."
+    },
+    {
+  "question":"How do I check my claim status?",
+  "answer":"Claim status can usually be checked through the insurer, TPA, customer support channels, website, mobile app, or advisor."
+},
+{
+  "question":"Can a claim be rejected?",
+  "answer":"Yes. Claims may be rejected due to policy exclusions, non-disclosure, waiting periods, insufficient documentation, fraud, or policy lapse."
+},
+{
+  "question":"What is claim intimation?",
+  "answer":"Claim intimation is the process of informing the insurer about an event that may lead to a claim."
+},
+{
+  "question":"What is pre-authorization?",
+  "answer":"Pre-authorization is approval obtained from the insurer or TPA before availing cashless hospitalization."
+}
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "product_name": "ManipalCigna Sarvah Pratham",
+  "product_type": "Health Insurance",
+  "summary": "ManipalCigna Sarvah Pratham Plan is an essential shield for your health insurance journey designed to offer essential coverage while ensuring that unexpected medical expenses don't strain your savings. This plan offers dependable support to ensure you and your family remain financially secure during significant medical events, with hospitalization coverage up to 3 cr for Heart Conditions, Cancer, Stroke and major Organ/Bone Marrow Transplant.",
+  "coverage": [
+    "In-patient Hospitalization covered up to Sum Insured",
+    "Day Care Treatment for all procedures related to specified disease/illness",
+    "Pre-hospitalization Medical Expenses up to 90 days before hospitalization",
+    "Post-hospitalization Medical Expenses up to 180 days post discharge",
+    "Domiciliary Hospitalization (Treatment at Home)",
+    "Road Ambulance expenses covered up to Sum Insured",
+    "Donor Expenses including pre & post hospitalization expenses up to 30 days each",
+    "AYUSH Treatment covered up to Sum Insured",
+    "Air Ambulance covered up to Sum Insured subject to maximum of Rs 10 Lacs",
+    "Listed Modern and Advanced Treatments up to Sum Insured",
+    "Accidental Hospitalization covered up to Sum Insured",
+    "Personal Accident Cover with benefit amounts from ₹10L to ₹3Cr",
+    "Temporary Total Disablement coverage with weekly benefits",
+    "Health Check Up available each policy year for adults above 18 years",
+    "Tele-Consultation unlimited with General Physician",
+    "Coverage for Non-Medical Items and Durable Medical Equipment up to ₹1 Lac"
+  ],
+  "waiting_periods": [
+    "Standard waiting period is 36 months for Pre-Existing diseases",
+    "With Sarathi optional cover, waiting period reduced to 30 days for Cancer, Heart, Stroke, & Major Organ/Bone Marrow Transplant arising from declared Pre-existing diseases (Asthma, Diabetes, Dyslipidemia, Obesity, Hypertension)"
+  ],
+  "room_rent": [
+    "Standard coverage: Single Private AC Room",
+    "ICU covered up to Sum Insured",
+    "Room Rent Modification options: Option 1 - Any room; ICU Up to Sum Insured or Option 2 - Twin Sharing AC room; ICU Up to Sum Insured"
+  ],
+  "co_pay": [
+    "No Zonal Co-Pay applicable",
+    "Voluntary Co-Payment options of 10%, 20% or 30% applicable on each and every claim"
+  ],
+  "deductible": [
+    "Option 1: Aggregate Deductible of ₹10K, ₹25K, ₹50K, ₹1L, ₹2L, ₹3L, ₹4L, ₹5L or ₹10L",
+    "Option 2: Per Day Deductible of ₹1K, ₹2K, ₹3K, ₹4K or ₹5K per day of Hospitalization on all admissible claims"
+  ],
+  "claims_information": [
+    "Restoration benefit allows unlimited restoration of Base Sum Insured in a policy year for both related and unrelated illnesses",
+    "Restoration shall not get triggered for the 1st claim",
+    "Multiple Restoration available for In-patient Hospitalization, Day Care Treatment, Pre-hospitalization, Post-hospitalization, Road Ambulance, Donor Expenses, and AYUSH Treatment",
+    "Health Check Up packages offered on cashless basis only",
+    "Claims under Accidental Death, Permanent Total Disablement, and Permanent Partial Disablement payable only for accidents occurring within India"
+  ],
+  "exclusions": [
+    "Expenses towards acquisition of organ not covered under Donor Expenses",
+    "TTD Cover available only for earning members in the Policy",
+    "TTD benefit applicable only for events within geographical boundaries of India",
+    "Sarathi optional cover available only at inception, not on renewal"
+  ],
+  "faqs": [
+    {
+      "question": "What is ManipalCigna Sarvah Pratham?",
+      "answer": "ManipalCigna Sarvah Pratham Plan is an essential shield for your health insurance journey designed to offer essential coverage while ensuring that unexpected medical expenses don't strain your savings."
+    },
+    {
+      "question": "What are the available Base Sum Insured options?",
+      "answer": "Base Sum Insured options are ₹5 Lacs, 7.5 Lacs, 10 Lacs, 15 Lacs, 20 Lacs, 25 Lacs, 50 Lacs, 100 Lacs, 200 Lacs, 300 Lacs."
+    },
+    {
+      "question": "What is the Gullak Advantage benefit?",
+      "answer": "Gullak provides guaranteed increase of 100% of Base Sum Insured for each policy year up to maximum of 1500% of Base Sum Insured irrespective of any claim made in the previous Policy Year. Base Sum Insured ₹10 Lac grows to ₹1.6 Crore at no additional premium."
+    },
+    {
+      "question": "What is the Sarathi optional cover?",
+      "answer": "Sarathi reduces waiting period to 30 days from usual 36 months for hospitalization related to Cancer, Heart, Stroke, & Major Organ/Bone Marrow Transplant arising from declared Pre-existing diseases like Asthma, Diabetes, Dyslipidemia, Obesity, Hypertension."
+    },
+    {
+      "question": "What is the Surplus Benefit?",
+      "answer": "Surplus Benefit provides additional 100% of Base Sum Insured, available from day 1 for 1st claim only, in each policy year. Surplus Benefit and Shakti are mutually exclusive."
+    },
+    {
+      "question": "What is covered under Personal Accident Cover?",
+      "answer": "Personal Accident Cover includes Accidental Death (100% of PA Cover), Permanent Total Disablement, Permanent Partial Disablement, and Temporary Total Disablement with benefit amounts from ₹10L to ₹3Cr."
+    },
+    {
+      "question": "What are the room rent coverage options?",
+      "answer": "Standard coverage is Single Private AC Room with ICU covered up to Sum Insured. Room Rent Modification allows Option 1: Any room or Option 2: Twin Sharing AC room, both with ICU up to Sum Insured."
+    },
+    {
+      "question": "How does the Restoration benefit work?",
+      "answer": "Restoration allows unlimited restoration of Base Sum Insured in a policy year for both related and unrelated illnesses. Multiple Restoration is available for specific covers but shall not get triggered for the 1st claim."
+    },
+    {
+      "question": "What are the pre and post hospitalization coverage periods?",
+      "answer": "Pre-hospitalization Medical Expenses are covered up to 90 days before hospitalization, and Post-hospitalization Medical Expenses are covered up to 180 days post discharge from hospital."
+    },
+    {
+      "question": "What is the Air Ambulance coverage limit?",
+      "answer": "Air Ambulance is covered up to Sum Insured subject to maximum of Rs 10 Lacs in addition to the Base Sum Insured."
+    },
+    {
+      "question": "What Health Check Up packages are available?",
+      "answer": "For Base Sum Insured of Rs 5 lacs: Package 1, for Rs 7.5 lacs and Rs 10 lacs: Package 2, for above Rs 10 lacs: Package 3. Available each policy year for adults who have completed 18 years of Age on cashless basis only."
+    },
+    {
+      "question": "What is covered under Donor Expenses?",
+      "answer": "Donor Expenses include pre & post hospitalization expenses up to 30 days each, cost towards donor screening once in a Policy year for successful transplant, and complications arising during hospitalization or up to 30 days from discharge covered up to 25% of Base Sum Insured subject to maximum of ₹2 Lacs."
+    },
+    {
+      "question": "What are the Deductible options available?",
+      "answer": "Option 1: Aggregate Deductible of ₹10K, ₹25K, ₹50K, ₹1L, ₹2L, ₹3L, ₹4L, ₹5L or ₹10L. Option 2: Per Day Deductible of ₹1K, ₹2K, ₹3K, ₹4K or ₹5K per day of Hospitalization."
+    },
+    {
+      "question": "What are the Voluntary Co-Payment options?",
+      "answer": "Voluntary Co-Payment options of 10%, 20% or 30% are applicable on each and every claim."
+    },
+    {
+      "question": "What is the Shakti benefit?",
+      "answer": "Shakti provides additional 100% or 200% of Base Sum Insured for all admissible claims in a Policy Year, applicable only after exhaustion of Base Sum Insured. Shakti and Surplus Benefit are mutually exclusive."
+    },
+    {
+      "question": "What relationships are covered under Individual and Floater policies?",
+      "answer": "Individual covers self, spouse, children, parents, in-laws, grandparents, grandchildren, uncle, aunt, nephew, niece, siblings, and their spouses. Floater covers self, spouse, dependent children, and dependent parents/parents-in-law."
+    },
+    {
+      "question": "What is covered under Durable Medical Equipment?",
+      "answer": "Durable Medical Equipment up to ₹1 Lac is covered when prescribed during hospitalization or within 30 days post-discharge, including CPAP Machine, BPAP Machine, Ventilator, Wheelchair, Prosthetic Device, and other specified equipment."
+    },
+    {
+      "question": "What are the TTD coverage options and limits?",
+      "answer": "TTD coverage options are ₹5K, ₹10K, ₹15K, ₹20K, ₹25K, ₹50K, ₹1L per week with maximum 100 weeks coverage. Available only for earning members and only if Personal Accident Cover is opted."
+    },
+    {
+      "question": "What is the no-claim discount structure?",
+      "answer": "Year 1: 2.5%, Year 2: 5%, Year 3: 7.5%, Year 4: 7.5%. After a claim, discount resets to 0%. No claim discount earned only when eldest age in policy is less than 56."
+    },
+    {
+      "question": "What wellness benefits are available?",
+      "answer": "Wellness Program allows earning rewards up to 20% of expiring base Premium by completing specified activities. Rewards can be used as premium discount from 1st Renewal. Up to 20% off on premium with wellness benefits and extra 2.5% discount for renewal within 15 days."
+    },
+    {
+      "question": "What is the age eligibility for Personal Accident Cover?",
+      "answer": "Personal Accident Cover has minimum age at entry of 5 years and maximum age at entry of 65 years."
+    },
+    {
+      "question": "What are the Personal Accident benefit amounts for family members?",
+      "answer": "Non-earning Spouse/Live-in Partner gets 60% of earning member's benefit amount. Dependent Children/Parents/Parents-in-Laws get 30% of benefit amount, maximum up to ₹30Lacs."
+    },
+    {
+      "question": "What is covered under Domiciliary Hospitalization?",
+      "answer": "Domiciliary Hospitalization (Treatment at Home) is covered up to Sum Insured with Pre and Post Hospitalization Expenses covered up to 30 days each."
+    },
+    {
+      "question": "When is Sarathi optional cover available?",
+      "answer": "Sarathi optional cover is available only at inception (First Policy Year) and not on renewal. Once opted, it cannot be withdrawn in subsequent renewals."
+    },
+    {
+      "question": "What is the maximum Personal Accident benefit for death due to common carrier accident?",
+      "answer": "200% of Benefit Amount is payable if Death/PTD occurs due to an Accident while travelling as a fare paying passenger on a common carrier."
+    },
+    {
+      "question": "What are the geographical restrictions for accident claims?",
+      "answer": "Claims under Accidental Death, Permanent Total Disablement, and Permanent Partial Disablement are payable only for accidents occurring within India. TTD benefit is applicable only for events within geographical boundaries of India."
+    },
+    {
+      "question": "What is not covered under Donor Expenses?",
+      "answer": "Expenses towards acquisition of the organ are not covered under Donor Expenses."
+    },
+    {
+      "question": "What is the maximum income multiple for Personal Accident Cover by age?",
+      "answer": "Age 18-45: Maximum 20 times of Gainful Annual Income. Age 46-60: Maximum 10 times of Gainful Annual Income. Above 60: Benefit amount up to maximum times of Annual Income as detailed in policy."
+    },
+    {
+      "question": "What additional services are included with the policy?",
+      "answer": "Unlimited Tele-consultation with General Physician, discounts on Pharmacy, Diagnostics and Health Supplements from Network Providers, and access to myManipalCigna app for digital policy servicing and claims."
+    }
+  ],
+  "source_file": "207161c1b524dda2706f7c6f436557c7291b6f19.txt",
+  "category": "Hi Document"
+}

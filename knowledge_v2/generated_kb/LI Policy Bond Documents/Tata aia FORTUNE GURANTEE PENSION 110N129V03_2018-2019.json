@@ -1,0 +1,205 @@
+{
+  "product_name": "Tata AIA Life Insurance Fortune Guarantee",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Non Linked Non Participating Endowment Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Endowment Assurance Plan",
+  "summary": "Tata AIA Life Insurance Fortune Guarantee is a Limited Premium Paying, Non-Linked, Non-Participating, Endowment Assurance Plan that provides a guaranteed maturity benefit if the insured survives the policy term and a death benefit to secure the future of the policyholder's family.",
+  "quick_facts": {
+    "minimum_age": "8 years",
+    "maximum_age": "55 years",
+    "sum_insured": "The Basic Sum Assured is 10 times the Annualised Premium.",
+    "policy_term": "10, 11, or 12 years",
+    "waiting_period": "12 months for suicide from the date of inception or revival of the policy."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Provides a lump sum payment to the nominee in case of the unfortunate death of the life insured during the policy term."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Provides a guaranteed lump sum payment to the policyholder if the life insured survives till the end of the policy term."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Maturity Benefit",
+      "description": "If the Insured is alive on the Maturity Date and the Policy is in force, a Maturity Sum Assured is payable. This is calculated as a maturity benefit factor multiplied by the Total Premiums Paid. The factor varies based on gender, policy term, annualised premium band, and entry age."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "Upon death of the insured during the policy term, the Sum Assured on death is payable. This is the highest of: (i) Basic Sum Assured (which is 10 times the Annualised Premium), (ii) 105% of the Total Premiums Paid, or (iii) Maturity Sum Assured. The policy terminates after the death benefit is paid."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A policy loan of up to 65% of the Surrender Value can be availed, provided the policy has acquired a Surrender Value (after two full policy years' premiums have been paid). The policy must be assigned to the company. The loan is not available while the Insured is a minor."
+    },
+    {
+      "name": "Surrender Benefit",
+      "description": "The policy can be surrendered anytime after at least two full years’ premiums have been paid. The surrender value payable is the higher of the Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV)."
+    },
+    {
+      "name": "Reduced Paid-Up Benefit",
+      "description": "If at least two full years' premiums are paid and subsequent premiums are missed, the policy automatically converts into a Reduced Paid-up policy. It provides reduced death and maturity benefits."
+    }
+  ],
+  "eligibility": [
+    {
+      "criterion": "Minimum Entry Age",
+      "value": "8 years"
+    },
+    {
+      "criterion": "Maximum Entry Age",
+      "value": "55 years"
+    },
+    {
+      "criterion": "Policy Term",
+      "value": "10, 11, or 12 years"
+    },
+    {
+      "criterion": "Premium Payment Term",
+      "value": "Limited Premium Paying Term as specified in the Policy Schedule."
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of inception of the policy, the nominee or beneficiary shall be entitled to at least 80% of the premiums paid, provided the policy is in force. If suicide occurs within 12 months from the date of revival, the nominee or beneficiary shall be entitled to an amount which is the higher of 80% of premiums paid till the date of death or the Surrender Value as available on the date of death."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Intimation Process",
+      "details": "Claims must be notified immediately and can be intimated online at www.tataaia.com, via email to Customercare@tataaia.com, by calling the helpline at 1-860-266-9966, by walking into any company branch, or by writing directly to the company's Thane office."
+    },
+    {
+      "type": "Documents for Death Claim",
+      "details": "Required documents include: Claim Forms (Claimant's Statement and Physician's Statement), Death Certificate issued by a local government body, Medical Records, Original Policy document, Claimant's age proof, relationship proof, address proof, Aadhar Card, PAN Card, and a cancelled cheque or bank passbook/statement. Proof of legal title is required if there is no nomination."
+    },
+    {
+      "type": "Additional Documents for Accidental Death",
+      "details": "In addition to standard documents, accidental death claims require: Postmortem report & Chemical Viscera report (if performed), all Police Papers (Panchnama, Inquest, First Information Report, Final Investigation Report), and newspaper cuttings/photographs of the accident (if available)."
+    },
+    {
+      "type": "Documents for Maturity Claim",
+      "details": "Aadhaar & PAN Card, if applicable and not already provided."
+    },
+    {
+      "type": "Important Note on Claims",
+      "details": "Notification of a claim and submission of required documents does not mean admission of claim liability by the Company."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What type of plan is Tata AIA Life Insurance Fortune Guarantee?",
+      "answer": "It is a Limited Premium Paying, Non-Linked, Non-Participating, Endowment Assurance Plan."
+    },
+    {
+      "question": "What are the main benefits of this policy?",
+      "answer": "The main benefits are a guaranteed Maturity Benefit if the insured survives the policy term, and a Death Benefit payable to the nominee in case of the insured's death during the term."
+    },
+    {
+      "question": "How is the Maturity Benefit calculated?",
+      "answer": "The Maturity Benefit is the Maturity Sum Assured, which is calculated by multiplying the Total Premiums Paid by a maturity benefit factor. This factor depends on the insured's gender, entry age, policy term, and the annualised premium band."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is the Sum Assured on Death, which is the highest of: Basic Sum Assured, 105% of Total Premiums Paid, or the Maturity Sum Assured."
+    },
+    {
+      "question": "What is the Basic Sum Assured?",
+      "answer": "The Basic Sum Assured is 10 times the Annualised Premium and is the guaranteed amount payable on death."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "The available policy terms are 10, 11, and 12 years."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum entry age is 8 years and the maximum entry age is 55 years."
+    },
+    {
+      "question": "Can I change my premium payment mode?",
+      "answer": "Yes, you can change the frequency of premium payments to annual, semi-annual, quarterly or monthly mode by submitting a written request, subject to the company's minimum premium requirements."
+    },
+    {
+      "question": "What is the grace period for paying the premium?",
+      "answer": "A grace period of 15 days is allowed for the monthly mode, and 30 days for all other modes (annual, semi-annual, quarterly)."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums for the first two policy years are not paid within the grace period, the policy will lapse. If premiums for at least two full years have been paid and subsequent premiums are not paid, the policy will be converted into a Reduced Paid-up Policy by default."
+    },
+    {
+      "question": "What is a Reduced Paid-up policy?",
+      "answer": "A Reduced Paid-up policy is one with reduced benefits (both maturity and death) that continues to be in force even if premium payments are stopped after the first two years."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed policy can be revived within two years from the due date of the first unpaid premium, subject to submission of the insured's current health certificate and payment of all overdue premiums with interest."
+    },
+    {
+      "question": "Is there a loan facility available on this policy?",
+      "answer": "Yes, a policy loan of up to 65% of the Surrender Value can be availed once the policy has acquired a surrender value (after two full years' premiums are paid)."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy at any time during the policy term, provided at least two full years’ premiums have been paid."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a Free Look period of 15 days (30 days for policies sourced through distance marketing) from the date of receipt of the policy document to review the terms and conditions. If not satisfied, you can cancel the policy for a refund."
+    },
+    {
+      "question": "What is the exclusion for suicide under this policy?",
+      "answer": "If the insured dies by suicide within 12 months from the policy's inception, the nominee gets at least 80% of premiums paid. If suicide occurs within 12 months of revival, the nominee gets the higher of 80% of premiums paid or the surrender value."
+    },
+    {
+      "question": "What if my age or gender was incorrectly stated in the proposal form?",
+      "answer": "If the correct age/gender required a higher premium, the benefit payable will be adjusted for the premium difference with interest. If a lower premium was applicable, the excess premium paid will be refunded without interest. If you were ineligible for the policy at the correct age/gender, the policy will be voided and premiums refunded after deductions."
+    },
+    {
+      "question": "How can a claim be intimated to the company?",
+      "answer": "A claim can be intimated online, via email (Customercare@tataaia.com), by calling the helpline, visiting a branch, or by writing to the company's Thane office."
+    },
+    {
+      "question": "What are the primary documents required for a death claim?",
+      "answer": "The key documents are claim forms, death certificate, medical records, original policy document, and the claimant's KYC and bank details."
+    },
+    {
+      "question": "Are there any additional documents required for an accidental death claim?",
+      "answer": "Yes, for accidental death, you need to submit the Postmortem report (if done), and all Police Papers like FIR, Panchnama, Inquest, and Final Investigation Report."
+    },
+    {
+      "question": "Is it possible to change the Sum Assured during the policy term?",
+      "answer": "No, an increase or decrease in the Basic Sum Assured is not allowed under this policy."
+    },
+    {
+      "question": "What does 'Total Premiums Paid' mean?",
+      "answer": "It is the total amount of premiums paid during the premium paying term, excluding any interest, tax, underwriting extra premiums, and loading for modal premiums."
+    },
+    {
+      "question": "How long do I have to pay premiums?",
+      "answer": "This is a limited premium paying plan. The specific Premium Payment Term is mentioned in your Policy Schedule."
+    },
+    {
+      "question": "Can I assign this policy to someone else?",
+      "answer": "Yes, the policy can be assigned in accordance with Section 38 of the Insurance Act, 1938. You must provide a written notice of the assignment to the insurer."
+    },
+    {
+      "question": "What happens if the nominee is a minor?",
+      "answer": "If the nominee is a minor, the policyholder should appoint an Appointee to receive the policy benefits on behalf of the minor nominee in the event of a claim."
+    },
+    {
+      "question": "What happens to the policy after the death benefit is paid?",
+      "answer": "The policy will terminate upon the death of the insured and payment of the death benefit. No other benefits under the policy shall be payable."
+    },
+    {
+      "question": "What if I have a grievance or complaint about the policy?",
+      "answer": "You can register a grievance through various channels like the company helpline, email, or branch. If unsatisfied with the resolution, you can escalate it to senior officials, the Grievance Redressal Officer, and then to the Insurance Regulatory and Development Authority of India (IRDAI) or the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "Tata aia FORTUNE GURANTEE PENSION 110N129V03_2018-2019.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,192 @@
+{
+  "product_name": "Kotak Signature Term Plan",
+  "company": "Kotak Mahindra Life Insurance Company Limited",
+  "product_type": "A Non-Participating Non-Linked Life Insurance Individual Pure Risk Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Term Plan",
+  "summary": "The Kotak Signature Term Plan is a non-participating, non-linked individual pure risk life insurance product. It provides a lump sum death benefit to the nominee in case of the life insured's death during the policy term. The plan offers various premium payment options (Single, Regular, Limited) and includes inbuilt health and wellbeing management services. There is no maturity benefit payable upon survival to the end of the policy term.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As opted by the Policyholder at Inception of Policy.",
+    "policy_term": "As opted by the Policyholder.",
+    "waiting_period": "12 months for suicide exclusion from the date of commencement of risk or date of revival."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Provides a lump sum payout to the claimant on the death of the Life Insured during the Policy Term, provided all due premiums are paid. The policy terminates after the benefit is paid."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit Calculation (Regular/Limited Pay)",
+      "description": "The benefit is the Sum Assured on Death, which is the highest of: (a) Basic Sum Assured, or (b) 11 times Annualized Premium, or (c) 105% of Total Premiums paid plus underwriting extra premiums, if any, till the date of death."
+    },
+    {
+      "name": "Death Benefit Calculation (Single Pay)",
+      "description": "The benefit is the Sum Assured on Death, which is the higher of: (a) Basic Sum Assured, or (b) 1.25 times the Single Premium paid."
+    },
+    {
+      "name": "Rider Benefits",
+      "description": "Policyholders can opt for additional riders like Kotak Permanent Disability Benefit Rider, Kotak Critical Illness Plus Benefit Rider, and Kotak Accidental Death Benefit Rider by paying an additional premium."
+    },
+    {
+      "name": "Health and Wellbeing Benefits",
+      "description": "Inbuilt Health & Wellbeing Management Services are available, including telemedicine, personal medical care, mental wellbeing programs, emergency response, home health care, and pharmacy access, provided by third-party service providers."
+    },
+    {
+      "name": "Access to Wellness Application",
+      "description": "The Life Insured gets complete access to a wellness mobile application featuring risk assessment, activity trackers, content, tools, electronic health records, challenges, and quizzes to encourage a healthy lifestyle."
+    },
+    {
+      "name": "Special Exit Benefit",
+      "description": "For policies with a term of 40 years or more, the policyholder can terminate the policy and receive a refund of the total premiums paid. This option is available within a five-year window starting from the policy year the Life Insured turns 60, or the 25th/30th policy year (depending on term), whichever is earlier."
+    },
+    {
+      "name": "Insta Payout on Claim Intimation",
+      "description": "For in-force policies after 3 consecutive years, the insurer endeavors to pay an advance of ₹2,00,000 out of the death benefit within two working days of claim registration, subject to submission of mandatory documents."
+    }
+  ],
+  "eligibility": [],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "If the Life Insured dies due to suicide within twelve (12) months from the Date of Commencement of Risk or from the date of Revival of the Policy, the benefit payable will be the higher of 80% of the Total Premiums paid (plus underwriting extra premium, if any) or the Voluntary Termination Value (if any) on the date of death."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "There is no benefit payable under this Policy upon survival of the Life Insured to the Date of Maturity."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Notification",
+      "description": "Claims should be notified to the Insurer in writing within ninety (90) days from the claim event. The Insurer may condone delays on merit for genuine reasons."
+    },
+    {
+      "name": "Primary Documents for Death Claim",
+      "description": "The primary documents required are: Original death certificate and medical cause of death, Original Policy Document, Claimant's photo ID and address proof, Original cancelled cheque or bank passbook copy, and a completed Claim Intimation Form."
+    },
+    {
+      "name": "Documents for Accidental Death",
+      "description": "In case of death due to an accident, additional documents are required: Certified copies of the First Information Report (FIR), post-mortem report, autopsy report, relevant newspaper cuttings, final police closure report, and a certified copy of the Life Insured’s driving license if they were driving."
+    },
+    {
+      "name": "Insta Payout on Claim Intimation",
+      "description": "An advance payment of ₹2,00,000 may be paid within 2 working days of claim registration if the death occurs after 3 consecutive policy years, the policy is in force, and all mandatory documents are submitted. The balance amount is paid after the claim is found admissible. This feature is not an assurance of full claim settlement."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Kotak Signature Term Plan?",
+      "answer": "It is a non-participating, non-linked, individual pure risk life insurance product that provides a death benefit if the life insured passes away during the policy term."
+    },
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "The policyholder has a 30-day free look period from the date of receiving the policy document electronically to review the terms and conditions."
+    },
+    {
+      "question": "What happens if I cancel the policy during the Free Look Period?",
+      "answer": "If you are not agreeable to the terms and conditions, you can return the policy for cancellation. You will receive a refund of the premium paid after deducting proportionate risk premium, stamp duty charges, and medical examination expenses, if any."
+    },
+    {
+      "question": "Is there any benefit if I survive the policy term?",
+      "answer": "No, there is no maturity benefit payable under this policy upon the survival of the Life Insured to the date of maturity."
+    },
+    {
+      "question": "What are the premium payment options available?",
+      "answer": "The policy offers Single, Regular, and Limited Premium Payment Options. You can also choose to pay premiums in Yearly, Half-Yearly, Quarterly, or Monthly modes."
+    },
+    {
+      "question": "What is a Grace Period?",
+      "answer": "A Grace Period is the extra time granted by the insurer after the premium due date to pay the premium without any penalty. The policy remains in-force during this period."
+    },
+    {
+      "question": "How long is the Grace Period?",
+      "answer": "The Grace Period is 30 days for Yearly, Half-Yearly, and Quarterly premium payment modes, and 15 days for the Monthly premium payment mode."
+    },
+    {
+      "question": "What happens if I miss paying the premium within the Grace Period?",
+      "answer": "For Limited and Regular pay policies, the policy will lapse. All premiums paid will be forfeited and no benefits will be payable under the policy if it is not revived."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed policy can be revived within a period of five years from the due date of the first unpaid premium and before the policy maturity date."
+    },
+    {
+      "question": "What is the procedure to revive a lapsed policy?",
+      "answer": "To revive a policy, you must submit a written application, provide evidence of continued insurability of the Life Insured, and pay all outstanding premiums with applicable taxes and interest (currently 9% per annum simple interest)."
+    },
+    {
+      "question": "What is the suicide exclusion clause in this policy?",
+      "answer": "If the Life Insured dies due to suicide within 12 months from the policy's risk commencement date or the revival date, the benefit will be limited to the higher of 80% of total premiums paid or the Voluntary Termination Value, if any."
+    },
+    {
+      "question": "Are policy loans available under this plan?",
+      "answer": "No, loans are not allowed under this policy."
+    },
+    {
+      "question": "Can I surrender the policy? Is there a surrender value?",
+      "answer": "The policy acquires a Voluntary Termination Value only under Single Premium and Limited Premium options (after all due premiums are paid). It does not acquire any value under the Regular Premium option. If you terminate the policy, a value calculated as 'Factor x (Total Premiums paid + underwriting extra premiums)' is paid, where Factor = 60% x (Unexpired Policy Term / Policy Term)."
+    },
+    {
+      "question": "What is the Special Exit Benefit?",
+      "answer": "It is a benefit for policies with a term of 40 years or more, allowing the policyholder to terminate the policy and get a refund of total premiums paid. This option is available within a specific five-year window."
+    },
+    {
+      "question": "When can I avail the Special Exit Benefit?",
+      "answer": "You can avail this benefit in a five-year period starting from the policy year in which the Life Insured attains age 60, or from the 25th or 30th policy year (depending on the policy term), whichever is earlier."
+    },
+    {
+      "question": "What is the 'Insta Payout on Claim Intimation' feature?",
+      "answer": "It is a feature where the insurer aims to pay an advance of ₹2,00,000 from the death benefit within two working days of claim registration, provided the death occurs after 3 consecutive policy years and all mandatory documents are submitted."
+    },
+    {
+      "question": "How is the Death Benefit calculated for a Regular Premium policy?",
+      "answer": "The Death Benefit will be the highest of: (a) Basic Sum Assured, or (b) 11 times the Annualized Premium, or (c) 105% of all premiums paid till the date of death."
+    },
+    {
+      "question": "How is the Death Benefit calculated for a Single Premium policy?",
+      "answer": "The Death Benefit will be the higher of: (a) Basic Sum Assured, or (b) 1.25 times the Single Premium paid."
+    },
+    {
+      "question": "What inbuilt health services are provided with this plan?",
+      "answer": "The plan offers inbuilt Health & Wellbeing Management Services like telemedicine, personal medical care, mental wellbeing programs, emergency response, home health care, and pharmacy access through third-party providers."
+    },
+    {
+      "question": "How do I make a claim?",
+      "answer": "The claimant must notify the insurer in writing within 90 days of the event, fill the 'Claim Intimation Form', and submit it along with required documents like the death certificate, original policy document, and claimant's identity and bank proofs."
+    },
+    {
+      "question": "What happens in case of fraud or misstatement in the proposal?",
+      "answer": "The policy is subject to Section 45 of the Insurance Act, 1938. A policy cannot be called into question on any ground after 3 years from its issuance or revival, except on the ground of fraud."
+    },
+    {
+      "question": "Can I change my Sum Assured or Policy Term after buying the policy?",
+      "answer": "No, major alterations such as changes in Basic Sum Assured, Policy Term, or Premium Payment Term are not allowed under the policy."
+    },
+    {
+      "question": "Can I change my address or contact details?",
+      "answer": "Yes, minor alterations like change of name, address, or phone number are allowed as per the insurer's prevailing policy servicing manual."
+    },
+    {
+      "question": "What is an 'Annualized Premium'?",
+      "answer": "It is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "What happens if the nominee is a minor when the claim arises?",
+      "answer": "The benefit amount will be paid to the 'Appointee', a person appointed by the policyholder at the time of nomination to receive the benefit on behalf of the minor nominee."
+    },
+    {
+      "question": "Are there any optional riders available with this plan?",
+      "answer": "Yes, you can opt for riders such as Kotak Permanent Disability Benefit Rider, Kotak Critical Illness Plus Benefit Rider, and Kotak Accidental Death Benefit Rider by paying an additional premium."
+    },
+    {
+      "question": "Who is a 'Claimant'?",
+      "answer": "A Claimant or Beneficiary is the person entitled to receive the policy benefits. It can be the Policyholder, Life Insured, Assignee, Nominee, or the legal heir of the Policyholder or Nominee, as applicable."
+    }
+  ],
+  "source_file": "Kotak_Signature_Term_Plan_UIN_107N139V01_Policy_Document.txt",
+  "category": "LI Policy Bond Documents"
+}

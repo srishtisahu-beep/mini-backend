@@ -1,0 +1,223 @@
+{
+  "product_name": "HDFC Life Guaranteed Wealth Plus",
+  "product_type": "Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "summary": "HDFC Life Guaranteed Wealth Plus is a non-linked, non-participating individual life insurance savings plan that offers guaranteed returns with life insurance coverage. It provides two variants - Lump sum Variant and Income Variant - with flexible premium payment options including single premium and limited pay options (6, 8, or 10 years). The plan offers death benefit, maturity benefit, and survival benefits (for Income Variant) with guaranteed surrender values.",
+  "definitions": [
+    {
+      "term": "Age",
+      "definition": "Age of Life Assured at Policy Commencement Date as at last birthday i.e. the Age in completed years and is recorded in the Policy Schedule based on the details provided by the Policyholder"
+    },
+    {
+      "term": "Annualized Premium",
+      "definition": "Premium amount payable in a year chosen by the Policyholder excluding the taxes, rider premiums, Underwriting Extra Premiums and loadings for modal Premiums, if any"
+    },
+    {
+      "term": "Basic Sum Assured",
+      "definition": "Sum total of Annualized Premium payable during the Policy Term and as specified in the Policy Schedule"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "Time granted by the Company from the due date for the payment of Premium without levy of any interest or penalty during which time the Policy is considered to be In Force. The Grace Period so granted is fifteen (15) days for monthly Premium payment mode and thirty (30) days for other available Premium payment modes"
+    },
+    {
+      "term": "Guaranteed Income",
+      "definition": "A series of annual payouts as specified in the Policy Schedule, calculated as a fixed percentage of the Annualized Premium and is payable during the Policy Term for Income Variant"
+    },
+    {
+      "term": "Lapse",
+      "definition": "A non-active life insurance contract on account of nonpayment of Premium within the Grace Period"
+    },
+    {
+      "term": "Revival Period",
+      "definition": "Period of five years from the due date for payment of the first unpaid Premium during which the Policyholder is entitled to revive the Policy for full Benefits"
+    },
+    {
+      "term": "Sum Assured on Death",
+      "definition": "An absolute amount of Benefit which is guaranteed to become payable on the event of death of the Life Assured in accordance with the terms and conditions of the Policy"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "type": "Suicide Exclusion",
+      "period": "12 months from the Date of Commencement of Risk under the Policy or from the date of Revival of the Policy"
+    },
+    {
+      "type": "Death Benefit for Minor Life",
+      "period": "If Age of Life Assured is less than 12 years, the risk will commence on the last day of second Policy Year"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the Date of Commencement of Risk or from the date of Revival, the nominee shall be entitled to at least 80% of the Total Premiums Paid till the date of death or Surrender Value available as on the date of death whichever is higher"
+    },
+    {
+      "type": "Minor Life Death Benefit Restriction",
+      "description": "If the Age of Life Assured is less than 12 years and if the Life Assured dies before the last day of the second Policy Year, the Death Benefit shall be restricted to refund of Premiums without interest"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": 1,
+      "description": "Intimate the Company in writing of the claim"
+    },
+    {
+      "step": 2,
+      "description": "Provide Death Certificate in original issued by competent authority"
+    },
+    {
+      "step": 3,
+      "description": "Submit Policy Document in original"
+    },
+    {
+      "step": 4,
+      "description": "Provide identification proof (bearing photo) of person receiving the Benefit and the Life Assured"
+    },
+    {
+      "step": 5,
+      "description": "Submit medical treatment records if Life Assured has taken treatment for illness leading to death"
+    },
+    {
+      "step": 6,
+      "description": "Provide bank account details of the claimant along with IFSC code for NEFT payment"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Premium Payment",
+      "description": "Regular payment of Premium for the Premium Payment Term is required to keep the Policy In Force"
+    },
+    {
+      "condition": "Non-Forfeiture",
+      "description": "For limited pay policies, if at least 2 full years' Premiums have been paid, the Policy is eligible for reduced paid-up value and surrender value"
+    },
+    {
+      "condition": "Policy Loan",
+      "description": "Maximum loan amount shall not exceed 80% of available Surrender Value with minimum loan amount of Rs.1,000"
+    },
+    {
+      "condition": "Revival",
+      "description": "Lapsed policy may be revived within five years from the due date for payment of the first unpaid Premium with payment of all arrears premiums with interest"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Guaranteed Wealth Plus?",
+      "answer": "HDFC Life Guaranteed Wealth Plus is a non-linked, non-participating individual life insurance savings plan that offers guaranteed returns with life insurance coverage."
+    },
+    {
+      "question": "What are the two variants available under this policy?",
+      "answer": "The policy offers two variants: Lump sum Variant and Income Variant."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "The free look period is 15 days from the date of receipt of the Policy document, or 30 days if the Policy is sourced through Distance Marketing."
+    },
+    {
+      "question": "What premium payment options are available?",
+      "answer": "Premium payment options include single premium, and limited pay options of 6, 8, or 10 years with annual, half-yearly, or monthly payment modes."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is 15 days for monthly premium payment mode and 30 days for other available premium payment modes from the respective premium payment due date."
+    },
+    {
+      "question": "When does the policy lapse?",
+      "answer": "The policy lapses when premiums are not paid within the grace period for policies where at least first 2 full years' premiums have not been paid."
+    },
+    {
+      "question": "What is the revival period for a lapsed policy?",
+      "answer": "A lapsed policy can be revived within five years from the due date for payment of the first unpaid premium."
+    },
+    {
+      "question": "What interest rate is charged for policy revival?",
+      "answer": "The current revival interest rate is 9.50% p.a., calculated as Average Annualised 10-year benchmark G-Sec Yield (over last 6 months & rounded up to nearest 50 bps) + 2%."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "For limited pay policies, you can surrender after paying at least 2 full years' premiums. For single premium policies, you can surrender anytime during the policy term."
+    },
+    {
+      "question": "What is the maximum policy loan amount available?",
+      "answer": "The maximum loan amount shall not exceed 80% of the available Surrender Value at that point of time, with a minimum loan amount of Rs.1,000."
+    },
+    {
+      "question": "What interest rate is charged on policy loans?",
+      "answer": "The current interest rate on loan is 9.50% p.a., calculated as Average Annualised 10-year benchmark G-Sec Yield (over last 6 months & rounded up to nearest 50 bps) + 2%."
+    },
+    {
+      "question": "How is the Sum Assured on Death calculated?",
+      "answer": "Sum Assured on Death is the highest of 'X' times the Annualized Premium (or 1.25 times single premium) or 105% of total premiums received up to the date of death."
+    },
+    {
+      "question": "What happens if the Life Assured is a minor?",
+      "answer": "If Age of Life Assured is less than 12 years, full death benefit becomes payable only after the last day of second Policy Year. Before that, only refund of premiums without interest is payable."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "In case of death due to suicide within 12 months from Risk Commencement Date or Revival date, the nominee gets at least 80% of Total Premiums Paid or Surrender Value, whichever is higher."
+    },
+    {
+      "question": "When does Guaranteed Income start for Income Variant?",
+      "answer": "Guaranteed Income payout commences from the end of 8th, 10th and 12th Policy Year for 6, 8 and 10 Pay policies respectively and continues till the end of Policy Term."
+    },
+    {
+      "question": "What is the Maturity Benefit for Lump sum Variant?",
+      "answer": "Maturity Benefit is a fixed percentage of either the single premium or total Annualized Premiums, depending on entry age, Policy Term, Premium Payment Term and premium band."
+    },
+    {
+      "question": "What is the Maturity Benefit for Income Variant?",
+      "answer": "Maturity Benefit under Income variant is equal to 100% of the Total Premiums Paid during the Policy Term."
+    },
+    {
+      "question": "Can I change my premium payment mode?",
+      "answer": "Yes, there is an option to change premium payment mode between monthly, half-yearly and annual option with no explicit charge for the change."
+    },
+    {
+      "question": "What documents are required for death claims?",
+      "answer": "Required documents include Death Certificate in original, Policy Document in original, identification proof of claimant and Life Assured, medical treatment records if applicable, and bank account details with IFSC code."
+    },
+    {
+      "question": "How is Guaranteed Surrender Value calculated?",
+      "answer": "GSV is calculated as GSV Factor multiplied by Total Premiums Paid (excluding Underwriting Extra Premium) less Survival Benefits already paid, subject to minimum value of zero."
+    },
+    {
+      "question": "What is reduced paid-up value?",
+      "answer": "If at least 2 full years' premiums are paid and subsequent premiums are not paid, the policy becomes eligible for reduced paid-up value calculated proportionately based on premiums paid."
+    },
+    {
+      "question": "Can I get a duplicate policy if I lose the original?",
+      "answer": "Yes, the Company can issue a duplicate policy after obtaining satisfactory evidence by collecting necessary charges not exceeding INR 250."
+    },
+    {
+      "question": "Are there any tax implications?",
+      "answer": "All premiums and benefits are subject to applicable taxes, cess, etc. The Company will deduct applicable taxes in accordance with prevailing tax laws in India."
+    },
+    {
+      "question": "What happens during the grace period?",
+      "answer": "During the grace period, the policy continues to be In Force for death benefit. If death occurs during grace period, death benefit is paid after deducting unpaid premiums."
+    },
+    {
+      "question": "How are advance premiums handled for monthly payment mode?",
+      "answer": "For monthly premium payment mode, three months' premiums are collected in advance on policy commencement date and adjusted on due dates. These advance premiums are non-refundable except in case of Free Look Cancellation."
+    },
+    {
+      "question": "What customer service options are available?",
+      "answer": "You can contact customer service at onlinequery@hdfclife.in or call toll free number 1800 266 9777. The company is also available on various social media platforms."
+    },
+    {
+      "question": "What is the UIN of this product?",
+      "answer": "The UIN (Unique Identification Number) of HDFC Life Guaranteed Wealth Plus is 101N165V04."
+    },
+    {
+      "question": "Does this policy participate in company profits?",
+      "answer": "No, this is a non-participating plan which does not entitle the Policyholder to any share in the surplus (profits) of the Company."
+    },
+    {
+      "question": "What happens if age is found to be incorrectly stated?",
+      "answer": "If age is found different from declared, the Company may adjust premiums and/or benefits. If age is outside permissible limits, the policy becomes void and premiums are returned after deductions."
+    }
+  ],
+  "source_file": "HDFC-Life-Guaranteed-Wealth-Plus-101N165V04-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

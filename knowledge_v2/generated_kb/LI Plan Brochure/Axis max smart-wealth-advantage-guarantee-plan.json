@@ -1,0 +1,234 @@
+{
+  "product_name": "Axis Max Life Smart Wealth Advantage Guarantee Plan",
+  "company": "Axis Max Life",
+  "product_type": "Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "The Axis Max Life Smart Wealth Advantage Guarantee Plan is a non-linked, non-participating individual life insurance savings plan that provides enhanced protection with guaranteed returns. It offers flexibility to grow wealth and protect loved ones through various customizable variants designed to meet life's milestones such as buying a house, children's education, or retirement. A key feature is the 'Liquidity Insta Income On Policy Issuance', which provides income within 7 working days from policy issuance if the 'Advance' income mode is chosen.",
+  "quick_facts": {
+    "minimum_age": "91 days (age as on last birthday)",
+    "maximum_age": "Up to 65 years, varies by plan variant, premium payment term, and Policy Continuance Benefit (PCB) option",
+    "sum_insured": "Minimum Sum Assured on Death: Rs. 62,500 for single pay, Rs. 55,000 for other than single pay. Maximum is subject to the board approved underwriting policy. For POS variants, Sum Assured on Death is restricted to a maximum of Rs. 25 lakhs.",
+    "policy_term": "Varies by plan variant and premium payment term. Minimum policy term is 5 years for POS policies. Maximum maturity age can go up to 100 years.",
+    "waiting_period": "A 90-day waiting period is applicable from the date of risk acceptance for policies sold through POS Persons. If death (other than by accident) occurs during this period, 100% of the premium paid is refunded. This is not applicable for death due to accident or on revival of a policy."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "If the Life Insured dies during the Policy Term, the Death Benefit is payable. For Single Pay, it's the higher of Sum Assured on Death or 125% of Surrender Value. For other than Single Pay, it's the higher of Sum Assured on Death, 105% of total premiums paid, or 125% of Surrender Value. Any accrued but unpaid income benefits are also paid."
+    },
+    {
+      "name": "Death Benefit with Policy Continuance Benefit (PCB)",
+      "description": "If PCB is opted, in addition to the standard Death Benefit, all future Survival and Maturity Benefits are paid to the beneficiary as and when due, without any need for future premium payments."
+    },
+    {
+      "name": "Additional Accidental Death Benefit",
+      "description": "An inbuilt benefit in non-single premium variants. If death occurs due to an accident during the benefit term, an additional amount equal to 50% of the Sum Assured on Death is payable, up to a maximum of Rs. 1 crore. Minimum entry age is 18 years and maximum maturity age is 80 years for this benefit."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable on survival of the Life Insured on the maturity date, provided the policy is in-force. The benefit amount varies by the chosen plan variant. For example, in the 'Wealth For Milestones' variant, it is the Sum Assured on Maturity plus accrued guaranteed additions."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Payable if the Life Insured is alive on the due date of the benefit, provided the policy is in-force. This includes Income Benefit, Loyalty Income Boosters, and Money Back Benefit, depending on the chosen variant (Regular Wealth, Long Term Wealth, Early Wealth, Lifelong Wealth)."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Returns and Additions",
+      "description": "The plan offers guaranteed benefits like Income Benefit, Sum Assured on Maturity, and Guaranteed Additions, provided all due premiums are paid."
+    },
+    {
+      "name": "Plan Variants",
+      "description": "Offers five distinct variants to cater to different financial goals: Wealth For Milestones, Regular Wealth, Early Wealth, Long Term Wealth, and Lifelong Wealth."
+    },
+    {
+      "name": "Liquidity Insta Income",
+      "description": "If the ‘Advance’ Income Benefit payment mode is chosen, the Income Benefit will be processed within 7 working days from the Policy Issuance date, subject to receipt of necessary documents."
+    },
+    {
+      "name": "Loyalty Income Boosters",
+      "description": "Applicable under Regular, Long Term, Early, and Lifelong Wealth variants, these are additional payouts equal to 20% or 40% of the Income Benefit."
+    },
+    {
+      "name": "Policy Continuance Benefit (PCB)",
+      "description": "An option to ensure that in case of the Life Insured's death, the nominee receives the death benefit, and all future survival and maturity benefits continue as planned without any further premium payments."
+    },
+    {
+      "name": "Flexibility in Receiving Income",
+      "description": "Options include 'Save the Date' to receive annual income on a special date, and the ability to choose monthly, quarterly, semi-annual, or annual frequency for income payouts."
+    },
+    {
+      "name": "Settlement Options",
+      "description": "Flexibility to receive Death Benefit and Maturity Benefit in installments over 5 years, either as a regular monthly income or a regular annual income."
+    },
+    {
+      "name": "Discounts and Rebates",
+      "description": "Offers several discounts: 2% on first-year premium for existing customers, staff/sellers, or transgender lives (0.5% for single pay). An Auto Debit Booster of 1% of premiums is also available. Only one of the three discounts (existing customer/staff/transgender) is applicable."
+    },
+    {
+      "name": "Special Rates for Female Lives",
+      "description": "For variants 1, 2, 3 & 4, a 3-year age setback on male rates is applicable. For variant 5, separate rates apply."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Policyholders may be eligible for tax benefits on premiums paid and benefits received as per prevailing tax laws."
+    },
+    {
+      "name": "Optional Riders",
+      "description": "Enhance coverage with optional riders like Waiver of Premium plus Rider, Accidental Death and Dismemberment Rider, Term plus Rider, and Critical Illness and Disability Rider (not available for POS policies)."
+    }
+  ],
+  "eligibility": [
+    {
+      "criterion": "Minimum Entry Age",
+      "details": "91 days (age last birthday). Varies by variant; for Lifelong Wealth, the minimum age is 40 years."
+    },
+    {
+      "criterion": "Maximum Entry Age",
+      "details": "Up to 65 years (age last birthday). Varies depending on the chosen variant, premium payment term, and if Policy Continuance Benefit (PCB) is opted for."
+    },
+    {
+      "criterion": "Minimum Maturity Age",
+      "details": "18 years (age last birthday)."
+    },
+    {
+      "criterion": "Maximum Maturity Age",
+      "details": "Up to 100 years (age last birthday). Varies by variant and options chosen."
+    },
+    {
+      "criterion": "Premium Payment Term (PPT)",
+      "details": "Available options are Single Pay, 5, 6, 7, 8, 10, 12, 15, and 20 years, depending on the chosen plan variant."
+    },
+    {
+      "criterion": "Premium Payment Mode",
+      "details": "Single, Annual, Semi-annual, Quarterly, and Monthly modes are available."
+    },
+    {
+      "criterion": "Minimum Annualised Premium",
+      "details": "Rs. 5,000 for most variants. Rs. 50,000 for Wealth for Milestones (Single Pay) and Lifelong Wealth variant."
+    }
+  ],
+  "exclusions": [
+    "For policies sold through POS persons, if death (other than by accident) occurs during the 90-day waiting period from the date of risk acceptance, no benefit is payable apart from a refund of 100% of the premium paid.",
+    "Any refund of premium due to suicide during the first 12 months shall be net of any income benefit already paid.",
+    "No riders will be available with policies sold through POS persons.",
+    "The product will be made available only without a medical examination if sourced through a point of sale person."
+  ],
+  "claims_information": [
+    "For any claims or support, you can call the Customer Helpline No. 1860 120 5577."
+  ],
+  "faqs": [
+    {
+      "question": "What is the Axis Max Life Smart Wealth Advantage Guarantee Plan?",
+      "answer": "It is a Non-Linked, Non-Participating Individual Life Insurance Savings Plan that offers enhanced protection with guaranteed returns on your savings, along with high flexibility to meet your life's milestones."
+    },
+    {
+      "question": "What are the different plan variants available?",
+      "answer": "The plan offers five variants: Wealth For Milestones, Regular Wealth, Early Wealth, Long Term Wealth, and Lifelong Wealth."
+    },
+    {
+      "question": "What is the new 'Liquidity Insta Income' feature?",
+      "answer": "If you choose the 'Advance' Income Benefit payment mode, this feature allows the Income Benefit to be processed and paid within 7 working days from the policy issuance date."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this policy?",
+      "answer": "The minimum entry age is 91 days, and the maximum entry age can be up to 65 years, depending on the plan variant and options chosen."
+    },
+    {
+      "question": "What premium payment terms are available?",
+      "answer": "The available premium payment terms are Single Pay, 5, 6, 7, 8, 10, 12, 15, and 20 years, depending on the selected variant."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annual premium is Rs. 5,000 for most variants. For the Lifelong Wealth variant, the minimum is Rs. 50,000."
+    },
+    {
+      "question": "What happens in case of the policyholder's death?",
+      "answer": "A Death Benefit is paid to the beneficiary. The amount is the higher of the Sum Assured on Death, 105% of total premiums paid, or 125% of the surrender value, depending on the premium payment type."
+    },
+    {
+      "question": "Is there an additional benefit for accidental death?",
+      "answer": "Yes, for non-single premium variants, there is an inbuilt 'Additional Accidental Death Benefit' equal to 50% of the Sum Assured on Death."
+    },
+    {
+      "question": "What is the Policy Continuance Benefit (PCB)?",
+      "answer": "PCB is an option where, upon the death of the life insured, the death benefit is paid, and the policy continues. All future survival and maturity benefits are paid to the beneficiary without any more premium payments. It is not available with the Lifelong Wealth variant."
+    },
+    {
+      "question": "What benefits do I get on surviving the policy term?",
+      "answer": "You receive a Maturity Benefit on the date of maturity. The specifics of the benefit, such as Sum Assured on Maturity and guaranteed additions, depend on the variant you have chosen."
+    },
+    {
+      "question": "What are Guaranteed Additions?",
+      "answer": "These are additions that accrue at the end of the last four policy years or premium payment term, depending on the variant. For example, under the 'Wealth For Milestones' variant, they are 12% of the Sum Assured on Maturity each year for the last four policy years."
+    },
+    {
+      "question": "What are Loyalty Income Boosters?",
+      "answer": "These are additional payouts under variants like Regular Wealth and Long Term Wealth. They are equal to a percentage (20% or 40%) of the regular Income Benefit."
+    },
+    {
+      "question": "Can I receive the death or maturity benefit in installments?",
+      "answer": "Yes, the plan offers Settlement Options where you can choose to receive the Death Benefit or Maturity Benefit as a regular monthly income for 60 months or a regular annual income for 5 years."
+    },
+    {
+      "question": "Are there any tax benefits with this plan?",
+      "answer": "Yes, you may be eligible for tax benefits on premiums paid and benefits received, as per the prevailing tax laws."
+    },
+    {
+      "question": "Are any discounts offered?",
+      "answer": "Yes, the plan offers a 2% discount on the first-year premium for existing customers, staff/sellers, or transgender lives (0.5% for single pay). Only one of these can be availed."
+    },
+    {
+      "question": "What is the 'Auto Debit Booster'?",
+      "answer": "If you pay all your premiums through an auto-debit mode (like ECS or direct debit), an amount equal to 1% of the premiums paid will be given to you at the end of the premium payment term."
+    },
+    {
+      "question": "Can I choose a specific date to receive my income payments?",
+      "answer": "Yes, with the 'SAVE THE DATE' option, you can choose to receive your annual income on any special date of your choice. This is available if income frequency is annual and the payment mode is 'arrear'."
+    },
+    {
+      "question": "Does this plan have a waiting period?",
+      "answer": "Yes, for policies sold through POS Persons, there is a 90-day waiting period from the date of risk acceptance. If death (not due to an accident) occurs during this period, 100% of the premiums paid are refunded."
+    },
+    {
+      "question": "Can I add riders to this policy?",
+      "answer": "Yes, you can add riders like Axis Max Life Waiver of Premium plus Rider and Axis Max Life Accidental Death and Dismemberment Rider. However, riders are not available for policies sold through POS persons."
+    },
+    {
+      "question": "What are the restrictions on policies sold by a Point of Sale Person (POSP)?",
+      "answer": "For POSP-sold policies, the Sum Assured on Death cannot exceed Rs. 25 lakhs, no medical examination is required, no riders are available, and a 90-day waiting period applies for non-accidental death."
+    },
+    {
+      "question": "What is the maximum Sum Assured allowed?",
+      "answer": "The maximum Sum Assured is not limited and is subject to the limits determined by the company's board-approved underwriting policy. However, for POS policies, it is capped at Rs. 25 lakhs."
+    },
+    {
+      "question": "Can I change my premium payment mode (e.g., from annual to monthly) later?",
+      "answer": "Yes, the Premium Payment Mode can be changed anytime during the Policy term, and the change will be effective from the subsequent policy anniversary."
+    },
+    {
+      "question": "What happens if the policy is taken for a minor?",
+      "answer": "In the case of minor lives (entry age less than 18 years), the policy will vest in the life insured when they attain the age of majority, which is 18 years."
+    },
+    {
+      "question": "Are there special benefits for female policyholders?",
+      "answer": "Yes, for variants 1, 2, 3 & 4, a 3-year age setback on male premium rates is applicable for female lives, which can result in lower premiums. For variant 5, separate rates apply."
+    },
+    {
+      "question": "What are the different frequencies available for receiving income benefits?",
+      "answer": "You can choose to receive the income benefit and loyalty income boosters at a monthly, quarterly, semi-annual, or annual frequency."
+    },
+    {
+      "question": "Is the Policy Continuance Benefit (PCB) available with all variants?",
+      "answer": "No, the Policy Continuance Benefit is not available with the Lifelong Wealth variant."
+    },
+    {
+      "question": "What is the minimum Sum Assured on Death?",
+      "answer": "The minimum Sum Assured on Death is Rs. 62,500 for single pay policies and Rs. 55,000 for non-single pay policies."
+    }
+  ],
+  "source_file": "Axis max smart-wealth-advantage-guarantee-plan.txt",
+  "category": "LI Plan Brochure"
+}

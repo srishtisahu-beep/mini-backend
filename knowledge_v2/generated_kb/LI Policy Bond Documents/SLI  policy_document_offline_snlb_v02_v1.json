@@ -1,0 +1,225 @@
+{
+  "product_name": "Shriram Life Sunishchit Laabh Plan",
+  "company": "Shriram Life Insurance Company Limited",
+  "product_type": "A non-linked, non-participating, individual life insurance savings plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings and Income Plan",
+  "summary": "The Shriram Life Sunishchit Laabh Plan is a life insurance plan that offers guaranteed benefits. It provides a death benefit to protect the family in case of the life assured's demise and a maturity benefit in the form of regular income. The plan offers two main cover options: 'Life Option' and 'Life Plus Option', with different payout structures for death benefits. It also includes features like Loyalty Additions, incentives for high premiums and female lives, and flexibility in receiving maturity payouts.",
+  "quick_facts": {
+    "minimum_age": "30 days",
+    "maximum_age": "60 years age last birthday (54 years for POS and CPSC Sales)",
+    "sum_insured": "Death Sum Assured is defined as the higher of the Sum Assured chosen by the policyholder or 105% of the Total Premiums Paid till the date of death.",
+    "policy_term": "The policy term can be extended or reduced within the limits allowed under the product.",
+    "waiting_period": "For minor lives, risk cover starts from the 1st policy anniversary. In case of death due to suicide, there is a waiting period of 12 months from the date of commencement of risk or revival."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Provides a payout in case of the life assured's death during or after the policy term, provided the policy is in-force. The payout method depends on the chosen cover option (Life Option or Life Plus Option)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable upon survival of the life assured to the end of the policy term. The benefit is paid as a regular income for a chosen pay-out term. It consists of the 'Guaranteed maturity income' along with Loyalty additions."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit (During Policy Term)",
+      "details": "Payable if the life assured dies during the policy term. Under 'Life Option', the 'Death Sum Assured' is paid in a lump sum. Under 'Life Plus Option', the 'Death Sum Assured' is paid in equal monthly instalments until the end of the policy term, and the maturity benefit continues to be paid as scheduled, with future premiums waived."
+    },
+    {
+      "name": "Death Benefit (After Policy Term)",
+      "details": "If the life assured dies after the policy term but during the maturity benefit pay-out period, the 'Guaranteed maturity income' along with applicable loyalty additions will continue to be paid to the nominee till the end of the pay-out term."
+    },
+    {
+      "name": "Death Benefit (Minor Life Assured)",
+      "details": "If the minor life assured dies during the first policy year, the total premiums paid will be refunded, and the policy will be terminated. Risk cover starts from the 1st policy anniversary."
+    },
+    {
+      "name": "Maturity Benefit",
+      "details": "Upon survival to the end of the policy term, a 'Guaranteed maturity income' plus 'Loyalty additions' are paid out. 'Income Plus option' provides regular income for a chosen pay-out term. 'Income Pro option' provides regular income for the chosen pay-out term less one year, with a Return of Total Premiums paid as the last pay-out."
+    },
+    {
+      "name": "Loyalty Additions",
+      "details": "Accrued on maturity and added to the 'Guaranteed maturity income'. The percentage of the annualised premium depends on the premium payment term, ranging from 12% for a 7-year term to 46% for a 25-year term."
+    },
+    {
+      "name": "High Premium Incentive",
+      "details": "The Maturity Income factor is increased for policies with higher annualised premiums. Incentives range from 0.50% for premiums of Rs. 60,000 to 4.00% for premiums of Rs. 5,00,000 and above."
+    },
+    {
+      "name": "Female Life Incentive",
+      "details": "Female policyholders are eligible for a higher maturity benefit pay-out. The incentive, as a percentage of the Annualised Premium, is added to the maturity income factors and varies by age band."
+    },
+    {
+      "name": "Policy Loan",
+      "details": "Available after the policy acquires a surrender value, during the policy term. The maximum loan amount is up to 90% of the surrender value."
+    },
+    {
+      "name": "Surrender Value",
+      "details": "The policy can be surrendered after the first full year's premium has been paid. The surrender value will be the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV)."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "30 days"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "60 years (54 years for POS and CPSC Sales)"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "76 years (65 years for POS and CPSC Sales)"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the life assured dies due to suicide within 12 months from the date of commencement of risk or the date of revival, the nominee will be entitled to 80% of the total premiums paid till the date of death or the surrender value available, whichever is higher. The full death benefit will not be paid."
+    },
+    {
+      "type": "Lapsed Policy",
+      "description": "If the premium remains unpaid at the end of the grace period and the policy has not acquired a surrender value, the policy will lapse, and no benefits are payable."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Death Claim Documents",
+      "details": "Required documents include the original policy document, proof of death/death certificate, and identity proof of the nominee(s). Additional documents like FIR, post-mortem report, and hospital records may be required for accidental or medical cases."
+    },
+    {
+      "process_step": "Maturity Claim Documents",
+      "details": "Required documents include the original policy document, identity proof of the policyholder, a cancelled cheque leaf or bank passbook copy, and an NEFT mandate form or a duly filled discharge form."
+    },
+    {
+      "process_step": "Claim Intimation",
+      "details": "A death claim should be intimated within 90 days from the date of death. Delays beyond 90 days may be considered if they are beyond the claimant's control."
+    },
+    {
+      "process_step": "Claim Settlement Timelines",
+      "details": "Death claims without investigation will be settled within 15 days of receiving the last required document. Claims requiring investigation will be settled within 45 days. Surrender requests are processed within 7 days, and maturity payments are made on the due date."
+    },
+    {
+      "process_step": "Interest on Delayed Payments",
+      "details": "If there is a delay in claim settlement by the company, interest will be paid at a rate which is the bank rate plus 2%."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Shriram Life Sunishchit Laabh Plan?",
+      "answer": "It is an individual life insurance savings plan that offers guaranteed benefits, including a death benefit for family protection and a maturity benefit paid as a regular income."
+    },
+    {
+      "question": "What are the two main options available under this plan?",
+      "answer": "The plan offers two cover options: 'Life Option' and 'Life Plus Option', which primarily differ in how the death benefit is paid out."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum age at entry is 30 days, and the maximum age at entry is 60 years (54 years for POS and CPSC Sales)."
+    },
+    {
+      "question": "How is the death benefit paid under the 'Life Option'?",
+      "answer": "Under the 'Life Option', if the life assured dies during the policy term, the 'Death Sum Assured' is paid immediately in a lump sum, and the policy terminates."
+    },
+    {
+      "question": "How is the death benefit paid under the 'Life Plus Option'?",
+      "answer": "Under the 'Life Plus Option', the 'Death Sum Assured' is paid in equal monthly instalments from the end of the month of death until the end of the policy term. Additionally, future premiums are waived, and the maturity benefits are paid as scheduled."
+    },
+    {
+      "question": "What happens if the policyholder dies after the policy term has ended?",
+      "answer": "If death occurs after the policy term while maturity benefits are being paid, the guaranteed maturity income and loyalty additions will continue to be paid to the nominee for the remainder of the chosen pay-out term."
+    },
+    {
+      "question": "What is the maturity benefit under this plan?",
+      "answer": "If the life assured survives until the end of the policy term, a maturity benefit consisting of 'Guaranteed maturity income' and 'Loyalty additions' is paid as a regular income for a chosen pay-out term."
+    },
+    {
+      "question": "Are there any special benefits for female policyholders?",
+      "answer": "Yes, all female lives are eligible to receive a higher maturity benefit pay-out compared to a similar male life, through an incentive added to the maturity income factors."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 30 days is allowed for quarterly, half-yearly, and annual premium payment modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "What happens if I miss a premium payment and the grace period expires?",
+      "answer": "If the premium is unpaid after the grace period and the policy has not acquired a surrender value, the policy will lapse, and no benefits will be payable. If it has acquired a surrender value, it will become a paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within five years from the date of the first unpaid premium by paying all outstanding premiums with interest and satisfying insurability requirements."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy after the first full year’s premium has been paid and the first policy year is completed. The surrender value paid will be the higher of the Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV)."
+    },
+    {
+      "question": "Is there a loan facility available with this policy?",
+      "answer": "Yes, a policy loan is available after the policy acquires a surrender value. The maximum loan amount is up to 90% of the surrender value."
+    },
+    {
+      "question": "What is the 'Free Look Period'?",
+      "answer": "The policyholder has a period of 30 days from the date of receipt of the policy document to review its terms and conditions. If dissatisfied, the policy can be returned for cancellation and a refund of the premium paid, subject to certain deductions."
+    },
+    {
+      "question": "What happens if the life assured is a minor and dies within the first year?",
+      "answer": "If the minor life assured dies during the first policy year, the total premiums paid will be refunded, and the policy will be terminated. The risk cover for minors starts from the first policy anniversary."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If death is due to suicide within 12 months from the policy's start or revival date, the beneficiary will receive 80% of total premiums paid or the surrender value, whichever is higher, instead of the full death benefit."
+    },
+    {
+      "question": "What documents are required to make a death claim?",
+      "answer": "The primary documents are the original policy document, proof of death (death certificate), and identity proof of the nominee. Additional documents may be needed depending on the cause of death."
+    },
+    {
+      "question": "How long does it take for a death claim to be settled?",
+      "answer": "A claim that does not require investigation will be settled within 15 days of receiving the last required document. If an investigation is needed, the process should be completed within 45 days."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, the frequency of premium payment can be changed during the premium paying term. You can choose between yearly, half-yearly, quarterly, and monthly modes."
+    },
+    {
+      "question": "Can I receive my maturity benefit as a lump sum instead of regular income?",
+      "answer": "Yes, the policyholder has an option to take the maturity benefit in a lump sum on the maturity date. This lump sum is calculated by discounting all future maturity benefit pay-outs at an interest rate of 8.5% p.a."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are extra benefits added to the 'Guaranteed maturity income' on maturity. The rate is a percentage of the annualised premium and depends on the premium payment term."
+    },
+    {
+      "question": "Is there an incentive for paying a high premium?",
+      "answer": "Yes, for policies with higher annualised premiums (starting from Rs. 60,000), the Maturity Income factor is increased by a certain percentage, resulting in a higher maturity benefit."
+    },
+    {
+      "question": "What is a 'Paid-up Policy'?",
+      "answer": "If a policy that has acquired surrender value stops receiving premium payments, it becomes a 'paid-up' policy. It remains in-force but with reduced benefits, proportional to the number of premiums paid against the total number payable."
+    },
+    {
+      "question": "How do I update my contact details with the company?",
+      "answer": "You can submit your new contact details along with address proof to the nearest branch, divisional office, or contact customer care via email at customercare@shriamlife.in or call the toll-free number 1800-103-6116."
+    },
+    {
+      "question": "What should I do if I lose my policy document?",
+      "answer": "In case of loss of the policy document, you must submit an indemnity bond duly notarized. A processing fee of Rs. 100 and applicable stamp duty will be charged for issuing a duplicate policy."
+    },
+    {
+      "question": "What happens if the age declared in the proposal is found to be incorrect?",
+      "answer": "If the age is found to be incorrect, the policy benefits will be revised based on the correct age. If the correct age would have made the life assured ineligible for the policy, the contract will be terminated, and the surrender value, if any, will be paid."
+    },
+    {
+      "question": "Who can be a nominee?",
+      "answer": "A nominee is the person or persons nominated by the life assured to receive the death benefit. Nomination should be done as per Section 39 of The Insurance Act, 1938."
+    }
+  ],
+  "source_file": "SLI  policy_document_offline_snlb_v02_v1.txt",
+  "category": "LI Policy Bond Documents"
+}

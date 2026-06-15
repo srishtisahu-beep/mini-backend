@@ -1,0 +1,146 @@
+{
+  "product_name": "Ultimate Health Insurance Plan",
+  "product_type": "Health Insurance",
+  "summary": "A comprehensive health insurance plan that rewards customers for staying healthy with premium payback and loyalty benefits. The plan offers unlimited cumulative bonus, multiple optional benefits, and coverage for various medical treatments with flexible tenure options.",
+  "coverage": [
+    "In-Patient Care up to Sum Insured",
+    "Day Care Treatment - All day care procedures",
+    "Advance Technology Methods up to Sum Insured",
+    "Pre-Hospitalization Medical Expenses - 60 days prior to hospitalization",
+    "Post-Hospitalization Medical Expenses - 90 days after discharge",
+    "AYUSH Treatment up to Sum Insured",
+    "Domiciliary Hospitalization up to Sum Insured",
+    "Organ Donor Cover up to Sum Insured",
+    "Ambulance Cover - Road/Air/Train/Boat transport up to Sum Insured",
+    "Room Rent up to Sum Insured",
+    "ICU Cover up to Sum Insured",
+    "Annual Health Check up once per policy year for all insured",
+    "Unlimited E-Consultations with general physicians and specialists"
+  ],
+  "waiting_periods": [
+    "Initial Waiting Period: 30 days for all hospitalization except accidental hospitalization",
+    "Named Ailment Waiting Period: 24 months",
+    "Pre-Existing Diseases Waiting Period: 36 months",
+    "New Born Wait Period: As per current policy if added within 90 days of birth",
+    "PED wait period can be modified to 1 year/2 years with optional benefit",
+    "No PED wait period for specific conditions with Instant Cover benefit"
+  ],
+  "room_rent": [
+    "Room Rent covered up to Sum Insured"
+  ],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Cumulative Bonus: 50% of Base Sum Insured per year irrespective of claim, maximum up to 100%",
+    "Infinity Bonus: Unlimited 100% cumulative bonus every year with continuous renewal even if you claim",
+    "Automatic Recharge: Available for unlimited times for unrelated or same illness",
+    "Unlimited Care: One big claim in entire policy lifetime payable without any limit on sum insured",
+    "Tenure Multiplier: Combine annual Sum Insured of multi-year policy for a single claim",
+    "Claim Shield: Specified list of non-payable items covered up to Sum Insured"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the MoneyBack benefit?",
+      "answer": "If no hospitalization related claim is made for 5 consecutive policy years, the 1st policy year base premium shall be refunded in every block of 5 years subject to subsequent renewal of policy. Base premium excludes optional benefits and taxes."
+    },
+    {
+      "question": "How does the Infinity Bonus work?",
+      "answer": "You get unlimited 100% cumulative bonus of your Sum Insured every year with continuous policy renewal even if you claim. The bonus shall not reduce in case of claim."
+    },
+    {
+      "question": "What is the Loyalty Boost benefit?",
+      "answer": "An additional sum insured equal to the first policy year's sum insured will be added to the policy coverage after 7 consecutive claim-free years, once in a policy lifetime. No hospitalization related claim should be made in 7 preceding policy years."
+    },
+    {
+      "question": "What policy tenure options are available?",
+      "answer": "You can choose policy tenure from 1 to 5 years, giving you freedom from renewal worries."
+    },
+    {
+      "question": "How does the Unlimited Care benefit work?",
+      "answer": "It allows one big claim in entire policy lifetime to be paid irrespective of coverage amount in the policy. Only one claim is allowed in policy lifetime irrespective of number of insured members. This benefit triggers after utilization of Base Sum Insured, Cumulative Bonus, Loyalty boost, Infinity Bonus and Tenure Multiplier."
+    },
+    {
+      "question": "What is the Tenure Multiplier benefit?",
+      "answer": "It allows you to combine annual Sum Insured of multi-year policy for a single claim. Only one claim is payable in the entire policy term and is available with multi-tenure policies."
+    },
+    {
+      "question": "What early renewal discounts are available?",
+      "answer": "You can enjoy a 5% discount when you renew 31 days before your due date, or 2.5% discount within the 30 days before due date."
+    },
+    {
+      "question": "What is Grace Period Coverage?",
+      "answer": "Your policy will remain active, ensuring continuous protection during the grace period."
+    },
+    {
+      "question": "How much wellness discount can I get?",
+      "answer": "You can get up to 30% discount on renewal premiums through healthy days program on Care Health Customer App. Discounts are based on accumulating healthy days by recording 10,000 steps (8,000 steps for persons aged 60+ years) daily."
+    },
+    {
+      "question": "What welcome discounts are available for new buyers?",
+      "answer": "New policy buyers get 30% discount in first year, 20% in second year and 10% in third year. These discounts are available only for the first 3 years."
+    },
+    {
+      "question": "What sum insured options are available?",
+      "answer": "Sum Insured options available are 5L, 7L, 10L, 15L, 20L, 25L, 50L, and 1Cr."
+    },
+    {
+      "question": "What ambulance coverage is provided?",
+      "answer": "Ambulance cover is provided up to Sum Insured for any mode of transport such as Road, Air, Train, Boat etc."
+    },
+    {
+      "question": "What is the MediVoucher benefit?",
+      "answer": "2 pharmacy vouchers of Rs. 250 each per policy are provided on 1st renewal with the Company."
+    },
+    {
+      "question": "What are the entry age limits?",
+      "answer": "Minimum entry age is 18 years for adults and 91 days for children. Maximum entry age is no upper age limit for adults and 24 years (last birthday) for children."
+    },
+    {
+      "question": "What is the exit age for coverage?",
+      "answer": "Exit age is lifelong for adults and 25 years for children."
+    },
+    {
+      "question": "How many people can be covered in one policy?",
+      "answer": "Individual policies can cover maximum up to 6 persons, while floater policies can cover maximum up to 2 adults and 2 children (2A2C)."
+    },
+    {
+      "question": "What relationships are allowed for coverage?",
+      "answer": "Allowed relationships include Self, Spouse/Live-in partner/Same sex partner, Son, Daughter, Father, Mother, Mother-in-law, Father-in-law, Grand-Father, Grand-Mother and as per insurable interest."
+    },
+    {
+      "question": "What zones are there for pricing?",
+      "answer": "Zone 1 includes Delhi NCR, Surat, Mathura, Aligarh. Zone 1A includes Telangana, Mumbai (MMR), Ahmedabad, Vadodra, Nashik. Zone 2 includes Pune, Indore, Bengaluru Urban, Rest of Gujarat. Zone 3 covers Rest of India."
+    },
+    {
+      "question": "What is the Instant Cover benefit?",
+      "answer": "No PED wait period for Diabetes, Hypertension, Hyperlipidimia, Asthma, Obesity, Hypothyroidism, Coronary Artery Disease (PTCA prior 1 year). Coverage starts from 31st day of policy start date after serving initial wait period of 30 days."
+    },
+    {
+      "question": "How does the wellness benefit discount calculation work?",
+      "answer": "Discounts are: 30% for 270+ healthy days, 20% for 240+ healthy days, 15% for 180+ healthy days, 10% for 120+ healthy days, 0% for less than 120 healthy days per year."
+    },
+    {
+      "question": "What is included in Be-fit Plus benefit?",
+      "answer": "It includes access to Digital Fitness Coaching, AI Fitness Coaching, access to Nutritionist/Wellness Coach, and unlimited access to Fitness centres for insured persons aged above 12 years."
+    },
+    {
+      "question": "What out-patient consultation coverage is provided?",
+      "answer": "General Physicians & Specialists physical consultations up to Rs. 5,000 per insured, with a limit of Rs. 500 per consultation. Maximum 4 consultations per insured per policy year for both general physicians and specialist doctors."
+    },
+    {
+      "question": "What is Care OPD benefit?",
+      "answer": "Maximum 4 physical consultations per insured per policy year with general physicians and 4 consultations with listed specialist doctors, subject to maximum Rs. 500 per consultation in policy year."
+    },
+    {
+      "question": "When can Unlimited Care benefit be removed?",
+      "answer": "Once opted, Unlimited Care can only be removed after 5 years. Once a claim is made under this benefit, the cover shall cease and not be available for re-selection during subsequent renewal."
+    },
+    {
+      "question": "How are healthy days calculated for wellness discount?",
+      "answer": "One healthy day is accumulated by recording 10,000 steps (8,000 steps for persons aged 60+ years) through tracking apps or devices. Days accumulated in last 2 months of policy period are not considered for renewal discount but carry forward to next policy period."
+    }
+  ],
+  "source_file": "Ultimate Care Training PPT Updated.txt",
+  "category": "Hi Document"
+}

@@ -1,0 +1,205 @@
+{
+  "product_name": "Kotak Platinum",
+  "company": "Kotak Mahindra Old Mutual Life Insurance Limited",
+  "product_type": "Unit Linked Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual, Non-Participating, Linked",
+  "summary": "Kotak Platinum is a unit-linked insurance plan (ULIP) that provides life insurance coverage along with the opportunity to grow wealth through investments in various funds. The plan offers flexibility with multiple premium payment options, investment strategies, and benefits like maturity payouts, death benefits, and survival units. It also includes options for partial withdrawals and top-up premiums after a specified lock-in period.",
+  "quick_facts": {
+    "minimum_age": "0 years at entry",
+    "maximum_age": "65 years for Regular Premium Policies and 60 years for Limited Premium Payment Policies at entry",
+    "sum_insured": "Referred to as Basic Sum Assured, chosen by the policyholder.",
+    "policy_term": "Determined by the maturity age, which is between 18 and 75 years.",
+    "waiting_period": "A lock-in period of five consecutive policy years from the date of commencement."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the Life Insured, a death benefit is payable. The amount is the highest of Basic Sum Assured (less applicable partial withdrawals), Fund Value, or 105% of premiums paid. A similar benefit is applicable for any top-up premiums paid."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured to the end of the Policy Term, the Fund Value in the Main Account (inclusive of Survival Units) and the Fund Value in the Top-Up Account(s) is payable."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Optional riders available are Kotak Accidental Death Benefit Rider and Kotak Permanent Disability Benefit Rider for additional coverage."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Survival Units",
+      "description": "Additional units equal to 2% of the average value of Funds in the Main Account in the preceding three years are credited to the Main Account at the end of the 10th Policy year and every 5th policy anniversary thereafter, subject to the Policy being in force."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "At maturity, the policyholder can opt to receive the proceeds in installments over a maximum period of five years, instead of a lump sum."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "Allowed after the 5-year lock-in period, provided the Life Insured is at least 18 years old. The minimum withdrawal amount is Rs. 10,000."
+    },
+    {
+      "name": "Top-Up Premiums",
+      "description": "Policyholders can invest additional premiums (Top-Ups) anytime during the policy term except for the last 5 years. Each top-up has a 5-year lock-in period."
+    },
+    {
+      "name": "Investment Strategies",
+      "description": "Flexibility to choose from three investment strategies: Self Managed Strategy, Age Based Strategy, and Systematic Switching Strategy (SSS)."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "0 years"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "65 years (Regular Premium) / 60 years (Limited Premium)"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "75 years"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the Life Insured commits suicide within one year of the Date of Commencement of Risk or the date of a Major Revival, only the Fund Value as on the date of death is payable. The full Death Benefit will not be paid."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "description": "The claimant must provide a written intimation of the claim event to the company in the prescribed format."
+    },
+    {
+      "process_step": "Document Submission",
+      "description": "The claimant must submit primary documents such as the original death certificate, original policy document, proof of age of the Life Insured, and claimant's identity, address, and bank details. For accidental death, certified copies of the First Information Report (FIR) and post-mortem report are also required."
+    },
+    {
+      "process_step": "Claim Processing",
+      "description": "The company will process the claim upon satisfactory receipt of all required documents and information. The company reserves the right to call for additional information and documents."
+    },
+    {
+      "process_step": "Payment",
+      "description": "The claim amount is payable at the office of the Company in Mumbai, unless an alternative place of payment is fixed."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Kotak Platinum plan?",
+      "answer": "It is a unit-linked insurance plan (ULIP) that offers a combination of life insurance cover and investment benefits through various fund options."
+    },
+    {
+      "question": "What is the lock-in period for this policy?",
+      "answer": "The lock-in period is five consecutive Policy years from the date of commencement of the Policy. During this period, proceeds from a discontinued policy cannot be paid out."
+    },
+    {
+      "question": "What is the minimum and maximum age to purchase this policy?",
+      "answer": "The minimum entry age is 0 years. The maximum entry age is 65 years for Regular Premium policies and 60 years for Limited Premium policies."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first five years (lock-in period)?",
+      "answer": "Your Fund Value, after deduction of discontinuance charges, will be transferred to the Discontinued Policy Fund. This amount will be payable only after the five-year lock-in period is completed."
+    },
+    {
+      "question": "What is the maturity benefit?",
+      "answer": "On survival to the end of the policy term, if the policy is in force, you will receive the Fund Value in the Main Account (including Survival Units) plus the Fund Value in the Top-Up Account(s), if any."
+    },
+    {
+      "question": "How is the death benefit calculated?",
+      "answer": "The death benefit is the highest of: Basic Sum Assured (less applicable partial withdrawals), Fund Value in the Main Account, or 105% of the premiums paid. A similar calculation applies separately for any Top-Up premiums."
+    },
+    {
+      "question": "Can I make partial withdrawals from my fund?",
+      "answer": "Yes, partial withdrawals are allowed after the completion of the five-year lock-in period, provided the Life Insured has attained 18 years of age."
+    },
+    {
+      "question": "What is the minimum amount I can withdraw partially?",
+      "answer": "The minimum amount for a partial withdrawal is Rs. 10,000."
+    },
+    {
+      "question": "Is there a suicide exclusion clause in this policy?",
+      "answer": "Yes. If the life insured commits suicide within one year of the policy's commencement or a major revival, only the Fund Value is payable, not the full death benefit."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "The grace period is 30 days for yearly, half-yearly, and quarterly premium payment modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "What are 'Survival Units'?",
+      "answer": "Survival Units are additional units credited to your Main Account at the end of the 10th policy year and every 5th policy anniversary thereafter, provided the policy is in force. They are equal to 2% of the average Fund Value in the Main Account in the three years immediately preceding the date they are added."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "No, the loan option is not available under this policy."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 15-day free-look period (30 days for policies sold via distance marketing) from the date of receipt of the policy document to return it if you disagree with the terms and conditions, for a refund subject to certain deductions."
+    },
+    {
+      "question": "What are the major charges applicable to this policy?",
+      "answer": "The charges include Premium Allocation Charge, Policy Administration Charges, Fund Management Charge, Mortality Charges, and Switching Charges, among others."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "It is a percentage of the premium deducted before allocating the remaining amount to purchase units. The rate varies by policy year and premium amount. For Top-Up premiums, it is a flat 2%."
+    },
+    {
+      "question": "Can I invest additional funds in my policy?",
+      "answer": "Yes, you can pay additional Top-Up Premiums at any point during the policy term, except in the last five policy years. The minimum Top-Up premium is Rs. 10,000."
+    },
+    {
+      "question": "How does a beneficiary file a death claim?",
+      "answer": "The claimant must provide a written intimation of the death to the company in the required format, along with necessary documents like the death certificate, original policy document, and other supporting evidence."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "Primary documents include the claim intimation form, original death certificate, original policy document, proof of age of the Life Insured, and claimant's identity, address, and bank details. In case of accidental death, an FIR and post-mortem report are also required."
+    },
+    {
+      "question": "What investment strategies are available under this plan?",
+      "answer": "The plan offers three investment strategies: Self Managed Strategy, Age Based Strategy, and Systematic Switching Strategy (SSS)."
+    },
+    {
+      "question": "How many free fund switches are allowed in a year?",
+      "answer": "The first twelve switches in any policy year are free. A charge of Rs. 250 is applicable for every additional switch thereafter."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the 5-year lock-in period?",
+      "answer": "You will have three options: revive the policy within two years, surrender the policy and receive the full Fund Value immediately, or convert it into a Reduced Paid-Up policy."
+    },
+    {
+      "question": "What is a Reduced Paid-Up policy?",
+      "answer": "It is an option available after the lock-in period if you discontinue premiums. The policy continues with a reduced sum assured, which is calculated based on the number of premiums paid against the total premiums payable."
+    },
+    {
+      "question": "Are there any riders available with this plan?",
+      "answer": "Yes, you can opt for the Kotak Accidental Death Benefit Rider (Linked) and the Kotak Permanent Disability Benefit Rider (Linked)."
+    },
+    {
+      "question": "Does partial withdrawal affect my Sum Assured?",
+      "answer": "Yes. For death before age 60, the Basic Sum Assured is reduced by partial withdrawals made from the Main account in the two years preceding death. For death after age 60, it's reduced by all partial withdrawals made from the Main account from age 58 onwards."
+    },
+    {
+      "question": "What is the Settlement Option at maturity?",
+      "answer": "Instead of a single lump sum, you can choose to receive the maturity proceeds in installments over a maximum period of five years. You can take 50% as a lump sum and the rest in installments, or the entire amount in installments."
+    },
+    {
+      "question": "Is there any life cover during the Settlement Period?",
+      "answer": "No, life cover and other benefits are not provided during the Settlement Period. The investment risk during this period is borne by the policyholder."
+    },
+    {
+      "question": "What is the Discontinued Policy Fund (DPF)?",
+      "answer": "It is a fund where the fund value of a discontinued policy is transferred during the lock-in period. This fund invests in low-risk government securities and money market instruments and currently earns a minimum interest of 4% p.a."
+    }
+  ],
+  "source_file": "Kotak platinum 107L067V03_2015-16.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,241 @@
+{
+  "product_name": "ABSLI Guaranteed Annuity Plus",
+  "company": "Aditya Birla Sun Life Insurance Company Limited",
+  "product_type": "A Non-Linked Non-Participating Single Premium General Annuity Plan",
+  "insurance_type": "Annuity",
+  "plan_category": "General Annuity Plan",
+  "summary": "ABSLI Guaranteed Annuity Plus is a non-linked, non-participating, single premium general annuity plan designed to provide a guaranteed fixed income for life or a specified period. Administered under a Master Policy, it offers various annuity options for both single and joint lives, with features like return of purchase price, deferred annuity, and the option to add top-ups. The plan provides a regular stream of income to the annuitant after the payment of a lump-sum premium.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document. Governed by Scheme Rules.",
+    "maximum_age": "Not specified in the document. Governed by Scheme Rules.",
+    "sum_insured": "Not applicable. The benefit is based on the Purchase Price paid.",
+    "policy_term": "For Single Life: Until the death of the Annuitant. For Joint Life: Until the death of the last surviving Annuitant.",
+    "waiting_period": "For the Deferred Annuity Option, a Deferment Period of 1 to 15 years is applicable. For immediate annuity options, payments start as per the chosen frequency from the date of purchase."
+  },
+  "coverage": [
+    {
+      "name": "Life Annuity",
+      "description": "Annuity is payable as long as the annuitant (single life) or either of the annuitants (joint life) is alive. No death benefit is payable."
+    },
+    {
+      "name": "Annuity Certain for a specified period and thereafter for Life",
+      "description": "For Single Life only. Annuity is guaranteed for a certain period. If the annuitant dies during this period, the annuity is paid to the nominee until the end of the period. If the annuitant survives the period, annuity continues for life."
+    },
+    {
+      "name": "Life Annuity with Return of Balance of Purchase Price",
+      "description": "For Single Life only. Annuity is payable for life. On death, the Purchase Price less the sum of annuity amounts already paid is given to the nominee."
+    },
+    {
+      "name": "Life Annuity with 50% Annuity payable to Secondary Annuitant",
+      "description": "For Joint Life only. On the death of the Primary Annuitant, 50% of the annuity is paid to the Secondary Annuitant for their lifetime."
+    },
+    {
+      "name": "Life Annuity with Return of Purchase Price",
+      "description": "Annuity is payable for life. On the death of the annuitant (single life) or last survivor (joint life), a percentage of the Purchase Price as chosen at inception is paid to the nominee."
+    },
+    {
+      "name": "Life Annuity with enhanced Annuity on Critical Illness/Accidental Permanent Disability and with Return of Purchase Price",
+      "description": "For Single Life only. Annuity is payable for life. On diagnosis of a specified Critical Illness or Accidental Permanent Disability before age 70, the annuity is enhanced by 50%. On death, the Purchase Price is returned to the nominee."
+    },
+    {
+      "name": "Life Annuity with Return of Purchase Price on attainment of age 80 years",
+      "description": "For Single Life only. Annuity is payable for life. On survival to the policy anniversary after age 80, the Purchase Price is returned. Annuity continues for life. If death occurs before age 80, the Purchase Price is paid to the nominee."
+    },
+    {
+      "name": "Life Annuity with partial Return of Purchase Price to Survivor and balance to Nominee",
+      "description": "For Joint Life only. On the first death, the survivor receives the ongoing annuity plus 50% of the Purchase Price. On the death of the last survivor, the remaining 50% of the Purchase Price is paid to the nominee."
+    },
+    {
+      "name": "Deferred Life Annuity with Return of Purchase Price",
+      "description": "Annuity payments start after a Deferment Period of 1-15 years. On death (during or after deferment), the death benefit is paid to the nominee. Guaranteed Additions accrue during the deferment period."
+    },
+    {
+      "name": "NPS – Family Income",
+      "description": "Annuity is payable as long as the subscriber or their spouse is alive. On death of the last survivor, the Purchase Price is used to purchase a new annuity for dependent parents, after which it is returned to the children or legal heirs."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Survival Benefit",
+      "description": "Regular annuity payments are made to the annuitant(s) as per the chosen annuity option and payment frequency (yearly, half-yearly, quarterly, or monthly)."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "Payable to the nominee/legal heir upon the death of the annuitant(s) as per the specific terms of the chosen annuity option. Some options do not offer a death benefit."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Available for certain annuity options after six months from the policy commencement. The maximum loan amount is 80% of the surrender value."
+    },
+    {
+      "name": "Surrender Benefit",
+      "description": "Available for specific annuity options. The policy can be surrendered anytime, and the Surrender Value (higher of Guaranteed Surrender Value or Special Surrender Value, where applicable) will be paid."
+    },
+    {
+      "name": "Top-up Annuity",
+      "description": "The option to increase the annuity by paying an additional Purchase Price (Top-Up) during the policy term. This is not available for all annuity options."
+    },
+    {
+      "name": "Guaranteed Additions",
+      "description": "Applicable only to the 'Deferred Life Annuity with Return of Purchase Price' option. Guaranteed Additions accrue monthly during the Deferment Period and are payable only on death."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age and other criteria",
+      "details": "The eligibility of members is governed by the Scheme Rules as contained in the Master Policy."
+    },
+    {
+      "criteria": "New Members",
+      "details": "New Members are allowed to join at any time during the tenure of the Policy, as per the Scheme Rules."
+    }
+  ],
+  "exclusions": [
+    {
+      "condition": "No Death Benefit",
+      "details": "Under the 'Life Annuity' option for both Single and Joint Life, no Death Benefit is payable."
+    },
+    {
+      "condition": "No Surrender Benefit",
+      "details": "Surrender benefit is not payable for the following annuity options: Life Annuity, Annuity Certain for a specified period and thereafter for Life, Life Annuity with return of Balance of Purchase Price, and Life Annuity with 50% Annuity payable to secondary annuitant on death of primary annuitant."
+    },
+    {
+      "condition": "Top-up Annuity Unavailability",
+      "details": "Top-up Annuity is not available for the 'Life Annuity with Enhanced Annuity on Critical Illness/ Accidental Permanent Disability and with Return of Purchase Price' option and is also not available for NPS customers."
+    },
+    {
+      "condition": "Critical Illness Exclusions",
+      "details": "Specific conditions are excluded under the critical illness benefit. For example, for 'Cancer of Specified Severity', carcinoma in situ, non-melanoma skin carcinoma, and certain types of prostate and thyroid cancers are excluded. For 'Coma of Specified Severity', coma resulting directly from alcohol or drug abuse is excluded."
+    },
+    {
+      "condition": "Maturity Benefit",
+      "details": "No maturity benefit is payable under this Policy."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Survival Benefit (Annuity Payments)",
+      "process": "To receive annuity payments, the annuitant must submit a 'Living Certificate' in the prescribed format to the company at least 30 days before the end of each Policy Year. If the certificate is not received, annuity payments will cease until the document is submitted."
+    },
+    {
+      "type": "Death Claim",
+      "process": "The claim must be notified to the 'Claims Department' via email. The following mandatory documents must be submitted: Certificate of Annuity, copy of Death Certificate, filled Death Claim Form, Claimant's Statement Form, Cancelled Cheque/Copy of Passbook, and Relationship Proof & KYC of the beneficiary. Proof of age may also be required if not previously admitted."
+    },
+    {
+      "type": "Surrender Claim",
+      "process": "To surrender the policy (where applicable), the member must submit a Surrender/Discharge Form along with the original Policy Document/Certificate of Annuity."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ABSLI Guaranteed Annuity Plus plan?",
+      "answer": "It is a non-linked, non-participating, single premium general annuity plan from Aditya Birla Sun Life Insurance that provides a guaranteed fixed income for life or a specified period."
+    },
+    {
+      "question": "What is an 'Annuitant'?",
+      "answer": "An Annuitant is the member, spouse, or family member on whose life the policy is effected and who receives the annuity payments."
+    },
+    {
+      "question": "Can I change my Annuity Option after starting the policy?",
+      "answer": "No, the Annuity Option once chosen at the policy's inception cannot be altered thereafter."
+    },
+    {
+      "question": "What are the available frequencies for annuity payments?",
+      "answer": "You can choose to receive your annuity payments yearly, half-yearly, quarterly, or monthly."
+    },
+    {
+      "question": "Is there a death benefit under the 'Life Annuity' option?",
+      "answer": "No, under the 'Life Annuity' option for both single and joint life, no death benefit is payable. Payments cease upon the death of the annuitant(s)."
+    },
+    {
+      "question": "How is the death benefit calculated for 'Deferred Life Annuity with Return of Purchase Price'?",
+      "answer": "The death benefit payable to the nominee is the higher of 110% of the Purchase Price, or the Purchase Price plus Accrued Guaranteed Additions less the sum of annuity amounts already paid."
+    },
+    {
+      "question": "What is the 'Living Certificate' and why is it required?",
+      "answer": "The 'Living Certificate' is a declaration that the annuitant is alive. It must be submitted to the company at least 30 days before the end of each policy year to ensure the continuation of annuity payments."
+    },
+    {
+      "question": "What happens if I forget to submit the Living Certificate on time?",
+      "answer": "If the Living Certificate is not received by the company at least 30 days before the end of the policy year, the payment of survival benefits (annuity) will automatically cease from the next policy year until the certificate is submitted."
+    },
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "The Free Look Period is 15 days from the date of receipt of the policy document (30 days for policies purchased through distance marketing or electronic policies), during which you can return the policy if you disagree with the terms and conditions."
+    },
+    {
+      "question": "Can I surrender this policy and get my money back?",
+      "answer": "Surrender is possible only for specific annuity options, such as 'Life Annuity with Return of Purchase Price' and 'Deferred Life Annuity with Return of Purchase Price'. Some options, like 'Life Annuity', do not offer a surrender benefit."
+    },
+    {
+      "question": "Is a loan facility available on this policy?",
+      "answer": "Yes, a policy loan can be availed on certain annuity options after six months from the policy commencement date. The maximum loan amount cannot exceed 80% of the surrender value."
+    },
+    {
+      "question": "How is the interest rate for the policy loan determined?",
+      "answer": "The loan interest rate is declared by the company on June 1st of every calendar year and is equal to the base rate of the State Bank of India plus 100 basis points. As of June 1st, 2021, it was 8.40% p.a. (compounded)."
+    },
+    {
+      "question": "Can I increase my annuity amount after purchasing the policy?",
+      "answer": "Yes, for most annuity options, you have the option to increase the annuity by paying an additional 'Top-Up Purchase Price' anytime while the policy is in-force."
+    },
+    {
+      "question": "What is the 'Deferment Period'?",
+      "answer": "The Deferment Period is applicable to the 'Deferred Annuity' option. It is the period from the policy start date until the first annuity payment is made, and it can be between 1 to 15 years."
+    },
+    {
+      "question": "What are 'Guaranteed Additions'?",
+      "answer": "Guaranteed Additions are applicable only to the 'Deferred Life Annuity with Return of Purchase Price' option. They accrue monthly during the Deferment Period and are payable only in the event of the annuitant's death."
+    },
+    {
+      "question": "What is the procedure to file a death claim?",
+      "answer": "The claimant must notify the company's claims department and submit mandatory documents, including the Certificate of Annuity, Death Certificate, claim forms, and KYC documents of the beneficiary."
+    },
+    {
+      "question": "What documents are required to make a death claim?",
+      "answer": "The required documents include the Certificate of Annuity, Death Certificate from a municipal authority, filled Death Claim Form, Claimant's Statement Form, cancelled cheque/passbook copy, and proof of relationship & KYC of the beneficiary."
+    },
+    {
+      "question": "What happens if the annuitant's age was stated incorrectly at the time of purchase?",
+      "answer": "The annuity payable will be altered corresponding to the correct age from the next due date. Any excess amount paid by the company due to the incorrect age will be recovered with interest from the annuitant."
+    },
+    {
+      "question": "What is a 'Joint Life Annuity'?",
+      "answer": "It is a policy taken jointly on the lives of a Primary Annuitant and a Secondary Annuitant, where annuity payments continue as long as at least one of them is alive, depending on the chosen option."
+    },
+    {
+      "question": "Does this policy have a maturity benefit?",
+      "answer": "No, there is no maturity benefit payable under this policy."
+    },
+    {
+      "question": "Who is the Primary Annuitant and Secondary Annuitant?",
+      "answer": "Under a Joint Life Annuity option, the Primary Annuitant is the person on whose life the policy has been taken. The Secondary Annuitant is the person entitled to receive the annuity payment after the death of the Primary Annuitant, as per the option chosen."
+    },
+    {
+      "question": "When does the cover for a member terminate?",
+      "answer": "The cover terminates on the death of the annuitant (or last surviving annuitant for joint life), on the date of policy surrender, on expiry of the annuity certain period (if later than death), or upon a free-look cancellation request."
+    },
+    {
+      "question": "What is the 'Purchase Price'?",
+      "answer": "The Purchase Price is the single premium amount paid by the policyholder to purchase the annuity plan, as mentioned in the Policy Schedule. It does not include any applicable taxes."
+    },
+    {
+      "question": "What happens under the 'Life Annuity with 50% Annuity to Secondary Annuitant' option if the Secondary Annuitant dies first?",
+      "answer": "If the Secondary Annuitant predeceases the Primary Annuitant, 100% of the annuity continues to be payable as long as the Primary Annuitant is alive."
+    },
+    {
+      "question": "What is the minimum loan amount I can take?",
+      "answer": "The minimum amount of loan that can be granted under this policy is Rs 5,000."
+    },
+    {
+      "question": "What happens if my outstanding loan balance exceeds the surrender value?",
+      "answer": "If the outstanding loan balance equals or exceeds the surrender value, the policy will not be terminated. The company will send a notice 90 days in advance to repay the loan amount."
+    },
+    {
+      "question": "How can I file a grievance or complaint?",
+      "answer": "You can register a grievance at any branch, call the toll-free number 1-800-270-7000, use WhatsApp no. 8828800040, or email care.lifeinsurance@adityabirlacapital.com. If unresolved, you can escalate it to the Head of Service Assurance or approach the IRDAI and the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "ABSL insurance Guaranteed annuity plus 109N132V02_Group.txt",
+  "category": "LI Policy Bond Documents"
+}

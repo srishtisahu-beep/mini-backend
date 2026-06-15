@@ -1,0 +1,206 @@
+{
+  "product_name": "Bajaj Allianz Life ACE",
+  "company": "Bajaj Allianz Life Insurance Company Limited",
+  "product_type": "Non Linked, Participating, Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Income or Savings Plan",
+  "summary": "Bajaj Allianz Life ACE is a non-linked, participating, individual life insurance plan with regular premium payments. It provides a combination of income and savings with benefits like Death Benefit, Survival Benefit (including Guaranteed Income and Cash Bonus), and Maturity Benefit. Policyholders can choose from four options: Deferred Income, Early Income, Increasing Income, and Wealth. The plan also offers a Goal Protection Benefit to ensure policy continuity after the life assured's death and provides flexibilities like accumulating income benefits and taking benefits in installments.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "11 times the Annualised Premium.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "A 12-month waiting period applies for death due to suicide from the date of commencement of risk or date of revival."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the Policy Term. The payout method depends on whether the Goal Protection Benefit (GPB) is chosen. Without GPB, a lump sum is paid. With GPB, the benefit is paid over the remaining policy term. The benefit includes Sum Assured on Death, bonuses, and any Accumulated Income Benefit. The total Death Benefit will not be less than 105% of the Total Premiums Paid."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Payable if the Life Assured is alive on the due date. Under Product Options 1, 2, and 3, this includes a Guaranteed Income (GI) and a Cash Bonus (CB), if declared. Under Product Option 4, there are no periodic survival benefits; instead, a Simple Reversionary Bonus is added to the policy annually, if declared."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable if the Life Assured is alive on the Maturity Date. The benefit includes the Sum Assured on Maturity, Terminal Bonus (if any), and any Accumulated Income Benefit (for Options 1, 2, 3) or Attached Simple Reversionary Bonus (for Option 4)."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Goal Protection Benefit (GPB)",
+      "description": "An option to continue the Policy for its benefits even after the death of the Life Assured. Future premiums are waived, and future benefits like GIs, CBs, and Sum Assured on Maturity are paid as and when they become due."
+    },
+    {
+      "name": "Bonus Entitlement",
+      "description": "As a participating plan, it is eligible for bonuses declared by the company. This includes Cash Bonus (for Options 1, 2, 3), Simple Reversionary Bonus (for Option 4), and Terminal Bonus (for all options)."
+    },
+    {
+      "name": "Flexibility Options",
+      "description": "The policy offers several flexibilities: Option to accumulate Guaranteed Incomes and/or Cash Bonuses, option to take these benefits as monthly instalments, and option to receive Death or Maturity benefits in instalments over 5, 10, 15 or 20 years."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policyholders can take a loan against the policy once it has acquired a surrender value. The maximum loan amount is up to 80% of the surrender value."
+    },
+    {
+      "name": "Paid-Up Benefit",
+      "description": "If at least two full years' premiums have been paid and subsequent premiums are missed, the policy automatically converts to a paid-up policy with reduced benefits, ensuring the policyholder doesn't lose all benefits."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Vesting for Minors",
+      "details": "If the Life Assured is a minor at the Policy Commencement Date, the Policy will vest on the Life Assured upon attaining the age of 18 years. The Life Assured then becomes the Policyholder."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death of the Life Assured due to suicide within twelve (12) months from the Date of Commencement of Risk or the date of latest revival of the Policy, whichever is later, the claimant shall be entitled to receive the higher of 80% of the Total Premiums received till the date of death or the Surrender Value available as on the date of death, provided the Policy is in-force. The policy will then be terminated."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "General Process",
+      "description": "To make a claim, the claimant must provide written notice to the company as soon as possible, preferably within 180 days of the event. The company may request specific information and documentation to process the claim."
+    },
+    {
+      "type": "Documents for Death Claim (Natural Causes)",
+      "details": [
+        "Written notice of the claim",
+        "Claimant's proof of entitlement",
+        "Original Policy Document",
+        "Original death certificate",
+        "Claimant statement/claim intimation letter",
+        "Bank account proof of Nominee",
+        "Medical cause of death certificate",
+        "Notarized Indemnity bond and NOC from legal heirs if no nomination exists"
+      ]
+    },
+    {
+      "type": "Documents for Death Claim (Unnatural Causes)",
+      "details": [
+        "All documents required for natural death",
+        "A copy of First Information Report (FIR)",
+        "Post Mortem Report (PMR), which is mandatory for accidental death claims"
+      ]
+    },
+    {
+      "type": "Documents for Maturity Claim",
+      "details": [
+        "The Claimant's proof of entitlement to receive payment under the Policy",
+        "Original Policy Document",
+        "Any other document as asked for by the Company depending on the facts and circumstances of each case"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Bajaj Allianz Life ACE plan?",
+      "answer": "It is a non-linked, participating, life insurance plan that offers a choice of four options: Deferred Income, Early Income, Increasing Income, and Wealth, providing a combination of income, savings, and life cover."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "There is a free look period of fifteen (15) days from the date of receipt of the Policy Document, and thirty (30) days for electronic policies or policies obtained through distance mode."
+    },
+    {
+      "question": "What happens if I forget to pay my premium on the due date?",
+      "answer": "A grace period of fifteen (15) days for monthly frequency and thirty (30) days for other frequencies is provided. During this period, the policy remains in-force."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the grace period?",
+      "answer": "If less than two full years' premiums are paid, the policy will lapse and no benefits are payable. If at least two full years' premiums have been paid, the policy will become a paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can a lapsed or paid-up policy be revived?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within a revival period of five (5) consecutive years from the date of the first unpaid premium, subject to payment of arrears with interest and submission of satisfactory evidence of health."
+    },
+    {
+      "question": "What is the 'Goal Protection Benefit' (GPB)?",
+      "answer": "GPB is an option that ensures the policy continues even after the death of the Life Assured. No future premiums are required, and the nominee receives all future benefits like income payouts and maturity value as originally scheduled."
+    },
+    {
+      "question": "What is the death benefit if I have not chosen the Goal Protection Benefit?",
+      "answer": "The death benefit, which includes Sum Assured on Death, any accumulated bonuses, and any Accumulated Income Benefit, will be paid out as a lump sum to the nominee, and the policy will terminate."
+    },
+    {
+      "question": "What is the suicide exclusion under this policy?",
+      "answer": "If the Life Assured commits suicide within 12 months from the policy's start date or its latest revival date, the nominee will receive the higher of 80% of total premiums paid or the surrender value. No other death benefit is payable."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, you can take a loan once the policy has acquired a surrender value, which happens after at least two full years' premiums have been paid."
+    },
+    {
+      "question": "What is the maximum loan amount available?",
+      "answer": "The maximum loan amount is 80% of the surrender value minus any terminal bonus and accumulated income benefit, plus 50% of the terminal bonus on surrender, if any."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "The policy can be surrendered at any time, provided at least two full years' Regular Premiums have been paid."
+    },
+    {
+      "question": "Can I choose to not receive my regular income benefits and let them accumulate?",
+      "answer": "Yes, under Product Options 1, 2, and 3, you have the option to accumulate all or part of the Guaranteed Incomes and Cash Bonuses. This accumulated amount will earn an investment return."
+    },
+    {
+      "question": "Can I receive the death benefit in installments?",
+      "answer": "Yes, at the time of claim, the claimant has the option to receive the death benefit in equal monthly installments over a period of five (5) or ten (10) years."
+    },
+    {
+      "question": "What if my age was stated incorrectly in the proposal form?",
+      "answer": "If the correct age is higher, the premium will be adjusted, and the difference needs to be paid. If the correct age is lower, the premium will be adjusted, and the excess premium paid will be refunded. If the correct age makes the life assured uninsurable, the policy may be altered or terminated."
+    },
+    {
+      "question": "What happens if I lose my policy document?",
+      "answer": "You can request a duplicate policy document from the company by paying a fee. The company may require evidence of the loss before issuing a copy."
+    },
+    {
+      "question": "What are the different product options available?",
+      "answer": "There are four options: 1) Deferred Income, 2) Early Income, 3) Increasing Income, and 4) Wealth. Each option has different benefit features."
+    },
+    {
+      "question": "Can I change my product option after the policy has started?",
+      "answer": "No, once chosen at the policy commencement date, the Policyholder cannot change the Product Option/s in the Policy."
+    },
+    {
+      "question": "Can I change the premium payment frequency?",
+      "answer": "Yes, you have the option to change the premium payment frequency at any Policy Anniversary during the Premium Paying Term, subject to availability and minimum premium rules."
+    },
+    {
+      "question": "What types of bonuses are available under this plan?",
+      "answer": "The plan may offer Cash Bonus (for Options 1, 2, 3), Simple Reversionary Bonus (for Option 4), and Terminal Bonus (for all options), as declared by the company."
+    },
+    {
+      "question": "Is the bonus guaranteed?",
+      "answer": "No, bonuses are not guaranteed. They are declared by the company based on its performance and are subject to relevant IRDAI regulations."
+    },
+    {
+      "question": "What is 'Annualised Premium'?",
+      "answer": "It is the total amount of Regular Premiums payable in a Policy Year for the chosen product option, excluding any Extra Premium, Rider Premium, and applicable taxes."
+    },
+    {
+      "question": "What is the 'Sum Assured on Death'?",
+      "answer": "The Sum Assured on Death is the Sum Assured, which is defined as 11 times the Annualised Premium, as specified in the schedule."
+    },
+    {
+      "question": "How are the Survival Benefits paid under the 'Early Income' option (Product Option 2)?",
+      "answer": "Under the Early Income option, if the policy is in-force and the life assured is alive, Guaranteed Income and Cash Bonus (if any) are paid out at the end of each policy year, starting from the end of the policy year DP+1 (Deferment Period + 1)."
+    },
+    {
+      "question": "How does the 'Increasing Income' option (Product Option 3) work?",
+      "answer": "In this option, the Benefit Sum Assured increases by 5% every policy year on a compound basis. This increased Benefit Sum Assured is used for calculating the Guaranteed Income and Cash Bonus, leading to a rising income stream."
+    },
+    {
+      "question": "What is the 'Wealth' option (Product Option 4)?",
+      "answer": "Under the Wealth option, there are no periodic income payouts. Instead, a Simple Reversionary Bonus, if declared, is added to the policy each year. This accumulated amount, along with the Sum Assured on Maturity and any Terminal Bonus, is paid at maturity."
+    },
+    {
+      "question": "What is the procedure if I have a complaint or grievance?",
+      "answer": "You should first contact the Grievance Officer at the nearest branch or the central Customer Care Desk. If you are not satisfied with the resolution, you can escalate it to the Grievance Redressal Officer, and then to the IRDAI or the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "Bajaj Allianz Life ACE-UIN-116N186V01.txt",
+  "category": "LI Policy Bond Documents"
+}

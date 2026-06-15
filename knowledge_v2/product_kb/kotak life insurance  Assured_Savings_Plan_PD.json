@@ -1,0 +1,197 @@
+{
+  "product_name": "Kotak Assured Savings Plan",
+  "company": "Kotak Mahindra Life Insurance Company Limited",
+  "product_type": "Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Non-Participating",
+  "summary": "Kotak Assured Savings Plan is a life insurance plan that offers guaranteed savings and protection. It provides a maturity benefit on survival till the end of the policy term, and a death benefit to the nominee in case of the unfortunate demise of the life insured during the term. The plan includes Guaranteed Yearly Additions and a Guaranteed Loyalty Addition.",
+  "quick_facts": {
+    "minimum_age": "3 years (at entry)",
+    "maximum_age": "60 years (at entry)",
+    "sum_insured": "Referred to as Basic Sum Assured, this is the amount given in the schedule and is determined based on the policy term, premium paying term, and the age of the Life Insured.",
+    "policy_term": "Policy terms of 10, 12, 14, 15, 18, and 20 years are available depending on the chosen Premium Payment Term.",
+    "waiting_period": "A one-year waiting period applies for suicide from the date of policy issuance or revival."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy term, the Guaranteed Maturity Benefit is paid. This is the sum of the Basic Sum Assured, accrued Guaranteed Yearly Additions, and the Guaranteed Loyalty Addition."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the Life Insured during the policy term, the benefit payable is the sum of the Basic Death Benefit and the Guaranteed Yearly Additions accrued as on the date of death."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Yearly Additions",
+      "description": "Accrues throughout the Premium Payment Term as a percentage of cumulative Annual Premiums paid. Paid on Maturity or earlier Death. Rates are 7% for 5 years PPT, 8% for 6 years PPT, 9% for 7 years PPT, and 10% for 10 years PPT."
+    },
+    {
+      "name": "Guaranteed Loyalty Addition",
+      "description": "Payable at maturity as a percentage of the Basic Sum Assured. Rates are 10% for 5 years PPT, 12% for 6 years PPT, 14% for 7 years PPT, and 20% for 10 years PPT."
+    },
+    {
+      "name": "Rider Benefits",
+      "description": "Policyholders can opt for additional riders anytime during the Policy Term. Available riders include: Kotak Term Benefit Rider, Kotak Life Guardian Benefit, Kotak Accidental Disability Guardian Benefit, and Kotak Critical Illness Plus Benefit Rider."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Loans may be granted for a minimum amount of Rs. 10,000 and up to a maximum of 50% of the policy's surrender value, subject to terms and conditions."
+    },
+    {
+      "name": "Reduced Paid-Up Benefit",
+      "description": "If premiums are discontinued after the policy acquires surrender value, it automatically converts to a Reduced Paid-Up policy with reduced benefits, payable on maturity or death."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "3 years"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "60 years"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "75 years"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In the event of the Life Insured committing suicide within one year of the date of issue of the Policy, 80% of the Premiums Paid will be payable to the nominee. In case of suicide within 1 year of revival (when revival is done after 6 months from the first unpaid premium), the benefit payable will be higher of 80% of Premiums Paid or the Surrender Value."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Process",
+      "description": "To file a claim, the nominee/claimant must provide written intimation to the company in the required format. The intimation should include policy details, date and cause of the event, and bank account details. The company reserves the right to call for additional information to validate the claim."
+    },
+    {
+      "type": "Required Documents",
+      "description": "The primary documents required for a death claim are: Claim intimation form, original policy document, original death certificate, proof of age of the insured (if not admitted), recent photograph of the beneficiary, address and identity proof of the beneficiary, and a photocopy of the beneficiary's bank passbook or statement."
+    },
+    {
+      "type": "Contact Information",
+      "description": "Claims can be intimated at: Customer Care, Kotak Mahindra Life Insurance Company Ltd, Kotak Towers, 7th Floor, Zone IV, Building No. 21, Infinity Park, Off Western Express Highway, Goregaon-Mulund Link Road, Malad East, Mumbai 400097. Toll Free: 1800 209 8800, Email: clientservicedesk@kotak.com."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Kotak Assured Savings Plan?",
+      "answer": "It is a life insurance plan from Kotak Mahindra Life Insurance that provides guaranteed savings through additions and a loyalty benefit, along with a life cover to protect your family in your absence."
+    },
+    {
+      "question": "What is the minimum and maximum age to purchase this policy?",
+      "answer": "The minimum age at entry is 3 years and the maximum age at entry is 60 years."
+    },
+    {
+      "question": "What is the maximum age the life insured can be at the time of maturity?",
+      "answer": "The maximum age at maturity for the life insured is 75 years."
+    },
+    {
+      "question": "What is the Death Benefit payable under this plan?",
+      "answer": "In case of the life insured's death during the policy term, the benefit is the sum of the Basic Death Benefit and Guaranteed Yearly Additions accrued as on the date of death."
+    },
+    {
+      "question": "How is the Basic Death Benefit calculated for a person whose entry age is less than 50 years?",
+      "answer": "For entry age less than 50 years, the Basic Death Benefit is the highest of: 11 times the annual premium, the Guaranteed Minimum Death Benefit, or 105% of total premiums paid."
+    },
+    {
+      "question": "How is the Basic Death Benefit calculated for a person with an entry age of 50 years or more?",
+      "answer": "For entry age of 50 years and above, the Basic Death Benefit is the highest of: 7 times the annual premium, the Guaranteed Minimum Death Benefit, or 105% of total premiums paid."
+    },
+    {
+      "question": "What will I receive if I survive the policy term?",
+      "answer": "On survival till the end of the policy term, you will receive the Guaranteed Maturity Benefit, which is the sum of the Basic Sum Assured, all accrued Guaranteed Yearly Additions, and the Guaranteed Loyalty Addition."
+    },
+    {
+      "question": "What are Guaranteed Yearly Additions?",
+      "answer": "These are additions that accrue every year during the premium payment term. They are calculated as a percentage of the cumulative annual premiums paid and are payable on maturity or earlier death."
+    },
+    {
+      "question": "What is the Guaranteed Loyalty Addition?",
+      "answer": "This is an additional amount calculated as a percentage of the Basic Sum Assured, which is payable at maturity based on the premium payment term chosen."
+    },
+    {
+      "question": "What is the grace period for paying my premium?",
+      "answer": "A grace period of 30 days is allowed for annual, half-yearly, and quarterly premium payment modes. For the monthly mode, the grace period is 15 days from the premium due date."
+    },
+    {
+      "question": "What happens if I miss paying a premium within the grace period?",
+      "answer": "If premiums are not paid within the grace period before the policy acquires surrender value, the policy will lapse. If it has acquired surrender value, it will automatically become a 'Reduced Paid-Up' policy."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed or reduced paid-up policy can be revived within a period of two years from the due date of the first unpaid premium, subject to company terms and conditions."
+    },
+    {
+      "question": "When does this policy acquire a surrender value?",
+      "answer": "If the premium payment term is less than 10 years, the policy acquires a surrender value after payment of full premiums for two policy years. If the term is 10 years or more, it acquires a surrender value after payment of full premiums for three policy years."
+    },
+    {
+      "question": "What is the exclusion for suicide under this policy?",
+      "answer": "If the life insured commits suicide within one year of the policy's start date, the nominee will receive 80% of the premiums paid. A similar condition applies for suicide within one year of revival."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a loan for a minimum of Rs. 10,000 and up to a maximum of 50% of the surrender value."
+    },
+    {
+      "question": "What happens if I stop paying premiums after a few years?",
+      "answer": "If you stop paying premiums after the policy has acquired a surrender value, it will be automatically converted into a Reduced Paid-Up Policy with proportionately reduced benefits."
+    },
+    {
+      "question": "What benefits are available under a Reduced Paid-Up policy?",
+      "answer": "A Reduced Paid-Up policy pays a Reduced Paid-Up Basic Sum Assured plus accrued Guaranteed Yearly Additions on maturity, or a Reduced Paid-Up Basic Death Benefit plus accrued additions on death. It is not eligible for future additions or loyalty additions."
+    },
+    {
+      "question": "What are the primary documents required to make a death claim?",
+      "answer": "The key documents are the claim intimation form, original policy document, original death certificate, proof of age of the insured, and KYC documents (photo, ID, address proof) and bank details of the claimant."
+    },
+    {
+      "question": "Is there a free-look period for this policy?",
+      "answer": "Yes, you have a free-look period of 15 days (30 days for policies sourced through distance marketing) from the date of receipt of the policy document to review the terms and conditions and return the policy if you are not satisfied."
+    },
+    {
+      "question": "What if my age was declared incorrectly in the proposal form?",
+      "answer": "If the age is found to be different, the benefits will be recalculated based on the correct age and premium paid. The company may recover or refund the difference in premium. If the correct age is outside the permissible limit, the policy may be cancelled."
+    },
+    {
+      "question": "What are the optional riders available with this plan?",
+      "answer": "You can enhance your coverage by opting for riders like Kotak Term Benefit Rider, Kotak Life Guardian Benefit, Kotak Accidental Disability Guardian Benefit, and Kotak Critical Illness Plus Benefit Rider."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums in Annual, Half-yearly, Quarterly, or Monthly modes."
+    },
+    {
+      "question": "Who receives the policy benefits?",
+      "answer": "The benefits are payable to the beneficiary, assignee, policyholder (if different from life insured), nominee, or legal representatives as per the policy conditions and applicable laws."
+    },
+    {
+      "question": "What happens if death occurs during the grace period before the premium is paid?",
+      "answer": "If the death claim is admitted, the death benefit will be paid after deducting the due unpaid premium for that period."
+    },
+    {
+      "question": "Can I nominate my spouse or children to receive the policy benefits?",
+      "answer": "Yes, nomination is allowed as per Section 39 of the Insurance Act, 1938. You can nominate one or more persons to receive the money in the event of your death."
+    },
+    {
+      "question": "How can I change the address on my policy?",
+      "answer": "You should promptly notify the company in writing of any change in your address to ensure you receive timely communication. You can contact them at their customer care address provided in the policy document."
+    },
+    {
+      "question": "What is the process if I have a complaint or grievance?",
+      "answer": "You should first approach the company's Customer Care. If you are not satisfied, you can escalate it to the Grievance Redressal Officer. If the issue is still unresolved, you can approach the IRDAI's Grievance Cell or the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "kotak life insurance  Assured_Savings_Plan_PD.txt",
+  "category": "LI Policy Bond Documents"
+}

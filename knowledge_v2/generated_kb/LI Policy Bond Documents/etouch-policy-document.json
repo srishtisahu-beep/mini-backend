@@ -1,0 +1,287 @@
+{
+  "product_name": "Bajaj Life eTouch II",
+  "product_type": "Non-Linked Non-Participating Individual Life Insurance Term Plan",
+  "summary": "Bajaj Life eTouch II is a non-linked, non-participating, individual life insurance term plan offering death, terminal illness, accidental total permanent disability and accidental death coverage through three variants: Life Shield, Life Shield Plus, and Life Shield with Return of Premium. The policy provides pure risk coverage with various flexible options and benefits.",
+  "definitions": [
+    {
+      "term": "Life Assured",
+      "definition": "The person on whose life the policy has been issued"
+    },
+    {
+      "term": "Policyholder",
+      "definition": "The legal owner of the policy"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "An additional period available for payment of any premium instalment after the due date. 15-days for monthly premium payment frequency, and 30-days for all other premium payment frequencies"
+    },
+    {
+      "term": "Lapse",
+      "definition": "The status of the policy after non-payment of the premium during which no benefit is payable"
+    },
+    {
+      "term": "Terminal Illness",
+      "definition": "A disease with which the Life Assured is diagnosed with and, in the opinion of a Medical Practitioner and company's appointed Medical Practitioner, is likely to lead to the death of the Life Assured within six (6) months from the date of such certification"
+    },
+    {
+      "term": "Accident",
+      "definition": "A sudden, unforeseen and involuntary event caused by external, visible, and violent means"
+    },
+    {
+      "term": "Policy Year",
+      "definition": "The 12 (twelve) month period commencing from the Date of Commencement as per the Schedule and every 12 (twelve) month period thereafter"
+    },
+    {
+      "term": "Nominee",
+      "definition": "The individual specified by the Policyholder (who is also the Life Assured) during the Nomination process"
+    },
+    {
+      "term": "Revival",
+      "definition": "The restoration of a policy that had been discontinued due to non-payment of premium. The option to Revive a policy is available for 5 years from the date of non-payment of premium"
+    },
+    {
+      "term": "Maturity",
+      "definition": "When the policy period has elapsed, and the policy comes to an end"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "benefit": "Suicide exclusion",
+      "period": "12 months from Date of Commencement of Policy Risk or 12 months from date of Revival"
+    },
+    {
+      "benefit": "Accidental Total Permanent Disability documentation",
+      "period": "Must be documented for an uninterrupted period of at least six months"
+    },
+    {
+      "benefit": "Accidental Death from indirect causes",
+      "period": "Death must occur within 180 days of the accident"
+    },
+    {
+      "benefit": "Accidental Total Permanent Disability from injury",
+      "period": "Injury must result in disability within 180 days of its occurrence"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Death Benefit",
+      "exclusion": "Suicide within 12 months from Date of Commencement or Revival - only 80% of premiums paid or Termination/Surrender Value (whichever higher) will be paid"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Death due to committing breach of law with criminal intent"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Death under influence of alcohol or drugs (except as per medical prescription)"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Self-inflicted injuries"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Naval, military or air force operations during peace time"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Participating in dangerous/hazardous sports, competitions or races"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Aviation, gliding or aerial flight (except as fare paying passenger on recognized airline)"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "War, invasion, civil war, rebellion, riots"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Failure to follow medical advice"
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "exclusion": "Nuclear contamination or radioactive materials"
+    },
+    {
+      "type": "Accidental Total Permanent Disability",
+      "exclusion": "Disability due to poison, gas or fume (voluntary or involuntary)"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": "Intimation",
+      "description": "Written Notice of Intimation of Death or Terminal Illness must be provided"
+    },
+    {
+      "step": "Death Certificate",
+      "description": "Original Death Certificate must be submitted"
+    },
+    {
+      "step": "Medical Certificate",
+      "description": "Medical cause of death certificate is required"
+    },
+    {
+      "step": "Unnatural Death Documentation",
+      "description": "If death is due to unnatural causes, copy of FIR (First Information Report) and PMR (Post-Mortem Report) required"
+    },
+    {
+      "step": "Additional Documents",
+      "description": "Any other documents that may be requested for investigations by the Company"
+    },
+    {
+      "step": "Accidental Disability Claims",
+      "description": "Claim intimation should be received in writing within 60 days of occurrence of the Accident causing total disability"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Free Look Period",
+      "description": "30 days from receipt of policy document to review and return if not satisfied, with refund of premium minus proportionate risk premium, medical expenses and stamp duty"
+    },
+    {
+      "condition": "Premium Payment",
+      "description": "Regular premiums payable on monthly/quarterly/bi-annual/annual frequencies for the period detailed in Policy Schedule"
+    },
+    {
+      "condition": "Policy Lapse",
+      "description": "Policy lapses if premium not paid within Grace Period, no benefits payable under Life Shield and Life Shield Plus variants"
+    },
+    {
+      "condition": "Revival Period",
+      "description": "Lapsed policy may be revived within 5 years with payment of arrears plus interest at 10-year G-Sec rate plus 2%"
+    },
+    {
+      "condition": "Medical Practitioner Qualification",
+      "description": "Must hold valid registration and degree equivalent to MD or MS in relevant field, cannot be related to policyholder or employed by company"
+    },
+    {
+      "condition": "Loan Availability",
+      "description": "Loan not available under Life Shield and Life Shield Plus variants, available under Life Shield with Return of Premium up to 50% of Surrender Value"
+    },
+    {
+      "condition": "Premium Holiday",
+      "description": "Available for policies with 20+ years term, can opt for 1-3 premium holidays after 5 policy years with all premiums paid"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the three variants available under Bajaj Life eTouch II?",
+      "answer": "The three variants are Life Shield, Life Shield Plus, and Life Shield with Return of Premium."
+    },
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "You get 30 days from receipt of policy document to review terms and return the policy if not satisfied, except if policy tenure is less than a year."
+    },
+    {
+      "question": "What happens if I want to cancel during the Free Look Period?",
+      "answer": "You can return the policy stating reasons and get refund of premium minus proportionate risk premium for coverage period, medical examination expenses and stamp duty charges."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "15 days for monthly premium payment frequency and 30 days for all other premium payment frequencies."
+    },
+    {
+      "question": "What happens if I don't pay premium within the Grace Period?",
+      "answer": "Under Life Shield and Life Shield Plus variants, the policy will lapse and no benefits will be payable. Under Life Shield with Return of Premium, if at least one year's premium is paid, it becomes a paid-up policy."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed policy can be revived within 5 years from date of non-payment by paying arrears with interest at 10-year G-Sec rate plus 2%, currently 9% p.a. compounded half-yearly."
+    },
+    {
+      "question": "What is Terminal Illness Benefit?",
+      "answer": "Terminal Illness Sum Assured is paid when Life Assured is diagnosed with a disease likely to cause death within 6 months as certified by Medical Practitioners."
+    },
+    {
+      "question": "What qualifications must a Medical Practitioner have for Terminal Illness certification?",
+      "answer": "Must hold valid registration from medical council and degree equivalent to MD or MS in relevant field, cannot be related to policyholder or employed by the company."
+    },
+    {
+      "question": "What is Accidental Death Benefit and which variant offers it?",
+      "answer": "Sum Assured for sudden, unforeseen, involuntary death caused by external, visible, violent means. Available only under Life Shield Plus variant."
+    },
+    {
+      "question": "What constitutes Accidental Total Permanent Disability?",
+      "answer": "Permanent loss of both eyes, both arms/hands, one arm and one leg, one arm and one foot, one hand and one foot, one hand and one leg, both legs, or both feet, documented for at least 6 months."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If death is by suicide within 12 months from policy commencement or revival, only 80% of premiums paid or Termination/Surrender Value (whichever higher) is payable, not the Death Benefit."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Loan is not available under Life Shield and Life Shield Plus variants. Under Life Shield with Return of Premium, loan up to 50% of Surrender Value is available at 9% p.a. compounded half-yearly."
+    },
+    {
+      "question": "What is Premium Holiday feature?",
+      "answer": "For policies with 20+ years term, you can opt for 1-3 premium holidays where premiums aren't paid but policy remains active. First holiday available after 5 policy years."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can alter frequency to monthly, quarterly, bi-annual, or annual anytime if policy hasn't lapsed. Bi-annual, quarterly and monthly require auto-debit activation."
+    },
+    {
+      "question": "What is Auto Cover Continuation?",
+      "answer": "You can defer premium payment for one full policy year while benefits continue, available if at least 3 full years' premiums paid and 30 days' notice given."
+    },
+    {
+      "question": "Can I receive Death Benefit in instalments?",
+      "answer": "Yes, you can choose equal monthly instalments over 5, 10, 20, 30 or 40 years for entire benefit or 10-90% in lumpsum with rest in instalments."
+    },
+    {
+      "question": "What is Life Stage Upgrade option?",
+      "answer": "Available under Life Shield and Life Shield Plus before age 45, allows increasing Sum Assured up to 100% of original based on life events like marriage, childbirth, home loan, etc."
+    },
+    {
+      "question": "What life events qualify for Life Stage Upgrade?",
+      "answer": "Marriage (50% increase), birth/adoption of 1st child (25%), 2nd child (25%), home loan (25%), education loan for children (25%)."
+    },
+    {
+      "question": "What is Early Exit Value?",
+      "answer": "Available under Life Shield and Life Shield Plus after 25 policy years if Life Assured is 60+ years old, equals total premiums paid plus extra premium excluding taxes."
+    },
+    {
+      "question": "What is Maturity Benefit under Life Shield with Return of Premium?",
+      "answer": "Total premiums paid under the policy are returned, excluding taxes, extra premium and additional premium for optional benefits."
+    },
+    {
+      "question": "Can I receive Maturity Benefit in instalments?",
+      "answer": "Under Life Shield with Return of Premium, you can choose 5 yearly instalments with 20% increase, resulting in 20% higher Return of Premium."
+    },
+    {
+      "question": "When can I surrender the Life Shield with Return of Premium policy?",
+      "answer": "After completing first policy year if at least one full year's premium paid. Surrender value will be higher of Guaranteed or Special Surrender Value."
+    },
+    {
+      "question": "What documents are needed for death claims?",
+      "answer": "Written intimation, original death certificate, medical cause of death certificate, and for unnatural deaths - FIR and Post-Mortem Report copies."
+    },
+    {
+      "question": "Are accidental benefits payable if death occurs due to dangerous sports?",
+      "answer": "No, accidental death benefit and disability benefits are excluded for participation in or training for dangerous/hazardous sports or competitions."
+    },
+    {
+      "question": "What happens if I'm under influence of alcohol during an accident?",
+      "answer": "Accidental Death Benefit and Accidental Total Permanent Disability benefits are not payable if death/disability occurs while under influence of alcohol or drugs (except prescribed medication)."
+    },
+    {
+      "question": "How do I file a grievance?",
+      "answer": "Contact Customer Care at 020-6712 1212, email customercare@bajajlife.com, or write to Customer Care Desk, Bajaj Life Insurance Limited, Airport Road, Yerawada, Pune - 411006."
+    },
+    {
+      "question": "Can I approach Insurance Ombudsman for disputes?",
+      "answer": "Yes, if grievance value doesn't exceed Rs.50 lakhs and relates to claim settlement delays, repudiation, premium disputes, policy servicing issues, etc. Must first exhaust company's grievance mechanism."
+    },
+    {
+      "question": "What is Waiver of Premium Benefit?",
+      "answer": "Future premiums are waived when Life Assured is diagnosed with Terminal Illness or Accidental Total Permanent Disability, and the policy continues to remain active."
+    },
+    {
+      "question": "Are there any exclusions for aviation-related deaths?",
+      "answer": "Yes, accidental benefits are excluded for aviation, gliding or aerial flight deaths, except when traveling as fare-paying passenger on recognized airline on regular scheduled routes."
+    }
+  ],
+  "source_file": "etouch-policy-document.txt",
+  "category": "LI Policy Bond Documents"
+}

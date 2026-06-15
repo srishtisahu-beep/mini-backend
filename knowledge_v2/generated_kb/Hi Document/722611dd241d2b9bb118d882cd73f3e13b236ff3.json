@@ -1,0 +1,183 @@
+{
+  "product_name": "ManipalCigna Sarvah",
+  "product_type": "Health Insurance",
+  "summary": "ManipalCigna Sarvah is a comprehensive health insurance product with three plans: Param, Uttam, and Pratham. The product offers features like Tatkal Benefit for zero waiting period, Anant Benefit for infinite coverage on specific conditions, Maternity and Newborn coverage, Surplus Benefit for extra protection, and various wellness rewards.",
+  "coverage": [
+    "In-patient Hospitalization up to Sum Insured",
+    "Day Care Treatment up to Sum Insured",
+    "Pre-hospitalization Medical Expenses up to 90 days",
+    "Post-hospitalization Medical Expenses up to 180 days",
+    "Domiciliary Hospitalization up to Sum Insured",
+    "Road Ambulance up to Sum Insured",
+    "Donor Expenses up to Sum Insured",
+    "AYUSH Treatment up to Sum Insured",
+    "Modern and Advanced Treatments up to Sum Insured",
+    "HIV/AIDS & STD up to Sum Insured",
+    "Mental Illness up to Sum Insured",
+    "Air Ambulance up to ₹10 Lacs in addition to base Sum Insured",
+    "Maternity Cover up to 20% of Base Sum Insured, maximum ₹5 Lacs",
+    "New Born Baby Coverage up to Maternity Expenses limit",
+    "First Year Vaccination as per national immunization program",
+    "Personal Accident Cover with various benefit amounts",
+    "Temporary Total Disablement coverage",
+    "Non-Medical Items up to Sum Insured",
+    "Durable Medical Equipment up to ₹1 Lac"
+  ],
+  "waiting_periods": [
+    "Zero waiting period with Tatkal Benefit",
+    "Specific disease/procedure waiting period applies with Pratiksha optional cover",
+    "Initial waiting period applies with Pratiksha optional cover",
+    "36 months waiting period for Maternity benefits"
+  ],
+  "room_rent": [
+    "Single Private AC Room covered up to Sum Insured",
+    "ICU covered up to Sum Insured",
+    "Option 1: Any room; ICU Up to Sum Insured",
+    "Option 2: Twin Sharing AC room; ICU Up to Sum Insured"
+  ],
+  "co_pay": [
+    "Voluntary Co-payment options of 10%, 20% or 30% applicable on each claim",
+    "Voluntary Co-payment applies to Maternity benefits if opted",
+    "Voluntary Co-payment applies to Anant benefit if opted"
+  ],
+  "deductible": [
+    "Option 1: Aggregate Deductible of ₹10K, ₹25K, ₹50K, ₹1L, ₹2L, ₹3L, ₹4L, ₹5L or ₹10L",
+    "Option 2: Per Day Deductible of ₹1K, ₹2K, ₹3K, ₹4K or ₹5K per day of Hospitalization",
+    "Deductible applies to all admissible claims",
+    "Deductible applies to Anant benefit if opted"
+  ],
+  "claims_information": [
+    "Restoration benefit allows unlimited restoration of Base Sum Insured in a policy year",
+    "Multiple restoration available for related and unrelated illnesses",
+    "Restoration not triggered for first claim",
+    "Claims under Personal Accident payable only for accidents within India",
+    "Anant benefit covers unlimited claims for Cancer, Heart, Stroke, Major Organ/Bone Marrow Transplant, or Accident",
+    "Surplus Benefit provides additional 100% of Base Sum Insured for first claim each policy year"
+  ],
+  "exclusions": [
+    "Donor expenses do not cover cost associated to acquisition of organ",
+    "Anant benefit applicable only for diagnosis, occurrences, and treatments within India",
+    "Personal Accident claims for Death, Permanent Total Disablement, and Permanent Partial Disablement payable only for accidents within India",
+    "TTD benefit applicable only for events within geographical boundaries of India"
+  ],
+  "faqs": [
+    {
+      "question": "What are the three plans available under ManipalCigna Sarvah?",
+      "answer": "The three plans available are Param, Uttam, and Pratham."
+    },
+    {
+      "question": "What is the Tatkal Benefit?",
+      "answer": "Tatkal Benefit provides absolutely Zero Waiting Period ensuring you receive care and coverage right from the start with no delays."
+    },
+    {
+      "question": "What conditions are covered under the Anant Benefit?",
+      "answer": "Anant Benefit covers unlimited hospitalizations for Heart Conditions, Cancer, Stroke, Major Organ/Bone Marrow Transplant or Accident without any Sum Insured limit."
+    },
+    {
+      "question": "What is the maximum coverage for Maternity expenses?",
+      "answer": "Maternity expenses are covered up to 20% of Base Sum Insured, subject to a maximum of ₹5 Lacs, in addition to the Base Sum Insured."
+    },
+    {
+      "question": "How many deliveries are covered under Maternity benefit?",
+      "answer": "Maternity Cover is available for up to a maximum of 2 deliveries or terminations."
+    },
+    {
+      "question": "What is the Surplus Benefit?",
+      "answer": "Surplus Benefit provides an additional 100% of Base Sum Insured, available from day 1 for the first claim only in each policy year."
+    },
+    {
+      "question": "What is the maximum no-claim discount available?",
+      "answer": "Up to 7.5% discount is available with no-claim years, plus up to 20% off with wellness benefits and an extra 2.5% for renewing within 15 days."
+    },
+    {
+      "question": "What is the Gullak Advantage?",
+      "answer": "Gullak provides guaranteed increase of 100% of Base Sum Insured each year up to maximum of 1500% of Base Sum Insured, with a guaranteed 15x bonus."
+    },
+    {
+      "question": "What Sum Insured options are available?",
+      "answer": "Base Sum Insured options are ₹5 Lacs, 7.5 Lacs, 10 Lacs, 15 Lacs, 20 Lacs, 25 Lacs, 50 Lacs, 100 Lacs, 200 Lacs, 300 Lacs."
+    },
+    {
+      "question": "How many days of pre-hospitalization expenses are covered?",
+      "answer": "Pre-hospitalization medical expenses are covered up to 90 days before the date of hospitalization."
+    },
+    {
+      "question": "How many days of post-hospitalization expenses are covered?",
+      "answer": "Post-hospitalization medical expenses are covered up to 180 days post discharge from the hospital."
+    },
+    {
+      "question": "What is the waiting period for Maternity benefits?",
+      "answer": "The female adult Insured Person should have been covered under the base Policy & Maternity Expenses for at least 36 months before availing this benefit."
+    },
+    {
+      "question": "Can the Anant benefit be added at renewal?",
+      "answer": "No, Anant cover can only be opted at the time of first Policy purchase and cannot be added at subsequent Renewals."
+    },
+    {
+      "question": "What is the minimum Base Sum Insured required for Anant benefit?",
+      "answer": "Anant benefit is available only with Base Sum Insured of ₹10 Lacs."
+    },
+    {
+      "question": "What voluntary co-payment options are available?",
+      "answer": "Voluntary Co-Payment options of 10%, 20% or 30% are available and will be applicable on each and every claim."
+    },
+    {
+      "question": "What deductible options are available?",
+      "answer": "Option 1: Aggregate Deductible of ₹10K to ₹10L, or Option 2: Per Day Deductible of ₹1K to ₹5K per day of Hospitalization."
+    },
+    {
+      "question": "What is covered under Durable Medical Equipment?",
+      "answer": "Durable Medical Equipment up to ₹1 Lac is covered when prescribed during hospitalization or within 30 days post-discharge, including CPAP Machine, BPAP Machine, Ventilator, Wheelchair, Prosthetic Device, etc."
+    },
+    {
+      "question": "What room types are covered?",
+      "answer": "Room Rent is covered up to Single Private AC Room, with options for Any room or Twin Sharing AC room. ICU is covered up to Sum Insured."
+    },
+    {
+      "question": "How does the Restoration benefit work?",
+      "answer": "Restoration allows you to restore your Base Sum Insured unlimited times in a policy year for both related and unrelated illnesses or injuries, but restoration is not triggered for the first claim."
+    },
+    {
+      "question": "What is the maximum Air Ambulance coverage?",
+      "answer": "Air Ambulance is covered up to Sum Insured subject to maximum of ₹10 Lacs in addition to the base Sum Insured."
+    },
+    {
+      "question": "What relationships can be covered under Individual policies?",
+      "answer": "Individual policies can cover Self, legally married spouse or live-in partner, son, daughter, father/mother/father-in-law/mother-in-law/son-in-law/daughter-in-law/grand-parents/grandchildren/uncle/aunt/nephew/niece/brother/sister/sister in-law/brother in-law."
+    },
+    {
+      "question": "What relationships can be covered under Floater policies?",
+      "answer": "Floater policies can cover Self, legally married spouse or live-in partner, dependent children (natural/legally adopted), dependent parents/parents-in-law."
+    },
+    {
+      "question": "What is the Shakti benefit?",
+      "answer": "Shakti provides an additional 100% or 200% of the Base Sum Insured for all admissible claims in a Policy Year, applicable only after exhaustion of the Base Sum Insured. Shakti and Surplus Benefit are mutually exclusive."
+    },
+    {
+      "question": "What wellness rewards are available?",
+      "answer": "Rewards can be earned by completing activities under the Healthy Life Management Program up to maximum of 20% of expiring base Premium, which can be used as premium discount from 1st Renewal."
+    },
+    {
+      "question": "What health check-up packages are available?",
+      "answer": "Health check-ups are available each policy year for adults 18+ years: Package 1 for ₹5 lacs Sum Insured, Package 2 for ₹7.5-10 lacs, Package 3 for above ₹10 lacs."
+    },
+    {
+      "question": "What is the age limit for Personal Accident Cover?",
+      "answer": "Personal Accident Cover has minimum age at entry of 5 years and maximum age at entry of 65 years."
+    },
+    {
+      "question": "What is the maximum TTD coverage period?",
+      "answer": "Maximum 100 weeks are covered for Temporary Total Disablement calculated from the date of commencement of the TTD."
+    },
+    {
+      "question": "Can Pratiksha optional cover be removed after opting?",
+      "answer": "No, once Pratiksha optional cover is opted, it cannot be opted out in subsequent renewal."
+    },
+    {
+      "question": "What is covered under Donor Expenses?",
+      "answer": "Donor Expenses cover hospitalization expenses of the donor, pre & post hospitalization expenses up to 30 days each, cost towards donor screening once per policy year, and complications up to 25% of Base Sum Insured subject to maximum ₹2 Lacs."
+    }
+  ],
+  "source_file": "722611dd241d2b9bb118d882cd73f3e13b236ff3.txt",
+  "category": "Hi Document"
+}

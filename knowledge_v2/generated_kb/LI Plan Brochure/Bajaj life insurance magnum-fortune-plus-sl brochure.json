@@ -1,0 +1,224 @@
+{
+  "product_name": "Bajaj Life Magnum Fortune Plus III",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "A Unit-linked Non-Participating Individual Life Savings Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "ULIP",
+  "summary": "Bajaj Life Magnum Fortune Plus III is a Unit-linked, Non-Participating, Individual Life Savings Insurance Plan designed to help achieve various life goals such as children's education, marriage, retirement, and financial security for loved ones. It offers life insurance cover throughout the policy term and provides flexibility to choose from a wide range of investment funds and portfolio strategies. The investment risk in the investment portfolio is borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "65 years",
+    "sum_insured": "Minimum: 7 times of Annualized Premium. Maximum: Up to 40 times of Annualized Premium, depending on age and Premium Payment Term.",
+    "policy_term": "10, 15, 20, 25, 30 years",
+    "waiting_period": "5-year lock-in period for surrender or withdrawal of monies invested."
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "On maturity of the policy, the policyholder will receive the Fund Value, including the Top-Up Premium Fund Value, if any. This can be received as a lump-sum or as a structured pay-out over five years using the Settlement Option."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Assured during the policy term while the policy is in-force, the death benefit payable is the higher of Prevailing Sum Assured or Regular Premium Fund Value, PLUS the higher of Top-up sum assured or top-up premium fund value. The death benefit will not be less than 105% of the total premiums received up to the date of death."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Life Insurance Cover",
+      "description": "Provides life insurance cover throughout the policy term for financial protection."
+    },
+    {
+      "name": "Wide range of funds and portfolio strategy",
+      "description": "Choose from a wide range of funds and three portfolio strategies: Investor Selectable, Target Asset Allocation, and Automatic Transfer Portfolio Strategy."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Additional units are allocated to the policy from the end of the 10th policy year annually, as a percentage of the average fund value of the last 3 policy years."
+    },
+    {
+      "name": "Maturity Booster",
+      "description": "An additional amount is added to the Fund Value at maturity for existing customers and for those who opt for the Auto Pay facility."
+    },
+    {
+      "name": "Return of Mortality Charges (ROMC)",
+      "description": "At the end of the policy term, the total amount of Mortality charges deducted for life cover throughout the policy term will be added back to the Fund Value."
+    },
+    {
+      "name": "Liquidity (Partial Withdrawals)",
+      "description": "Easy access to funds through partial withdrawals is available any time after the completion of 5 policy years, without any charges."
+    },
+    {
+      "name": "Family Benefit",
+      "description": "An additional benefit is paid at maturity if any family member is an existing policyholder of Bajaj Life Insurance. The benefit is a percentage of the average regular premium fund value of the previous three years."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be applicable on premiums paid and benefits received as per the prevailing tax laws."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive Maturity or Death Benefit in installments (Yearly, Half Yearly, Quarterly, or Monthly) spread over a period of 5 years."
+    },
+    {
+      "name": "Rider Options",
+      "description": "Option to enhance protection by opting for riders such as Bajaj Life Linked Accident Protection Rider II, Bajaj Life Care Plus Rider, and Bajaj Life Linked New Critical Illness Benefit Rider."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "0 years (as on last birthday)"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "65 years (as on last birthday)"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years (as on last birthday)"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "75 years (as on last birthday)"
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "value": "10, 15, 20, 25, 30 years"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "Varies by Policy Term. E.g., for PT 10 years, PPT is 5 to 7 years; for PT 30 years, PPT is 5 to 25 years."
+    },
+    {
+      "criteria": "Minimum Premium",
+      "value": "Annually: Rs. 48,000; Half-Yearly: Rs. 24,000; Quarterly: Rs. 12,000; Monthly: Rs. 4,000"
+    },
+    {
+      "criteria": "Maximum Premium",
+      "value": "As per Board Approved Underwriting Policy"
+    },
+    {
+      "criteria": "Premium Payment Frequency",
+      "value": "Yearly, Half-Yearly, Quarterly, Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Clause",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of the policy or from the date of revival of the policy, whichever is later, the nominee or beneficiary shall be entitled to the Fund Value as available on the date of intimation of death."
+    }
+  ],
+  "claims_information": [],
+  "faqs": [
+    {
+      "question": "What type of plan is Bajaj Life Magnum Fortune Plus III?",
+      "answer": "It is a Unit-linked Non-Participating Individual Life Savings Insurance Plan (ULIP)."
+    },
+    {
+      "question": "Who bears the investment risk in this policy?",
+      "answer": "The investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "Can I withdraw my money from the policy in the first three years?",
+      "answer": "No, Unit Linked Insurance Products do not offer any liquidity during the first five years of the contract. You will not be able to surrender or withdraw the money invested, completely or partially, until the end of the fifth year."
+    },
+    {
+      "question": "What is the minimum age to get this policy?",
+      "answer": "The minimum age at entry is 0 years. For a minor, the risk cover commences immediately and the policy vests on the Life Assured upon attaining 18 years of age."
+    },
+    {
+      "question": "What is the maximum age one can be to purchase this plan?",
+      "answer": "The maximum age at entry is 65 years."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "The available policy terms are 10, 15, 20, 25, and 30 years."
+    },
+    {
+      "question": "What is the minimum annual premium for this plan?",
+      "answer": "The minimum annual premium is Rs. 48,000."
+    },
+    {
+      "question": "What will I receive at the maturity of the policy?",
+      "answer": "On maturity, you will receive the Fund Value, including the Top-Up Premium Fund Value, if any."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "The death benefit is the higher of the prevailing Sum Assured or Regular Premium Fund Value, PLUS the higher of the Top-up sum assured or top-up premium fund value. The benefit will not be less than 105% of the total premiums paid."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are additional units allocated to your policy every year from the end of the 10th policy year until the end of the policy term, to enhance your savings corpus."
+    },
+    {
+      "question": "What is the Maturity Booster benefit?",
+      "answer": "The Maturity Booster is an additional amount added to your fund value at maturity. It is offered if you are an existing customer at the time of policy purchase and/or if you opt for the Auto Pay facility for renewal premiums."
+    },
+    {
+      "question": "Will I get back the mortality charges deducted from my policy?",
+      "answer": "Yes, under the Return of Mortality Charges (ROMC) benefit, the total amount of mortality charges deducted for life cover is added back to the Fund Value at maturity, provided all due premiums have been paid."
+    },
+    {
+      "question": "When can I start making partial withdrawals?",
+      "answer": "You can make partial withdrawals from your funds any time after the completion of 5 policy years."
+    },
+    {
+      "question": "Is there a charge for making a partial withdrawal?",
+      "answer": "No, there is no charge deducted on partial withdrawals."
+    },
+    {
+      "question": "What is the minimum amount for a partial withdrawal?",
+      "answer": "The minimum amount you can withdraw at any one time is Rs. 5,000."
+    },
+    {
+      "question": "Can I pay extra premiums into my policy?",
+      "answer": "Yes, you have the option to pay Top-Up premiums at any time, except during the last five policy years, provided all due premiums have been paid. The minimum Top-Up amount is Rs. 5,000."
+    },
+    {
+      "question": "What is the Settlement Option?",
+      "answer": "The Settlement Option allows you or your nominee to receive the Maturity or Death Benefit in installments (yearly, half-yearly, quarterly, or monthly) over a maximum period of five years, instead of a lump sum."
+    },
+    {
+      "question": "What happens if I discontinue paying premiums after the 5-year lock-in period?",
+      "answer": "If you stop paying premiums after the lock-in period of five years, the policy will be converted to a paid-up policy with a reduced sum assured. You will have a revival period of three years to resume premium payments."
+    },
+    {
+      "question": "What are the investment strategies available in this plan?",
+      "answer": "There are three portfolio strategies available: Investor Selectable Portfolio Strategy, Target Asset Allocation Strategy, and Automatic Transfer Portfolio Strategy."
+    },
+    {
+      "question": "Can I switch between funds?",
+      "answer": "Yes, if you have opted for the Investor Selectable Portfolio Strategy, you can switch units from one fund to another. Unlimited free switches are allowed."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "It is a percentage of each premium that is deducted before allocating the remaining amount to purchase units. The charge varies based on the policy year and premium amount, ranging from 2% to 4% for regular premiums and 2% for all top-ups."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "FMC is a charge deducted as a percentage of the Fund Value for managing the investment funds. It ranges from 0.95% to 1.35% per annum depending on the fund selected."
+    },
+    {
+      "question": "Is there a free look period for this policy?",
+      "answer": "Yes, there is a free look period of 30 days from the date of receipt of the policy document to review the terms and conditions. You can return the policy for cancellation if you disagree with any terms."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If the life assured dies by suicide within 12 months from the policy's commencement or revival date, the nominee will be entitled to receive the Fund Value as on the date of death intimation."
+    },
+    {
+      "question": "Is a loan available against this policy?",
+      "answer": "No, there is no loan facility available under this plan."
+    },
+    {
+      "question": "Can I change my premium payment term (PPT) during the policy?",
+      "answer": "Yes, you have the option to change the premium payment term at any time after the payment of the first 5 years' full premium, subject to plan rules and underwriting."
+    },
+    {
+      "question": "Can I reduce my premium amount?",
+      "answer": "Yes, you have an option to reduce the prevailing premium by up to 50% of the inception premium after the completion of the first five policy years. Once reduced, it cannot be increased again."
+    }
+  ],
+  "source_file": "Bajaj life insurance magnum-fortune-plus-sl brochure.txt",
+  "category": "LI Plan Brochure"
+}

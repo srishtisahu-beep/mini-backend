@@ -1,0 +1,152 @@
+{
+  "product_name": "Safeguard",
+  "product_type": "Health Insurance Rider",
+  "summary": "Safeguard is a rider that can be endorsed along with the Base Plan only and cannot be bought in isolation or as a separate product. This Rider is available only for claims made within India during the Policy Period and only if specifically mentioned in the Base Plan's Policy Schedule. It offers two variants: Safeguard and Safeguard+, providing claim coverage for non-payable items, bonus protection, and sum insured inflation protection.",
+  "coverage": [
+    "Claim Safeguard: Covers items mentioned in List I – 'Expenses not covered' under Annexure 1 when hospitalization claim is accepted under Base Plan",
+    "Claim Safeguard+: Covers non-payable items mentioned in Annexure 1 (List I,II,III,IV) subject to Reasonable and Customary Charges clause",
+    "Booster/Booster+/No Claim Bonus Safeguard: Protects cumulative bonus if total admissible claim amount in previous Policy Year is not more than Rs. 50,000",
+    "Booster+/Booster/No Claim Bonus Safeguard+: Protects bonus if total claim in a policy year is up to INR 1,00,000",
+    "Sum Insured Safeguard: Increases Base Sum Insured on cumulative basis at each Policy Year based on inflation rate",
+    "Sum Insured Safeguard+: Increases Base Sum Insured on cumulative basis at each renewal by rate of inflation in previous year"
+  ],
+  "waiting_periods": [
+    "All waiting periods applicable to the Base Plan will apply to this rider as well"
+  ],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Available only for claims made within India during the Policy Period",
+    "Any claim under any benefits mentioned in this rider will only be admissible when it qualifies according to terms, conditions and exclusions in the Base Plan",
+    "All claims procedure applicable to the Base Plan will apply to this rider as well",
+    "Reasonable and Customary Charges clause applies to Safeguard+ Claim coverage"
+  ],
+  "exclusions": [
+    "All permanent exclusions applicable to the Base Plan will apply to this rider as well",
+    "Cannot be bought in isolation or as a separate product",
+    "Available only if specifically mentioned in Base Plan's Policy Schedule",
+    "All accumulated Safeguard benefit Sum Insured will lapse if this rider is not Renewed",
+    "All accumulated Sum Insured Safeguard+ will be lost if you opt out of this benefit at any point in time"
+  ],
+  "faqs": [
+    {
+      "question": "Can I buy the Safeguard rider as a standalone product?",
+      "answer": "No, Safeguard is a rider which can be endorsed along with the Base Plan only and cannot be bought in isolation or as a separate product."
+    },
+    {
+      "question": "Is the Safeguard rider available for claims made outside India?",
+      "answer": "No, this Rider shall be available only for claims made within India during the Policy Period."
+    },
+    {
+      "question": "How do I know if the Safeguard rider is available for my policy?",
+      "answer": "The rider shall be available only if it is specifically mentioned in Your Base Plan's Policy Schedule."
+    },
+    {
+      "question": "What waiting periods apply to the Safeguard rider?",
+      "answer": "All waiting periods applicable to the Base Plan will apply to this rider as well."
+    },
+    {
+      "question": "What is Claim Safeguard benefit?",
+      "answer": "If we have accepted a Hospitalization claim under the Base Plan, We will also pay for items mentioned in List I – 'Expenses not covered' under Annexure 1."
+    },
+    {
+      "question": "What is the difference between Claim Safeguard and Claim Safeguard+?",
+      "answer": "Claim Safeguard covers items in List I only, while Claim Safeguard+ covers non-payable items mentioned in Annexure 1 (List I,II,III,IV). However, Reasonable and Customary Charges clause still applies to Safeguard+."
+    },
+    {
+      "question": "How does Booster/No Claim Bonus Safeguard work?",
+      "answer": "Cumulative Bonus under Booster /Booster+ or No Claim Bonus of the Base Plan will not be impacted at Renewal if total admissible claim amount in the previous Policy Year is not more than Rs. 50,000."
+    },
+    {
+      "question": "What is the claim limit for Booster+ Safeguard?",
+      "answer": "Booster+/ Booster/No Claim Bonus will not be impacted if the total claim in a policy year is up to INR 1,00,000."
+    },
+    {
+      "question": "How does Sum Insured Safeguard work?",
+      "answer": "The Base Sum Insured under the Base Plan will be increased on Cumulative Basis at each Policy Year on the basis of inflation rate in previous year."
+    },
+    {
+      "question": "How is the inflation rate calculated for Sum Insured Safeguard?",
+      "answer": "Inflation rate would be computed as the average Consumer Price index (CPI) of the entire calendar year published by the Central Statistics Office (CSO)."
+    },
+    {
+      "question": "Can I choose both Safeguard and Safeguard+ at the same time?",
+      "answer": "No, You can either choose Safeguard or Safeguard + at a given point in time."
+    },
+    {
+      "question": "What happens to accumulated Sum Insured Safeguard benefit if I don't renew the rider?",
+      "answer": "All accumulated Safeguard benefit Sum Insured will lapse if this rider is not Renewed."
+    },
+    {
+      "question": "What happens if I opt out of Sum Insured Safeguard+ benefit?",
+      "answer": "You will lose all accumulated Sum Insured Safeguard+ if you opt out of this benefit at any point in time."
+    },
+    {
+      "question": "Does the percentage increase apply to all benefits that increase Sum Insured?",
+      "answer": "No, the % increase will be applicable only on Base Sum Insured under the Base Plan and not on any other benefit which leads to increase in Sum Insured."
+    },
+    {
+      "question": "What happens to accumulated Safeguard benefit if I change my Base Sum Insured at renewal?",
+      "answer": "In case of any change in Base Sum Insured under the Base Plan at the time of Renewal, any accumulated Sum Insured due to Sum Insured Safeguard Benefit will be added to the enhanced or reduced Sum Insured opted by Insured at the time of Renewal."
+    },
+    {
+      "question": "What is Central Statistics Office (CSO)?",
+      "answer": "Central Statistics Office (CSO) is a government agency in India under the Ministry of Statistics and Programme Implementation responsible for co-ordination of statistical activities in India, and evolving and maintaining statistical standards."
+    },
+    {
+      "question": "What is Consumer Price Index (CPI)?",
+      "answer": "Consumer Price index (CPI) is a measure of inflation; changes in the CPI are used to assess price changes associated with the cost of living. It is a measure that examines the weighted average of prices of a basket of consumer goods and services, such as transportation, food and medical care."
+    },
+    {
+      "question": "Are baby food charges covered under Safeguard?",
+      "answer": "Yes, baby food is listed in List I – Expenses not covered, which means it would be covered under Claim Safeguard benefit."
+    },
+    {
+      "question": "Are attendant charges covered under this rider?",
+      "answer": "Yes, attendant charges are listed in List I – Expenses not covered, which means they would be covered under Claim Safeguard benefit."
+    },
+    {
+      "question": "Are private nurse charges covered?",
+      "answer": "Yes, private nurses charges - special nursing charges are listed in List I – Expenses not covered, which means they would be covered under Claim Safeguard benefit."
+    },
+    {
+      "question": "Are ambulance charges covered under this rider?",
+      "answer": "Yes, ambulance charges are listed in List I – Expenses not covered, which means they would be covered under Claim Safeguard benefit."
+    },
+    {
+      "question": "Are telephone charges in hospital covered?",
+      "answer": "Yes, telephone charges are listed in List I – Expenses not covered, which means they would be covered under Claim Safeguard benefit."
+    },
+    {
+      "question": "Are laundry charges covered under Safeguard?",
+      "answer": "Yes, laundry charges are listed in List I – Expenses not covered, which means they would be covered under Claim Safeguard benefit."
+    },
+    {
+      "question": "What items are subsumed into room charges under List II?",
+      "answer": "List II includes items like baby charges, hand wash, shoe cover, caps, gown, slippers, tissue paper, toothpaste, toothbrush, bed pan, face mask, luxury tax, HVAC, housekeeping charges, air conditioner charges, admission kit, and various other room-related items."
+    },
+    {
+      "question": "What items are subsumed into procedure charges under List III?",
+      "answer": "List III includes items like hair removal cream, disposable razors, eye pad, eye shield, camera cover, DVD/CD charges, gauze, ward and theatre booking charges, arthroscopy and endoscopy instruments, surgical blades, cotton, surgical tape, and other procedure-related items."
+    },
+    {
+      "question": "What items are subsumed into costs of treatment under List IV?",
+      "answer": "List IV includes items like admission/registration charges, hospitalization for evaluation/diagnostic purpose, urine container, blood reservation charges, BIPAP machine, CPAP/CAPD equipments, infusion pump cost, mouth paint, vaccination charges, alcohol swabs, glucometer & strips, and urine bag."
+    },
+    {
+      "question": "What is the Rider UIN for Safeguard?",
+      "answer": "The Rider UIN for Safeguard is NBHHLIA24109V022324."
+    },
+    {
+      "question": "Which company offers the Safeguard rider?",
+      "answer": "The Safeguard rider is offered by Niva Bupa Health Insurance Company Limited."
+    },
+    {
+      "question": "What is the customer helpline number for Niva Bupa?",
+      "answer": "The customer helpline number is 1860-500-8888."
+    }
+  ],
+  "source_file": "SafeguardAddonPolicywording.txt",
+  "category": "Hi Document"
+}

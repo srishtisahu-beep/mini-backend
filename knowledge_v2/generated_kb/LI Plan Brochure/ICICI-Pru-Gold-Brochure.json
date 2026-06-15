@@ -1,0 +1,213 @@
+{
+  "product_name": "ICICI Pru Gold",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Participating Non linked Life Individual Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Protection and Savings",
+  "summary": "A protection and savings oriented participating life insurance plan that provides the protection of life cover along with a regular income for whole of life. It is designed to meet long-term recurring financial needs through a combination of guaranteed income and participation in bonus.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "60 years",
+    "sum_insured": "Subject to board approved underwriting policy",
+    "policy_term": "20 to 99 years",
+    "waiting_period": "Not specified in the document"
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In the event of the death of the Life Assured during the policy term, the Death Benefit will be paid out as a lump sum to the claimant. The Death Benefit is equal to: a) Sum Assured on Death, plus b) Interim Survival Benefit (if any), plus c) Terminal Bonus (if declared)."
+    },
+    {
+      "name": "Sum Assured on Death",
+      "description": "The Sum Assured on Death is the highest of: 1) Death Benefit multiple (as per age) times Annualized Premium, 2) 7 times the Annualized Premium, or 3) 105% of the Total Premiums Paid as on the Date of Death."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Survival Benefit",
+      "description": "A regular income comprising of Guaranteed Income (GI) and Cash Bonus (CB), if declared. The start date of this income depends on the plan variant chosen."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "At the end of the policy term, a lump sum benefit is paid, which includes the Sum Assured on Maturity (equal to the sum of all Annualized Premiums payable) and a Terminal Bonus, if declared."
+    },
+    {
+      "name": "Guaranteed Booster",
+      "description": "Applicable only for the 'Immediate Income with Booster' plan variant. A Guaranteed Booster, equal to 100% of the Guaranteed Income, is paid every 5th policy year."
+    },
+    {
+      "name": "Plan Variants",
+      "description": "The policy offers three variants: 1) Immediate Income (income starts from the first policy year), 2) Immediate Income with Booster (income from first year plus guaranteed boosters), and 3) Deferred Income (income starts after a chosen deferment period)."
+    },
+    {
+      "name": "Save the Date",
+      "description": "An option to receive annual survival benefits on a special date of your choice, like a birthday or anniversary. This must be selected at policy inception."
+    },
+    {
+      "name": "Savings Wallet",
+      "description": "A feature to accumulate survival benefits instead of receiving them as payouts. The accumulated amount earns interest and can be withdrawn or used to pay future premiums."
+    },
+    {
+      "name": "Higher Premium Benefit",
+      "description": "An additional guaranteed income rate is provided for higher annualized premiums, boosting your regular income."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "You can avail a loan of up to 80% of the surrender value once the policy acquires a surrender value."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry (Min/Max)",
+      "value": "0 to 60 years, depending on the plan variant and premium payment term."
+    },
+    {
+      "criteria": "Age at Maturity (Min/Max)",
+      "value": "20 to 99 years."
+    },
+    {
+      "criteria": "Policy Term (PT) (Min/Max)",
+      "value": "20 to 99 years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "5, 6, 7, 8, 9, 10, or 15 years."
+    },
+    {
+      "criteria": "Premium Payment Frequency",
+      "value": "Yearly, Half-Yearly, Monthly."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "value": "₹50,000"
+    }
+  ],
+  "exclusions": [
+    {
+      "condition": "Suicide Clause",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the claimant shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "The Death Benefit is paid out as a lump sum to the claimant specified in the policy."
+    },
+    {
+      "type": "Grievance Redressal",
+      "description": "For any clarification or assistance, you may contact your advisor or customer service. If unsatisfied, you can reach out to the designated Grievance Redressal Officer (GRO), the internal grievance redressal committee, or the IRDAI Grievance Cell."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru Gold?",
+      "answer": "It is a protection and savings oriented participating life insurance plan from ICICI Prudential Life Insurance."
+    },
+    {
+      "question": "What are the main benefits of this plan?",
+      "answer": "It provides life cover up to 99 years of age and a regular income for the whole of life, which is a combination of Guaranteed Income and income linked to bonus declarations."
+    },
+    {
+      "question": "What type of insurance product is ICICI Pru Gold?",
+      "answer": "It is a Participating Non-linked Life Individual Savings Product."
+    },
+    {
+      "question": "How many plan variants are available under ICICI Pru Gold?",
+      "answer": "There are three plan variants: Immediate Income, Immediate Income with Booster, and Deferred Income."
+    },
+    {
+      "question": "How does the 'Immediate Income' variant work?",
+      "answer": "Under this variant, you start receiving a regular income, consisting of Guaranteed Income and Cash Bonus (if declared), from the first policy year."
+    },
+    {
+      "question": "What is special about the 'Immediate Income with Booster' variant?",
+      "answer": "In addition to the regular income from the first policy year, this variant provides a 'Guaranteed Booster' every 5th policy year, which is equal to 100% of the Guaranteed Income for that year."
+    },
+    {
+      "question": "What is the 'Deferred Income' variant?",
+      "answer": "This variant allows you to choose a deferment period, and your regular income starts after a few years instead of immediately. You can start the income as early as the 2nd policy year or as late as the Premium Payment Term plus 1 year."
+    },
+    {
+      "question": "What is the minimum age to purchase this policy?",
+      "answer": "The minimum age at entry is 0 years (age as on last birthday)."
+    },
+    {
+      "question": "What is the maximum age at entry for ICICI Pru Gold?",
+      "answer": "The maximum age at entry is up to 60 years, depending on the chosen premium payment term."
+    },
+    {
+      "question": "What is the policy term available?",
+      "answer": "The policy term can be from 20 to 99 years."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annualized premium is ₹50,000."
+    },
+    {
+      "question": "What is the Death Benefit under this policy?",
+      "answer": "In case of the life assured's death during the policy term, the Death Benefit paid to the claimant is the sum of: a) Sum Assured on Death, b) Interim Survival Benefit (if any), and c) Terminal Bonus (if declared)."
+    },
+    {
+      "question": "How is the Sum Assured on Death calculated?",
+      "answer": "It is the highest of: Death Benefit multiple times Annualized Premium, 7 times the Annualized Premium, or 105% of the total premiums paid till the date of death."
+    },
+    {
+      "question": "What will I receive at maturity?",
+      "answer": "At the end of the policy term, you receive a lump sum Maturity Benefit, which is the Sum Assured on Maturity (equal to the sum of all annualized premiums paid) plus a Terminal Bonus, if declared."
+    },
+    {
+      "question": "Are the bonuses in this plan guaranteed?",
+      "answer": "No, the bonuses (Cash Bonus and Terminal Bonus) are not guaranteed. They are declared at the discretion of the company based on its performance. However, the Guaranteed Income and Guaranteed Booster are guaranteed benefits, subject to all due premiums being paid."
+    },
+    {
+      "question": "What is the 'Save the Date' feature?",
+      "answer": "It is a feature that allows you to receive your annual survival benefits on any special date of your choice within the policy year, like a birthday or anniversary. This option must be selected at policy inception."
+    },
+    {
+      "question": "What is the 'Savings Wallet' feature?",
+      "answer": "It is a feature that allows you to accumulate your survival benefits (Guaranteed Income, Cash Bonus, Guaranteed Booster) instead of receiving them as payouts. The accumulated amount earns interest linked to the Reverse Repo Rate."
+    },
+    {
+      "question": "How can I use the money in the Savings Wallet?",
+      "answer": "You can withdraw the balance, completely or partially, anytime during the income term. You can also use it to offset future premiums that are due."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you have paid premiums for at least one full year, your policy becomes 'paid-up' with reduced benefits. If premiums for the first full year have not been paid, the policy will lapse and no benefits will be payable."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, you can revive your policy within five years from the due date of the first unpaid premium by paying all due premiums with interest, subject to underwriting."
+    },
+    {
+      "question": "Can I take a loan against my ICICI Pru Gold policy?",
+      "answer": "Yes, you can take a policy loan of up to 80% of the surrender value, once the policy has acquired a surrender value."
+    },
+    {
+      "question": "Can I surrender my policy?",
+      "answer": "Yes, you can surrender the policy anytime after the payment of at least one full policy year's premium. You will receive a Surrender Value, which is the higher of Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV)."
+    },
+    {
+      "question": "What happens in case of death due to suicide?",
+      "answer": "If death due to suicide occurs within 12 months from the policy's start or revival date, the claimant is entitled to at least 80% of the total premiums paid or the surrender value available, whichever is higher."
+    },
+    {
+      "question": "Is there a free-look period for this policy?",
+      "answer": "Yes, you have a 30-day free-look period from the date of receipt of the policy document to review the terms and conditions and cancel the policy if you are not satisfied."
+    },
+    {
+      "question": "What are the available premium payment frequencies?",
+      "answer": "You can pay premiums Yearly, Half-Yearly, or Monthly."
+    },
+    {
+      "question": "Does paying a higher premium give any extra benefit?",
+      "answer": "Yes, for higher annualized premiums, you receive an additional benefit in the form of an additional guaranteed income rate."
+    },
+    {
+      "question": "Can I change my premium payment term or policy term after inception?",
+      "answer": "No, the premium, premium payment term, policy term, and deferment period (if any) chosen at inception cannot be changed. However, you can change the frequency of premium payment on the policy anniversary."
+    }
+  ],
+  "source_file": "ICICI-Pru-Gold-Brochure.txt",
+  "category": "LI Plan Brochure"
+}

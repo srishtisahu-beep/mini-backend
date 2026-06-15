@@ -1,0 +1,239 @@
+{
+  "product_name": "Aditya Birla Sun Life Insurance Guaranteed Annuity Plus",
+  "company": "Aditya Birla Sun Life Insurance",
+  "product_type": "General Annuity Plan",
+  "insurance_type": "Annuity",
+  "plan_category": "Non-Linked, Non-Participating",
+  "summary": "A non-linked, non-participating, general annuity plan that provides various annuity options with guaranteed income for life, helping you and your family lead a worry-free retirement life.",
+  "quick_facts": {
+    "minimum_age": "40 years for Immediate/Deferred Annuity. Special cases allow for 0 years.",
+    "maximum_age": "Immediate Annuity: up to 90 years (65 for options 6 & 7). Deferred Annuity: 75 years.",
+    "sum_insured": "Minimum Purchase Price: ₹ 1,50,000 for Single Pay. Minimum Annuity: ₹ 12,000 per year.",
+    "policy_term": "Whole Life",
+    "waiting_period": "90 days for Critical Illness and Accidental Permanent Disability benefits."
+  },
+  "coverage": [
+    {
+      "option_name": "Option 1: Life Annuity",
+      "description": "Annuity is payable as long as the Annuitant (or either annuitant for Joint Life) is alive. Can be level or increasing at a simple rate of 3% or 5% p.a. No death benefit is payable. Available for Single and Joint Life."
+    },
+    {
+      "option_name": "Option 2: Annuity Certain for a specified period and thereafter for Life",
+      "description": "Annuity is guaranteed for a chosen certain period (5, 10, 15, or 20 years) and continues for life if the annuitant survives the period. If the annuitant dies during the certain period, the annuity is paid to the nominee till the end of the period. Available for Single Life."
+    },
+    {
+      "option_name": "Option 3: Life Annuity with Return of Balance of Purchase Price",
+      "description": "Annuity is payable for life. On death, the nominee receives a lump-sum equal to the Purchase Price less the sum of annuity already paid. If the balance is negative, no benefit is payable. Can be level or increasing. Available for Single and Joint Life."
+    },
+    {
+      "option_name": "Option 4: Life Annuity with 50% Annuity payable to Secondary Annuitant",
+      "description": "Annuity is payable for the Primary Annuitant's life. On their death, 50% of the annuity is paid to the Secondary Annuitant for life. No death benefit. Available for Joint Life."
+    },
+    {
+      "option_name": "Option 5: Life Annuity with Return of Purchase Price",
+      "description": "Annuity is payable for life. On death of the annuitant (or last survivor), a lump sum of 100%, 75%, or 50% of the Purchase Price (as chosen at inception) is paid to the nominee. Available for Single and Joint Life."
+    },
+    {
+      "option_name": "Option 6: Life Annuity with Enhanced Annuity on Critical Illness/Accidental Permanent Disability and with Return of Purchase Price",
+      "description": "Annuity is payable for life. On first occurrence of a specified Critical Illness or Accidental Permanent Disability before age 70, the annuity is enhanced by 50%. On death, the Purchase Price is returned to the nominee. Available for Single Life."
+    },
+    {
+      "option_name": "Option 7: Life Annuity with Return of Purchase Price on attainment of Age 80 years",
+      "description": "Annuity is payable for life. On survival to the policy anniversary after age 80, the Purchase Price is paid to the annuitant, and the annuity continues. If death occurs before age 80, the Purchase Price is paid to the nominee. No death benefit after age 80. Available for Single Life."
+    },
+    {
+      "option_name": "Option 8: Life Annuity with Partial Return of Purchase Price to survivor and balance to nominee",
+      "description": "Annuity is payable as long as either annuitant is alive. On the death of the first annuitant, 50% of the Purchase Price is paid to the survivor. On the death of the last survivor, the remaining 50% is paid to the nominee. Available for Joint Life."
+    },
+    {
+      "option_name": "Option 9: Deferred Life Annuity with Return of Premium",
+      "description": "Annuity payments start after a chosen Deferment Period (1 to 15 years). Guaranteed Additions accrue during the deferment period. On death, a benefit higher of a percentage of Purchase Price/Premiums Paid or (Purchase Price/Premiums Paid + Accrued Guaranteed Additions - Annuity paid) is payable. Available for Single and Joint Life."
+    },
+    {
+      "option_name": "Option 10: NPS – Family Income",
+      "description": "Specifically for NPS subscribers. Annuity is paid for the life of the subscriber and spouse. On the death of the last survivor, the purchase price is used to buy a new annuity for dependent parents, and after them, the purchase price is returned to the children or legal heirs."
+    }
+  ],
+  "benefits": [
+    "Guaranteed lifelong income where annuity once purchased is guaranteed for life.",
+    "Option to receive annuity payments as long as you or your partner are alive with a joint life annuity.",
+    "Deferred annuity option allows you to plan early for retirement and lock in annuity rates at present.",
+    "Wide range of annuity options to suit your financial needs.",
+    "Choice of accumulation periods ranging from 5 to 15 years under the Limited Pay Option.",
+    "Option to increase your annuity through a Top-up option.",
+    "Choice of annuity pay-out frequency: monthly, quarterly, half-yearly or yearly."
+  ],
+  "eligibility": [
+    {
+      "parameter": "Minimum Age of Annuitant(s) at Entry (Immediate Annuity)",
+      "value": "40 years. For option 6 and 7: 65 years."
+    },
+    {
+      "parameter": "Maximum Age of Annuitant(s) at Entry (Immediate Annuity)",
+      "value": "90 years. For option 6 and 7: 65 years. For all other options: 90 years."
+    },
+    {
+      "parameter": "Minimum Age of Annuitant(s) at Entry (Deferred Annuity)",
+      "value": "40 years"
+    },
+    {
+      "parameter": "Maximum Age of Annuitant(s) at Entry (Deferred Annuity)",
+      "value": "75 years"
+    },
+    {
+      "parameter": "Premium Payment Term (PPT)",
+      "value": "Single Pay / Limited Pay (5 – 10 Years)"
+    },
+    {
+      "parameter": "Minimum Premium/Purchase Price",
+      "value": "₹ 1,50,000 for Single Pay"
+    },
+    {
+      "parameter": "Minimum Annuity Amount",
+      "value": "₹ 1,000 per month, ₹ 3,000 per quarter, ₹ 6,000 per half year and ₹ 12,000 per year."
+    },
+    {
+      "parameter": "Minimum Group Size (For Group Policies)",
+      "value": "5 members"
+    }
+  ],
+  "exclusions": [
+    "A waiting period of 90 days is applicable for Critical Illness and Accidental Permanent Disability benefits.",
+    "Critical Illness benefit is not provided for any Pre-Existing Disease diagnosed within 36 months prior to the policy.",
+    "Critical Illness benefit is not provided for any sickness-related condition manifesting within 90 days from policy commencement.",
+    "Critical Illness and Accidental Permanent Disability benefits are excluded for suicide, self-inflicted injury, participation in criminal activity, and use of intoxicating substances unless prescribed.",
+    "Exclusions also include war, invasion, nuclear contamination, participation in professional sports, or hazardous pursuits.",
+    "For Accidental Permanent Disability, exclusions include accidents occurring while under the influence of alcohol or non-prescribed drugs.",
+    "Policies sourced as QROPS through transfer of UK tax relieved assets cannot be surrendered."
+  ],
+  "claims_information": [
+    "For payment of survival benefits, a Living Certificate in the format prescribed by the company must be submitted at least 30 days before the end of each Policy Year.",
+    "Living certificate can also be submitted by digital means as prescribed by the company.",
+    "If the Living Certificate is not received, the payment of survival benefit will automatically cease until the same is submitted.",
+    "If any annuity is paid by the company after the date of death but before the date of intimation, the amount will be deducted from the death benefit payable."
+  ],
+  "faqs": [
+    {
+      "question": "What is ABSLI Guaranteed Annuity Plus?",
+      "answer": "It is a non-linked, non-participating, general annuity plan that provides various annuity options with guaranteed income for life to help you lead a worry-free retirement life."
+    },
+    {
+      "question": "Is this a market-linked plan?",
+      "answer": "No, it is a non-linked, non-participating plan, which means the benefits are guaranteed and not linked to market performance."
+    },
+    {
+      "question": "What are the key benefits of this plan?",
+      "answer": "The key benefits include guaranteed lifelong income, joint life options, deferred annuity to lock in rates, a wide range of annuity options, top-up facility, and flexible payout frequencies."
+    },
+    {
+      "question": "Can I receive a guaranteed income for my entire life?",
+      "answer": "Yes, the plan provides a guaranteed lifelong income, as the annuity once purchased is guaranteed for life."
+    },
+    {
+      "question": "Can I include my spouse in this annuity plan?",
+      "answer": "Yes, you have the option to choose a joint life annuity to receive annuity payments as long as you or your partner are alive."
+    },
+    {
+      "question": "What is a deferred annuity?",
+      "answer": "A deferred annuity option allows you to invest today to build a guaranteed lifetime income stream for tomorrow. You can lock in annuity rates at present for a guaranteed life-long payment that starts after a specified 'deferment period'."
+    },
+    {
+      "question": "What is the minimum age to purchase this plan?",
+      "answer": "For both Immediate and Deferred Annuity, the minimum entry age is 40 years. For Annuity Option 6 and 7, the minimum age is 65 years."
+    },
+    {
+      "question": "What is the maximum age to purchase this plan?",
+      "answer": "For Immediate Annuity, the maximum age is 90 years (65 for options 6 & 7). For Deferred Annuity, the maximum age is 75 years."
+    },
+    {
+      "question": "What is the minimum purchase price for this plan?",
+      "answer": "The minimum purchase price is ₹ 1,50,000 for a Single Pay policy."
+    },
+    {
+      "question": "How frequently can I receive my annuity payments?",
+      "answer": "You can choose to receive annuity pay-outs monthly, quarterly, half-yearly or yearly."
+    },
+    {
+      "question": "Are there different annuity options to choose from?",
+      "answer": "Yes, the plan offers a wide range of annuity options, including Life Annuity, Annuity Certain, Life Annuity with Return of Purchase Price, options for joint lives, deferred annuity, and a specific option for NPS subscribers."
+    },
+    {
+      "question": "Can I change my annuity option after the policy starts?",
+      "answer": "No, the annuity option once chosen at inception cannot be changed thereafter."
+    },
+    {
+      "question": "What is the 'Life Annuity with Return of Purchase Price' option?",
+      "answer": "Under this option (Option 5), annuity is paid for life. On the death of the annuitant (or last survivor), a chosen percentage (100%, 75%, or 50%) of the purchase price is paid to the nominee."
+    },
+    {
+      "question": "What happens in the 'Annuity Certain' option if I die during the certain period?",
+      "answer": "If the annuitant dies during the chosen annuity certain period, the annuity will continue to be paid to the nominee/legal heir until the end of that certain period."
+    },
+    {
+      "question": "Is there a special option for NPS subscribers?",
+      "answer": "Yes, Option 10, 'NPS – Family Income', is available specifically for National Pension System (NPS) subscribers and follows PFRDA regulations."
+    },
+    {
+      "question": "Can I increase my annuity amount after purchasing the policy?",
+      "answer": "Yes, you have the option to increase the annuity by paying an additional purchase price, which is called a Top-Up Purchase Price."
+    },
+    {
+      "question": "Is the Top-up option available for all annuity options?",
+      "answer": "No, the Top-up option is available for all annuity options except for 'Life Annuity with Enhanced Annuity on Critical Illness/ Accidental Permanent Disability and with Return of Purchase Price' (Option 6). It is also not available for QROPS and NPS customers."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, a policy loan can be availed under certain annuity options once the policy has acquired a surrender value."
+    },
+    {
+      "question": "Under which annuity options is a policy loan available?",
+      "answer": "A loan is available under options 5, 6, 7, 8, 9, and 10, which are 'Life Annuity with ROP', 'Life Annuity with Enhanced Annuity and ROP', 'Life Annuity with ROP on attaining Age 80', 'Life Annuity with Partial ROP', 'Deferred Life Annuity with Return of Premium', and 'NPS - Family Income'."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "The maximum loan amount is 80% of the then applicable Surrender Value, less any outstanding policy loan balance."
+    },
+    {
+      "question": "What happens if I miss paying my premium for a Limited Pay policy?",
+      "answer": "If the policy has acquired a Surrender Value and you miss a premium payment, it will continue on a Reduced Paid-Up (RPU) basis with reduced benefits. If it has not acquired a surrender value, the policy will lapse."
+    },
+    {
+      "question": "Can I surrender this policy?",
+      "answer": "Yes, the policy can be surrendered any time after commencement for certain options, provided it has acquired a surrender value. Policies sourced as QROPS cannot be surrendered."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a free look period of 30 days from the date of receipt of the Policy to review its terms and conditions."
+    },
+    {
+      "question": "What happens if I cancel the policy during the free-look period?",
+      "answer": "If you cancel, the company will refund the premium paid after deducting for the period of cover, medical examination expenses (if any), stamp duty charges, and any annuity already paid."
+    },
+    {
+      "question": "Is there any benefit for critical illness?",
+      "answer": "Yes, under Option 6, 'Life Annuity with Enhanced Annuity on Critical Illness/ Accidental Permanent Disability and with Return of Purchase Price', there is a benefit upon diagnosis of a specified critical illness."
+    },
+    {
+      "question": "What happens to the annuity in case of a diagnosed critical illness under Option 6?",
+      "answer": "On the first occurrence of any one of the 42 specified Critical Illnesses before the age of 70, the annuity shall be enhanced by 50% and will be payable for as long as the annuitant is alive."
+    },
+    {
+      "question": "What is the deferment period in a deferred annuity?",
+      "answer": "The Deferment Period is the period from the start of the policy until the policy anniversary just before the first annuity payment is made. You can choose a deferment period from 1 to 15 years for Single Pay policies."
+    },
+    {
+      "question": "What is a 'Living Certificate' and why is it required?",
+      "answer": "A 'Living Certificate' is a declaration required by the company to confirm that the annuitant is alive. It must be submitted at least 30 days before the end of each policy year to ensure the continuation of survival benefit payments."
+    },
+    {
+      "question": "Is there a maturity benefit payable under this policy?",
+      "answer": "No, there will not be any maturity benefit payable under this Policy."
+    },
+    {
+      "question": "Who can be a secondary annuitant in a joint life policy?",
+      "answer": "Any person having an 'insurable interest' in the life of the Primary Annuitant can be the Secondary Annuitant."
+    }
+  ],
+  "source_file": "ABSLI_Guaranteed_Annuity_Plus_V13_Brochure_Web_Version_b1a620c410.txt",
+  "category": "LI Plan Brochure"
+}

@@ -1,0 +1,195 @@
+{
+  "product_name": "Tata AIA Maha Raksha Supreme Select",
+  "product_type": "Non-Linked, Non-Participating, Pure Risk and Individual Life Insurance Plan",
+  "summary": "Tata AIA Maha Raksha Supreme Select is a non-linked, non-participating, pure risk and individual life insurance premium plan. The core contingency covered is death of the Life Insured, where the death benefit is payable as lump sum, staggered or lumpsum and staggered as per the flexible payout option chosen by the Policyholder at inception.",
+  "definitions": [
+    {
+      "term": "Terminal Illness",
+      "definition": "An irreversible terminal medical condition of the Insured where signs or symptoms first occur after 2 years of continuous cover, diagnosis is supported by evidence of advanced stage, expected to result in death within 6 months and certified by two physicians specializing in treatment of such illness"
+    },
+    {
+      "term": "Grace Period",
+      "definition": "A period of 15 days from the due date of the first unpaid Premium for monthly Premium payment mode and 30 days from the due date of first unpaid Premium for all other Premium payment modes, except Single Pay"
+    },
+    {
+      "term": "Waiting Period",
+      "definition": "A period of first 90 days from the Date of Commencement of Risk"
+    },
+    {
+      "term": "Basic Sum Assured",
+      "definition": "The guaranteed amount of the benefit that is payable on the death of the Insured under this Policy as shown in the Policy Schedule"
+    },
+    {
+      "term": "Medical Practitioner",
+      "definition": "A person who holds a valid registration from the Medical Council and is entitled to practice medicine within its jurisdiction, holding a degree equivalent to MD/MS or higher in the relevant field"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "benefit": "General Coverage",
+      "period": "90 days from the Date of Commencement of Risk"
+    },
+    {
+      "benefit": "Terminal Illness",
+      "period": "2 years of continuous cover under this Policy"
+    },
+    {
+      "benefit": "Instant Payout on Claim Intimation",
+      "period": "3 Policy Years from the inception or Revival of the Policy"
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "Medical Practitioner Restrictions",
+      "details": "Medical practitioner should not be the policyholder/life assured, an authorised insurance intermediary involved with selling or servicing the insurance contract, employed by or under contractual engagement with the insurance company, or related to the policyholder/life assured by blood or marriage"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": "Claim Intimation",
+      "description": "Submit death certificate, cancelled cheque/bank account details, claim intimation form, KYC of nominee and policy document"
+    },
+    {
+      "step": "Instant Payout",
+      "description": "For policies with minimum Sum Assured of Rs. 1 Crore, INR 3 Lakhs accelerated instant death benefit paid within 1 working day from claim registration date after completion of 3 Policy Years waiting period"
+    },
+    {
+      "step": "Claim Investigation",
+      "description": "Company completes claim investigation and pays remaining Sum Assured post completion of investigation"
+    },
+    {
+      "step": "Recovery Rights",
+      "description": "In case of discrepancy where death claim is found not payable, Company reserves right to recover already paid amount from Claimant within 7 days"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Payout Option Selection",
+      "details": "The choice of flexible payout option needs to be made at the time of purchase and cannot be altered later"
+    },
+    {
+      "condition": "Premium Payment",
+      "details": "Grace period is 15 days for monthly mode and 30 days for other modes except Single Pay"
+    },
+    {
+      "condition": "Policy Lapse",
+      "details": "If premiums due are not paid within grace period, the Policy shall lapse and no benefits shall be payable"
+    },
+    {
+      "condition": "FlexiPay Benefit",
+      "details": "Premium can be deferred for up to 12 months while maintaining full risk cover, available only after payment of 5 full years premium"
+    },
+    {
+      "condition": "Cover Enhancement",
+      "details": "Life Stage and Top-up SA options cannot be chosen together under the same policy"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the different plan options available under Tata AIA Maha Raksha Supreme Select?",
+      "answer": "There are 7 plan options: Life Secure Option, Life Secure Plus Option, Joint Life Secure Option, Joint Life Secure Plus Option, Step-Up Secure Option, Step-Up Secure Plus Option, and Legacy Secure Plus Option."
+    },
+    {
+      "question": "Can I change my payout option after purchasing the policy?",
+      "answer": "No, the choice of flexible payout option needs to be made at the time of purchase and cannot be altered after policy issuance."
+    },
+    {
+      "question": "What is the Payor Accelerator Benefit?",
+      "answer": "It is an inbuilt benefit where 50% of the Base SA is paid out as lump sum on acceptance of Terminal Illness claim, and all future premiums are waived off while the policy continues to remain in force."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is 15 days from the due date for monthly premium payment mode and 30 days for all other premium payment modes, except Single Pay."
+    },
+    {
+      "question": "What happens if I don't pay premiums within the grace period?",
+      "answer": "If premiums due are not paid within the grace period, the Policy shall lapse and no benefits shall be payable."
+    },
+    {
+      "question": "What is the waiting period for Terminal Illness claims?",
+      "answer": "Terminal Illness claims have a waiting period of 2 years of continuous cover under the policy, and the condition must be expected to result in death within 6 months of diagnosis."
+    },
+    {
+      "question": "Can I increase my coverage amount after purchasing the policy?",
+      "answer": "Yes, through Life Stage option you can increase coverage on marriage (50%), birth/adoption of children (25% each), or home loan disbursal (100%), subject to exercising within 180 days of the event."
+    },
+    {
+      "question": "What is the FlexiPay Benefit?",
+      "answer": "You can defer premium payment for up to 12 months while maintaining full risk cover at no additional cost. This is available only after payment of 5 full years premium with a gap of 5 years between deferrals."
+    },
+    {
+      "question": "What is the Instant Payout on Claim Intimation feature?",
+      "answer": "For policies with minimum Sum Assured of Rs. 1 Crore, an accelerated instant death benefit of INR 3 Lakhs is paid within 1 working day from claim registration date, available after completion of 3 Policy Years."
+    },
+    {
+      "question": "What documents are required for claim intimation?",
+      "answer": "Death Certificate, Cancelled Cheque/Bank account details, claim intimation form, KYC of nominee and Policy document are required for claim intimation."
+    },
+    {
+      "question": "What is the difference between Life Secure and Life Secure Plus options?",
+      "answer": "Life Secure is a pure risk variant with no maturity benefit, while Life Secure Plus is protection-oriented and provides 100% of Total Premiums Paid as maturity benefit if the Life Insured survives till maturity."
+    },
+    {
+      "question": "Can I surrender additional sum assured tranches?",
+      "answer": "Yes, you can surrender additional sum assured tranches after payment of premiums for first five completed policy years. Tranches are surrendered in reverse order."
+    },
+    {
+      "question": "What is the Education Secure option?",
+      "answer": "It provides additional life cover for cost of higher education of up to 3 nominated children, available if child has 4 to 19 years left for graduation or 4 to 22 years for post-graduation."
+    },
+    {
+      "question": "What happens in Joint Life options when one spouse dies?",
+      "answer": "In case of first death, the stipulated death benefit is paid and policy terminates. If second life dies first, cover continues for Education Secure benefit if applicable."
+    },
+    {
+      "question": "What is the Step-Up feature in Step-Up Secure options?",
+      "answer": "During Step-Up period (1-5 years), death benefit is a pre-defined percentage of Base SA (10% in year 1, 15% in year 2, 20% in year 3, 25% in year 4, 50% in year 5). Post Step-Up period, it becomes 100% of Base SA."
+    },
+    {
+      "question": "What additional benefit is available for accidental death in Joint Life options?",
+      "answer": "In case of simultaneous death of both lives due to accident, an additional amount equal to the Base SA is paid as lump sum over and above the regular death benefit."
+    },
+    {
+      "question": "What is the Super Retirement Benefit?",
+      "answer": "It allows you to receive a percentage of Total Premiums Paid back from 30th policy year or age 70 (whichever is earlier), with percentages varying based on age, premium payment term, and policy term."
+    },
+    {
+      "question": "Can I extend my policy term at maturity?",
+      "answer": "Yes, through Renewability option at Maturity, you can extend the policy term maximum 5 times subject to underwriting policy, available for Life Secure, Life Secure Plus, Step-Up Secure, and Step-Up Secure Plus options."
+    },
+    {
+      "question": "What is the Cover Continuation Option in Joint Life policies?",
+      "answer": "After first death in Joint Life options, the surviving life can continue coverage by taking a Single Premium policy, with the premium deducted from the death benefit payable."
+    },
+    {
+      "question": "What are the payout options available for death benefits?",
+      "answer": "You can choose lump sum, staggered benefit stream over a pre-decided period, or a combination of lump sum and staggered benefits. The nominee can also opt for commuted value of future staggered benefits as lump sum."
+    },
+    {
+      "question": "What Health Management Services are provided?",
+      "answer": "Complimentary health management services including medical consultation, coaching, second opinion, and personal medical case management are provided through associated service providers at no additional cost."
+    },
+    {
+      "question": "Can Life Stage and Top-up SA options be chosen together?",
+      "answer": "No, Life Stage and Top-up SA options cannot be chosen together under the same policy."
+    },
+    {
+      "question": "What is the minimum Sum Assured required for Instant Payout feature?",
+      "answer": "The Instant Payout on Claim Intimation feature is applicable only for policies with minimum Sum Assured of Rs. 1 Crore."
+    },
+    {
+      "question": "What happens if Terminal Illness claim is paid and the insured survives till maturity?",
+      "answer": "If Terminal Illness claim is paid, future premiums are waived and policy continues. If insured survives till maturity, no additional benefit is payable and policy terminates."
+    },
+    {
+      "question": "What is the maximum period for premium deferment under FlexiPay?",
+      "answer": "Premium can be deferred for a maximum of 12 consecutive policy months (1 annual, 2 half-yearly, 4 quarterly, or 12 monthly premiums) under FlexiPay benefit."
+    },
+    {
+      "question": "What are the survival benefits under Legacy Secure Plus option?",
+      "answer": "Under Legacy Secure Plus, 25% of Total Premiums Paid is payable at 15th policy anniversary or age 80 (whichever is earlier), and 75% at 25th policy anniversary or age 85 (whichever is earlier)."
+    }
+  ],
+  "source_file": "TATA AIA Life maha rakhsha supreme  MRSS_V8_Policy_Document_2850d359b2.txt",
+  "category": "LI Policy Bond Documents"
+}

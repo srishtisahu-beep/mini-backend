@@ -1,0 +1,243 @@
+{
+  "product_name": "Axis Max Life Smart Term Plan Plus",
+  "company": "Axis Max Life Insurance Limited",
+  "product_type": "A Non Linked Non Participating Individual Pure Risk Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Term Plan",
+  "summary": "A life insurance plan designed to provide customized protection against life's uncertainties. It offers flexibility with 4 plan variants and a wide range of options, including special benefits for women, to create a strong and reliable safety net for your family's journey.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "Up to 65 years, varies by plan variant and premium payment term",
+    "sum_insured": "For Non-POS: Minimum 5 Lacs, Maximum No Limit (subject to underwriting). For POS: Maximum 25 Lacs for Return of Premium variant.",
+    "policy_term": "10 years to 67 years, varies by plan variant.",
+    "waiting_period": "A 90-day waiting period is applicable from the date of acceptance of risk for policies sold through POS Persons, for death other than by accident."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "A Guaranteed Death Benefit is payable in case of the life assured's death during the policy term. The benefit amount and payout structure depend on the chosen plan variant (Regular Cover, Smart Cover, Return of Premium, or Income Protection Cover)."
+    },
+    {
+      "name": "Terminal Illness Cover",
+      "description": "An inbuilt feature that provides an accelerated payout of up to Rs. 1 crore upon diagnosis of a Terminal Illness. No additional premium is required for this benefit."
+    },
+    {
+      "name": "Maternity Cover (Optional)",
+      "description": "An optional benefit for female life insured, available on payment of additional premium. It safeguards against certain pregnancy-related complications and their newborn against Congenital Anomalies."
+    },
+    {
+      "name": "Accidental Death and Dismemberment Rider (Optional)",
+      "description": "Provides comprehensive protection against Death or Dismemberment due to an accident, available on payment of additional premium."
+    },
+    {
+      "name": "Critical Illness and Disability Rider (Optional)",
+      "description": "Offers comprehensive coverage against the risk of critical illness and disability, available on payment of additional premium."
+    },
+    {
+      "name": "Waiver of Premium Plus Rider (Optional)",
+      "description": "Provides waiver of future premiums in case of Disability & Critical Illness, available on payment of additional premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexibility of 4 Plan Variants",
+      "description": "Choose from Regular Cover, Smart Cover, Return of Premium, or Income Protection Cover based on your needs."
+    },
+    {
+      "name": "Special Exit Value",
+      "description": "Option to get back up to 200% of total premiums paid. This option can be exercised at a specific policy year and is not applicable for Regular Pay and Pay till 60 options."
+    },
+    {
+      "name": "Insta Payment on Claim Intimation",
+      "description": "An accelerated benefit is payable within 1 working day from claim registration, provided mandatory documents are submitted and conditions are met."
+    },
+    {
+      "name": "Cover Continuance Benefit",
+      "description": "Allows deferment of due premium for up to 12 months while maintaining full risk cover. This option can be exercised after 3 policy years."
+    },
+    {
+      "name": "Exclusive Benefits for Women",
+      "description": "Includes a flat 15% premium discount, optional Maternity Cover, and the Lifeline Plus feature."
+    },
+    {
+      "name": "Lifeline Plus",
+      "description": "An exclusive feature for female life insured, offering the flexibility to avail a top-up in the event of the death of her spouse. Available with Regular Cover & Return of Premium variants."
+    },
+    {
+      "name": "Return of Premium",
+      "description": "Under the 'Return of Premium' variant, 100% of total premiums paid are returned if the life insured survives the policy term."
+    },
+    {
+      "name": "Flexible Claim Payouts",
+      "description": "The nominee can choose to receive the death benefit as a Lumpsum, Monthly Income, or a combination of both (Part Lumpsum and Part Monthly Income)."
+    },
+    {
+      "name": "Health Management Services",
+      "description": "Option to avail services such as medical second opinion, medical consultation, and discounts on medicines from registered service providers."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "value": "18 years (age last birthday)"
+    },
+    {
+      "criteria": "Maximum Entry Age (Non-POS)",
+      "value": "65 years for most options; 44 years for 'Pay till 60' option. Varies by variant."
+    },
+    {
+      "criteria": "Maximum Entry Age (POS)",
+      "value": "55 years for most options; 44 years for 'Pay till age 60' option."
+    },
+    {
+      "criteria": "Maximum Maturity Age",
+      "value": "85 years for Non-POS policies; 65 years for POS policies."
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "Minimum 10 years, Maximum up to 67 years. Varies by plan variant."
+    },
+    {
+      "criteria": "Maternity Cover Eligibility",
+      "value": "Entry Age: 18 to 40 years. Policy Term: 5 years."
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "value": "Annual, Semi-Annual, Quarterly & Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "description": "For policies sold through POS Persons, there is a waiting period of 90 days from the date of risk acceptance. If death (other than accidental death) occurs during this period, 100% of the premium paid (excluding taxes) will be refunded."
+    },
+    {
+      "description": "For specific terms, conditions, and detailed exclusions, please refer to the policy contract."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Process",
+      "description": "An accelerated benefit is payable upon intimation of death under the 'Insta Payment on Claim Intimation' feature, subject to terms and conditions."
+    },
+    {
+      "type": "Payout Options",
+      "description": "The nominee has the option to choose the payout mode at the claims stage: Lumpsum, Monthly Income, or Part Lumpsum and Part Monthly Income (except for the Income Protection variant)."
+    },
+    {
+      "type": "Mandatory Documents",
+      "description": "Original policy document, original/attested death certificate, death claim application form (Form A), NEFT mandate form with a cancelled cheque or bank passbook, nominee's photo identity proof. For accidental death, FIR & Post Mortem Report are also required."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Axis Max Life Smart Term Plan Plus?",
+      "answer": "It is a Non-Linked, Non-Participating, Individual Pure Risk Life Insurance Plan designed to provide customized protection that evolves with your changing needs and life stages."
+    },
+    {
+      "question": "How many plan variants are offered under this policy?",
+      "answer": "The plan offers four variants: Regular Cover, Smart Cover, Return of Premium, and Income Protection Cover."
+    },
+    {
+      "question": "Can I change my plan variant after purchasing the policy?",
+      "answer": "No, the plan variant must be chosen at the inception of the policy and the option once selected cannot be changed at a later date."
+    },
+    {
+      "question": "Are there any special benefits for female policyholders?",
+      "answer": "Yes, exclusive benefits for female life insured include a flat 15% discount on premiums, an optional Maternity Cover, and the Lifeline Plus feature."
+    },
+    {
+      "question": "What is the Female Life Discount?",
+      "answer": "A flat 15% discount on the premium (compared to the premium for a male life insured) is applicable throughout the Premium Payment Term for a Female Life Insured."
+    },
+    {
+      "question": "What does the optional Maternity Cover provide?",
+      "answer": "It safeguards the female life insured against certain pregnancy-related complications and her newborn against Congenital Anomalies. This is available on payment of an additional premium."
+    },
+    {
+      "question": "What is the Lifeline Plus feature?",
+      "answer": "It is a feature exclusively for female life insured that provides the flexibility to avail a top-up in the event of the death of her spouse. It is available only with Regular Cover & Return of Premium plan variants."
+    },
+    {
+      "question": "What is the 'Return of Premium' variant?",
+      "answer": "Under this variant, if the life insured survives till the end of the policy term, 100% of the total premiums paid will be returned. In case of death during the policy term, the death benefit is paid."
+    },
+    {
+      "question": "How does the 'Smart Cover' variant work?",
+      "answer": "Under this variant, 150% of the base sum assured is payable in case of death within the first fifteen policy years, and 100% of the base sum assured is payable for death after the first fifteen policy years."
+    },
+    {
+      "question": "What is the 'Income Protection Cover' variant?",
+      "answer": "This variant provides the death benefit in the form of a monthly income to the nominee. The policyholder can choose between a 'Level Income' or an 'Inflation proof Income' option at inception."
+    },
+    {
+      "question": "What is the Special Exit Value (SEV) benefit?",
+      "answer": "It is an option to receive back up to 200% of total premiums paid if the policyholder exercises this option at a specific policy year (Policy Term minus 10). This is not applicable for Regular Pay and Pay till 60 options and requires a minimum policy term of 40 years."
+    },
+    {
+      "question": "What is the minimum age to buy this policy?",
+      "answer": "The minimum age at entry is 18 years (last birthday)."
+    },
+    {
+      "question": "What is the maximum age until which coverage is available?",
+      "answer": "The maximum maturity age for Non-POS policies is 85 years. For policies sourced as POS products, the maximum maturity age is 65 years."
+    },
+    {
+      "question": "What is the 'Insta Payment on Claim Intimation' feature?",
+      "answer": "It is a feature where an accelerated benefit is payable within 1 working day from the claim registration date, provided all mandatory documents are submitted and certain conditions are met."
+    },
+    {
+      "question": "What is the Cover Continuance Benefit?",
+      "answer": "It allows the policyholder to defer a due premium for up to 12 months while maintaining full risk cover. This option can be exercised after the completion of 3 policy years."
+    },
+    {
+      "question": "Is there any inbuilt coverage for Terminal Illness?",
+      "answer": "Yes, the plan has an inbuilt Terminal Illness benefit that accelerates the payout of up to Rs. 1 crore on diagnosis, with no additional premium required."
+    },
+    {
+      "question": "How can the nominee receive the death benefit payout?",
+      "answer": "The nominee can choose the payout mode at the claims stage: as a Lumpsum, as a Monthly Income, or as a combination of Part Lumpsum and Part Monthly Income."
+    },
+    {
+      "question": "What are the optional riders available with this plan?",
+      "answer": "Optional riders include Axis Max Life Critical Illness and Disability Rider, Axis Max Life Waiver of Premium Plus Rider, and Axis Max Life Accidental Death and Dismemberment Rider."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Policy loans are not available, except for the 'Return of Premium' variant. For that variant, once the policy acquires a surrender value, a loan up to 75% of the Surrender Value can be availed."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums annually, semi-annually, quarterly, or monthly."
+    },
+    {
+      "question": "What is the minimum sum assured for this plan?",
+      "answer": "The minimum sum assured is Rs. 5 Lacs for all plan variants except the Maternity Cover, for which it is Rs. 2 Lacs."
+    },
+    {
+      "question": "Is there a waiting period for this policy?",
+      "answer": "Yes, for policies sold through POS Persons, there is a 90-day waiting period from the date of risk acceptance for death claims, except in the case of an accident."
+    },
+    {
+      "question": "What happens if the insured dies during the waiting period of a POS policy?",
+      "answer": "If death (other than by accident) occurs during the 90-day waiting period, no death benefit is payable. However, 100% of the premium paid since the commencement of the policy (excluding taxes) will be refunded."
+    },
+    {
+      "question": "What documents are required to make a death claim?",
+      "answer": "Mandatory documents include the original policy document, death certificate, death claim application form (Form A), and NEFT mandate form. In case of accidental death, an FIR and Post Mortem Report are also needed."
+    },
+    {
+      "question": "What is the difference between 'Level Income' and 'Inflation proof Income' under the Income Protection variant?",
+      "answer": "'Level Income' provides a fixed monthly income chosen at inception. 'Inflation proof Income' provides a monthly income that increases by 10% (simple interest) every 3 years from inception, capped at 200% of the initial monthly income."
+    },
+    {
+      "question": "Who is the insurer of the Smart Term Plan Plus?",
+      "answer": "The insurer is Axis Max Life Insurance Limited, which is a Joint Venture between Max Financial Services Limited and Axis Bank Limited."
+    },
+    {
+      "question": "Are there any tax benefits available on this plan?",
+      "answer": "Yes, you may be entitled to certain applicable tax benefits on your premiums and policy benefits, subject to the tax laws prevailing at the time of payment or receipt."
+    }
+  ],
+  "source_file": "max-life-smart term plan plus (stpp)-axis-documents.txt",
+  "category": "LI Plan Brochure"
+}

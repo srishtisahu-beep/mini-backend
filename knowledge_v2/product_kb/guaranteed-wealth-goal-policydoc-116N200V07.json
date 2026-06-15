@@ -1,0 +1,217 @@
+{
+  "product_name": "Bajaj Life Guaranteed Wealth Goal",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "A Non-Linked, Non-Participating, Individual, Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A non-linked, non-participating, individual life insurance savings plan offering three variants: Wealth Creation, Assured Income, and Second Income (with or without ROP). The plan provides a combination of death, maturity, and survival benefits depending on the chosen variant, allowing for wealth accumulation or regular income streams.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "As specified in the Policy Schedule",
+    "policy_term": "As specified in the Policy Schedule",
+    "waiting_period": "12 months for suicide exclusion. Surrender value can be acquired after payment of at least one full policy year's premium. Guaranteed Surrender Value (GSV) is payable after two full premiums have been paid."
+  },
+  "coverage": [
+    {
+      "benefit_type": "Death Benefit",
+      "details": "Payable on the death of the Life Assured during the policy term. The benefit amount and payout method (lump-sum or instalments) vary based on the chosen variant. The Death Benefit will not be less than the Guaranteed Death Benefit (105% of Total Premiums paid) or the Surrender Value."
+    },
+    {
+      "benefit_type": "Maturity Benefit",
+      "details": "Payable at the end of the policy term, if the policy is in-force and the Life Assured is alive. The nature of the benefit depends on the variant chosen (lump-sum, instalments, or ROP)."
+    },
+    {
+      "benefit_type": "Survival Benefit",
+      "details": "Applicable only to Variant 3 – Second Income. Payable as Income Instalments during the Income Period, provided the Life Assured is alive on the due date of each instalment."
+    },
+    {
+      "benefit_type": "Variant 1 – Wealth Creation",
+      "details": "Provides a lump-sum Death Benefit. The Maturity Benefit is the sum of the Guaranteed Maturity Benefit (GMB) and Accrued Guaranteed Additions."
+    },
+    {
+      "benefit_type": "Variant 2 – Assured Income",
+      "details": "Death Benefit is payable in instalments (Death Benefit Instalments and ROP on Death). Maturity Benefit is the Sum Assured on Maturity, paid as Income Instalments and an ROP benefit."
+    },
+    {
+      "benefit_type": "Variant 3 – Second Income",
+      "details": "Provides a lump-sum Death Benefit and Survival Benefits as Income Instalments. If chosen with ROP, an ROP benefit is paid as a Maturity Benefit. If chosen without ROP, no Maturity Benefit is payable."
+    },
+    {
+      "benefit_type": "Additional Rider Benefits",
+      "details": "Policyholder can opt for additional riders such as Accidental Death Benefit, Accidental Permanent Total/Partial Disability, Family Protect, Critical Illness, and Waiver of Premium Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "benefit_type": "Policy Loan",
+      "details": "Policyholders can avail a loan of up to 80% of the Surrender Value, provided the policy has acquired a Surrender Value. The current interest rate is 9% p.a. compounding half-yearly, subject to review."
+    },
+    {
+      "benefit_type": "Flexibility in Receiving Instalments",
+      "details": "For Variant 2 & 3, the Policyholder/Claimant can choose to receive annual Income/Death Benefit Instalments in half-yearly, quarterly, or monthly frequencies."
+    },
+    {
+      "benefit_type": "Option to Prepone Income Instalment Date",
+      "details": "Under Variants 2 & 3, the Policyholder can prepone the start of Income Instalments by a maximum of 365 days, subject to discounting."
+    },
+    {
+      "benefit_type": "Lump-sum Payout Option",
+      "details": "Under Variant 2, the claimant can opt to receive future Death Benefit Instalments as a lump-sum. The policyholder can also opt to take the Maturity Benefit as a lump-sum after the income period has started."
+    },
+    {
+      "benefit_type": "Alteration of Premium Payment Frequency",
+      "details": "The Policyholder has the option to change the premium payment frequency at any Policy Anniversary during the premium paying term."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "As specified in the Policy Schedule."
+    },
+    {
+      "criteria": "Minor Life Assured",
+      "details": "If the Life Assured is a Minor at the Policy Commencement Date, the Policy will vest on the Life Assured upon attaining the Age of 18 years."
+    }
+  ],
+  "exclusions": [
+    {
+      "exclusion_type": "Suicide Exclusion",
+      "details": "In case of death of the Life Assured due to suicide within twelve (12) months from the Date of Commencement of Risk or the date of latest revival of the Policy, whichever is later, the Claimant shall be entitled to receive the higher of 80% of the Total Premiums paid till the date of death or the Surrender Value available as on the date of death. The policy will be terminated thereafter."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "details": "Written notice should be provided to the Company as soon as possible and preferably within 180 days of the death of the Life Assured."
+    },
+    {
+      "process_step": "Documents for Death due to Natural Causes",
+      "details": "Required documents include: Claimant statement, Original Policy Document, Original death certificate, Bank account proof of Nominee, Medical cause of death certificate, and other documents as requested by the company."
+    },
+    {
+      "process_step": "Documents for Death due to Unnatural Causes",
+      "details": "In addition to the documents for natural death, a copy of the First Information Report (FIR) and Post Mortem Report (PMR) are required. PMR is mandatory for accidental death claims."
+    },
+    {
+      "process_step": "No Nomination",
+      "details": "If there is no nomination or the nominee is deceased, a notarized Indemnity bond from the Claimant for waiver of title and NOC from all class one legal heirs are required."
+    },
+    {
+      "process_step": "Claim Settlement",
+      "details": "The Company will make the payment to the Claimant upon receipt and verification of all required information and documentation."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Bajaj Life Guaranteed Wealth Goal plan?",
+      "answer": "It is a non-linked, non-participating, individual, life insurance savings plan."
+    },
+    {
+      "question": "What are the variants available under this plan?",
+      "answer": "There are three variants: Variant 1 – Wealth Creation, Variant 2 – Assured Income, and Variant 3 – Second Income (which can be chosen with or without Return of Premium benefit)."
+    },
+    {
+      "question": "Can I change my chosen variant after the policy has started?",
+      "answer": "No, once a variant is chosen at the policy commencement date, it cannot be changed subsequently."
+    },
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "A Free Look Period of 30 days is provided from the date of receipt of the Policy Document to review its terms and conditions."
+    },
+    {
+      "question": "What happens if I return the policy during the Free Look Period?",
+      "answer": "You will be entitled to a refund of the premium paid, subject to a deduction of a proportionate risk premium for the period of cover, medical examination expenses (if any), and stamp duty charges."
+    },
+    {
+      "question": "What is the Grace Period for paying my premium?",
+      "answer": "The Grace Period is fifteen (15) days for a monthly premium payment frequency or thirty (30) days for other premium payment frequencies."
+    },
+    {
+      "question": "What happens if I fail to pay the premium even after the Grace Period?",
+      "answer": "If at least one full year's premium has not been paid, the policy will lapse and no benefits will be payable. If the policy has acquired a Surrender Value, it will automatically be converted to a paid-up policy."
+    },
+    {
+      "question": "Can a lapsed or paid-up policy be revived?",
+      "answer": "Yes, a lapsed or paid-up policy may be revived within the Revival Period, which is five consecutive years from the date of the first unpaid premium."
+    },
+    {
+      "question": "What are the conditions for reviving a policy?",
+      "answer": "To revive a policy, you must submit an application within the Revival Period, pay all arrears of premiums with interest (currently 9.0% p.a. compounded half-yearly), and provide satisfactory evidence of health of the Life Assured."
+    },
+    {
+      "question": "When does my policy acquire a Surrender Value?",
+      "answer": "The policy can be surrendered at any time after the completion of the first policy year, provided at least one full year's premium has been paid."
+    },
+    {
+      "question": "What is the suicide exclusion in this policy?",
+      "answer": "If the Life Assured dies due to suicide within twelve (12) months from the Date of Commencement of Risk or the date of the latest revival, the policy has a suicide exclusion."
+    },
+    {
+      "question": "What benefit is paid if death is due to suicide within the exclusion period?",
+      "answer": "The Claimant will receive the higher of 80% of the Total Premiums paid till the date of death or the Surrender Value available as on the date of death, and the policy will terminate."
+    },
+    {
+      "question": "How is the Death Benefit paid under Variant 1 – Wealth Creation?",
+      "answer": "Under Variant 1, the Death Benefit is the Sum Assured on Death, which is payable as a lump-sum. The policy terminates after payment."
+    },
+    {
+      "question": "How is the Death Benefit paid under Variant 2 – Assured Income?",
+      "answer": "Under Variant 2, the Death Benefit is paid in instalments (Death Benefit Instalments). The Return of Premiums (ROP) on Death is paid along with the last instalment."
+    },
+    {
+      "question": "Can the beneficiary choose to receive the Death Benefit as a lump sum in Variant 2?",
+      "answer": "Yes, the beneficiary has the option to take the Death Benefit Instalments and ROP on Death as a lump sum at a discounted rate of 8.25% p.a."
+    },
+    {
+      "question": "What is the Maturity Benefit under Variant 1 - Wealth Creation?",
+      "answer": "The Maturity Benefit is the Guaranteed Maturity Benefit (GMB) plus Accrued Guaranteed Additions, payable at the end of the policy term."
+    },
+    {
+      "question": "What is the Maturity Benefit under Variant 2 - Assured Income?",
+      "answer": "The Maturity Benefit is the Sum Assured on Maturity, payable in instalments as Income Instalments during the Income Period. The Return of Premium (ROP) benefit is paid with the last instalment."
+    },
+    {
+      "question": "What benefits are available under Variant 3 – Second Income?",
+      "answer": "Variant 3 provides a Survival Benefit in the form of Income Instalments during the Income Period. If chosen 'with ROP', it also provides a Maturity Benefit equal to the ROP Benefit at the end of the policy term. If chosen 'without ROP', no maturity benefit is payable."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can take a loan under the policy at any time during the Policy Term, provided the policy has acquired a Surrender Value."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "The maximum loan amount available is 80% of the Surrender Value of the policy."
+    },
+    {
+      "question": "What happens if the outstanding loan amount exceeds the Surrender Value?",
+      "answer": "For a lapsed or paid-up policy, if the outstanding loan plus interest exceeds the Surrender Value, the policy will be foreclosed after a 30-day notice period. This does not apply to an in-force or fully paid-up policy."
+    },
+    {
+      "question": "What documents are required to file a death claim for an unnatural death?",
+      "answer": "Key documents include the claimant's statement, original policy document, original death certificate, bank account proof of the nominee, a copy of the First Information Report (FIR), and the Post Mortem Report (PMR)."
+    },
+    {
+      "question": "What is the timeline to intimate a death claim?",
+      "answer": "Written notice should be provided as soon as possible, and preferably within 180 days of the death of the Life Assured."
+    },
+    {
+      "question": "What happens if the age declared at the time of policy purchase is found to be incorrect?",
+      "answer": "The policy benefits will be altered corresponding to the correct age. If the correct age would have made the life assured uninsurable, the policy may be altered to a different plan or terminated with a refund of premiums less certain charges."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can change the premium payment frequency at a Policy Anniversary during the Premium Paying Term, subject to availability and minimum premium rules."
+    },
+    {
+      "question": "What happens if the Life Assured is a minor when the policy is taken?",
+      "answer": "The policy will vest on the Life Assured on attaining the age of majority (18 years), at which point they become the Policyholder."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "The policy terminates on the earliest occurrence of several events, including payment of death or maturity benefit in lump-sum, on complete surrender, foreclosure, on the maturity date, or expiry of the revival period for a lapsed policy."
+    }
+  ],
+  "source_file": "guaranteed-wealth-goal-policydoc-116N200V07.txt",
+  "category": "LI Policy Bond Documents"
+}

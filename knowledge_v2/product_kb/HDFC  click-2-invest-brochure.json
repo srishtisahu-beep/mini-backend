@@ -1,0 +1,238 @@
+{
+  "product_name": "HDFC Life Click 2 Invest",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit Linked Savings Plan",
+  "summary": "HDFC Life Click 2 Invest is a Unit Linked Plan that offers financial protection for your family with market-linked returns. This plan also offers a range of 13 investment funds to choose from. The investment risk in the investment portfolio is borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "0 years (30 days) for Classic & Classic Plus options; 18 years for Classic Waiver & Classic Waiver Plus options",
+    "maximum_age": "65 years at entry",
+    "sum_insured": "Single Premium: 125% of Single Premium (Age < 50 years), 110% of Single Premium (Age >= 50 years). Regular & Limited Premium: 7 x Annualized Premium (Age < 50 years), 5 x Annualized Premium (Age >= 50 years).",
+    "policy_term": "Minimum: 5 years. Maximum: 40 years (or 99 years minus Age at Entry for Classic Option).",
+    "waiting_period": "5-year lock-in period. The policyholder will not be able to surrender or withdraw monies invested completely or partially till the end of the fifth year."
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "At maturity, you will receive your Fund Value, calculated by multiplying the balance units in your fund by the then-prevailing unit price. You can also take your fund value at maturity in periodical instalments under the settlement option."
+    },
+    {
+      "name": "Death Benefit Option: Classic",
+      "description": "The death benefit shall be the highest of: Sum Assured less partial withdrawals made during the two years preceding death, OR Fund Value, OR 105% of total premiums paid."
+    },
+    {
+      "name": "Death Benefit Option: Classic Plus",
+      "description": "The death benefit shall be the higher of: Sum Assured PLUS Fund Value, OR 105% of total premiums paid."
+    },
+    {
+      "name": "Death Benefit Option: Classic Waiver",
+      "description": "The death benefit shall be the higher of: Sum Assured, OR 105% of total premiums paid. In addition, future premiums will be waived off by the Company and credited to the Policyholder’s Fund Value."
+    },
+    {
+      "name": "Death Benefit Option: Classic Waiver Plus",
+      "description": "The death benefit shall be the higher of: Sum Assured, OR 105% of total premiums paid. In addition, future premiums are waived. This option also offers a Monthly Income Benefit, which is a percentage of the Sum Assured paid monthly following the date of death."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Choice of Plan and Death Benefit Options",
+      "description": "Offers a choice of two Plan Options (Growth, Loyalty) and four Death Benefit Options (Classic, Classic Plus, Classic Waiver, Classic Waiver Plus) to suit investment and protection requirements."
+    },
+    {
+      "name": "Multiple Fund Options",
+      "description": "Choose from a range of 13 fund options to invest your money in, with varying risk and return profiles."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Enhance your fund value through various loyalty additions like Fund Value Enhancer, Return of Policy Administration Charges, Return of Mortality Charges, and High Death Benefit Multiple Booster, applicable under specific plan and death benefit options."
+    },
+    {
+      "name": "Flexible Premium Payment",
+      "description": "Premium payment options of Single Pay, Limited Pay, or Regular Pay are available."
+    },
+    {
+      "name": "Flexibilities",
+      "description": "Provides flexibility through features like Fund Switching, Premium Redirection, Top-Up Premiums, and Partial Withdrawals (after 5 years)."
+    },
+    {
+      "name": "Systematic Plans",
+      "description": "Offers a Systematic Transfer Plan (STP) to move funds between accounts and a Systematic Withdrawal Plan (SWP) for regular withdrawals."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive maturity or death benefits in periodical instalments over a period of up to 5 years."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Age at Entry",
+      "minimum": "0 years (30 days) for Classic/Classic Plus; 18 years for Classic Waiver/Classic Waiver Plus",
+      "maximum": "65 years"
+    },
+    {
+      "parameter": "Age at Maturity",
+      "minimum": "18 years for Classic/Classic Plus; 23 years for Classic Waiver/Classic Waiver Plus",
+      "maximum": "99 years for Classic; 85 years for other options"
+    },
+    {
+      "parameter": "Premiums",
+      "minimum": "Single: Rs. 24,000; Annual: Rs. 12,000; Half-yearly: Rs. 6,000; Quarterly: Rs. 3,000; Monthly: Rs. 1,000",
+      "maximum": "No limit, subject to Board Approved Underwriting Policy (BAUP)"
+    },
+    {
+      "parameter": "Policy Term",
+      "minimum": "5 years",
+      "maximum": "40 years (or 99 years minus Age at Entry for Classic Option)"
+    },
+    {
+      "parameter": "Premium Payment Term",
+      "minimum": "Single Pay, Limited: 5 years",
+      "maximum": "Regular Pay, Limited: (Policy Term - 1) years"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement or revival of the policy, the nominee or beneficiary shall be entitled to the fund value as available on the date of intimation of death. Any charges other than Fund Management Charges (FMC) recovered subsequent to the date of death shall be added back to the fund value."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "In case of the unfortunate death of the Life Assured during the policy term, the nominee will receive the death benefit according to the chosen Death Benefit Option (Classic, Classic Plus, Classic Waiver, or Classic Waiver Plus). Upon payment of the death benefit, the policy may terminate or continue until maturity depending on the option chosen."
+    },
+    {
+      "type": "Nomination",
+      "description": "The policyholder can nominate a person or persons to receive the policy benefits in the event of their death, as per Section 39 of the Insurance Act 1938. Nomination can be made, changed, or cancelled anytime before the policy matures."
+    },
+    {
+      "type": "Assignment",
+      "description": "The policy can be transferred or assigned, wholly or in part, with or without consideration, as per Section 38 of the Insurance Act 1938."
+    },
+    {
+      "type": "Grievance Redressal",
+      "description": "For any concerns or grievances, you can contact HDFC Life via helpline (022-68446530), email (service@hdfclife.com), written letter at a branch, or through the website. If unsatisfied, you may approach the Insurance Ombudsman."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click 2 Invest?",
+      "answer": "HDFC Life Click 2 Invest is a Unit Linked Non-Participating Individual Life Insurance Savings Plan that offers financial protection for your family with market-linked returns and a choice of 13 investment funds."
+    },
+    {
+      "question": "Who bears the investment risk in this plan?",
+      "answer": "In this policy, the investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "Is there a lock-in period for this plan?",
+      "answer": "Yes, the linked insurance products do not offer any liquidity during the first five years of the contract. The policyholder will not be able to surrender or withdraw the monies invested completely or partially till the end of the fifth year."
+    },
+    {
+      "question": "What are the premium payment options available?",
+      "answer": "You can choose from Single Pay, Limited Pay, or Regular Pay premium payment options."
+    },
+    {
+      "question": "How many fund options are available to invest in?",
+      "answer": "You can choose from a range of 13 fund options to invest your money in."
+    },
+    {
+      "question": "What is the minimum entry age for this policy?",
+      "answer": "The minimum entry age is 0 years (30 days) for Classic and Classic Plus options, and 18 years for Classic Waiver and Classic Waiver Plus options."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "The maximum age at entry is 65 years."
+    },
+    {
+      "question": "What happens at the maturity of the policy?",
+      "answer": "At maturity, you will receive your Fund Value. The Fund Value is calculated by multiplying the balance units in your fund by the prevailing unit price on that day."
+    },
+    {
+      "question": "What are the different Death Benefit Options?",
+      "answer": "There are four Death Benefit Options: Classic, Classic Plus, Classic Waiver, and Classic Waiver Plus."
+    },
+    {
+      "question": "Can I change my Death Benefit Option after the policy has started?",
+      "answer": "No, the death benefit option has to be chosen at policy inception and once chosen, it cannot be changed throughout the policy term."
+    },
+    {
+      "question": "What does the 'Classic Waiver' Death Benefit option provide?",
+      "answer": "In case of death, it pays out the higher of the Sum Assured or 105% of total premiums paid. Additionally, all future premiums are waived off by the company and an amount equal to the modal premium is credited to the fund value on each due date."
+    },
+    {
+      "question": "What is the additional benefit in the 'Classic Waiver Plus' option?",
+      "answer": "In addition to the sum assured and waiver of premium benefit, this option also offers a Monthly Income Benefit. An income equal to a percentage of the Sum Assured will be paid monthly following the date of death for a chosen term."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty additions are extra units allocated to your fund at different points during the policy term to enhance your fund value. They are applicable if the policy is in force and all due premiums have been paid."
+    },
+    {
+      "question": "When can I make a partial withdrawal from my policy?",
+      "answer": "You can make lump sum partial withdrawals from your funds after 5 complete policy years, provided the Life Assured is at least 18 years of age."
+    },
+    {
+      "question": "What is the minimum amount for a partial withdrawal?",
+      "answer": "The minimum partial withdrawal amount is Rs. 10,000."
+    },
+    {
+      "question": "Are there any conditions for partial withdrawals?",
+      "answer": "Yes, after a partial withdrawal, the fund value must not be less than 150% of the base annualized premium for limited/regular pay policies or 25% of the single premium for single pay policies."
+    },
+    {
+      "question": "Can I make additional investments into my policy?",
+      "answer": "Yes, you have the option of paying Top-up premiums. However, Top-up premiums are not permitted during the last 5 years of the contract."
+    },
+    {
+      "question": "What is the Settlement Option?",
+      "answer": "The Settlement Option allows the policyholder (on maturity) or the nominee (on death) to receive the fund value in periodical instalments over a settlement period which may extend to a maximum of 5 years."
+    },
+    {
+      "question": "What are the main charges in this plan?",
+      "answer": "The main charges are Fund Management Charge (FMC), Policy Administration Charge, Mortality Charge, and Surrender/Discontinuance Charges. Charges may also apply for partial withdrawals, fund switches, and premium redirections beyond the free limits."
+    },
+    {
+      "question": "Is there a Premium Allocation Charge?",
+      "answer": "No, the Premium Allocation Charge is Nil."
+    },
+    {
+      "question": "What happens if the life assured dies by suicide?",
+      "answer": "In case of death due to suicide within 12 months from policy commencement or revival, the nominee will be entitled to the fund value as available on the date of intimation of death."
+    },
+    {
+      "question": "What is the grace period for paying my premium?",
+      "answer": "The plan has a grace period of 15 days for monthly mode and 30 days for other modes from the premium due date."
+    },
+    {
+      "question": "Can a discontinued policy be revived?",
+      "answer": "Yes, you can revive a discontinued policy within three consecutive years from the date of the first unpaid premium, subject to payment of all due premiums and the company's underwriting policy."
+    },
+    {
+      "question": "What is the Systematic Transfer Plan (STP)?",
+      "answer": "The STP allows you to invest all or some part of your investment in a Source Fund and transfer a fixed amount in regular monthly instalments into another available fund."
+    },
+    {
+      "question": "Can I get a loan against this policy?",
+      "answer": "No, policy loans are not available for this product."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have the option of returning the policy within 30 days from the date of receipt if you are not agreeable to any of its terms and conditions. A refund will be processed subject to certain deductions."
+    },
+    {
+      "question": "How many free fund switches are allowed in a year?",
+      "answer": "There are 4 free switches in each policy year. Subsequent switches will attract a charge."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the 5-year lock-in period?",
+      "answer": "If you stop paying premiums after the lock-in period, the policy will be converted into a reduced paid-up policy. You will have the option to either revive the policy within three years or completely withdraw from it."
+    }
+  ],
+  "source_file": "HDFC  click-2-invest-brochure.txt",
+  "category": "LI Plan Brochure"
+}

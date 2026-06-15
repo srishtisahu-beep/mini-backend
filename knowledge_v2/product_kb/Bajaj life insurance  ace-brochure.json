@@ -1,0 +1,229 @@
+{
+  "product_name": "BAJAJ LIFE ACE",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings and Investment",
+  "summary": "Bajaj Life ACE is a flexible life insurance savings plan from Bajaj Life Insurance Limited that allows you to design your own financial plan. It offers the choice to receive returns as income, a lump sum, or both. The plan features four distinct options: Deferred Income, Early Income, Increasing Income, and Wealth, along with life cover protection for your loved ones for the entire policy term, up to 100 years.",
+  "quick_facts": {
+    "minimum_age": "0 years (without Goal Protection Benefit)",
+    "maximum_age": "60 years (without Goal Protection Benefit)",
+    "sum_insured": "11 times of Annualised premium",
+    "policy_term": "Limited Term: 10 to 45 years; Whole Life: Up to age 85 or 100",
+    "waiting_period": "Risk cover commences immediately on the date of commencement of risk. A 12-month waiting period applies for suicide."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Assured, the benefit paid is the Sum Assured on Death (11 times Annualised premium) plus 105% of Accumulated Income benefits (if any) and Terminal Bonus (if declared). For the Wealth option, it is Sum Assured on Death plus accrued simple reversionary bonus and Terminal Bonus. The Death Benefit will not be less than the Guaranteed Death Benefit, which is 105% of Total Premiums paid."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival till maturity, for Income options (Deferred, Early, Increasing), the benefit is the Sum Assured on Maturity (105% of total premiums paid) plus Accumulated Income benefits (if any) and Terminal bonus (if declared). For the Wealth option, the benefit is the Maturity Sum Assured plus Accrued Simple Reversionary Bonus (if declared) and Terminal Bonus (if declared)."
+    },
+    {
+      "name": "Income Benefit",
+      "description": "Applicable for Early, Deferred, and Increasing Income options. It provides a regular income stream composed of a Guaranteed Income (GI) and non-guaranteed Cash Bonuses (if declared by the company). The timing and structure of the income depend on the chosen option."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Four Product Options",
+      "description": "Flexibility to choose from Deferred Income, Early Income, Increasing Income, and Wealth options, or a combination of them in a single policy."
+    },
+    {
+      "name": "Flexible Income Payouts",
+      "description": "Choose when to start receiving income (from the first month/year or after a deferment period), whether the income is level or increasing, and the duration of income (limited term or up to age 100)."
+    },
+    {
+      "name": "Life Protection",
+      "description": "Provides life cover throughout the policy term, with options for coverage up to 100 years of age."
+    },
+    {
+      "name": "Premium Payment Flexibility",
+      "description": "Choice of paying premiums for 5, 6, 7, 8, 9, 10, and 12 years."
+    },
+    {
+      "name": "Goal Protection Benefit (GPB)",
+      "description": "An optional benefit ensuring that on death during the premium payment term, future premiums are waived and the nominee receives all planned benefits as and when they are due."
+    },
+    {
+      "name": "Accumulation of Benefits",
+      "description": "Option to accumulate income benefits (Guaranteed Incomes and Cash bonuses) instead of taking them as payouts, and earn an investment return on them."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Facility to take a loan of up to 80% of the surrender value once the policy acquires it."
+    },
+    {
+      "name": "Riders",
+      "description": "Option to enhance coverage with additional riders like Accidental Death Benefit Rider and Accidental Permanent Total/Partial Disability Benefit Rider at a nominal extra cost."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Available on premiums paid and benefits received as per prevailing tax laws."
+    },
+    {
+      "name": "Discounts & Mark-ups",
+      "description": "Offers benefits like High Premium Mark-up (for annual premium of 1.5 lac or above), a 2% markup on Benefit Sum Assured for Female Lives, and a family discount of up to 7% on the first year premium."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "0 years (without GPB), 18 years (with GPB)"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "60 years (without GPB), 55 years (with GPB)"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "Up to 100 years (without GPB), Up to 85 years (with GPB)"
+    },
+    {
+      "criteria": "Premium Payment Terms (PPT)",
+      "value": "5, 6, 7, 8, 9, 10, and 12 years"
+    },
+    {
+      "criteria": "Policy Terms (PT)",
+      "value": "Limited Term: 10 to 45 years. Whole Life: up to age 85 or 100 years."
+    },
+    {
+      "criteria": "Minimum Annual Premium",
+      "value": "₹25,000"
+    },
+    {
+      "criteria": "Maximum Annual Premium",
+      "value": "No limit, subject to Board approved underwriting policy."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or date of revival, the nominee or beneficiary will be entitled to receive the higher of 80% of the Total Premiums paid or the surrender value as on the date of death, provided the policy is in force. The brochure states there are no other exclusions."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Payout Options",
+      "description": "The death benefit can be paid out as a lump-sum. The nominee also has the option to take the death benefit in equal monthly instalments over a period of five or ten years."
+    },
+    {
+      "name": "Grievance Redressal",
+      "description": "For queries or complaints, policyholders can contact the Grievance Officer at any branch, call 020-6712 1212, email customercare@bajajlife.com, or write to the Customer Care Desk in Pune. If unsatisfied, they can contact the Grievance Redressal Officer, IRDAI Grievance Call Centre (155255), or the Insurance Ombudsman."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Bajaj Life ACE?",
+      "answer": "It is a life insurance plan from Bajaj Life Insurance Limited that offers flexibility to create your own financial plan with options for income, a lump sum, or both, along with life cover."
+    },
+    {
+      "question": "What are the different plan options available under Bajaj Life ACE?",
+      "answer": "There are four options: Deferred Income, Early Income, Increasing Income, and Wealth. You can choose one or more of these options in a single policy."
+    },
+    {
+      "question": "What is the Early Income option?",
+      "answer": "This option provides income from the first policy month or year after the chosen deferment period, consisting of cash bonuses (if declared) and a guaranteed income."
+    },
+    {
+      "question": "How does the Deferred Income option work?",
+      "answer": "This option provides a level income starting after the premium payment term and deferment period. The income is a mix of guaranteed income and cash bonus (if declared)."
+    },
+    {
+      "question": "What is the Increasing Income option?",
+      "answer": "This option provides an income that increases every year at 5% p.a. on a compounding basis. It starts after the premium payment term and deferment period and is a mix of guaranteed income and cash bonus (if declared)."
+    },
+    {
+      "question": "What is the Wealth option?",
+      "answer": "This option provides a lump sum amount at the end of the policy term, comprising the Maturity Sum Assured, accrued simple reversionary bonus, and any terminal bonus."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this policy?",
+      "answer": "The minimum entry age is 0 years and the maximum is 60 years if the Goal Protection Benefit is not opted for. With the Goal Protection Benefit, the entry age is between 18 and 55 years."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "You can choose to pay premiums for 5, 6, 7, 8, 9, 10, or 12 years."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annual premium is ₹25,000."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "The death benefit is the Sum Assured on Death (11 times the Annualised Premium) plus any accumulated income benefits and terminal bonus. The benefit will not be less than 105% of total premiums paid."
+    },
+    {
+      "question": "Can I receive the death benefit in installments?",
+      "answer": "Yes, the nominee has the option to receive the death benefit in equal monthly installments over a period of 5 or 10 years."
+    },
+    {
+      "question": "What is the maturity benefit?",
+      "answer": "For income options, it is 105% of total premiums paid plus accumulated income benefits and terminal bonus (if declared). For the Wealth option, it is the Maturity Sum Assured plus accrued bonuses and terminal bonus (if declared)."
+    },
+    {
+      "question": "Are the cash bonuses guaranteed?",
+      "answer": "No, cash bonuses are not guaranteed and are paid if declared by the company. However, the Guaranteed Income (GI) component of the income benefit is guaranteed."
+    },
+    {
+      "question": "What is the Deferment Period?",
+      "answer": "It is an optional period of up to 5 years during which you can choose to defer the start of your income benefits under the Early, Deferred, and Increasing Income options."
+    },
+    {
+      "question": "What is the Goal Protection Benefit (GPB)?",
+      "answer": "It is an optional feature where, upon the policyholder's death during the premium payment term, the death benefit is paid, all future premiums are waived, and the nominee continues to receive the planned income and maturity benefits."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "There is a grace period of 30 days (15 for monthly mode) to pay the premium. If premiums are not paid after the policy has acquired a surrender value, it will automatically convert to a reduced paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can take a loan up to 80% of the surrender value."
+    },
+    {
+      "question": "Does this plan offer tax benefits?",
+      "answer": "Yes, you may be eligible for tax benefits on premiums paid and benefits received as per prevailing tax laws. It is advisable to consult a tax advisor for details."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a free-look period of 30 days from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation and a refund."
+    },
+    {
+      "question": "How can I revive a lapsed policy?",
+      "answer": "A lapsed or paid-up policy can be revived within five years from the due date of the first unpaid premium by paying all arrears of premiums with interest."
+    },
+    {
+      "question": "What is the suicide exclusion in this policy?",
+      "answer": "If the life assured dies by suicide within 12 months of the policy start date or revival date, the nominee will receive the higher of 80% of total premiums paid or the surrender value as on the date of death."
+    },
+    {
+      "question": "Can I choose more than one plan option in a single policy?",
+      "answer": "Yes, the plan offers the flexibility to choose one or more of the four product options to create a customized financial plan that best suits your requirements."
+    },
+    {
+      "question": "Are there any special benefits for female policyholders?",
+      "answer": "Yes, a 2% markup is available on the Benefit Sum Assured for female lives."
+    },
+    {
+      "question": "What is the 'Option to Accumulate Income Benefits'?",
+      "answer": "This feature allows you to accumulate the income benefits (Guaranteed Income and Cash Bonuses) in the policy instead of receiving them as payouts. This accumulated amount earns an investment return and can be withdrawn partly or fully anytime."
+    },
+    {
+      "question": "Can I add riders to my Bajaj Life ACE policy?",
+      "answer": "Yes, you can enhance your coverage by adding optional riders like the Bajaj Life Accidental Death Benefit Rider, Bajaj Life Accidental Permanent Total/Partial Disability Benefit Rider, and Bajaj Life Family Protect Rider for a nominal extra cost."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can change the premium payment frequency (yearly, half-yearly, quarterly, monthly) at any policy anniversary."
+    },
+    {
+      "question": "What happens when a minor life assured turns 18?",
+      "answer": "The policy will automatically vest on the life assured upon attaining the age of 18 years. Thereafter, the Life Assured shall become the policyholder."
+    }
+  ],
+  "source_file": "Bajaj life insurance  ace-brochure.txt",
+  "category": "LI Plan Brochure"
+}

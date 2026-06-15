@@ -1,0 +1,205 @@
+{
+  "product_name": "ICICI Pru Assured Savings Insurance Plan",
+  "company": "ICICI Prudential Life Insurance",
+  "product_type": "Non-Linked Non-Participating",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "ICICI Pru Assured Savings Insurance Plan is a non-linked, non-participating individual savings life insurance plan designed to provide guaranteed savings benefits to meet non-negotiable goals. It combines protection in the form of a life insurance cover for the family in case of unfortunate demise, with guaranteed savings benefits like Guaranteed Additions and a Guaranteed Maturity Benefit.",
+  "quick_facts": {
+    "minimum_age": "0 years at entry",
+    "maximum_age": "60 years at entry",
+    "sum_insured": "10 times the annualized premium",
+    "policy_term": "10, 12, 15, 16, or 20 years",
+    "waiting_period": "In case of death due to suicide within 12 months from the date of commencement of risk or revival, the claimant is entitled to 80% of total premiums paid or the surrender value, whichever is higher."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the life assured till the end of the policy term, a Maturity Benefit is payable. This benefit is the sum of Accrued Guaranteed Additions and the Guaranteed Maturity Benefit (GMB), provided all due premiums have been paid."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "On death of the life assured during the policy term (for a premium paying or fully paid policy), a Death Benefit is payable. The benefit is the highest of: A) Sum Assured plus accrued Guaranteed Additions, B) Guaranteed Maturity Benefit (GMB) plus accrued Guaranteed Additions, or C) Minimum Death Benefit, which is 105% of total premiums paid till date. Sum Assured on death is 10 times the annualized premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Protection",
+      "description": "Provides life cover for the entire policy term."
+    },
+    {
+      "name": "Guaranteed Additions (GAs)",
+      "description": "Guaranteed Additions are added to the policy at the end of every policy year. The rate is 9% for a 10-year term, 10% for a 12 or 15-year term, and 11% for a 16 or 20-year term, multiplied by the sum of premiums paid to date."
+    },
+    {
+      "name": "Guaranteed Maturity Benefit (GMB)",
+      "description": "A guaranteed lump sum amount is payable at the end of the policy term."
+    },
+    {
+      "name": "Flexibility",
+      "description": "Offers the choice of premium payment term and policy term to suit individual needs."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may apply to premiums paid and benefits received as per prevailing tax laws."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans of up to 80% of the Surrender Value once the policy has acquired a surrender value."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "Varies from 0 to 8 years depending on the chosen policy and premium payment term."
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "Varies from 45 to 60 years depending on the chosen policy and premium payment term."
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "Up to 72 years"
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "value": "10, 12, 15, 16, 20 years"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "5, 7, 8, 10, 12 years"
+    },
+    {
+      "criteria": "Premium Paying Mode",
+      "value": "Annual / Half-yearly / Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk under the policy or from the date of Revival of the policy, the Claimant shall be entitled to 80% of the total premiums paid till the date of death or the Surrender Value available as on the date of death, whichever is higher, provided the policy is in force. The policy will terminate upon such payment."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "On death of the life assured, the Death Benefit is paid to the claimant. The policy will terminate and all rights, benefits, and interests under the policy will stand extinguished."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ICICI Pru Assured Savings Insurance Plan?",
+      "answer": "It is a Non-Linked Non-Participating Individual Savings Life Insurance Plan that provides guaranteed savings benefits and a life insurance cover."
+    },
+    {
+      "question": "What are the key benefits of this plan?",
+      "answer": "The key benefits are: Protection through life cover, Guaranteed Additions, a Guaranteed Maturity Benefit (GMB), flexibility in choosing terms, and tax benefits as per prevailing laws."
+    },
+    {
+      "question": "Is this a market-linked plan?",
+      "answer": "No, this is a Non-Linked Non-Participating plan, which means the benefits are guaranteed and not linked to market performance."
+    },
+    {
+      "question": "What is the minimum age to be eligible for this policy?",
+      "answer": "The minimum age at entry varies by the plan chosen, with the lowest being 0 years."
+    },
+    {
+      "question": "What is the maximum age to purchase this policy?",
+      "answer": "The maximum age at entry varies by the plan chosen, with the highest being 60 years."
+    },
+    {
+      "question": "What policy terms are available under this plan?",
+      "answer": "You can choose from policy terms of 10, 12, 15, 16, or 20 years."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The available premium payment terms are 5, 7, 8, 10, or 12 years."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "The Maturity Benefit is the amount payable on survival till the end of the policy term. It is the sum of the Accrued Guaranteed Additions and the Guaranteed Maturity Benefit (GMB)."
+    },
+    {
+      "question": "What are Guaranteed Additions (GAs)?",
+      "answer": "Guaranteed Additions are extra benefits added to your policy at the end of every policy year, provided all due premiums have been paid. The rate depends on the policy term."
+    },
+    {
+      "question": "How are the Guaranteed Additions calculated?",
+      "answer": "The GA is calculated by multiplying the GA rate (9%, 10%, or 11% depending on policy term) with the sum of all premiums paid till that date."
+    },
+    {
+      "question": "What is the Guaranteed Maturity Benefit (GMB)?",
+      "answer": "GMB is a guaranteed lump sum amount that is set at the policy inception and is payable at the end of the policy term. It is also known as the Sum Assured on maturity."
+    },
+    {
+      "question": "What happens in case of the policyholder's death during the policy term?",
+      "answer": "In case of the life assured's death, a Death Benefit is paid to the nominee or claimant, and the policy terminates."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "The Death Benefit is the highest of: (A) Sum Assured plus accrued Guaranteed Additions, (B) GMB plus accrued Guaranteed Additions, or (C) 105% of total premiums paid till death."
+    },
+    {
+      "question": "Are there tax benefits with this plan?",
+      "answer": "Yes, tax benefits apply to premiums paid and benefits received as per the prevailing tax laws. It is recommended to seek professional advice for applicability."
+    },
+    {
+      "question": "Can I take a loan against my ICICI Pru Assured Savings Insurance Plan policy?",
+      "answer": "Yes, you can avail a loan once the policy has acquired a surrender value."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "You can get a loan of up to 80% of the policy's Surrender Value."
+    },
+    {
+      "question": "What happens if I stop paying my premiums?",
+      "answer": "If you stop paying premiums before the policy acquires a surrender value, it will lapse. If you stop after it acquires a surrender value, it will continue as a 'paid-up' policy with reduced benefits."
+    },
+    {
+      "question": "When does the policy acquire a surrender value?",
+      "answer": "The policy acquires a surrender value after the payment of two full years' premium."
+    },
+    {
+      "question": "Can I revive a policy if I have missed premium payments?",
+      "answer": "Yes, you can revive a lapsed or paid-up policy within five years from the due date of the first unpaid premium, subject to underwriting and payment of arrears with interest."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "The free-look period is 15 days from the date of receipt of the policy document, or 30 days if the policy was purchased through Distance Mode or electronically."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 15 days is provided for the monthly premium payment mode, and 30 days for all other frequencies (annual, half-yearly)."
+    },
+    {
+      "question": "What happens if the life assured dies during the grace period?",
+      "answer": "If the death of the life assured occurs during the grace period, the company will pay the applicable Death Benefit after deducting the unpaid premium."
+    },
+    {
+      "question": "Is there a suicide exclusion in this policy?",
+      "answer": "Yes. If death by suicide occurs within 12 months of the policy's start or revival date, the claimant receives 80% of total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "Can I change my policy term or premium payment term after the policy is issued?",
+      "answer": "No, the premium, premium payment term, and policy term chosen at the inception of the policy cannot be changed."
+    },
+    {
+      "question": "Are medical examinations required to buy this policy?",
+      "answer": "Policies sourced through the POS (Point of Sale) Channel will not have any medical examination."
+    },
+    {
+      "question": "What happens if a policy is taken on a minor's life?",
+      "answer": "If the policy is on a minor's life, it will vest on him/her upon attaining the age of 18. The life assured will then become the policyholder."
+    },
+    {
+      "question": "What happens if the policy lapses?",
+      "answer": "If a policy lapses before acquiring surrender value, no benefits will be paid. The policy can be revived within five years from the first unpaid premium's due date."
+    }
+  ],
+  "source_file": "ICICI Pru Assured Savings Insurance Plan.txt",
+  "category": "LI Plan Brochure"
+}

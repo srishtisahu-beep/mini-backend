@@ -1,0 +1,223 @@
+{
+  "product_name": "Aditya Birla Sun Life Insurance SecurePlus Plan",
+  "company": "Aditya Birla Sun Life Insurance Company Limited",
+  "product_type": "A non-linked non-participating individual life insurance savings plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A non-linked, non-participating individual life insurance savings plan offering a combination of protection and savings. It provides a 'Sum Assured on Death' to the claimant in case of the life insured's demise during the policy term. On survival, it offers an 'Income Benefit' and a 'Loyalty Addition' during a specified 'Benefit Payout Period'. The plan also includes a maturity benefit, a surrender value after two years of premium payments, and a policy loan facility.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Equal to a multiple of the Annualized Premium, as specified in the Policy Schedule.",
+    "policy_term": "Chosen at policy inception and cannot be changed thereafter. Surrender value tables in the document show policy terms from 6 to 17 years.",
+    "waiting_period": "The policy acquires a Surrender Value after all due Installment Premiums for the first two Policy Years have been paid. A 12-month waiting period from the date of risk commencement or revival applies for the suicide exclusion."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the event of death of the Life Insured during the Policy Term, while the policy is in-force, the 'Sum Assured on Death' is paid to the Claimant. The Sum Assured on Death is the higher of (i) 150% of the Total Premiums Paid up to the date of death and (ii) Sum Assured."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy Term, provided all due premiums are paid, an Income Benefit and Loyalty Addition are payable during the Benefit Payout Period."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "At the end of the Policy Term, the policyholder has the option to get a lump sum instead of the Income Benefits. The commuted value of the outstanding benefits shall be paid as a lump sum."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Staggered Death Benefit Option",
+      "description": "The claimant has an option to receive the Death Benefit in annual or monthly installments over a period of 5 years instead of a lump sum."
+    },
+    {
+      "name": "Income Benefit",
+      "description": "A percentage of Annualized Premium, payable during the Benefit Payout Period as per the chosen frequency (annual, semi-annual, quarterly or monthly)."
+    },
+    {
+      "name": "Loyalty Addition",
+      "description": "The Income Benefit is enhanced by a Loyalty Addition, which is a percentage of the Income Benefit, if all due premiums have been paid."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "A loan can be availed if the policy has acquired a Surrender Value. The maximum loan amount is up to 80% of the Surrender Value. The minimum loan amount is Rs. 5,000."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy acquires a Surrender Value after two full policy years' premiums have been paid. The Surrender Value payable is the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV)."
+    },
+    {
+      "name": "Reduced Paid-Up (RPU) Benefits",
+      "description": "If at least two full years' premiums are paid and subsequent premiums are discontinued, the policy converts to a Reduced Paid-Up status with reduced benefits."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age",
+      "details": "The document specifies 'Life Insured’s Age at inception' but does not provide specific minimum or maximum age limits. The policy can be issued on a Minor's life."
+    },
+    {
+      "criteria": "Insurable Interest",
+      "details": "The contract can be issued where the Life Insured is different from the Policyholder, provided the Policyholder has an insurable interest in the Life Insured."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In the event of death of the Life Insured due to suicide within 12 months from the Date of Commencement of Risk or from the date of Revival of the Policy, the policy shall terminate. The Company will pay the higher of the Surrender Value or Total Premiums Paid (plus underwriting extras and modal loadings) if the policy has acquired surrender value. If not, it will pay the Total Premiums Paid (plus underwriting extras and modal loadings)."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Claim Notification",
+      "process": "The claimant should notify the claim within 90 days from the date of death. Notification can be done at the nearest branch, through the customer portal, or via email to claimsnotification.lifeinsurance@adityabirlacapital.com. Claim documents should be sent to the Thane office address provided in the policy."
+    },
+    {
+      "type": "Death Claim Documents (Mandatory)",
+      "documents": [
+        "Claimant Statement Form",
+        "Death Certificate issued by Municipal Corporation/Gram Panchayat (Self attested copy)",
+        "Original Policy Document",
+        "KYC Document of beneficiary (Self attested copy)",
+        "Proof of relationship of beneficiary with Life Insured",
+        "Bank details of the beneficiary"
+      ]
+    },
+    {
+      "type": "Death Claim Documents (Additional for claims within 3 years)",
+      "documents": [
+        "Medical Attendant's Certificate, if any",
+        "Hospital or treatment records, if any (Self attested copy)",
+        "Employer's Certificate (if applicable)"
+      ]
+    },
+    {
+      "type": "Death Claim Documents (Additional for Accidental/Unnatural Death)",
+      "documents": [
+        "FIR & Final Police Closure Report",
+        "Driving License (if death while driving)",
+        "Post mortem Report",
+        "Valid Insurance document of the vehicle (if death is due to Road Traffic Accident)",
+        "Police Inquest Report/Inquest Panchnama",
+        "News Paper Cutting (if any)"
+      ]
+    },
+    {
+      "type": "Maturity Claim",
+      "process": "Maturity proceeds shall be credited to the Policyholder’s bank account as per the details available in company records. The policyholder is requested to update bank details if there are any changes."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Aditya Birla Sun Life Insurance SecurePlus Plan?",
+      "answer": "It is a non-linked, non-participating individual life insurance savings plan that offers life cover along with savings benefits like income payouts after the policy term."
+    },
+    {
+      "question": "What is the 'Annualized Premium'?",
+      "answer": "It is the premium amount payable in a year, chosen by the Policyholder, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 30 days for all premium payment frequencies except monthly, for which it is 15 days from the premium due date."
+    },
+    {
+      "question": "What happens if I don't pay the premium within the grace period?",
+      "answer": "If premiums for the first two years have not been paid, the policy will lapse and no benefits will be payable. If at least two full years' premiums have been paid, the policy will convert to a 'Reduced Paid Up' (RPU) status with reduced benefits."
+    },
+    {
+      "question": "What is the Death Benefit under this plan?",
+      "answer": "The Death Benefit is the 'Sum Assured on Death', which is the higher of 150% of the total premiums paid up to the date of death, or the Sum Assured. It is paid if the life insured dies during the policy term while the policy is in-force."
+    },
+    {
+      "question": "Can the Death Benefit be received in installments?",
+      "answer": "Yes, the claimant has an option to receive the Death Benefit in annual or monthly installments over a period of 5 years instead of a lump sum."
+    },
+    {
+      "question": "What are the Survival Benefits?",
+      "answer": "If the life insured survives the policy term and all premiums are paid, an 'Income Benefit' and a 'Loyalty Addition' are paid during the 'Benefit Payout Period'."
+    },
+    {
+      "question": "What is 'Income Benefit'?",
+      "answer": "It is a percentage of the Annualized Premium, paid out at regular intervals (monthly, quarterly, semi-annually, or annually) during the Benefit Payout Period after the policy term ends."
+    },
+    {
+      "question": "What is 'Loyalty Addition'?",
+      "answer": "Loyalty Addition is an enhancement to the Income Benefit, paid if all due premiums have been paid during the Premium Paying Term. It is a percentage of the Income Benefit."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "At the end of the Policy Term, you have the flexibility to take a lump sum amount instead of the regular Income Benefits. This is called the commutation option."
+    },
+    {
+      "question": "Can I change the frequency of my Income Benefit payouts?",
+      "answer": "Yes, the Benefit Payout Frequency (e.g., from annual to monthly) can be changed anytime during the Policy Term or during the Benefit Payout Period. The change will be effective from the subsequent Policy Anniversary."
+    },
+    {
+      "question": "Can I change the Benefit Payout Period?",
+      "answer": "No, the Benefit Payout Period is chosen at the start of the policy and cannot be changed later."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a free-look period of 15 days from the date of receiving the policy document, or 30 days for electronic policies and policies sold via distance marketing, to review the terms and conditions."
+    },
+    {
+      "question": "What happens if I cancel the policy during the free-look period?",
+      "answer": "You can return the policy stating your reasons and will be entitled to a refund of the premium paid, subject to deductions for proportionate risk premium, medical examination expenses, and stamp duty charges."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy anytime after it acquires a Surrender Value, which happens after all due premiums for the first two policy years have been paid."
+    },
+    {
+      "question": "What is a 'Reduced Paid Up' (RPU) policy?",
+      "answer": "An RPU policy is a state the policy enters if premiums are discontinued after at least two full years of payment. The benefits like Sum Assured on Death and Income Benefit are reduced proportionally. No Loyalty Addition is payable for RPU policies."
+    },
+    {
+      "question": "Can a lapsed or RPU policy be revived?",
+      "answer": "Yes, a lapsed or RPU policy can be revived within a Revival Period of five consecutive years from the due date of the first unpaid premium, subject to company approval and payment of all due premiums with interest."
+    },
+    {
+      "question": "Am I eligible for a loan on this policy?",
+      "answer": "Yes, you can take a policy loan if the policy has acquired a Surrender Value. The minimum loan amount is Rs. 5,000 and the maximum is up to 80% of the Surrender Value."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life insured commits suicide within 12 months from the policy's start date or revival date, the death benefit is not paid. Instead, the nominee will receive a refund of premiums paid or the surrender value, whichever is higher, and the policy will terminate."
+    },
+    {
+      "question": "How do I file a claim?",
+      "answer": "You can intimate a claim online through the ABSLI website, via email, or by visiting the nearest ABSLI branch office. You will need to submit the required documents for processing."
+    },
+    {
+      "question": "What are the mandatory documents for a death claim?",
+      "answer": "The mandatory documents include the Claimant Statement Form, Death Certificate, original Policy Document, KYC of the beneficiary, proof of relationship, and bank details."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "The policy terminates on the earliest of: payment of free-look cancellation amount, payment of surrender value, settlement of death benefit, end of the benefit payout period, or end of the revival period for a lapsed policy."
+    },
+    {
+      "question": "Can I nominate someone to receive the policy benefits?",
+      "answer": "Yes, nomination is allowed as per Section 39 of the Insurance Act, 1938. You can nominate a person to receive the death benefit. If the nominee is a minor, an Appointee must be named."
+    },
+    {
+      "question": "Can I assign my policy to another person or entity?",
+      "answer": "Yes, assignment is allowed as per Section 38 of the Insurance Act, 1938. The policy can be transferred to another person or entity by making an endorsement on the policy or through a separate instrument."
+    },
+    {
+      "question": "What happens if the policy is on a minor's life?",
+      "answer": "For policies issued on a minor's life, the risk cover starts from the date of policy commencement. The policy will automatically vest in the life insured upon them attaining the age of 18 years."
+    },
+    {
+      "question": "What happens to the policy if the policyholder dies, but is different from the life insured?",
+      "answer": "If the policyholder dies and is different from the life insured, no death benefit is payable. The legal heirs of the deceased policyholder will be considered as the new policyholder."
+    },
+    {
+      "question": "Are the benefits under this plan guaranteed?",
+      "answer": "Yes, this is a non-participating plan and all terms & conditions, including benefits like the Sum Assured on Death and Income Benefit, are guaranteed throughout the policy term."
+    }
+  ],
+  "source_file": "Aditya_Birla_Sun_Life_Insurance_Secure_Plus_Plan_Policy_Contract_3f0979af48.txt",
+  "category": "LI Policy Bond Documents"
+}

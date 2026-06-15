@@ -1,0 +1,209 @@
+{
+  "product_name": "Axis Max Life Smart Term with Additional Returns ULIP",
+  "company": "Axis Max Life Insurance Limited",
+  "product_type": "Unit Linked",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual",
+  "summary": "A Unit Linked Non-Participating Individual Life Insurance Plan that provides life cover combined with market-linked investment returns. The policy offers two primary variants, 'Life Secure' and '3D Life Secure', and two sub-variants, 'Wealth' and 'Whole Life'. It provides a Death Benefit, a Maturity Benefit which is the fund value, and additional benefits like funding of future premiums on Critical Illness or Dismemberment under the '3D Life Secure' variant. The plan also includes features like Return of Charges, Guaranteed Loyalty Additions, and Guaranteed Wealth Boosters, subject to policy conditions.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document",
+    "maximum_age": "Not specified in the document",
+    "sum_insured": "Annualised Premium chosen at Date of Inception of Policy multiplied by the Cover Multiple.",
+    "policy_term": "As specified in the Policy Schedule. Can be increased or decreased once during the policy term after the lock-in period.",
+    "waiting_period": "A waiting period of 90 (Ninety) days in case of Critical Illness and Dismemberment benefit, starting from the Date of Commencement of Risk or Date of Issuance of Policy or date of Revival, whichever is later."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Insured during the policy term. The benefit amount and conditions differ based on the chosen variant ('Life Secure' or '3D Life Secure'). For 'Life Secure', it's the highest of Sum Assured, 105% of premiums paid, or fund value. For '3D Life Secure', it includes a lump sum, a monthly income for 10 years, and funding of future premiums."
+    },
+    {
+      "name": "Critical Illness and/or Dismemberment Benefit",
+      "description": "Applicable only for the '3D Life Secure Variant'. If the Life Insured suffers from a covered Critical Illness or Dismemberment, the company will fund all future outstanding premiums as and when they are due. The policy continues till the end of the policy term. A 90-day waiting period applies."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable if the Life Insured is alive on the maturity date and the policy is in force. The benefit is the Fund Value applicable on the Maturity Date. Under the 'Wealth Sub Variant', a return of applicable charges is also provided."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Return of Charges",
+      "description": "Applicable if all due premiums have been paid. It includes: Return of Mortality and Morbidity Charges (starting from the 16th policy year), Return of Premium Allocation Charges (at the end of years 10, 11, 12, 13), and Return of Policy Administration Charges (on maturity). This benefit is not applicable for surrendered, discontinued or paid-up policies."
+    },
+    {
+      "name": "Guaranteed Loyalty Additions",
+      "description": "Additional units credited to the Fund Value if the Life Insured is alive and all due premiums have been paid. They are credited during the last 5 policy years for the 'Wealth Sub Variant' and from Policy Year (80 years minus Age at entry + 1 year) for the 'Whole Life Sub-Variant'."
+    },
+    {
+      "name": "Guaranteed Wealth Booster",
+      "description": "Additional units (3% of total Fund Value) added to the Fund Value at the end of every 5th year, starting from the 20th policy year, provided the Life Insured is alive and all premiums are paid."
+    },
+    {
+      "name": "Cover Continuance Booster",
+      "description": "Additional units added to the Fund Value if it falls below certain thresholds, to help maintain the policy. This is available if the Life Insured is alive, the policy is in force, and all due premiums have been paid."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "The policyholder can choose to receive the maturity benefit in periodic instalments (annually, semi-annually, quarterly, or monthly) over a maximum period of 5 years from the maturity date."
+    }
+  ],
+  "eligibility": [
+    {
+      "name": "Minor Life Insured",
+      "description": "Risk coverage for minors starts from the Date of Commencement of Risk. When the minor Life Insured attains the age of majority, the policy automatically vests on them."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Benefit Non-Applicability",
+      "description": "Return of Charges, Guaranteed Loyalty Additions, and Guaranteed Wealth Boosters are not applicable or payable in case of a Surrendered, Discontinued, or reduced paid-up policy."
+    },
+    {
+      "name": "Rider Termination on Alteration",
+      "description": "If an alteration in the Policy Term or Premium Payment Term results in the rider term becoming higher than the policy term, the rider shall be terminated."
+    },
+    {
+      "name": "Withdrawal Restrictions",
+      "description": "Partial Withdrawals are not allowed during the period of discontinuance and the settlement period."
+    },
+    {
+      "name": "Switching Restrictions",
+      "description": "Switches between funds are not allowed during the period of discontinuance."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Submission",
+      "description": "Benefits under the policy are payable to the Claimant upon submission of satisfactory proof to the company. Once the benefits are paid, it constitutes a valid discharge of the company's liability."
+    },
+    {
+      "name": "Contact for Claims",
+      "description": "For claim-related services, you can contact the company at the provided address, customer helpline, or email."
+    },
+    {
+      "name": "Customer Helpline",
+      "description": "1860 120 5577"
+    },
+    {
+      "name": "Email",
+      "description": "service.helpdesk@maxlifeinsurance.com"
+    },
+    {
+      "name": "Corporate Office Address",
+      "description": "Axis Max Life Insurance Limited, Plot No. 90C, Sector 18, Udyog Vihar, Gurugram- 122015, Haryana, India"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a Free Look period of 30 days from the date you receive the policy document to review its terms and conditions. If you disagree with them, you can cancel the policy for a refund, subject to deductions for risk premium, stamp duty, and medical examination expenses."
+    },
+    {
+      "question": "What is the Lock-in Period?",
+      "answer": "The Lock-in Period is a period of 5 consecutive completed years from the Date of Commencement of Risk. During this period, policy proceeds cannot be paid out, except in the case of death or another covered contingency."
+    },
+    {
+      "question": "What happens if I stop paying premiums during the Lock-in Period?",
+      "answer": "If you discontinue premiums during the first 5 years, the risk cover ceases, and your Fund Value, after deducting applicable charges, is moved to the Discontinuance Policy Fund. You can revive the policy within the Revival Period. If not revived, the proceeds from the Discontinuance Policy Fund are paid out at the end of the Lock-in Period."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the Lock-in Period?",
+      "answer": "If you discontinue premiums after 5 years, your policy converts to a reduced Paid-Up Policy. You have the option to either revive the policy within the Revival Period or surrender it completely. If no option is chosen, the policy remains paid-up, and at the end of the Revival Period, the Fund Value is paid out and the policy terminates."
+    },
+    {
+      "question": "What is the Grace Period for premium payment?",
+      "answer": "The Grace Period is 15 days for monthly premium payments and 30 days for all other payment modes (quarterly, half-yearly, annually). The policy remains in-force during this period."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "No, you are not entitled to take loans under this policy."
+    },
+    {
+      "question": "What is a Partial Withdrawal?",
+      "answer": "After the 6th policy year, you can withdraw a part of your Fund Value. The minimum withdrawal amount is Rs. 5,000, and you can make up to 12 partial withdrawals in a policy year, subject to maintaining a minimum fund balance equal to two Annualised Premiums."
+    },
+    {
+      "question": "How does Partial Withdrawal affect the Death Benefit?",
+      "answer": "The Sum Assured on Death will be reduced by the sum of all partial withdrawals made during the two-year period immediately preceding the Life Insured's death."
+    },
+    {
+      "question": "What are Smart Withdrawals?",
+      "answer": "Smart Withdrawal is an option to systematically withdraw a pre-determined percentage of the Fund Value at regular intervals (monthly, quarterly, semi-annually, or annually). This can be opted for after 10 policy years or at the end of the premium payment term, whichever is later."
+    },
+    {
+      "question": "Can I switch my investments between different funds?",
+      "answer": "Yes, you can switch units from one fund to another at any time by giving a written request. There are no charges for switching."
+    },
+    {
+      "question": "What is Premium Redirection?",
+      "answer": "Premium Redirection allows you to change the allocation of your future renewal premiums into different available funds. There is no charge for premium redirection."
+    },
+    {
+      "question": "What is the Death Benefit under the '3D Life Secure Variant'?",
+      "answer": "The Death Benefit under this variant consists of three parts: 1) A lump sum benefit (higher of Sum Assured or 105% of premiums paid), 2) A monthly income benefit equal to 20% of the Annualised Premium for 10 years, and 3) Funding of all future outstanding premiums by the company. The policy continues, and the Fund Value is paid on maturity."
+    },
+    {
+      "question": "Is there a waiting period for the Critical Illness benefit?",
+      "answer": "Yes, there is a waiting period of 90 days from the Date of Commencement of Risk, Date of Issuance, or date of Revival (whichever is later) for the Critical Illness and Dismemberment benefit."
+    },
+    {
+      "question": "What happens when my policy matures?",
+      "answer": "On the maturity date, if the Life Insured is alive and the policy is in-force, the total Fund Value will be paid to you. You can also opt to receive this amount in instalments over 5 years using the Settlement Option."
+    },
+    {
+      "question": "What are Guaranteed Wealth Boosters?",
+      "answer": "Guaranteed Wealth Boosters are additional units, equivalent to 3% of the total Fund Value, that are added to your fund at the end of every 5th year, starting from the 20th policy year, provided the policy is in force and all premiums are paid."
+    },
+    {
+      "question": "What is the 'Return of Charges' benefit?",
+      "answer": "This benefit adds back a percentage of certain charges deducted from your policy, such as Mortality, Morbidity, Premium Allocation, and Policy Administration charges. This is applicable at specific policy milestones, provided all due premiums have been paid."
+    },
+    {
+      "question": "How long do I have to revive a discontinued policy?",
+      "answer": "The Revival Period is 3 consecutive years from the date of the first unpaid premium."
+    },
+    {
+      "question": "How do I revive my policy?",
+      "answer": "To revive your policy, you need to submit a written request, pay all overdue premiums, and provide evidence of insurability of the Life Insured as per the company's underwriting policy."
+    },
+    {
+      "question": "Can I change my Policy Term or Premium Payment Term?",
+      "answer": "Yes, after the Lock-in Period, you can increase or decrease the Policy Term or the Premium Payment Term once during the policy's duration, subject to the plan's boundary conditions."
+    },
+    {
+      "question": "What is the Discontinuance Policy Fund?",
+      "answer": "This is a segregated fund where the Fund Value of a policy is moved if premiums are discontinued during the Lock-in Period. It has a minimum guaranteed interest rate of 4% per annum."
+    },
+    {
+      "question": "What is a 'Paid-Up Policy'?",
+      "answer": "A policy becomes a 'Paid-Up Policy' if premiums are discontinued after the Lock-in Period. The policy continues with a reduced Sum Assured, called the Paid-Up Sum Assured, and full benefits like loyalty additions and wealth boosters cease."
+    },
+    {
+      "question": "What is the 'Self-Managed Portfolio Strategy'?",
+      "answer": "This is an investment strategy where you have the option to choose the allocation of your premium into any of the available funds and can use the Switch and Premium Redirection facilities."
+    },
+    {
+      "question": "What happens if the Policyholder dies but is not the Life Insured?",
+      "answer": "If the Policyholder and Life Insured are different, upon the death of the Policyholder, no benefit is payable. The legal heirs of the Policyholder may continue the policy by paying the due premiums."
+    },
+    {
+      "question": "How is the Net Asset Value (NAV) relevant to my policy?",
+      "answer": "The Net Asset Value or NAV is the per-unit price of a fund. When you pay a premium, it is used to buy units at the prevailing NAV. When benefits are paid out or charges are deducted, units are cancelled at the prevailing NAV."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "It is a charge levied by the company for managing the investment funds. It is calculated as a percentage of the Fund Value and is adjusted from the NAV on each valuation date."
+    },
+    {
+      "question": "Can I surrender my policy at any time?",
+      "answer": "Yes, you can surrender the policy at any time. If surrendered within the 5-year lock-in period, the fund value moves to a discontinuance fund and is paid after the lock-in period ends. If surrendered after 5 years, the fund value is paid out immediately."
+    },
+    {
+      "question": "What is the minimum amount for a Partial Withdrawal?",
+      "answer": "The minimum amount for a Partial Withdrawal is Rs. 5,000."
+    }
+  ],
+  "source_file": "Axis Max Smart Term with Additional Returns ULIP_PolicyDocument.txt",
+  "category": "LI Policy Bond Documents"
+}

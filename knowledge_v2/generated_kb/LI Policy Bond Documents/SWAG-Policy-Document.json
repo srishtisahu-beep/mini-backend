@@ -1,0 +1,217 @@
+{
+  "product_name": "Axis Max Life Smart Wealth Advantage Guarantee Plan - UIN: 104N124V14",
+  "company": "Axis Max Life Insurance Limited",
+  "product_type": "A Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A non-linked, non-participating individual life insurance savings plan offering guaranteed returns through various benefits like Survival, Maturity, and Death Benefits. It provides flexibility through five different policy variants (Wealth for Milestones, Regular Wealth, Long Term Wealth, Early Wealth, Lifelong Wealth) to cater to different financial goals, with options for single, limited, or regular premium payments.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Sum Assured on Death is calculated as follows: For Single Premium Payment Variant, it is a chosen Death Benefit Multiple (1.25 or 10) times the Single Premium. For Regular/Limited Premium Payment Variants, it is 11 times the Annualised Premium.",
+    "policy_term": "As specified in the Policy Schedule.",
+    "waiting_period": "90 days from the Date of Commencement of Risk. This is applicable only if the policy is sourced as a point of sale policy. It does not apply in case of death due to an accident."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "A lump sum guaranteed benefit paid to the nominee in case of the life insured's death during the policy term."
+    },
+    {
+      "name": "Additional Accidental Death Benefit",
+      "description": "An additional amount paid over and above the Death Benefit if the life insured's death is a result of an accident, subject to conditions."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Regular payouts in the form of Income Benefits, Loyalty Income Boosters, and Money Back Benefits, depending on the chosen policy variant, paid while the life insured is alive and the policy is in force."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "A lump sum amount paid to the policyholder if the life insured survives until the end of the policy term. The amount varies based on the chosen policy variant."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit",
+      "details": "For Regular/Limited Premium variants, the benefit is the highest of Sum Assured on Death, 105% of total premiums paid, or 125% of the surrender value. For Single Premium variant, it's the higher of Sum Assured on Death or 125% of the surrender value. Any accrued but unpaid Income Benefit/Loyalty Boosters are also paid."
+    },
+    {
+      "name": "Policy Continuance Benefit",
+      "details": "An optional benefit (for non-Single Premium variants) where, upon the death of the Life Insured, the death benefit is paid, and the policy continues with future premiums waived. The nominee receives all future Survival and Maturity benefits as scheduled."
+    },
+    {
+      "name": "Additional Accidental Death Benefit",
+      "details": "An additional 50% of the Sum Assured on Death (up to a maximum of Rs. 1 crore) is payable if the Life Insured dies due to an accident during the Additional Accidental Death Benefit Term (after the premium payment term)."
+    },
+    {
+      "name": "Maturity Benefit",
+      "details": "Varies by variant: 'Wealth For Milestones' & 'Early Wealth' pay Sum Assured on Maturity plus accrued Guaranteed Additions. 'Long Term Wealth' & 'Lifelong Wealth' pay back the Total Premiums Paid. 'Regular Wealth' has no maturity benefit."
+    },
+    {
+      "name": "Survival Benefits per Variant",
+      "details": "Regular Wealth: Income Benefit + 20% Loyalty Income Boosters. Long Term Wealth: Income Benefit + 40% Loyalty Income Boosters. Early Wealth: Income Benefit. Lifelong Wealth: Income Benefit + 40% Loyalty Income Boosters + Money Back Benefit at age 85."
+    },
+    {
+      "name": "Guaranteed Additions",
+      "details": "Applicable for 'Wealth For Milestones' and 'Early Wealth' variants. They accrue in the last four years of the policy or premium payment term respectively and are paid out at maturity."
+    },
+    {
+      "name": "Auto Debit Boosters",
+      "details": "A one-time payment of 1% of the premiums received through Auto Debit mode, paid at the end of the premium payment term if the policy is fully paid up."
+    },
+    {
+      "name": "Settlement Option",
+      "details": "Option to receive Death or Maturity benefits in installments (monthly or annually) over a period of 5 years instead of a lump sum."
+    }
+  ],
+  "eligibility": [
+    {
+      "name": "Policy Continuance Benefit",
+      "condition": "Can be opted for only at the Date of Commencement of Risk and only if the Policyholder and Life Insured are the same person. Not available for Single Premium and Lifelong Wealth variants."
+    },
+    {
+      "name": "Minor Life Insured",
+      "condition": "Risk coverage for minors starts from the Date of Commencement of Risk. The policy automatically vests in the Life Insured upon attaining the age of majority (18 years)."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "details": "If the Life Insured commits suicide, whether sane or insane, within 12 months from the date of commencement or revival of the policy, the beneficiary will receive the higher of the surrender value or the total premiums paid. No other death benefit is payable."
+    },
+    {
+      "name": "Waiting Period Exclusion (for Point of Sale policies)",
+      "details": "If the Life Insured dies within 90 days from the policy's commencement due to any reason other than an accident, the company will only refund 100% of the total premiums paid. The full death benefit will not be paid."
+    },
+    {
+      "name": "Additional Accidental Death Benefit Exclusions",
+      "details": "No benefit is payable if death is caused by intentional self-inflicted injury, suicide attempt, influence of drugs or alcohol, war or hostilities, participation in naval/military/air force operations, criminal acts, hazardous pursuits like mountaineering or bungee-jumping, or nuclear contamination."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Intimation",
+      "details": "The claimant must intimate the company about a claim at the earliest possible time. They can contact the customer helpdesk at 1860 120 5577 or email service.helpdesk@axismaxlife.com."
+    },
+    {
+      "name": "Documents for Death Claim",
+      "details": "Claimant’s statement, original policy document, certified copy of death certificate, police FIR and post-mortem report (for accidental/unnatural death), medical records, proof of identity and address of the claimant, and a copy of the bank passbook/cancelled cheque."
+    },
+    {
+      "name": "Documents for Maturity/Survival Benefit Claim",
+      "details": "NEFT Form and a cancelled cheque or copy of bank passbook with pre-printed name and account number, if not provided earlier."
+    },
+    {
+      "name": "Claim Process",
+      "details": "The company will process the claim and pay the benefits upon submission of all required documents and satisfaction that the benefits have become payable as per the policy terms and conditions."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Axis Max Life Smart Wealth Advantage Guarantee Plan?",
+      "answer": "It is a Non-Linked, Non-Participating Individual Life Insurance Savings Plan that provides guaranteed benefits in the form of survival, maturity, and death benefits."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a Free Look period of 30 days from the date of receiving the policy document to review its terms and conditions. If you disagree, you can return the policy for a refund, subject to deductions for risk premium, stamp duty, and medical expenses."
+    },
+    {
+      "question": "What are the different policy variants available under this plan?",
+      "answer": "There are five variants: Wealth for Milestones, Regular Wealth, Long Term Wealth, Early Wealth, and Lifelong Wealth."
+    },
+    {
+      "question": "What premium payment options are available?",
+      "answer": "You can choose from Single, Limited, or Regular Premium Payment variants. The frequency of payment can be annual, semi-annual, quarterly, or monthly."
+    },
+    {
+      "question": "Can I change my premium payment mode during the policy term?",
+      "answer": "Yes, you can change the premium payment mode by submitting a written request. The change will be effective from the next policy anniversary."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for annual, semi-annual, or quarterly modes."
+    },
+    {
+      "question": "What happens if the Life Insured dies during the grace period?",
+      "answer": "The insurance coverage continues during the grace period. If death occurs, the death benefit will be paid after deducting the due premium."
+    },
+    {
+      "question": "What is the Policy Continuance Benefit?",
+      "answer": "It's an optional benefit where, upon the policyholder's death, the death benefit is paid to the nominee, future premiums are waived, and the nominee continues to receive all future survival and maturity benefits as scheduled."
+    },
+    {
+      "question": "Is there an additional benefit for accidental death?",
+      "answer": "Yes, the Additional Accidental Sum Assured on Death, equal to 50% of the Sum Assured on Death (up to Rs. 1 crore), is payable if death occurs due to an accident after the premium payment term."
+    },
+    {
+      "question": "What is the waiting period for this policy?",
+      "answer": "For policies sourced as a point of sale policy, there is a 90-day waiting period from the start date. If death (other than by accident) occurs during this period, only 100% of the premiums paid will be refunded."
+    },
+    {
+      "question": "What is the maturity benefit for the 'Regular Wealth' variant?",
+      "answer": "There is no maturity benefit payable under the Regular Wealth variant."
+    },
+    {
+      "question": "How are Survival Benefits paid under the 'Long Term Wealth' variant?",
+      "answer": "The Long Term Wealth variant pays an Income Benefit plus Loyalty Income Boosters equivalent to 40% of the Income Benefit every year during the Income Benefit Period."
+    },
+    {
+      "question": "What are 'Guaranteed Additions'?",
+      "answer": "Guaranteed Additions are applicable to the 'Wealth For Milestones' and 'Early Wealth' variants. They accrue in the last four years and are paid along with the Sum Assured on Maturity on the maturity date."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can take a loan once the policy acquires a surrender value. The maximum loan amount is 80% of the surrender value."
+    },
+    {
+      "question": "When does the policy acquire a surrender value?",
+      "answer": "For Single Premium policies, it acquires surrender value immediately. For Limited/Regular Premium policies, it acquires a Guaranteed Surrender Value after payment of premiums for the first two full policy years."
+    },
+    {
+      "question": "What is the revival period for a lapsed policy?",
+      "answer": "You can revive a lapsed or paid-up policy within a Revival Period of 5 consecutive years from the due date of the first unpaid premium, subject to payment of all due premiums with interest and submission of health evidence."
+    },
+    {
+      "question": "What happens if a lapsed policy is not revived within the revival period?",
+      "answer": "If a lapsed policy (which has not acquired surrender value) is not revived within the revival period, it will terminate without any value."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life insured commits suicide within 12 months from the policy's start or revival date, the death benefit will not be paid. The company will only pay the higher of the surrender value or total premiums paid till death."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "Key documents include the claimant's statement form, original policy document, certified death certificate, medical records, and KYC documents of the claimant. For accidental death, an FIR and post-mortem report are also needed."
+    },
+    {
+      "question": "What is the 'Settlement Option'?",
+      "answer": "It gives you the flexibility to receive the Death Benefit or Maturity Benefit in regular monthly or annual installments over 5 years, instead of a single lump sum."
+    },
+    {
+      "question": "Can I choose to accrue my income benefits instead of receiving them?",
+      "answer": "Yes, you have an option to accrue the applicable Income Benefits and Loyalty Income Boosters. The accrued amount will earn interest at a rate linked to the RBI repo rate."
+    },
+    {
+      "question": "What is the 'Save the Date' option?",
+      "answer": "If you choose annual income payouts, this option allows you to receive the income on a specific date of your choice (like a birthday or anniversary) instead of the policy anniversary date."
+    },
+    {
+      "question": "What happens if I have provided an incorrect age?",
+      "answer": "If the age declared is found to be incorrect, the company may revise the premium and/or the benefits payable under the policy based on the correct age, as per Section 45 of the Insurance Act, 1938."
+    },
+    {
+      "question": "How can I get a duplicate policy document if I lose the original?",
+      "answer": "You can request a duplicate copy of the policy from the company. A charge not exceeding Rs. 250 may be applicable for issuing a duplicate policy."
+    },
+    {
+      "question": "Who should I contact for grievances?",
+      "answer": "You can first contact the customer helpdesk at 1860 120 5577 or email service.helpdesk@axismaxlife.com. If unresolved, you can escalate it to the Grievance Redressal Officer, IRDAI, or the Insurance Ombudsman."
+    },
+    {
+      "question": "Are there any exclusions for the Additional Accidental Death Benefit?",
+      "answer": "Yes, the benefit is not payable for death due to self-inflicted injuries, influence of alcohol/drugs, war, participation in criminal acts, or engaging in hazardous sports or pursuits."
+    }
+  ],
+  "source_file": "SWAG-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

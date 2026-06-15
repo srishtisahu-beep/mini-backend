@@ -1,0 +1,241 @@
+{
+  "product_name": "WEALTH GOAL",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "A Non linked, Non Participating, Individual, Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "Bajaj Life Guaranteed Wealth Goal is a non-linked, non-participating, individual life insurance savings product designed to help individuals achieve long-term financial goals like homeownership, children’s education, or retirement. It offers guaranteed benefits and systematic savings, along with life insurance cover to safeguard the family's future against unforeseen events.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "60 years",
+    "sum_insured": "Sum Assured on Death is calculated as Annualized Premium multiplied by the Sum Assured Multiple chosen at inception. Maximum Sum Assured on Death for POS channel is Rs. 25 lakhs. No limit for other channels as per Board Approved Underwriting Policy.",
+    "policy_term": "Varies by variant. Wealth Creation: 10 to 50 years. Assured Income: Premium Payment Term + Deferment Period. Second Income: Premium Payment Term + Deferment Period + Income Period. Maximum Policy Term for POS channel is 20 years.",
+    "waiting_period": "In case of death due to suicide within 12 months from the date of commencement of risk or the date of latest revival, the nominee shall receive the higher of 80% of Total Premiums Paid or the surrender value."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "The death benefit varies by the chosen variant and is payable in case of the life assured's unfortunate demise during the policy term."
+    },
+    {
+      "type": "Wealth Creation Variant Death Benefit",
+      "description": "In case of death during the Policy Term, the nominee receives the Sum Assured on Death as a lumpsum benefit."
+    },
+    {
+      "type": "Assured Income Variant Death Benefit",
+      "description": "In case of death during the Policy Term, the nominee receives Death Benefit Instalments annually over the chosen Income Period, plus a Return of Premium (ROP) on Death along with the last instalment. The nominee has an option to take this benefit as a lump sum."
+    },
+    {
+      "type": "Second Income Variant Death Benefit",
+      "description": "In case of death during the Policy Term, the nominee receives the Sum Assured on Death as a lumpsum benefit."
+    },
+    {
+      "type": "Guaranteed Death Benefit",
+      "description": "The total Death Benefit will not be less than 105% of the Total Premiums Paid up to the date of death or the Surrender Value available at that time, whichever is higher."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Benefits",
+      "description": "All benefits under the policy such as maturity and death benefits are guaranteed, provided the policy is in-force and all due premiums have been paid."
+    },
+    {
+      "name": "Life Insurance Cover",
+      "description": "Provides life cover for the financial security of your family throughout the policy term. For the Second Income variant, the life cover extends through the income period as well."
+    },
+    {
+      "name": "Flexibility of Variants",
+      "description": "Offers a choice of three plan variants to suit different financial needs: Wealth Creation, Assured Income, and Second Income."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available as per prevailing tax laws, such as under Section 10(10D) of the Income Tax Act. Consultation with a tax advisor is recommended."
+    },
+    {
+      "name": "Maturity Benefit (Wealth Creation)",
+      "description": "At the end of the policy term, a lumpsum is paid, which includes the Guaranteed Maturity Benefit (GMB) and Accrued Guaranteed Additions."
+    },
+    {
+      "name": "Income Benefit (Assured/Second Income)",
+      "description": "Provides regular guaranteed payouts as income instalments during the chosen Income Period, consisting of Base Income and Accrued Income Boosters."
+    },
+    {
+      "name": "Return of Premium (ROP) Option",
+      "description": "Under Assured and Second Income variants, there is an option to receive a Return of Premium benefit (a multiple of 50% to 300% of total premiums paid) at the end of the Income Period."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "A loan facility is available for up to 80% of the surrender value, provided the policy has acquired a surrender value."
+    },
+    {
+      "name": "Enhanced Benefits for Female Lives",
+      "description": "An age set-back of 3 years is applied for female lives for calculation purposes, which may result in enhanced benefits."
+    }
+  ],
+  "eligibility": [
+    {
+      "parameter": "Age at Entry (Minimum)",
+      "value": "0 years (Varies by variant, PPT, and Sum Assured Multiple)"
+    },
+    {
+      "parameter": "Age at Entry (Maximum)",
+      "value": "60 years (Varies by variant, PPT, and Sum Assured Multiple)"
+    },
+    {
+      "parameter": "Age at Maturity (Minimum)",
+      "value": "18 years (20 for Second Income variant)"
+    },
+    {
+      "parameter": "Age at Maturity (Maximum)",
+      "value": "99 years (77 for Assured Income variant)"
+    },
+    {
+      "parameter": "Minimum Premium",
+      "value": "Wealth Creation: Rs. 12,000 p.a. Assured/Second Income: Rs. 18,000 p.a."
+    },
+    {
+      "parameter": "Maximum Premium",
+      "value": "No limit, as per Board Approved Underwriting Policy"
+    },
+    {
+      "parameter": "Premium Payment Frequencies",
+      "value": "Yearly, Half-yearly, Quarterly, and Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "If the life assured commits suicide within 12 months from the date of commencement of risk or the date of latest revival of the policy, the nominee shall be entitled to receive the higher of 80% of the Total Premiums Paid or the surrender value as on the date of death, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact for Claims/Grievances",
+      "details": "Contact the Grievance Officer at any nearest Customer Care Centre at a Branch Office."
+    },
+    {
+      "type": "Postal Address",
+      "details": "Customer Care Desk, Bajaj Life Insurance Ltd., Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006"
+    },
+    {
+      "type": "Phone",
+      "details": "Customer Care Number – 020 6712 1212"
+    },
+    {
+      "type": "Email",
+      "details": "customercare@bajajlife.com"
+    },
+    {
+      "type": "Grievance Redressal Officer Email",
+      "details": "gro@bajajlife.com"
+    },
+    {
+      "type": "Online Grievance Portal",
+      "details": "https://bit.ly/3YdvtCr"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Bajaj Life Guaranteed Wealth Goal?",
+      "answer": "It is a non-linked, non-participating, individual life insurance savings plan from Bajaj Life Insurance, designed to help you achieve long-term goals with guaranteed benefits and life cover."
+    },
+    {
+      "question": "What are the key features of this plan?",
+      "answer": "Key features include 100% guaranteed returns, life insurance cover for the entire policy term, flexibility to choose from three plan variants, and tax benefits as per applicable laws."
+    },
+    {
+      "question": "What are the different variants available?",
+      "answer": "The plan offers three variants: 1. Wealth Creation, which provides a lump sum at maturity; 2. Assured Income, which provides regular income post policy term; and 3. Second Income, which provides regular income and life cover during the income period."
+    },
+    {
+      "question": "How does the 'Wealth Creation' variant work?",
+      "answer": "You pay premiums for a chosen period and receive a guaranteed lumpsum benefit, consisting of the Guaranteed Maturity Benefit (GMB) and Accrued Guaranteed Additions, at the end of the policy term."
+    },
+    {
+      "question": "Can you explain the 'Assured Income' variant?",
+      "answer": "In this variant, you pay premiums for a set term, and after a deferment period, you receive regular guaranteed income for a chosen income period. You also get a Return of Premium (ROP) benefit at the end of the income period."
+    },
+    {
+      "question": "What is the 'Second Income' variant?",
+      "answer": "This variant helps generate a second source of guaranteed income. After paying premiums and a deferment period, you receive guaranteed income for a chosen period. It also offers an option for a Return of Premium (ROP) benefit and provides life cover throughout the policy term, including the income period."
+    },
+    {
+      "question": "What is the death benefit if the life assured passes away?",
+      "answer": "The death benefit varies by variant. For 'Wealth Creation' and 'Second Income', it is a lump sum Sum Assured on Death. For 'Assured Income', it is paid as regular instalments over the chosen income period, along with a Return of Premium on Death."
+    },
+    {
+      "question": "Are the benefits under this plan guaranteed?",
+      "answer": "Yes, all the benefits under the plan are guaranteed, provided the policy is in-force and all due premiums have been paid."
+    },
+    {
+      "question": "Are there any tax benefits?",
+      "answer": "Yes, tax benefits may be applicable as per the prevailing Section 10(10D) of the Income Tax Act, subject to amendments. It is advisable to consult a tax consultant."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this policy?",
+      "answer": "The minimum entry age is 0 years and the maximum is 60 years, but it varies depending on the plan variant, premium payment term, and sum assured multiple chosen."
+    },
+    {
+      "question": "What is the minimum premium amount?",
+      "answer": "The minimum annual premium is Rs. 12,000 for the Wealth Creation variant and Rs. 18,000 for the Assured Income and Second Income variants."
+    },
+    {
+      "question": "What premium payment frequencies are available?",
+      "answer": "You can pay premiums yearly, half-yearly, quarterly, or monthly. Half-yearly, quarterly, and monthly modes are allowed only through an auto-debit process."
+    },
+    {
+      "question": "Can I combine different variants in one policy?",
+      "answer": "Yes, you can choose one or more variants, subject to conditions like a minimum premium of Rs. 30,000 and the same premium payment term (PPT) and policy term (PT) for each variant in the combination. Assured Income and Second Income variants cannot be chosen together."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 30 days (for non-monthly modes) or 15 days (for monthly mode) is provided. If premiums are not paid after the grace period and the policy has acquired a surrender value, it will be converted to a paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within five years from the due date of the first unpaid premium, subject to payment of arrears with interest and satisfactory evidence of health."
+    },
+    {
+      "question": "Is there a loan facility available?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a policy loan up to a maximum of 80% of the available surrender value."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You get a free-look period of 30 days from the date of receipt of the policy document to review the terms and conditions and return the policy if you disagree with them."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life assured dies by suicide within 12 months from the policy's start or revival date, the nominee is entitled to receive the higher of 80% of total premiums paid or the surrender value."
+    },
+    {
+      "question": "Are optional riders available with this plan?",
+      "answer": "Yes, you can add optional riders for extra coverage at a nominal cost. Available riders include Bajaj Life Family Protect Rider, Accidental Death Benefit Rider, and New Critical Illness Benefit Rider, among others."
+    },
+    {
+      "question": "What is a 'Deferment Period' in the Assured and Second Income variants?",
+      "answer": "The Deferment Period is the time between the end of your premium payment term and the start of your income period."
+    },
+    {
+      "question": "How does the Return of Premium (ROP) benefit work?",
+      "answer": "In the 'Assured Income' and 'Second Income' variants, you can opt for the ROP benefit, which is a multiple (from 50% to 300%) of the total premiums paid, payable at the end of the Income Period."
+    },
+    {
+      "question": "What are 'Guaranteed Additions' and 'Income Boosters'?",
+      "answer": "Guaranteed Additions (in Wealth Creation variant) and Income Boosters (in Assured/Second Income variants) accrue from the end of the second policy year. They are calculated as a percentage of total premiums paid and enhance the final benefit payouts."
+    },
+    {
+      "question": "Can I choose a specific date to receive my income?",
+      "answer": "Yes, under the Assured and Second Income variants, you have the option to receive the income instalments on a special date of your choice, like a birthday or anniversary."
+    },
+    {
+      "question": "What are the specific rules for policies sold through the POS channel?",
+      "answer": "For POS policies, the maximum entry age is 55, maximum maturity age is 65, maximum policy term is 20 years, and the maximum Sum Assured on Death is Rs. 25 lakhs. No medical underwriting is required, and riders are not applicable."
+    },
+    {
+      "question": "Are there any special benefits for female policyholders?",
+      "answer": "Yes, for female lives, an age set-back of 3 years is applicable for the calculation of Sum Assured Multiple, Base Income, or Guaranteed Maturity Benefit, which can result in enhanced benefits."
+    }
+  ],
+  "source_file": "guaranteed-wealth-goal-sl.txt",
+  "category": "LI Plan Brochure"
+}

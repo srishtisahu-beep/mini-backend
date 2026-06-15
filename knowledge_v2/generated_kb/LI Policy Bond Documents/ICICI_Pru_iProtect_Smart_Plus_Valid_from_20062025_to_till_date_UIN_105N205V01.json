@@ -1,0 +1,229 @@
+{
+  "product_name": "ICICI Pru iProtect Smart Plus",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "A Non-Participating Non-Linked Life Individual pure risk insurance product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Pure Risk",
+  "summary": "ICICI Pru iProtect Smart Plus is a non-participating, non-linked life insurance product offering pure risk cover. It comes in three variants: Life, Life Plus, and Life Rebalancing. The policy provides a death benefit to the claimant upon the death of the life assured during the policy term. The Life Plus and Life Rebalancing variants offer an additional Accidental Death Benefit. The policy includes features like Terminal Illness Benefit, Life Stage Protection to increase sum assured at key life milestones, a Premium Break option, and a Smart Exit Benefit. Various premium payment options (Single, Limited, Regular Pay) and death benefit payout options (Lump Sum, Income, etc.) are available.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "The amount chosen by the policyholder at policy inception. An accelerated death benefit feature (Insta Payment) is applicable for policies where the Sum Assured is greater than or equal to ₹1,00,00,000.",
+    "policy_term": "The period between the Policy Acceptance Date and the Date of Maturity specified in the Policy Schedule.",
+    "waiting_period": "For policies sourced through POS, there is a 90-day waiting period from the Date of Commencement of Risk for death benefit, except for death due to an Accident."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the Policy Term, provided the policy is in-force. The amount depends on the premium payment option. For Regular/Limited Pay, it's the higher of 7 times Annualized Premium, 105% of Total Premiums Paid, or Sum Assured on Death. For Single Pay, it's the higher of 125% of Single Premium or Sum Assured on Death."
+    },
+    {
+      "name": "Accidental Death (AD) Benefit",
+      "description": "An additional benefit payable in lump sum if death occurs due to an accident. Available under 'Life Plus' and 'Life Rebalancing' variants. For 'Life Plus', it's applicable throughout the policy term. For 'Life Rebalancing', it's applicable only during the first 10 years of the policy term. The death must occur within 180 days of the accident."
+    },
+    {
+      "name": "Terminal Illness Benefit",
+      "description": "An accelerated payment of the Death Benefit if the Life Assured is diagnosed with a Terminal Illness. A Terminal Illness is a condition likely to lead to death within 6 months, as certified by two independent Medical Practitioners. This is not an additional benefit. On payment, the policy terminates."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Variants",
+      "description": "The policy offers three variants: Life (standard death benefit), Life Plus (death benefit plus accidental death benefit), and Life Rebalancing (Sum Assured on Death and Accidental Death Benefit Sum Assured change over the policy term)."
+    },
+    {
+      "name": "Life Stage Protection",
+      "description": "Allows the policyholder to increase the Sum Assured on key life events like marriage, childbirth/adoption, or home loan disbursement. This feature is available for 'Life' and 'Life Plus' variants with Regular Pay option. Certain conditions apply, such as the Life Assured being under 50 years of age."
+    },
+    {
+      "name": "Death Benefit Payout Options",
+      "description": "Available for 'Life' and 'Life Plus' variants. Options include: Lump Sum, Income (10% of death benefit paid annually for 10 years), Lump sum and Income (a combination), and Increasing Income (monthly instalments increasing by 10% simple interest annually for 10 years)."
+    },
+    {
+      "name": "Smart Exit Benefit",
+      "description": "An option to cancel the policy and receive a benefit equal to the Total Premiums Paid. This can be exercised only after the 25th policy year but not during the last 5 policy years, and the Life Assured must be 60 years or older."
+    },
+    {
+      "name": "Premium Break",
+      "description": "Allows policyholders to take a 12-month break from paying premiums. Available for Limited and Regular Pay policies after a minimum of five policy years' premiums have been paid. Can be availed multiple times with a gap of at least 5 years between breaks."
+    },
+    {
+      "name": "Insta Payment on claim Intimation",
+      "description": "An accelerated Death Benefit of ₹3,00,000 processed within one working day from claim registration. Applicable for policies with a Sum Assured of ₹1 Crore or more, and not applicable for death in the first three policy years."
+    }
+  ],
+  "eligibility": [
+    {
+      "condition": "Life Stage Protection",
+      "details": "Available only for Life or Life Plus plan variants with Regular Pay option. Life Assured must be less than 50 years of age at the time of the event. Minimum 5 years of policy term must be remaining."
+    },
+    {
+      "condition": "Premium Break",
+      "details": "Policy must be In-force and premiums must have been paid for a minimum of five Policy Years. Available for Limited and Regular Pay options. Not available during the last 3 Policy Years of the Premium Payment Term."
+    },
+    {
+      "condition": "Smart Exit Benefit",
+      "details": "Can be exercised only after the 25th policy year but not during the last 5 Policy Years. The age of the Life Assured must be 60 years or more. Policy must be in-force."
+    },
+    {
+      "condition": "Change of Premium Payment Term",
+      "details": "Applicable only for a Regular Pay Policy. Option to convert to a Limited Pay Policy is available after three full Policy Years’ Premiums have been paid."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Waiting Period for Death Benefit (POS policies)",
+      "description": "If the death of the Life Assured (not due to an accident) occurs during the first 90 days from the Date of Commencement of Risk for policies sourced through POS, no Death Benefit is payable. Instead, all premiums paid will be refunded."
+    },
+    {
+      "type": "Suicide Clause",
+      "description": "If the Life Assured commits suicide within 12 months from the date of commencement of risk or date of revival, the company will pay the higher of 80% of total premiums paid or the unexpired risk premium value. The policy will then terminate."
+    },
+    {
+      "type": "Accidental Death Benefit Exclusions",
+      "description": "The Accidental Death Benefit is not payable for death caused by: Suicide or intentional self-inflicted injury, congenital diseases, war or military operations, breach of law, alcohol or drug abuse (unless prescribed), participation in non-commercial flying activities, engaging in hazardous sports or speed contests, and nuclear, chemical or biological attacks."
+    },
+    {
+      "type": "General",
+      "description": "If the Life Assured dies on the Date of Maturity, the Death Benefit is not payable. The policy terminates on the Date of Maturity."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "details": "The claimant must intimate the company about the death of the Life Assured."
+    },
+    {
+      "process_step": "Document Submission",
+      "details": "The claimant needs to submit required documents like the Claimant Statement Form, Death Certificate, claimant's ID and address proof, and bank details. Additional documents are required based on the cause of death (unnatural or natural)."
+    },
+    {
+      "process_step": "Documents for Unnatural Death",
+      "details": "For death due to accidents, murder, suicide, etc., documents like FIR, Post Mortem Report, Inquest Report, and Final Police Investigation Report are required."
+    },
+    {
+      "process_step": "Documents for Natural Death",
+      "details": "For death due to medical causes, documents like Medical Cause of Death Certificate, past medical records, hospitalization records, and Treating Doctor Certificate are required."
+    },
+    {
+      "process_step": "Insta Payment",
+      "details": "For eligible policies (Sum Assured >= 1 Crore), an accelerated payment of ₹3,00,000 may be processed within one working day of claim registration, subject to conditions. This is part of the total death benefit and not an additional amount."
+    },
+    {
+      "process_step": "Claim Settlement",
+      "details": "Upon satisfactory evaluation of the submitted documents, the company will pay the remaining claim amount to the claimant. Claim payments are made only in Indian currency."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ICICI Pru iProtect Smart Plus policy?",
+      "answer": "It is a Non-Participating, Non-Linked, Individual pure risk life insurance product that provides a financial benefit to the claimant upon the death of the Life Assured during the policy term."
+    },
+    {
+      "question": "What are the different plan variants available under this policy?",
+      "answer": "There are three plan variants: Life, Life Plus, and Life Rebalancing. The plan variant must be chosen at inception and cannot be changed later."
+    },
+    {
+      "question": "What is the difference between the 'Life' and 'Life Plus' plan variants?",
+      "answer": "The 'Life' variant provides a Death Benefit. The 'Life Plus' variant provides the Death Benefit and an additional Accidental Death Benefit if the death is due to an accident."
+    },
+    {
+      "question": "How does the 'Life Rebalancing' plan variant work?",
+      "answer": "Under this variant, the Sum Assured on Death and the Accidental Death Benefit Sum Assured change each policy year. The Sum Assured on Death increases annually, while the Accidental Death Benefit Sum Assured decreases. From the 11th year onwards, no Accidental Death Benefit is payable."
+    },
+    {
+      "question": "What is the 'Terminal Illness Benefit'?",
+      "answer": "If the Life Assured is diagnosed with a terminal illness (a condition likely to lead to death within 6 months), the Death Benefit is paid out in advance. This is not an additional benefit, and the policy terminates upon payment."
+    },
+    {
+      "question": "Can I increase my life cover after purchasing the policy?",
+      "answer": "Yes, under the 'Life Stage Protection' feature (available for Life and Life Plus variants with Regular Pay), you can increase your Sum Assured at key milestones like marriage, childbirth, or taking a home loan, subject to certain conditions."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period is provided to pay the due premium. It is 15 days for monthly mode and 30 days for other modes. The policy cover continues during the grace period. If the premium is not paid within the grace period, the policy will lapse."
+    },
+    {
+      "question": "What is the 'Premium Break' feature?",
+      "answer": "It allows you to take a 12-month break from paying premiums after having paid for at least five policy years. The insurance cover continues during this period, but any claim amount will be paid after deducting the deferred premium."
+    },
+    {
+      "question": "What are the payout options for the Death Benefit?",
+      "answer": "For Life and Life Plus variants, you can choose from four options at policy inception: a single Lump Sum, a regular Income for 10 years, a combination of Lump Sum and Income, or an Increasing Income for 10 years."
+    },
+    {
+      "question": "Is there any waiting period for this policy?",
+      "answer": "Yes, for policies sourced through a Point of Sales (POS), there is a 90-day waiting period from the start of the policy. If death (not due to an accident) occurs during this period, the death benefit is not paid, and premiums are refunded."
+    },
+    {
+      "question": "What happens if the Life Assured commits suicide?",
+      "answer": "If suicide occurs within 12 months of the policy's commencement or revival, the company will pay the higher of 80% of total premiums paid or the unexpired risk premium value, and the policy will terminate."
+    },
+    {
+      "question": "Are there any exclusions for the Accidental Death Benefit?",
+      "answer": "Yes, the Accidental Death Benefit is not payable for deaths due to suicide, war, breach of law, alcohol/drug abuse, participation in hazardous sports or specific flying activities, among others."
+    },
+    {
+      "question": "What is the 'Smart Exit Benefit'?",
+      "answer": "This option allows you to cancel the policy and receive a benefit equal to the Total Premiums Paid. It can be exercised only after the 25th policy year (but not in the last 5 years) and if the Life Assured is 60 years or older."
+    },
+    {
+      "question": "Can I take a loan against my ICICI Pru iProtect Smart Plus policy?",
+      "answer": "No, the policy document states that the company will not provide loans under this policy."
+    },
+    {
+      "question": "What is the procedure to revive a lapsed policy?",
+      "answer": "A lapsed policy can be revived within 5 years from the due date of the first unpaid premium. You need to submit an application, provide satisfactory evidence of health, and pay all overdue premiums along with interest, subject to the company's underwriting policy."
+    },
+    {
+      "question": "What is the 'Free Look Period'?",
+      "answer": "You have a period of 30 days from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation and receive a refund of the premium paid, subject to certain deductions."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "Basic documents include the claimant statement, death certificate, and claimant's ID/address/bank proofs. Additional documents like an FIR and Post Mortem Report are needed for unnatural deaths, while medical records are required for natural deaths."
+    },
+    {
+      "question": "What does 'Accident' mean in the policy document?",
+      "answer": "An 'Accident' is defined as a sudden, unforeseen, and involuntary event caused by external, visible, and violent means."
+    },
+    {
+      "question": "What are the different premium payment frequencies available?",
+      "answer": "You can pay premiums Yearly, Half-yearly, or Monthly. The half-yearly and monthly modes have a loading of 2% and 5% of the premium, respectively."
+    },
+    {
+      "question": "Can I change my premium payment term from Regular Pay to Limited Pay?",
+      "answer": "Yes, if you have a Regular Pay policy, you can opt to convert it to a Limited Pay policy after three full policy years' premiums have been paid, subject to conditions."
+    },
+    {
+      "question": "What happens on the maturity of the policy?",
+      "answer": "This is a pure risk insurance product, so no benefit is payable on the survival of the Life Assured till the Date of Maturity. The policy terminates on the maturity date."
+    },
+    {
+      "question": "How long must the death occur after an accident for the Accidental Death Benefit to be payable?",
+      "answer": "The death of the Life Assured must occur within 180 days of the occurrence of the accident for the Accidental Death Benefit to be payable."
+    },
+    {
+      "question": "Is the Terminal Illness benefit available for policies sourced through POS personnel?",
+      "answer": "No, the document states that the Terminal Illness Benefit will not be available in case the policy is sourced through POS personnel."
+    },
+    {
+      "question": "What is the 'Insta Payment on claim Intimation' feature?",
+      "answer": "It is an accelerated Death Benefit of ₹3,00,000 processed within one working day for eligible policies (Sum Assured >= ₹1 Crore). This is subject to certain conditions, such as death not occurring in the first three policy years."
+    },
+    {
+      "question": "Can the claimant choose to receive the future income payouts as a lump sum?",
+      "answer": "Yes, if the death benefit is being paid as monthly income, the claimant has the option at any time to convert the outstanding monthly income into a lump sum payout. The lump sum will be the present value of future payouts calculated at a specified discount rate."
+    },
+    {
+      "question": "What happens if my age was declared incorrectly in the proposal form?",
+      "answer": "If it is found that the age of the Life Assured as declared is different from the actual age, the Company reserves the right to cancel the Policy."
+    },
+    {
+      "question": "How can I contact ICICI Prudential for grievances?",
+      "answer": "You can contact the Grievance Redressal Officer (GRO) at gro@iciciprulife.com. If unsatisfied, you can escalate to the internal grievance redressal committee, and then to the IRDAI or the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "ICICI_Pru_iProtect_Smart_Plus_Valid_from_20062025_to_till_date_UIN_105N205V01.txt",
+  "category": "LI Policy Bond Documents"
+}

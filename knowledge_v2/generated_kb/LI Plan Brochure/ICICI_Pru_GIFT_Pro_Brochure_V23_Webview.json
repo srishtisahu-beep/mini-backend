@@ -1,0 +1,186 @@
+{
+  "product_name": "ICICI Pru GIFT Pro",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Guaranteed Income Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "A savings plan that guarantees income to help meet your short-term or long-term goals, along with life cover for your family’s financial security. It offers the flexibility to choose between level or increasing income, along with moneyback benefit flexibility and life cover, tailored to your specific goals.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Example: Life cover of ₹10,70,000 during the 11-year policy term for an annual premium of ₹1,00,000.",
+    "policy_term": "Example: 11 years.",
+    "waiting_period": ""
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Paid as a lump sum to the nominee if the policyholder passes away during the policy term."
+    },
+    {
+      "name": "Guaranteed Income",
+      "description": "Provides a guaranteed income for a chosen period. Options include level income (constant amount) or increasing income (grows by 5% simple interest annually)."
+    },
+    {
+      "name": "MoneyBack Benefit",
+      "description": "A lump sum benefit, ranging from 0% to 100% of total premiums payable, which can be received at policy maturity or at the end of any policy year during the income period."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On policy term completion, the maturity benefit is paid as a paid-up Guaranteed Income (GI) for an income period selected at inception. An additional lump sum may also be receivable at the end of the income period."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexible Income Options",
+      "description": "Choose between 'Level Income' which remains constant, or 'Increasing Income' which increases by 5% annually (Simple Interest)."
+    },
+    {
+      "name": "MoneyBack Benefit Flexibility",
+      "description": "Select a MoneyBack Benefit percentage from 0% to 100% of the total premiums payable. This choice affects the amount of your guaranteed income."
+    },
+    {
+      "name": "Flexible Payout Timing",
+      "description": "Flexibility to receive income on any date of the year and choose to receive it yearly or monthly."
+    },
+    {
+      "name": "Loan Against Policy",
+      "description": "A policy loan is available for up to 80% of the surrender value after the policy has acquired a surrender value."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax savings available on premiums paid under Section 80C and on returns received under Section 10(10D) of the Income Tax Act, 1961, subject to conditions and applicable tax laws."
+    },
+    {
+      "name": "Low Cover Income Booster",
+      "description": "Option to get additional income by opting for a lower life cover."
+    },
+    {
+      "name": "Higher Premium Benefit",
+      "description": "An additional Guaranteed Income rate is awarded based on the annualized premium."
+    },
+    {
+      "name": "Rider Options",
+      "description": "Enhance protection with optional riders like Waiver Of Premium Rider and Accidental Death and Disability Rider."
+    },
+    {
+      "name": "Policy Revival",
+      "description": "A lapsed policy can be revived within five years from the due date of the first unpaid premium, upon payment of all dues with interest."
+    }
+  ],
+  "eligibility": [],
+  "exclusions": [
+    "The product brochure is indicative of the terms, conditions, warranties, and exceptions contained in the insurance policy. For specific details on exclusions, please refer to the policy document, as its terms and conditions shall prevail."
+  ],
+  "claims_information": [
+    "The claim settlement ratio for ICICI Prudential Life Insurance for FY 2024 was 99.3%. For claims procedures and details, please refer to the policy document or contact the company at 1800 2660."
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru GIFT Pro?",
+      "answer": "It is a savings plan that provides guaranteed income to help meet your goals, along with life cover for your family’s financial security."
+    },
+    {
+      "question": "What are the income options available with this plan?",
+      "answer": "You can choose between 'Level Income', which remains constant throughout the payout period, or 'Increasing Income', which increases by 5% simple interest every year."
+    },
+    {
+      "question": "Can you provide an example of the 'Level Income' option?",
+      "answer": "In an illustration, a 35-year-old paying ₹1,00,000 per year for 10 years receives a guaranteed annual income of ₹87,510 for 30 years, plus an additional lump sum of ₹10,00,000 in the 41st year."
+    },
+    {
+      "question": "Can you provide an example of the 'Increasing Income' option?",
+      "answer": "In an illustration, a 35-year-old paying ₹1,00,000 per year for 10 years starts receiving a guaranteed income of ₹63,970 per year, which increases by 5% annually for 30 years. He also receives a lump sum of ₹10,00,000 in the 41st year."
+    },
+    {
+      "question": "Can I receive my income on a monthly basis?",
+      "answer": "Yes, you have the flexibility to receive your income monthly instead of yearly. For example, an annual income of ₹87,510 could be received as ₹7,001 every month."
+    },
+    {
+      "question": "What is the MoneyBack Benefit?",
+      "answer": "The MoneyBack Benefit allows you to receive a percentage (from 0% to 100%) of the total premiums you paid as a lump sum."
+    },
+    {
+      "question": "How does choosing a MoneyBack Benefit percentage affect my income?",
+      "answer": "Your annual income changes based on the MoneyBack Benefit percentage you select. For instance, with a 0% MoneyBack Benefit, the annual income is higher (₹96,410 in the example) compared to a 100% MoneyBack Benefit (₹87,510 in the example)."
+    },
+    {
+      "question": "When can I receive the MoneyBack Benefit?",
+      "answer": "You can choose to receive the MoneyBack Benefit when your policy matures or at the end of any policy year during the income period."
+    },
+    {
+      "question": "Does this plan include life cover?",
+      "answer": "Yes, the plan provides life cover for your family's financial security throughout the policy term."
+    },
+    {
+      "question": "What is the life cover amount in the provided examples?",
+      "answer": "In the illustrations, for a premium of ₹1,00,000 per year, the life cover provided during the 11-year policy term is ₹10,70,000."
+    },
+    {
+      "question": "What happens if the policyholder passes away during the policy term?",
+      "answer": "In case of the policyholder's death during the policy term, a lump sum Death Benefit is paid to the nominee."
+    },
+    {
+      "question": "What is the 'Low Cover Income Booster' feature?",
+      "answer": "This feature allows you to get additional guaranteed income by opting for a lower amount of life cover."
+    },
+    {
+      "question": "Are there any tax benefits associated with ICICI Pru GIFT Pro?",
+      "answer": "Yes, you can avail tax benefits on premiums paid under Section 80C and on returns received under Section 10(10D) of the Income Tax Act, 1961, subject to applicable conditions and laws."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, a policy loan is available for up to 80% of the policy's surrender value, provided the policy has acquired a surrender value."
+    },
+    {
+      "question": "Is it possible to surrender the policy?",
+      "answer": "Yes, if you are unable to continue, a surrender value is payable after two full years of premium payment."
+    },
+    {
+      "question": "What if I miss paying a premium? Can the policy be revived?",
+      "answer": "Yes, the policy can be revived within five years from the due date of the first unpaid premium, upon payment of all outstanding dues with interest."
+    },
+    {
+      "question": "Are there any optional riders available with this plan?",
+      "answer": "Yes, you can enhance your protection with additional riders like the Waiver Of Premium Rider and the Accidental Death and Disability Rider."
+    },
+    {
+      "question": "What does the Waiver Of Premium Rider do?",
+      "answer": "In case of an unfortunate event (as defined in the rider terms), the future premiums will be waived, and the policy benefits will continue as planned."
+    },
+    {
+      "question": "What is the benefit of the Accidental Death and Disability Rider?",
+      "answer": "In case of accidental death or disability, up to three times the base coverage is paid extra to your family."
+    },
+    {
+      "question": "What is the policy term mentioned in the plan illustrations?",
+      "answer": "The illustrations in the brochure show a policy term of 11 years, with a premium payment term of 10 years."
+    },
+    {
+      "question": "What is the income period mentioned in the illustrations?",
+      "answer": "The illustrations show a guaranteed income being paid for a period of 30 years after the policy term."
+    },
+    {
+      "question": "What is the 'Higher Premium Benefit'?",
+      "answer": "An additional Guaranteed Income rate is awarded if your annualized premium is high, enhancing your returns."
+    },
+    {
+      "question": "Can I choose the specific date on which I receive my income payouts?",
+      "answer": "Yes, the product features mention the flexibility to receive income on any date you choose."
+    },
+    {
+      "question": "What happens at the end of the income period in the illustrations?",
+      "answer": "In the illustrations, an additional lump sum of ₹10,00,000 is received in the 41st year, which is at the end of the 30-year income period."
+    },
+    {
+      "question": "What should I do if the information in this brochure conflicts with the policy document?",
+      "answer": "In the event of a conflict between the brochure and the policy document, the terms and conditions contained in the policy document shall prevail."
+    },
+    {
+      "question": "What is the UIN of ICICI Pru GIFT Pro?",
+      "answer": "The UIN (Unique Identification Number) for this product is 105N201V05."
+    }
+  ],
+  "source_file": "ICICI_Pru_GIFT_Pro_Brochure_V23_Webview.txt",
+  "category": "LI Plan Brochure"
+}

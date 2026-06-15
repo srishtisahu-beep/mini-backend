@@ -1,0 +1,236 @@
+{
+  "product_name": "Aditya Birla Sun Life Insurance Nishchit Aayush Plan",
+  "company": "Aditya Birla Sun Life Insurance",
+  "product_type": "A Non-Linked, Non-Participating, Individual Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "ABSLI Nishchit Aayush Plan is a non-linked, non-participating individual savings life insurance plan that provides life insurance cover with guaranteed regular income and lumpsum benefits. It is designed to help individuals fulfill their financial goals and secure their family's future by providing a reliable stream of income and protection against any setback.",
+  "quick_facts": {
+    "minimum_age": "Long Term Income: 30 days; Whole Life Income: 30 years",
+    "maximum_age": "55 years at entry",
+    "sum_insured": "Minimum: ₹2,10,000. Maximum: Subject to Board Approved Underwriting Policy.",
+    "policy_term": "Long Term Income: 15 to 40 years; Whole Life Income: 100 minus age at entry.",
+    "waiting_period": "Not specified. Income can be received immediately or deferred by 1 year."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of the unfortunate death of the Life Insured during the policy term, a lump sum Death Benefit is payable to the nominee. The Death Benefit is defined as the higher of: Sum Assured on Death or Surrender Benefit. 'Sum Assured on Death' is the higher of Sum Assured (7 or 10 times the Annualized Premium) or 105% of Total Premiums Paid till the date of death."
+    },
+    {
+      "name": "Staggered Death Benefit Option",
+      "description": "The nominee has the option to receive the Death Benefit in annual or monthly installments over a period of 5 years instead of a lump sum. This option is not available under POS."
+    },
+    {
+      "name": "Survival Benefit (Income Benefit)",
+      "description": "On survival of the life insured, provided all due premiums have been paid, a guaranteed income is paid at the chosen frequency (annual, semi-annual, quarterly, or monthly) starting from the end of the deferment period (0 or 1 year) until policy maturity. The income amount depends on the chosen income variant."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the life insured till the end of the policy term, a Guaranteed Lump sum Benefit (GLB) is payable. The GLB is calculated as Total Premiums Paid multiplied by an applicable Lump sum Factor. If all due premiums are paid, the GLB is further increased by 100% (except for the 'Income Only Benefit' variant)."
+    },
+    {
+      "name": "Optional Rider Benefits",
+      "description": "For added protection at a nominal extra cost, the following riders are available: ABSLI Accidental Death Benefit Rider Plus, ABSLI Critical Illness Rider, ABSLI Surgical Care Rider, ABSLI Hospital Care Rider, ABSLI Waiver of Premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Income and Lumpsum",
+      "description": "Provides a guaranteed stream of income throughout the policy term and a guaranteed lumpsum benefit at maturity, applicable if all due premiums are paid."
+    },
+    {
+      "name": "Choice of Benefit Options",
+      "description": "Flexibility to choose between 'Long Term Income' or 'Whole Life Income' benefit options."
+    },
+    {
+      "name": "Multiple Income Variants",
+      "description": "Choose from five income variants: Level Income with Lumpsum Benefit, Level Income with Enhanced Lumpsum Benefit, Increasing Income with Lumpsum Benefit, Level Income with Return of Premium Benefit, or Income Only Benefit."
+    },
+    {
+      "name": "Plan Customization",
+      "description": "Flexibility to build your own plan by choosing the income benefit, income variant, premium payment term, policy term, and deferment period."
+    },
+    {
+      "name": "Life Cover",
+      "description": "Provides life insurance protection for the family throughout the policy term."
+    },
+    {
+      "name": "Flexible Income Payout",
+      "description": "Option to receive income immediately (0 year deferment) or after a 1-year deferment period, with a choice of annual, semi-annual, quarterly, or monthly frequency."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Facility to take a loan against the policy from the second year onwards, up to 80% of the surrender value."
+    },
+    {
+      "name": "Benefits for Higher Premiums",
+      "description": "An additional income benefit is provided for annualized premiums of ₹2,00,000 and above."
+    },
+    {
+      "name": "Special Benefits for ABC Customers",
+      "description": "Customers of Aditya Birla Capital (ABC) entities can choose between a 12% discount on the first-year premium or an income enhancement option."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available on the premium paid and benefits received as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "Long Term Income: 30 days. Whole Life Income: 30 years."
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "55 years."
+    },
+    {
+      "criteria": "Maximum Maturity Age",
+      "value": "Long Term Income: 85 years. Whole Life Income: 100 years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "6, 8, 10, or 12 years."
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "value": "Long Term Income: 15, 20, 25, 30, 35, or 40 years. Whole Life Income: 100 minus age at entry."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "value": "₹30,000 for most variants. For 'Income Only Benefit': ₹50,000 (up to age 45) or ₹1,00,000 (age 46+)."
+    },
+    {
+      "criteria": "Maximum Annualized Premium",
+      "value": "No Limit (subject to Board Approved Underwriting Policy)."
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "value": "Annual, Semi-Annual, Quarterly, Monthly."
+    },
+    {
+      "criteria": "Eligible Persons",
+      "value": "All Individuals (Male, Female, Transgender)."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "If the Life Insured dies by suicide within 12 months of the effective date of risk commencement or the date of revival of the policy, the policy shall terminate. In such cases, the Company shall pay the higher of the Surrender Value or the total premiums paid (plus extra premiums) excluding applicable taxes."
+    }
+  ],
+  "claims_information": [],
+  "faqs": [
+    {
+      "question": "What is the ABSLI Nishchit Aayush Plan?",
+      "answer": "It is a non-linked, non-participating, individual savings life insurance plan from Aditya Birla Sun Life Insurance that provides life insurance coverage along with guaranteed regular income and lumpsum benefits."
+    },
+    {
+      "question": "Are the benefits from this plan guaranteed?",
+      "answer": "Yes, the income and lumpsum benefits are guaranteed, provided that all due premiums are paid throughout the premium payment term."
+    },
+    {
+      "question": "What are the main benefit options available in this plan?",
+      "answer": "The plan offers two main benefit options: 'Long Term Income' and 'Whole Life Income'."
+    },
+    {
+      "question": "Can I customize the income I receive?",
+      "answer": "Yes, you can customize your income by choosing from five different income variants such as Level Income, Increasing Income, and Income Only, and also select the payout frequency (annual, semi-annual, quarterly, or monthly)."
+    },
+    {
+      "question": "When do the income payments start?",
+      "answer": "You can choose to receive income either immediately from the 1st or 2nd policy anniversary (0 year deferment) or after a deferment period of 1 year."
+    },
+    {
+      "question": "What is the age criteria to purchase this plan?",
+      "answer": "The minimum entry age is 30 days for the Long Term Income option and 30 years for the Whole Life Income option. The maximum entry age is 55 years."
+    },
+    {
+      "question": "What are the available Premium Payment Terms (PPT)?",
+      "answer": "You can choose to pay premiums for a term of 6, 8, 10, or 12 years."
+    },
+    {
+      "question": "What happens if the life insured passes away during the policy term?",
+      "answer": "In the unfortunate event of death, a Death Benefit is paid as a lump sum to the nominee. This benefit is the higher of the 'Sum Assured on Death' or the prevailing Surrender Benefit."
+    },
+    {
+      "question": "Can the Death Benefit be paid in installments?",
+      "answer": "Yes, the nominee has a Staggered Death Benefit Option to receive the death benefit in annual or monthly installments over a period of 5 years."
+    },
+    {
+      "question": "What is the minimum premium required for this plan?",
+      "answer": "The minimum annualized premium is ₹30,000 for most variants. For the 'Income Only Benefit' variant, it is ₹50,000 for ages up to 45 and ₹1,00,000 for ages 46 and above."
+    },
+    {
+      "question": "Is there an upper limit on the premium amount?",
+      "answer": "No, there is no limit on the maximum annualized premium, but it is subject to the company's Board Approved Underwriting Policy."
+    },
+    {
+      "question": "What is the 'Increasing Income with Lumpsum Benefit' variant?",
+      "answer": "Under this variant, the income benefit payout increases at a simple interest rate of 5% every 5 years from the policy commencement date."
+    },
+    {
+      "question": "What benefit is paid at the end of the policy term if I survive?",
+      "answer": "Upon survival till the end of the policy term, you receive a Guaranteed Lump sum Benefit (GLB). If all premiums have been paid, this GLB is increased by 100% (except for the Income Only variant)."
+    },
+    {
+      "question": "Is there a loan facility available with this policy?",
+      "answer": "Yes, you can take a loan against the policy after the completion of the first policy year. The maximum loan amount is 80% of the surrender value at that time."
+    },
+    {
+      "question": "Can I add extra coverage to this plan?",
+      "answer": "Yes, you can enhance your protection by opting for riders like Accidental Death Benefit, Critical Illness, Surgical Care, Hospital Care, and Waiver of Premium for an additional cost."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "A grace period of 30 days (15 for monthly mode) is provided. If premiums are not paid within this period after the policy has acquired a surrender value, it will become a Reduced Paid-Up (RPU) policy with reduced benefits. Otherwise, it will lapse."
+    },
+    {
+      "question": "Can I revive a lapsed or RPU policy?",
+      "answer": "Yes, a lapsed or RPU policy can be revived within a period of five years from the due date of the first unpaid premium, subject to payment of outstanding premiums with interest and submission of health proof."
+    },
+    {
+      "question": "What is the suicide exclusion in this policy?",
+      "answer": "If the life insured dies by suicide within 12 months from the policy's start or revival date, the benefit is limited to the higher of the Surrender Value or total premiums paid, and the policy terminates."
+    },
+    {
+      "question": "Can I cancel the policy after purchasing it?",
+      "answer": "Yes, there is a Free Look Period of 30 days from receiving the policy document. If you are not satisfied with the terms, you can return it for a refund of premium, subject to certain deductions."
+    },
+    {
+      "question": "How is the 'Sum Assured' determined?",
+      "answer": "The Sum Assured is a multiple of the Annualized Premium. At inception, you can choose a multiple of either 7 times or 10 times the Annualized Premium."
+    },
+    {
+      "question": "Are there any special offers for Aditya Birla Capital (ABC) customers?",
+      "answer": "Yes, ABC customers have an option to choose between a 12% premium discount on the first-year premium or an income enhancement option."
+    },
+    {
+      "question": "Do I get any extra benefits for paying a higher premium?",
+      "answer": "Yes, for annualized premiums of ₹2,00,000 and above, an additional income benefit, as a percentage of the annualized premium, is provided."
+    },
+    {
+      "question": "When can I surrender the policy?",
+      "answer": "You can surrender the policy anytime after it has acquired a Surrender Value, which happens after the completion of the first policy year, provided premiums for at least one full year are paid."
+    },
+    {
+      "question": "What are the policy term options under the 'Long Term Income' benefit?",
+      "answer": "The policy terms available for the Long Term Income option are 15, 20, 25, 30, 35, and 40 years, depending on the premium payment term chosen."
+    },
+    {
+      "question": "How is the policy term calculated for the 'Whole Life Income' benefit?",
+      "answer": "For the Whole Life Income option, the policy term is calculated as 100 years minus the age of the life insured at the time of policy entry."
+    },
+    {
+      "question": "What is the policy termination process?",
+      "answer": "The policy will terminate on the date of payment of Surrender Value, settlement of Death Benefit, payment of Maturity Benefit, expiry of the Revival Period for a lapsed policy, or payment of the free look cancellation amount."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "Premiums can be paid through Annual, Semi-Annual, Quarterly, or Monthly modes."
+    }
+  ],
+  "source_file": "ABSLI_Nishchit_Aayush_Plan_V09_Brochure_Web_Version_549190c4a4.txt",
+  "category": "LI Plan Brochure"
+}

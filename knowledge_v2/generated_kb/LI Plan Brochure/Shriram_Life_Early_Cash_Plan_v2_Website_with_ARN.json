@@ -1,0 +1,192 @@
+{
+  "product_name": "Shriram Life Early Cash Plan",
+  "company": "Shriram Life Insurance Company Limited",
+  "product_type": "Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "A plan with two bonus options: Early Cash and Super Growth",
+  "summary": "Shriram Life Early Cash Plan is a life insurance plan offering dual benefits of insurance coverage and savings. It provides two distinct options: the 'Early Cash Option' for regular annual income in the form of cash bonuses, and the 'Super Growth Option' for wealth accumulation through compounding bonuses. The plan offers a lump sum benefit on death or maturity, along with features like policy loans, optional riders for enhanced protection, and tax benefits as per prevailing laws.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "",
+    "policy_term": "",
+    "waiting_period": "12 months for death due to suicide from the date of commencement or revival of the policy."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "Pays the 'Death Sum Assured' plus any declared accumulated cash bonus and terminal bonus to the beneficiary. 'Death Sum Assured' is the highest of 10 times Annualized Premium (7 times for age > 50) or 105% of Total Premiums Paid."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival to the end of the policy term, a lump sum is paid out based on the chosen option. For Early Cash Option, it is Sum Assured + Terminal Bonus. For Super Growth Option, it is Sum Assured + Accumulated and Compounded Bonuses + Terminal Bonus."
+    },
+    {
+      "type": "Survival Benefit (Early Cash Option only)",
+      "description": "Provides a regular income through annual cash bonuses, starting from the end of the first policy year. The minimum guaranteed cash bonus is 3.5% of the Sum Assured p.a."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Option to enhance protection by adding riders like Accident Benefit Rider, Family Income Benefit Rider, Shriram Extra Insurance Cover Rider, and Shriram Critical Illness Plus Rider for a nominal additional premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Two Bonus Options",
+      "description": "Flexibility to choose between 'Early Cash Option' for regular payouts or 'Super Growth Option' for compounded returns at maturity."
+    },
+    {
+      "name": "Guaranteed Payouts",
+      "description": "A minimum cash bonus of 3.5% of the Sum Assured is guaranteed to be paid or accrued annually."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policyholders can avail loans up to 80% of the policy's surrender value."
+    },
+    {
+      "name": "Tax Advantages",
+      "description": "Premiums paid are eligible for deduction under Section 80C, and death/maturity benefits are exempt under Section 10(10D) of the Income Tax Act, subject to conditions."
+    },
+    {
+      "name": "Flexible Payment Modes",
+      "description": "Premiums can be paid Yearly, Half-yearly, Quarterly, or Monthly."
+    },
+    {
+      "name": "High Sum Assured Rebates",
+      "description": "Premium discounts are offered for policies with a high sum assured."
+    }
+  ],
+  "eligibility": [],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the life assured commits suicide within 12 months of risk commencement or policy revival, the beneficiary will receive 80% of the total premiums paid or the surrender value, whichever is higher."
+    }
+  ],
+  "claims_information": [
+    {
+      "title": "Policy Termination on Claim",
+      "description": "The policy terminates upon the payment of either the death benefit or the maturity benefit."
+    },
+    {
+      "title": "Claim Repudiation (Section 45)",
+      "description": "A policy cannot be called into question after 3 years from its issuance or revival date, except on the grounds of fraud. Within the first 3 years, a policy can be challenged by the insurer on the grounds of fraud or misstatement/suppression of a material fact."
+    },
+    {
+      "title": "Refund on Repudiation",
+      "description": "In case of repudiation due to misstatement (not fraud), the premiums collected till the date of repudiation shall be paid to the insured or their legal representatives."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Shriram Life Early Cash Plan?",
+      "answer": "It is a life insurance plan from Shriram Life Insurance that provides life cover along with savings benefits. It offers two distinct options, the 'Early Cash Option' and the 'Super Growth Option', to suit different financial goals."
+    },
+    {
+      "question": "What are the two main options available under this plan?",
+      "answer": "The plan offers the 'Early Cash Option', which provides regular cash bonuses annually, and the 'Super Growth Option', where bonuses are accumulated and compounded to be paid at maturity."
+    },
+    {
+      "question": "How does the 'Early Cash Option' work?",
+      "answer": "Under this option, a cash bonus is paid to the policyholder at the end of each policy year. At maturity, the Sum Assured plus a Terminal Bonus, if declared, is paid."
+    },
+    {
+      "question": "How does the 'Super Growth Option' work?",
+      "answer": "Under this option, declared annual bonuses are not paid out but are accumulated and compounded annually within the policy. At maturity, the Sum Assured, accumulated compounded bonuses, and a Terminal Bonus, if declared, are paid out as a lump sum."
+    },
+    {
+      "question": "What is the minimum guaranteed cash bonus?",
+      "answer": "The minimum cash bonus is guaranteed at 3.5% of the Sum Assured per annum."
+    },
+    {
+      "question": "What is the Death Benefit payable under this plan?",
+      "answer": "In case of death during the policy term, the beneficiary receives the 'Death Sum Assured' along with any accumulated cash bonus till the date of death and a terminal bonus, if declared."
+    },
+    {
+      "question": "How is the 'Death Sum Assured' calculated?",
+      "answer": "The 'Death Sum Assured' is defined as the highest of: 1) 10 times the Annualized Premium for age up to 50 years (or 7 times for age above 50 years), or 2) 105% of Total Premiums Paid till the date of death."
+    },
+    {
+      "question": "What is the Maturity Benefit under the 'Early Cash Option'?",
+      "answer": "On survival till maturity, you receive the Sum Assured along with a Terminal Bonus, if declared. This is in addition to the annual cash bonuses already paid throughout the policy term."
+    },
+    {
+      "question": "What is the Maturity Benefit under the 'Super Growth Option'?",
+      "answer": "On survival till maturity, you receive a lump sum consisting of the Sum Assured, all accumulated and compounded annual cash bonuses, and a Terminal Bonus, if declared."
+    },
+    {
+      "question": "Are there survival benefits with this plan?",
+      "answer": "Yes, if you choose the 'Early Cash Option', you receive a regular income in the form of annual cash bonuses as a survival benefit, starting from the end of the first policy year. This benefit is not available under the 'Super Growth Option'."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, customers can avail a loan up to 80% of the policy's surrender value."
+    },
+    {
+      "question": "What is the interest rate on the policy loan?",
+      "answer": "The loan interest rate is determined by adding a margin of 2.5% to the 10-year annualized G-Sec rate as of 31st March of each financial year. For FY 2024-24, the example rate provided is 9.5% p.a."
+    },
+    {
+      "question": "Are there tax benefits available with this policy?",
+      "answer": "Yes, premiums paid (up to Rs. 1,50,000 in a year) are eligible for tax deduction under Section 80C, and maturity/death benefits received are tax-exempt under Section 10(10D), subject to the provisions of the Income Tax Act."
+    },
+    {
+      "question": "What riders can I add to this plan for extra protection?",
+      "answer": "You can opt for riders such as the Accident Benefit Rider, Family Income Benefit Rider, Shriram Extra Insurance Cover Rider, and Shriram Critical Illness Plus Rider."
+    },
+    {
+      "question": "What are the available premium payment frequencies?",
+      "answer": "You can choose to pay your premiums Yearly, Half-yearly, Quarterly, or Monthly."
+    },
+    {
+      "question": "Is there a discount for choosing a large Sum Assured?",
+      "answer": "Yes, the policy offers premium discounts, referred to as High Sum Assured Rebates."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "The policyholder has a free-look period of 30 days from the date of receipt of the policy document to review its terms and conditions."
+    },
+    {
+      "question": "What happens if I cancel the policy during the free-look period?",
+      "answer": "If you cancel during the free-look period, you will receive a refund of the premium paid, subject to a deduction of proportionate risk premium for the period of cover, expenses on medical examination, and stamp duty charges."
+    },
+    {
+      "question": "What is the policy's exclusion for death by suicide?",
+      "answer": "If death due to suicide occurs within 12 months from the policy's start date or revival date, the nominee will be entitled to receive 80% of the total premiums paid till the date of death or the surrender value, whichever is higher."
+    },
+    {
+      "question": "What does 'Annualized Premium' mean in this policy?",
+      "answer": "'Annualized Premium' is the premium amount payable in a policy year, excluding taxes, underwriting extra premiums, rider premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "What does 'Total Premiums Paid' mean?",
+      "answer": "It refers to the total of all premiums received, excluding any extra premium, rider premium, and taxes."
+    },
+    {
+      "question": "What happens if my outstanding loan and interest exceed the policy's surrender value?",
+      "answer": "If the outstanding loan along with accrued interest reaches or exceeds the surrender value, the policy will terminate without any value."
+    },
+    {
+      "question": "Is Goods and Services Tax (GST) applicable on the premium?",
+      "answer": "Yes, GST is applicable on the premium. The document shows an example of 4.5% of premium for the first policy year and 2.25% from the second policy year onwards."
+    },
+    {
+      "question": "Can the insurer reject a claim based on information I provided in the proposal?",
+      "answer": "As per Section 45 of the Insurance Act, an insurer cannot question the policy on any grounds after 3 years from its start or revival date, except for fraud. Within the first 3 years, it can be questioned on grounds of fraud or misstatement of a material fact."
+    },
+    {
+      "question": "When does the policy terminate?",
+      "answer": "The policy will terminate upon payment of the death benefit or the maturity benefit. It can also terminate if the outstanding loan plus interest equals the surrender value."
+    },
+    {
+      "question": "Can I choose to receive my bonus payouts more frequently than annually in the Early Cash Option?",
+      "answer": "Yes, you can choose a cash bonus payout frequency of Half-yearly, Quarterly, or Monthly in addition to the Yearly option. The yearly bonus amount will be multiplied by a modal factor to determine the payout."
+    },
+    {
+      "question": "What is the maximum premium I can pay for riders?",
+      "answer": "The total premium for all riders under the policy cannot exceed the premium of the basic plan."
+    }
+  ],
+  "source_file": "Shriram_Life_Early_Cash_Plan_v2_Website_with_ARN.txt",
+  "category": "LI Plan Brochure"
+}

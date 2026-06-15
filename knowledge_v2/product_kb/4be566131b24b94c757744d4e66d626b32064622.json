@@ -1,0 +1,162 @@
+{
+  "product_name": "ManipalCigna Lifestyle Protection-Accident Care",
+  "product_type": "Personal Accident Insurance",
+  "summary": "A personal accident insurance plan that provides financial support and safety cushion for unexpected expenses arising from death or serious injury caused by an accident. Available in three plan options (Basic, Enhanced, Comprehensive) with optional covers, providing complete protection on and off the job including death, disability, loss of job and financial protection.",
+  "coverage": [
+    "Accidental Death - 100% of Sum Insured, 200% if death occurs while travelling as fare-paying passenger on common carrier",
+    "Permanent Total Disablement - 100% of Sum Insured, 200% if occurs while travelling as fare-paying passenger on common carrier",
+    "Permanent Partial Disablement - Fixed percentage of Sum Insured up to 100% as per nature of disability",
+    "Emergency Ambulance Cover - Lump sum amount maximum up to ₹10,000 basis Sum Insured selected",
+    "Funeral Expenses - ₹5,000 for Sum Insured up to ₹50 lacs, ₹10,000 for Sum Insured above ₹50 lacs",
+    "Education Fund - 10% of Sum Insured per surviving dependant child for maximum 2 children subject to maximum ₹10 lacs per policy",
+    "Orphan Benefit - Amount equal to Sum Insured towards dependant child",
+    "Loss of Employment - Basic monthly income for 3 months basis last salary slip or income tax return",
+    "Temporary Total Disablement - Weekly benefit of 1% of Sum Insured, maximum ₹25,000 per week up to 100 weeks",
+    "Burns Benefit - Fixed percentage of Sum Insured ranging from 10% to 100% depending on degree of burns",
+    "Broken Bones Benefit - Lump sum payment as per policy terms for fracture of bones due to accident",
+    "Coma Benefit - 25% of Sum Insured as lump sum if insured moves into comatose state due to accident"
+  ],
+  "waiting_periods": [],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "All claims must be intimated within 10 days of occurrence of the event",
+    "Submit duly filled and signed claim form along with documents within 30 days of occurrence",
+    "Claims can be submitted at any branch or head office",
+    "Contact Health line 1800-102-4462 for claims related queries",
+    "Visit website www.manipalcigna.com or email customercare@manipalcigna.com",
+    "All payments under policy will be made on benefit basis"
+  ],
+  "exclusions": [
+    "Any pre-existing condition or disability arising out of pre-existing diseases",
+    "Suicide, intentional self-injury, acts of self-destruction",
+    "Breach of law",
+    "Hazardous activities",
+    "Hair line fractures are excluded from Broken Bones Benefit"
+  ],
+  "faqs": [
+    {
+      "question": "What are the three plan options available under ManipalCigna Lifestyle Protection-Accident Care?",
+      "answer": "Plan A (Basic Cover), Plan B (Enhanced Cover), and Plan C (Comprehensive Cover). Each plan offers different levels of coverage with optional covers available to supplement any plan."
+    },
+    {
+      "question": "What is the minimum and maximum Sum Insured available?",
+      "answer": "Minimum Sum Insured is ₹50,000 and maximum is ₹10 crores."
+    },
+    {
+      "question": "What are the age limits for entry into this policy?",
+      "answer": "Minimum entry age is 5 years for children and 18 years for adults. Maximum age at entry is 25 years for children and 80 years for adults."
+    },
+    {
+      "question": "Do persons above 70 years need medical examination?",
+      "answer": "Yes, persons above 70 years may be required to undergo medical examination."
+    },
+    {
+      "question": "Who can be covered under this policy?",
+      "answer": "You can cover self, spouse, dependant children, dependant parents, dependant siblings and parents-in-law. Coverage is available on individual and family basis."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "Policy is available for one, two and three years."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "Premium can be paid on single, yearly, half yearly, quarterly or monthly basis. For 2 and 3 years policy term, premium can be paid either by single premium mode or annually."
+    },
+    {
+      "question": "How much is paid for Accidental Death?",
+      "answer": "100% of Sum Insured is paid for accidental death. However, if death occurs while travelling as a fare-paying passenger on a common carrier, 200% of the Sum Insured is paid."
+    },
+    {
+      "question": "What is the maximum amount paid for Emergency Ambulance Cover?",
+      "answer": "A lump sum amount with a maximum up to ₹10,000 basis Sum Insured selected is paid for transportation expenses on emergency ambulance services."
+    },
+    {
+      "question": "How much is paid for Funeral Expenses?",
+      "answer": "₹5,000 for Sum Insured up to ₹50 lacs, and ₹10,000 for Sum Insured above ₹50 lacs towards funeral or cremation expenses."
+    },
+    {
+      "question": "What is the Education Fund benefit?",
+      "answer": "A one-time payment equal to 10% of Sum Insured per surviving dependant child for a maximum of 2 children subject to a maximum limit of ₹10 lacs per policy."
+    },
+    {
+      "question": "How is the Loss of Employment benefit calculated?",
+      "answer": "Basic monthly income for 3 months basis your last salary slip or income tax return as applicable is paid in case of permanent total or partial disablement due to accident."
+    },
+    {
+      "question": "What is the maximum Sum Insured for an earning member?",
+      "answer": "The maximum Sum Insured for an insured proposer or an earning insured member is 10 times that of the gainful annual income."
+    },
+    {
+      "question": "What is the Sum Insured limit for non-earning spouse?",
+      "answer": "For non-earning spouse, the Sum Insured is limited to 60% of Sum Insured of an earning member."
+    },
+    {
+      "question": "What is the Sum Insured limit for dependant family members?",
+      "answer": "For dependant parents, in-laws, brothers, siblings and children, Sum Insured is limited to 30% of Sum Insured of earning member."
+    },
+    {
+      "question": "Are non-earning dependants eligible for all covers?",
+      "answer": "No, non-earning dependants will not be eligible for coverage under Temporary Total Disablement and Loss of Employment."
+    },
+    {
+      "question": "What happens to coverage after 70 years of age?",
+      "answer": "Renewal beyond 70 years will be limited to Sum Insured of maximum ₹10 lacs and coverage will be limited to Accidental Death & Permanent Total Disability only."
+    },
+    {
+      "question": "Is there a family discount available?",
+      "answer": "Yes, a Family Discount of 10% is available if more than two members are covered under the same policy."
+    },
+    {
+      "question": "Are there any long-term discounts?",
+      "answer": "Yes, Long-Term Discount of 7.5% and 10% is available."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace Period of fifteen days where premium payment mode is monthly and thirty days in all other cases is available for Single and Annual premium payment mode from the date of expiry of the Policy."
+    },
+    {
+      "question": "Is there a free look period?",
+      "answer": "Yes, the insured shall be allowed a period of 30 days from date of receipt of the Policy to review the terms and conditions, and to return the same if not acceptable."
+    },
+    {
+      "question": "How long does it take for free look cancellation refund?",
+      "answer": "Free look cancellation & refund will be made within 7 days from the date of receipt of request."
+    },
+    {
+      "question": "Can children between 5-17 years be covered independently?",
+      "answer": "No, Dependent Children between the ages of 5 and 17 years may be covered only if one of the parents is also covered either in the same or different policy with the company."
+    },
+    {
+      "question": "What is the weekly benefit amount for Temporary Total Disablement?",
+      "answer": "Weekly benefit of 1% of Sum Insured, subject to a maximum of ₹25,000 per week up to 100 weeks."
+    },
+    {
+      "question": "What percentage of Sum Insured is paid for Coma Benefit?",
+      "answer": "25% of the Sum Insured is paid as lump sum in the event of an insured moving into a comatose state due to an accident."
+    },
+    {
+      "question": "What is the rate per 1000 Sum Insured for Plan A Basic Cover?",
+      "answer": "The rate is ₹0.92 per 1000 Sum Insured per life for Plan A Basic Cover."
+    },
+    {
+      "question": "What is the rate per 1000 Sum Insured for Plan B Enhanced Cover?",
+      "answer": "The rate is ₹1.62 per 1000 Sum Insured per life for Plan B Enhanced Cover."
+    },
+    {
+      "question": "What is the rate per 1000 Sum Insured for Plan C Comprehensive Cover?",
+      "answer": "The rate is ₹1.77 per 1000 Sum Insured per life for Plan C Comprehensive Cover."
+    },
+    {
+      "question": "What loading is applied for different premium payment modes?",
+      "answer": "Monthly: 5.5% loading, Quarterly: 3.5% loading, Half yearly: 2.5% loading on premium."
+    },
+    {
+      "question": "What is the customer care contact information?",
+      "answer": "You can contact Health line 1800-102-4462, visit website www.manipalcigna.com or email customercare@manipalcigna.com for any queries or assistance."
+    }
+  ],
+  "source_file": "4be566131b24b94c757744d4e66d626b32064622.txt",
+  "category": "Hi Document"
+}

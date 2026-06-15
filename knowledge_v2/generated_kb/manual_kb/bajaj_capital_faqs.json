@@ -1,0 +1,140 @@
+{
+  "product_name": "Bajaj Capital Services",
+  "company": "Bajaj Capital",
+  "category": "Manual Knowledge",
+  "summary": "Information about Bajaj Capital, its services, and customer support offerings.",
+  "faqs": [
+    {
+      "question": "What is Bajaj Capital?",
+      "answer": "Bajaj Capital is one of India's leading financial services and wealth management organizations, offering investment, insurance, and financial planning solutions."
+    },
+    {
+      "question": "What services does Bajaj Capital provide?",
+      "answer": "Bajaj Capital provides insurance solutions, mutual funds, SIPs, fixed deposits, bonds, wealth management, retirement planning, tax planning, portfolio review, and other financial advisory services."
+    },
+    {
+      "question": "Does Bajaj Capital help customers choose insurance plans?",
+      "answer": "Yes. Bajaj Capital helps customers compare insurance plans from multiple insurers and select plans that match their needs and financial goals."
+    },
+    {
+      "question": "Can Bajaj Capital assist with insurance claims?",
+      "answer": "Yes. Bajaj Capital can help customers understand the claim process, documentation requirements, and coordinate with insurers during claim settlement."
+    },
+    {
+      "question": "Does Bajaj Capital offer life insurance solutions?",
+      "answer": "Yes. Bajaj Capital offers access to life insurance products from multiple insurers, including term plans, savings plans, ULIPs, retirement plans, and child plans."
+    },
+    {
+      "question": "Does Bajaj Capital offer health insurance solutions?",
+      "answer": "Yes. Bajaj Capital helps customers compare and purchase health insurance plans from various insurance providers."
+    },
+    {
+      "question": "Can Bajaj Capital help compare multiple insurance products?",
+      "answer": "Yes. Bajaj Capital helps customers evaluate features, benefits, premiums, and coverage across different insurance products."
+    },
+    {
+      "question": "What is a SIP?",
+      "answer": "A Systematic Investment Plan (SIP) allows investors to invest a fixed amount regularly in mutual funds, helping build wealth over time."
+    },
+    {
+      "question": "Does Bajaj Capital offer mutual fund investments?",
+      "answer": "Yes. Bajaj Capital provides access to a wide range of mutual fund schemes from leading asset management companies."
+    },
+    {
+      "question": "Can Bajaj Capital help with retirement planning?",
+      "answer": "Yes. Bajaj Capital offers retirement planning solutions designed to help individuals build a corpus and generate income after retirement."
+    },
+    {
+      "question": "Does Bajaj Capital provide tax planning assistance?",
+      "answer": "Yes. Bajaj Capital assists customers in identifying investment and insurance solutions that support tax-efficient financial planning."
+    },
+    {
+      "question": "What is wealth management?",
+      "answer": "Wealth management is a comprehensive financial advisory service that includes investment planning, risk management, tax planning, and long-term wealth creation strategies."
+    },
+    {
+      "question": "Does Bajaj Capital provide wealth management services?",
+      "answer": "Yes. Bajaj Capital offers wealth management and financial planning services for individuals and families."
+    },
+    {
+      "question": "Can Bajaj Capital help with portfolio review?",
+      "answer": "Yes. Bajaj Capital can help customers review their investment portfolio and identify opportunities for optimization."
+    },
+    {
+      "question": "What are fixed deposits?",
+      "answer": "Fixed Deposits (FDs) are investment products that offer a fixed rate of return over a specified tenure."
+    },
+    {
+      "question": "Does Bajaj Capital offer fixed deposit options?",
+      "answer": "Yes. Bajaj Capital provides access to fixed deposit products from various issuers."
+    },
+    {
+      "question": "What are bonds?",
+      "answer": "Bonds are fixed-income investment instruments through which investors lend money to an issuer in exchange for periodic interest payments."
+    },
+    {
+      "question": "Can Bajaj Capital help with bond investments?",
+      "answer": "Yes. Bajaj Capital offers access to various bond investment opportunities depending on investor requirements."
+    },
+    {
+      "question": "What is PMS?",
+      "answer": "Portfolio Management Services (PMS) are professionally managed investment solutions tailored to individual investor objectives."
+    },
+    {
+      "question": "Does Bajaj Capital offer PMS solutions?",
+      "answer": "Yes. Bajaj Capital facilitates access to PMS offerings from reputed portfolio managers."
+    },
+    {
+      "question": "What is an AIF?",
+      "answer": "Alternative Investment Funds (AIFs) are privately pooled investment vehicles that invest according to a defined investment strategy."
+    },
+    {
+      "question": "Can Bajaj Capital help investors access AIFs?",
+      "answer": "Yes. Bajaj Capital assists eligible investors in exploring suitable AIF opportunities."
+    },
+    {
+      "question": "Why should I buy insurance through Bajaj Capital?",
+      "answer": "Bajaj Capital helps customers compare plans, understand policy features, receive advisory support, and get assistance throughout the policy lifecycle."
+    },
+    {
+      "question": "Can Bajaj Capital help me select the right financial product?",
+      "answer": "Yes. Bajaj Capital's advisory approach helps customers identify financial products aligned with their goals, risk profile, and investment horizon."
+    },
+    {
+      "question": "How can Bajaj Capital support my financial planning journey?",
+      "answer": "Bajaj Capital provides guidance across insurance, investments, retirement planning, tax planning, wealth creation, and portfolio management."
+    },
+    {
+      "question":"How can I buy insurance through Bajaj Capital?",
+      "answer":"Customers can connect with Bajaj Capital advisors to compare policies, understand features, and complete the purchase process."
+    },
+    {
+      "question":"Can Bajaj Capital help renew my insurance policy?",
+      "answer":"Yes. Bajaj Capital can assist customers with policy renewal guidance and support."
+    },
+    {
+      "question":"Can Bajaj Capital provide post-sales support?",
+      "answer":"Yes. Bajaj Capital supports customers throughout the policy lifecycle including servicing and claims assistance."
+    },
+    {
+      "question":"Can Bajaj Capital help compare insurance companies?",
+      "answer":"Yes. Bajaj Capital helps customers compare plans from multiple insurers based on coverage, benefits, and suitability."
+    },
+    {
+      "question":"Does Bajaj Capital provide investment advisory services?",
+      "answer":"Yes. Bajaj Capital provides investment advisory and wealth management services for various financial goals."
+    },
+    {
+  "question":"How can I buy insurance through Bajaj Capital?",
+  "answer":"Bajaj Capital helps customers compare insurance plans from multiple insurers and assists throughout the purchase process."
+},
+{
+  "question":"Can Bajaj Capital help renew my policy?",
+  "answer":"Yes. Bajaj Capital can assist customers with policy renewal support and guidance."
+},
+{
+  "question":"Can Bajaj Capital provide post-sales support?",
+  "answer":"Yes. Bajaj Capital assists customers after policy purchase, including servicing and claim-related support."
+}
+  ]
+}

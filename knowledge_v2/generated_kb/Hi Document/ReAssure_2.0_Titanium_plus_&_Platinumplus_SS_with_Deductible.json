@@ -1,0 +1,159 @@
+{
+  "product_name": "ReAssure 2.0",
+  "product_type": "Health Insurance",
+  "summary": "ReAssure 2.0 is a comprehensive health insurance product offering coverage from ₹5 Lacs to ₹100 Lacs with features like ReAssure+ unlimited coverage after first claim, Booster+ carry forward benefits, and various optional add-ons.",
+  "coverage": [
+    "In-patient Care (including AYUSH) - Covered up to Sum Insured",
+    "Pre-Hospitalisation - 60 Days, Covered up to Sum Insured",
+    "Post-Hospitalisation - 180 Days, Covered up to Sum Insured",
+    "Modern Treatments - Covered up to Sum Insured",
+    "Road Ambulance - Covered up to Sum Insured",
+    "Air Ambulance - up to ₹2,50,000 per Hospitalisation",
+    "Home Care/Domiciliary - Covered up to Sum Insured",
+    "Organ Donor - Covered up to Sum Insured",
+    "Annual Health Checkup - up to ₹500 for every ₹1 Lac Base Sum Insured (Individual: Maximum ₹5,000 per Insured; Family Floater: Maximum ₹10,000 per policy)",
+    "Shared Accommodation - Up to ₹15 Lac Base Sum Insured: ₹800 per day; Maximum ₹4,800. Above ₹15 Lac Base Sum Insured: ₹1,000 per day; Maximum ₹6,000",
+    "Second Medical Opinion - Once for any condition in a Policy Year",
+    "e-consultation - Unlimited e-consultation within network"
+  ],
+  "waiting_periods": [],
+  "room_rent": [],
+  "co_pay": [
+    "20% co-payment applies if treatment taken in a non-Tiered Network Hospital"
+  ],
+  "deductible": [
+    "Annual Aggregate Deductible options: ₹20,000, ₹30,000, ₹50,000, ₹1,00,000"
+  ],
+  "claims_information": [
+    "30 minutes cashless claim processing for pre-authorisation requests",
+    "24x7 Customer Service available",
+    "Network of 10,000+ hospitals",
+    "Minimum 48 hours continuous hospitalisation required for Hospital Cash benefit",
+    "Minimum 24 hours hospitalisation required for AYUSH treatment in AYUSH Hospital"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the sum insured range for ReAssure 2.0?",
+      "answer": "The Base Sum Insured options are ₹5 Lacs, ₹7.5 Lacs, ₹10 Lacs, ₹15 Lacs, ₹20 Lacs, ₹25 Lacs, ₹50 Lacs, and ₹100 Lacs."
+    },
+    {
+      "question": "What is ReAssure+ benefit?",
+      "answer": "ReAssure+ is triggered after the 1st claim and provides unlimited coverage forever. Each claim will be up to the Base Sum Insured and you pay premium as per your entry age till a claim is paid."
+    },
+    {
+      "question": "How does the Booster+ benefit work?",
+      "answer": "Booster+ carries forward unutilised Base Sum Insured to the next policy year. 5X variant allows maximum up to 5 times of Base Sum Insured, while 10X variant allows maximum up to 10 times of Base Sum Insured."
+    },
+    {
+      "question": "What is the pre-hospitalisation coverage period?",
+      "answer": "Pre-hospitalisation expenses are covered for 60 days and are covered up to the Sum Insured."
+    },
+    {
+      "question": "What is the post-hospitalisation coverage period?",
+      "answer": "Post-hospitalisation expenses are covered for 180 days and are covered up to the Sum Insured."
+    },
+    {
+      "question": "What ambulance coverage is provided?",
+      "answer": "Road Ambulance is covered up to Sum Insured, while Air Ambulance is covered up to ₹2,50,000 per hospitalisation."
+    },
+    {
+      "question": "What is the Annual Health Checkup benefit?",
+      "answer": "For defined list of tests, coverage is up to ₹500 for every ₹1 Lac Base Sum Insured with maximum ₹5,000 per Insured for Individual policies and maximum ₹10,000 per policy for Family Floater policies."
+    },
+    {
+      "question": "What discount can I get with Live Healthy benefit?",
+      "answer": "You can get up to 30% discount on premium at the time of renewal with the Live Healthy benefit."
+    },
+    {
+      "question": "What are the Hospital Cash benefit amounts?",
+      "answer": "Up to ₹5 Lac Base Sum Insured: ₹1,000/day; Between ₹7.5 Lacs to ₹15 Lac Base Sum Insured: ₹2,000/day; Above ₹15 Lac Base Sum Insured: ₹4,000/day."
+    },
+    {
+      "question": "What Personal Accident coverage options are available?",
+      "answer": "You can choose from 1X, 2X, 3X, 4X, or 5X of base sum insured with maximum coverage up to ₹1 Crore."
+    },
+    {
+      "question": "What is included in Safeguard benefit?",
+      "answer": "Safeguard includes Claim Safeguard (non-payable items covered as per list I), Booster+ Safeguard (no impact on Booster+ if claim is less than ₹50,000), and Sum Insured Safeguard (CPI linked increase)."
+    },
+    {
+      "question": "What is included in Safeguard+ benefit?",
+      "answer": "Safeguard+ includes Claim Safeguard+ (non-payable items covered as per list I, II, III, IV), Booster+ Safeguard+ (no impact on Booster+ if claim is less than ₹1,00,000), and Sum Insured Safeguard+ (CPI linked increase)."
+    },
+    {
+      "question": "What are the Tiered Network benefits?",
+      "answer": "Tiered Network provides 15% discount on premium, but a co-payment of 20% applies if treatment is taken in a non-Tiered Network Hospital."
+    },
+    {
+      "question": "How fast is the cashless claim processing?",
+      "answer": "Niva Bupa processes pre-authorisation requests within 30 minutes for all active policies, subject to receiving all required documents and information."
+    },
+    {
+      "question": "Is AYUSH treatment covered?",
+      "answer": "Yes, AYUSH treatment is covered as part of In-patient Care up to Sum Insured, with minimum 24 hours hospitalisation required in an AYUSH Hospital."
+    },
+    {
+      "question": "What is the shared accommodation benefit?",
+      "answer": "For up to ₹15 Lac Base Sum Insured: ₹800 per day with maximum ₹4,800. For above ₹15 Lac Base Sum Insured: ₹1,000 per day with maximum ₹6,000."
+    },
+    {
+      "question": "How many times can I get Second Medical Opinion?",
+      "answer": "Second Medical Opinion is available once for any condition in a policy year."
+    },
+    {
+      "question": "Is e-consultation unlimited?",
+      "answer": "Yes, unlimited e-consultation is available within the network."
+    },
+    {
+      "question": "What is the minimum hospitalisation required for Hospital Cash?",
+      "answer": "Minimum 48 hours of continuous hospitalisation is required for Hospital Cash benefit."
+    },
+    {
+      "question": "What is the maximum coverage period for Hospital Cash?",
+      "answer": "Maximum coverage is offered for 30 days per policy year per insured person."
+    },
+    {
+      "question": "What deductible options are available?",
+      "answer": "Annual Aggregate Deductible options include ₹20,000, ₹30,000, ₹50,000, and ₹1,00,000."
+    },
+    {
+      "question": "How many lives does Niva Bupa cover?",
+      "answer": "Niva Bupa covers 2 Crore+ lives."
+    },
+    {
+      "question": "What is the customer helpline number?",
+      "answer": "The customer helpline number is 1860-500-8888."
+    },
+    {
+      "question": "Who is eligible for Live Healthy benefit?",
+      "answer": "Eligible persons are all members except son/daughter under a Family Floater policy and any member of age at least 18 years under an Individual policy."
+    },
+    {
+      "question": "When is Annual Health Checkup available?",
+      "answer": "Annual Health Checkup is available from Day 1 and only on cashless with network providers."
+    },
+    {
+      "question": "What is the Product UIN for ReAssure 2.0?",
+      "answer": "The Product UIN is NBHHLIP26042V022526."
+    },
+    {
+      "question": "What is the IRDAI Registration Number for Niva Bupa?",
+      "answer": "The IRDAI Registration Number is 145."
+    },
+    {
+      "question": "What happens to premium rates under ReAssure+?",
+      "answer": "Under ReAssure+, you pay the premium as per your entry age until a claim is paid."
+    },
+    {
+      "question": "Are modern treatments covered?",
+      "answer": "Yes, modern treatments are covered up to the Sum Insured."
+    },
+    {
+      "question": "What is the website for Niva Bupa?",
+      "answer": "The website is www.nivabupa.com."
+    }
+  ],
+  "source_file": "ReAssure_2.0_Titanium_plus_&_Platinumplus_SS_with_Deductible.txt",
+  "category": "Hi Document"
+}

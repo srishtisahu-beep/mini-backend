@@ -1,0 +1,181 @@
+{
+  "product_name": "HDFC Life Sanchay Plus",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "A non-participating, non-linked savings insurance plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "HDFC Life Sanchay Plus is a non-participating, non-linked savings insurance plan designed to provide guaranteed returns. It offers a death benefit for financial protection of the family in case of the life assured's demise during the policy term, and a maturity benefit in the form of a guaranteed income for a fixed payout period upon survival till maturity.",
+  "quick_facts": {
+    "minimum_age": "5 years",
+    "maximum_age": "60 years",
+    "sum_insured": "The Sum Assured is determined by multiplying the Annualized Premium by the applicable Death Benefit Multiple, which is based on the Life Assured's entry age.",
+    "policy_term": "Varies from 5 to 13 years, depending on the premium paying term chosen.",
+    "waiting_period": "A 12-month waiting period applies for death due to suicide from the date of risk commencement or the date of policy revival."
+  },
+  "coverage": [
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Assured till the Maturity Date, a Guaranteed Income is paid for a fixed Payout Period of 25 or 30 years. At the end of the Payout Period, the Total Premiums paid are returned. The policyholder has an option to receive the Guaranteed Sum Assured on Maturity as a lump sum on the maturity date or receive the present value of future income payouts as a lump sum at any time during the payout period."
+    },
+    {
+      "type": "Death Benefit",
+      "description": "On death of the Life Assured during the Policy Term, a lump sum Death Benefit is paid to the nominee. The benefit is the highest of: 1) 10 times the Annualized Premium, 2) 105% of Total Premiums paid, 3) Premiums paid accumulated at 5% p.a. compounded annually, 4) Guaranteed Sum Assured on Maturity, or 5) Sum Assured. Upon payment, the policy terminates."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Income",
+      "description": "Receive guaranteed income for a fixed term of 25 or 30 years after the policy term ends."
+    },
+    {
+      "name": "Return of Premium",
+      "description": "At the end of the Payout Period, the Total Premiums paid are returned to the policyholder."
+    },
+    {
+      "name": "Lump Sum Option",
+      "description": "Option to receive the Maturity Benefit as a single lump sum, or convert future income payouts into a lump sum at any point during the payout period."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "Policy loans are available up to a maximum of 80% of the policy's surrender value."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be applicable on premiums paid and benefits received as per the provisions of the Income Tax Act, 1961."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Entry Age",
+      "details": "The Life Assured must be between 5 and 60 years of age at the time of policy commencement."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the nominee or beneficiary shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Maturity Claim Process",
+      "description": "The Maturity Benefit will be paid if the Life Assured is alive on the Maturity Date, all premiums have been paid, the policy is in-force, and all relevant documents, including the original policy document, have been provided to the Company."
+    },
+    {
+      "type": "Death Claim Process",
+      "description": "The claim must be intimated to the company within 90 days from the date of death. The Death Benefit is paid if the death occurs before the Maturity Date, the policy is in-force, exclusions are not attracted, and all required documents are submitted."
+    },
+    {
+      "type": "Documents for Death Claim (Natural Cause)",
+      "description": "Completed claim form (with NEFT details), Original Policy, Original or attested Death Certificate, and Claimant’s identity and residence proof."
+    },
+    {
+      "type": "Documents for Death Claim (Unnatural Cause)",
+      "description": "In addition to the documents for a natural death claim, an original or attested copy of the First Information Report (FIR), Police Panchnama report, and Postmortem report are required."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Sanchay Plus?",
+      "answer": "HDFC Life Sanchay Plus is a non-participating, non-linked savings insurance plan offered by HDFC Life Insurance Company Limited."
+    },
+    {
+      "question": "What is the Maturity Benefit under this policy?",
+      "answer": "Upon survival to the maturity date, you receive a Guaranteed Income for a fixed Payout Period of 25 or 30 years. At the end of the Payout Period, the total premiums you paid are also returned."
+    },
+    {
+      "question": "What is the Death Benefit provided by the plan?",
+      "answer": "If the Life Assured passes away during the policy term, a lump sum amount, called the Sum Assured on Death, is paid to the nominee. The policy then terminates."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' calculated?",
+      "answer": "It is the highest of: a) 10 times the Annualized Premium, b) 105% of Total Premiums paid, c) Premiums paid accumulated at 5% p.a., d) Guaranteed Sum Assured on Maturity, or e) the Sum Assured as specified in the policy schedule."
+    },
+    {
+      "question": "What happens if the Life Assured dies during the income payout period?",
+      "answer": "The nominee will continue to receive the Guaranteed Income for the rest of the payout period. The nominee also has the option to receive the present value of all future payouts as a lump sum."
+    },
+    {
+      "question": "Will I get my premiums back at the end of the policy?",
+      "answer": "Yes, the total premiums paid (excluding taxes, rider premiums, and extra premiums) are returned at the end of the income Payout Period."
+    },
+    {
+      "question": "What are the available premium payment frequencies?",
+      "answer": "You can pay premiums on a yearly, half-yearly, quarterly, or monthly basis."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "The grace period is 15 days for the monthly premium payment frequency and 30 days for all other frequencies (yearly, half-yearly, quarterly)."
+    },
+    {
+      "question": "What happens if I miss paying a premium after the grace period?",
+      "answer": "If your policy has not yet acquired a Guaranteed Surrender Value (paid less than 2 years of premiums), it will lapse and all cover will cease. If it has acquired a GSV, it will become a reduced paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, you can apply for revival within five consecutive years from the due date of the first unpaid premium, subject to satisfactory evidence of continued insurability and payment of all outstanding premiums with interest."
+    },
+    {
+      "question": "What is the revival period for the policy?",
+      "answer": "The revival period is five consecutive years from the date of the first unpaid premium."
+    },
+    {
+      "question": "What is the Free-Look period?",
+      "answer": "You have a Free-Look period of 15 days from the date of receiving the policy document to review the terms and conditions. If the policy was purchased through Distance Marketing mode, this period is 30 days."
+    },
+    {
+      "question": "How can I cancel my policy during the Free-Look period?",
+      "answer": "You can return the policy to the company stating the reasons for cancellation within the Free-Look period to get a refund of the premium paid."
+    },
+    {
+      "question": "Will I get a full refund if I cancel during the Free-Look period?",
+      "answer": "No, the refund will be subject to deduction of the proportionate risk premium for the period of cover, expenses incurred for medical examination (if any), and stamp duty charges."
+    },
+    {
+      "question": "Is there a loan facility available with this policy?",
+      "answer": "Yes, you can take a loan against the policy once it has acquired a surrender value."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "The maximum loan amount available is 80% of the policy's surrender value."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "The policy acquires a Guaranteed Surrender Value (GSV) after the premiums for the first two full years have been paid, after which you can surrender it."
+    },
+    {
+      "question": "What is the policy's suicide exclusion clause?",
+      "answer": "If the Life Assured dies due to suicide within 12 months from the policy's start date or revival date, the nominee will receive at least 80% of the total premiums paid or the surrender value, whichever is higher. The full Death Benefit will not be paid."
+    },
+    {
+      "question": "What is the procedure to file a death claim?",
+      "answer": "The claimant must intimate the company within 90 days of death and submit the completed claim form, original policy document, death certificate, and claimant's identity/residence proof. Additional documents may be required depending on the cause of death."
+    },
+    {
+      "question": "What additional documents are needed for a death claim due to an unnatural cause?",
+      "answer": "For an unnatural death, you need to submit the First Information Report (FIR), Police Panchnama report, and Postmortem report, in addition to the standard documents."
+    },
+    {
+      "question": "Can I change my premium payment frequency during the policy term?",
+      "answer": "Yes, you are allowed to change the frequency of premium payment. This may lead to a change in the premium amount."
+    },
+    {
+      "question": "What does 'Annualized Premium' mean?",
+      "answer": "Annualized Premium is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums."
+    },
+    {
+      "question": "Who receives the death benefit if the policyholder and life assured are different people?",
+      "answer": "The Death Benefit shall be payable to the Policyholder if the Life Assured is other than the Policyholder."
+    },
+    {
+      "question": "What happens if the age declared in the proposal form is found to be incorrect?",
+      "answer": "The company may adjust the benefits based on the correct age and the difference in premium, or if the correct age makes the person ineligible for the policy, the policy will be voided and premiums refunded after deductions."
+    },
+    {
+      "question": "Can I assign or transfer my policy rights to another person?",
+      "answer": "Yes, you can assign or transfer the policy in accordance with Section 38 of the Insurance Act, 1938."
+    }
+  ],
+  "source_file": "HDFC-Life-Sanchay-Plus-Long-Term-Income-Option-101N134V16-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

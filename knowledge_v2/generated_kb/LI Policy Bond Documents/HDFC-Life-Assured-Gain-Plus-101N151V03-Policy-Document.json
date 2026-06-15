@@ -1,0 +1,197 @@
+{
+  "product_name": "HDFC Life Assured Gain Plus",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An Individual Non-Linked Participating Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "An individual, non-linked, participating savings life insurance plan designed to provide a combination of savings and protection. It offers a death benefit in case of the demise of the life assured during the policy term and a maturity benefit on survival till the end of the policy term. The plan also participates in the profits of the company through bonuses.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "Referred to as Sum Assured on Death and Sum Assured on Maturity. The specific amount is mentioned in the Policy Schedule.",
+    "policy_term": "The document references policy terms of 10, 12, and 15 years.",
+    "waiting_period": "For death due to suicide, there is a 12-month waiting period from the date of commencement of risk or revival. For a Life Assured aged less than 12 years, full risk cover commences on the last day of the second Policy Year."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the event of the unfortunate demise of the Life Assured after the Risk Commencement Date but before the Policy Maturity Date, the company will pay the Death Benefit to the eligible person. The benefit consists of the Sum Assured on Death plus applicable Guaranteed Terminal Additions, vested Simple Reversionary Bonus (if declared), and Terminal Bonus (if declared)."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "If the Life Assured survives until the Policy Maturity Date and the policy is in force, the company will pay the Maturity Benefit. This includes the Sum Assured on Maturity, Guaranteed Terminal Additions, vested Simple Reversionary Bonus (if declared), and Terminal Bonus (if declared). The maturity benefit shall not be less than 101% of the Total Premiums Paid."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Terminal Additions",
+      "description": "A guaranteed benefit accrued to the policy from the end of the 5th policy year, payable on death or maturity. It is a percentage of the Sum Assured on Maturity, with rates increasing from 7.5% at the end of year 5 to 45% at the end of year 15."
+    },
+    {
+      "name": "Bonus Participation",
+      "description": "The policy participates in the surplus of the participating fund. Bonuses may be declared in the form of a Simple Reversionary Bonus (percentage of Sum Assured on Maturity) and a Terminal Bonus, payable on death or maturity."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policy loans are available during the policy term. The loan amount can be a maximum of 80% of the surrender value. The interest rate is variable and calculated based on the 10-year benchmark G-Sec Yield."
+    },
+    {
+      "name": "Rider Benefits",
+      "description": "Optional riders can be attached to the base policy for additional premium, providing extra coverage subject to rider terms and conditions."
+    },
+    {
+      "name": "Reduced Paid-up Value",
+      "description": "For policies with a 5-year premium payment term, if at least one full year's premiums have been paid and subsequent premiums are not paid, the policy acquires a Reduced Paid-up Value, payable on death or maturity."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Individual Plan",
+      "description": "This is an individual life insurance plan."
+    },
+    {
+      "criteria": "Minor Life",
+      "description": "The policy can be issued on the life of a minor. If issued on a minor's life, the policy will vest on them upon attaining the age of majority."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the Date of Commencement of Risk or from the date of Revival of the Policy, the nominee or beneficiary shall be entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death, whichever is higher, provided the policy is In Force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Maturity Claim Process",
+      "description": "To claim the maturity benefit, the policy must have matured with the Life Assured alive, all premiums paid, and no outstanding claims. The policyholder needs to submit the original policy document, NEFT mandate/discharge voucher, NEFT supporting documents, and KYC documents.",
+      "documentation": [
+        "Original Policy Document",
+        "NEFT mandate / discharge voucher",
+        "NEFT supporting documents",
+        "KYC documents"
+      ]
+    },
+    {
+      "type": "Death Claim Process",
+      "description": "The death benefit is payable if the death occurs before the maturity date, policy provisions are not attracted, and the policy is in force. The claim must be intimated within 90 days from the date of death. Required documents vary based on the cause of death (natural or unnatural).",
+      "documentation_natural_death": [
+        "Completed claim form (including NEFT details)",
+        "Original Policy",
+        "Original or attested copy of Death Certificate",
+        "Claimant’s identity and residence proof"
+      ],
+      "documentation_unnatural_death": [
+        "Completed claim form (including NEFT details)",
+        "Original Policy",
+        "Original or attested copy of Death Certificate",
+        "Claimant’s identity and residence proof",
+        "Original or attested copy of First Information Report (FIR) and Police Panchnama report",
+        "Original or attested copy of Postmortem report"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What type of insurance plan is HDFC Life Assured Gain Plus?",
+      "answer": "It is an Individual Non-Linked Participating Savings Life Insurance Plan."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have an option to return the policy for cancellation within 30 days from the date of receipt if you are not agreeable to any of its terms and conditions. The premium paid will be refunded after deducting proportionate risk premium, medical examination expenses (if any), and stamp duty charges."
+    },
+    {
+      "question": "What is the grace period for paying the premium?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other frequencies (quarterly, half-yearly, yearly). The policy remains in-force with risk cover during this period."
+    },
+    {
+      "question": "What happens if I miss a premium payment after the grace period?",
+      "answer": "If at least one full year's premium has not been paid, the policy will lapse. If at least one full year's premium has been paid (for a 5-year PPT), the policy will acquire a Reduced Paid-up Value."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a policy discontinued due to non-payment of premium can be revived within five consecutive years from the due date of the first unpaid premium, subject to receipt of all due premiums, charges, and continued insurability."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit includes the Sum Assured on Death plus applicable Guaranteed Terminal Additions, vested Simple Reversionary Bonus (if declared), and Terminal Bonus (if declared)."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' calculated for a regular premium policy?",
+      "answer": "It is the higher of 'X' times the Annualized Premium (X is 10 for entry age < 45, and 7 or 10 for entry age >= 45) or 105% of the Total Premiums Paid till the date of death."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' calculated for a single premium policy?",
+      "answer": "It is 1.25 times the Single Premium."
+    },
+    {
+      "question": "What constitutes the Maturity Benefit?",
+      "answer": "The Maturity Benefit, payable on survival till the policy maturity date, includes the Sum Assured on Maturity, Guaranteed Terminal Additions, vested Simple Reversionary Bonus (if declared), and Terminal Bonus (if declared)."
+    },
+    {
+      "question": "What are Guaranteed Terminal Additions?",
+      "answer": "These are guaranteed additions that accrue to the policy from the end of the 5th policy year. They are a percentage of the Sum Assured on Maturity and are payable on death or maturity."
+    },
+    {
+      "question": "Does this policy offer bonuses?",
+      "answer": "Yes, as a participating plan, it may be eligible for a Simple Reversionary Bonus and a Terminal Bonus, which are non-guaranteed and depend on the surplus generated by the company's participating fund."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life assured dies by suicide within 12 months from the start of the policy or its revival, the beneficiary will receive at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "For a 5-year premium payment term, the policy acquires a surrender value after one full year's premium has been paid. For single premium policies, it can be surrendered anytime during the policy term."
+    },
+    {
+      "question": "What will be my surrender value?",
+      "answer": "The surrender value will be the higher of the Guaranteed Surrender Value (GSV) and the Special Surrender Value (SSV)."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can avail a loan up to a maximum of 80% of the policy's surrender value."
+    },
+    {
+      "question": "What happens if the life assured is a minor (under 12 years) and dies early in the policy term?",
+      "answer": "If the life assured is less than 12 years old and dies before the last day of the second policy year, the death benefit is restricted to a refund of premiums paid without interest. Full risk cover begins from the last day of the second policy year."
+    },
+    {
+      "question": "What documents are required for a maturity claim?",
+      "answer": "The basic documents are the Original Policy Document, NEFT mandate/discharge voucher, NEFT supporting documents, and KYC documents."
+    },
+    {
+      "question": "What documents are required for a death claim due to natural causes?",
+      "answer": "The basic documents are a completed claim form, original policy, original or attested death certificate, and the claimant's identity and residence proof."
+    },
+    {
+      "question": "Are there additional documents for an unnatural death claim?",
+      "answer": "Yes, in addition to the standard documents, you need to provide an original or attested copy of the First Information Report (FIR), Police Panchnama report, and Postmortem report."
+    },
+    {
+      "question": "Is there a time limit to intimate a death claim?",
+      "answer": "The claim should be intimated within 90 days from the date of death. However, a delay may be condoned if it is genuine and for reasons beyond the claimant's control."
+    },
+    {
+      "question": "Who receives the benefits under the policy?",
+      "answer": "The death benefit is payable to the nominee (if the policyholder and life assured are the same) or to the policyholder (if they are different). All other benefits, like maturity and surrender, are payable to the policyholder. If assigned, benefits are paid to the assignee."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can request an alteration in the premium payment mode. This may lead to a change in the premium amount."
+    },
+    {
+      "question": "What happens if my age was declared incorrectly in the proposal?",
+      "answer": "If the correct age makes the life assured ineligible, the policy may be cancelled with a refund of premiums (less expenses). If eligible, the premium will be adjusted based on the correct age from the next policy anniversary."
+    },
+    {
+      "question": "How can I contact HDFC Life for queries or service requests?",
+      "answer": "You can call the toll-free number 1800 266 9777, email onlinequery@hdfclife.in, or write to the correspondence address: HDFC Life Insurance Company Limited, 11th Floor Lodha Excelus, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi, Mumbai-400011."
+    },
+    {
+      "question": "What is a 'Reduced Paid-up' policy?",
+      "answer": "For policies with a 5-year premium payment term where at least one full year's premiums have been paid, if you stop paying further premiums, the policy continues with reduced benefits (Reduced Paid-up value) instead of lapsing. This benefit is payable on death or maturity."
+    }
+  ],
+  "source_file": "HDFC-Life-Assured-Gain-Plus-101N151V03-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,241 @@
+{
+  "product_name": "ABSLI Assured Savings Plan",
+  "company": "Aditya Birla Sun Life Insurance Co. Ltd.",
+  "product_type": "A Non-Linked Non-Participating Individual Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "The ABSLI Assured Savings Plan is a savings life insurance plan designed to provide both life insurance cover and savings benefits. It helps safeguard your family from financial crisis in case of an unfortunate event, while also helping you accumulate a lump sum benefit to achieve your dreams and life's milestones with a cushion of guarantee.",
+  "quick_facts": {
+    "minimum_age": "Single Life: 30 days; Joint Life: 18 years",
+    "maximum_age": "Single Life: 65 years; Joint Life: 50 years; Single Pay Option B: 50 years",
+    "sum_insured": "The Sum Assured is a multiple of the Annualized Premium or Single Premium, depending on the life insured's age. For POS policies, the maximum Sum Assured on Death is Rs. 25,00,000.",
+    "policy_term": "From 5 years to 35 years, depending on the premium payment term chosen.",
+    "waiting_period": "Suicide exclusion is applicable for 12 months from the date of commencement of risk or from the date of revival of the policy."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the event of death of the Life Insured during the Policy Term, a lump sum guaranteed Death Benefit is payable to the nominee. The benefit consists of the Sum Assured on Death plus Accrued Loyalty Additions."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy Term, a lump sum Maturity Benefit is paid, which includes the Guaranteed Maturity Benefit plus Accrued Loyalty Additions."
+    },
+    {
+      "type": "Joint Life Protection",
+      "description": "An option available with Limited Pay policies to cover the policyholder's spouse under the same policy. The coverage for the secondary life is 20% of the Sum Assured of the primary life."
+    },
+    {
+      "type": "Rider Benefits",
+      "description": "Option to enhance protection by adding riders for Accidental Death, Critical Illness, Surgical Care, Hospital Care, and Waiver of Premium at an additional cost."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Maturity Benefit",
+      "description": "Provides a lump sum payout at the end of the policy term to cater to your life’s milestones."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "Boosts your maturity corpus by adding a percentage of total premiums paid to your policy year on year after the premium payment term."
+    },
+    {
+      "name": "Financial Security for Loved Ones",
+      "description": "Offers comprehensive risk cover to protect your family in case of your unfortunate demise."
+    },
+    {
+      "name": "Flexibility",
+      "description": "Provides a choice of various Premium Payment Terms, Policy Terms, and Sum Assured Multiples to suit individual requirements."
+    },
+    {
+      "name": "Joint Life Protection Option",
+      "description": "Allows you to cover your spouse in the same policy for comprehensive family protection."
+    },
+    {
+      "name": "Enhanced Protection through Riders",
+      "description": "Option to avail additional risk cover through various riders on payment of additional premium."
+    },
+    {
+      "name": "Policy Loan Facility",
+      "description": "You can take a loan against your policy once it has acquired a Surrender Value, up to a maximum of 80% of the surrender value."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "You may be entitled to applicable tax benefits on premiums paid and benefits received under the policy, subject to tax laws."
+    },
+    {
+      "name": "Staggered Death Benefit",
+      "description": "The nominee has an option to receive the death benefit in equal Annual or Monthly instalments over a period of 5 years instead of a lump sum."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry (Single Life)",
+      "details": "Minimum: 30 days, Maximum: 65 years"
+    },
+    {
+      "criteria": "Age at Entry (Joint Life)",
+      "details": "Minimum: 18 years, Maximum: 50 years"
+    },
+    {
+      "criteria": "Age at Entry (Single Pay Option B)",
+      "details": "Maximum: 50 years"
+    },
+    {
+      "criteria": "Maturity Age",
+      "details": "Minimum: 18 years, Maximum: 85 years (70 years for Single Pay Option B)"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "Single Pay, or Limited Pay for 5, 6, 7, 8, 9, 10, 11, or 12 years"
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "details": "Varies from 5 to 35 years based on the chosen PPT."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "details": "Single Pay: Rs. 100,000; 5 Pay: Rs. 20,000; 6-12 Pay: Rs. 30,000"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee shall be entitled to receive the higher of total premiums paid till date of death or surrender value available on the date of death. This applies to both primary and secondary life insureds in a joint life policy."
+    },
+    {
+      "type": "Rider Exclusions",
+      "description": "There are exclusions attached to the riders. Please refer to the specific rider brochure for more details."
+    }
+  ],
+  "claims_information": [
+    {
+      "topic": "Death Benefit Payout",
+      "details": "In the event of the life insured's death while the policy is in-force, the Death Benefit is paid as a lump sum to the Nominee(s) or Legal heir(s)."
+    },
+    {
+      "topic": "Payout Options",
+      "details": "The nominee has an option to take the Death Benefit in equal Annual or Monthly instalments over a period of 5 years instead of a lump sum."
+    },
+    {
+      "topic": "Nomination",
+      "details": "Nomination is allowed as per Section 39 of the Insurance Act, 1938. Nomination can only be effected if the Policyholder and Life Insured are the same person."
+    },
+    {
+      "topic": "Assignment",
+      "details": "Assignment of the policy is allowed as per Section 38 of the Insurance Act, 1938."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ABSLI Assured Savings Plan?",
+      "answer": "It is a Non-Linked Non-Participating Individual Savings Life Insurance Plan that offers a combination of life insurance cover and savings benefits to help you achieve your financial goals while securing your family's future."
+    },
+    {
+      "question": "Is this a market-linked insurance plan?",
+      "answer": "No, this is a non-linked, non-participating traditional insurance plan. All benefits are guaranteed throughout the policy term, provided all due premiums are paid."
+    },
+    {
+      "question": "What are the key benefits of this plan?",
+      "answer": "The key benefits are a Guaranteed Maturity Benefit, Loyalty Additions to boost your corpus, financial security for your family through a death benefit, flexibility in choosing terms, and an option for Joint Life Protection."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for this plan?",
+      "answer": "For a Single Life policy, the minimum entry age is 30 days and the maximum is 65 years. For a Joint Life policy, the minimum is 18 years and the maximum is 50 years."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "You can choose a Single Pay option or Limited Premium Payment terms of 5, 6, 7, 8, 9, 10, 11, or 12 years."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "The policy terms range from 5 years to 35 years, depending on the premium payment term you choose."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annualized premium is Rs. 100,000 for Single Pay, Rs. 20,000 for a 5-year premium payment term, and Rs. 30,000 for premium payment terms of 6 to 12 years."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "If you survive till the end of the policy term, you will receive a lump sum payment which is the sum of the Guaranteed Maturity Benefit and all accrued Loyalty Additions."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are added to your policy as a percentage of total premiums paid. For Limited Pay policies, they accrue after the premium payment term ends. For Single Pay policies, they accrue from the end of the 2nd policy year. They are paid out at maturity to boost your final payout."
+    },
+    {
+      "question": "What is the Death Benefit under this plan?",
+      "answer": "In case of the life insured's death during the policy term, the nominee will receive the Sum Assured on Death plus any accrued Loyalty Additions."
+    },
+    {
+      "question": "Can the Death Benefit be received in installments?",
+      "answer": "Yes, the nominee can choose to receive the death benefit in equal annual or monthly installments over a period of 5 years."
+    },
+    {
+      "question": "What is the Joint Life Protection option?",
+      "answer": "This option allows you to cover your spouse in the same policy. It is available only for Limited Pay policies and must be chosen at the start of the policy."
+    },
+    {
+      "question": "What happens if the primary life insured dies in a Joint Life policy?",
+      "answer": "The Sum Assured for the primary life is paid to the secondary life (spouse), all future premiums are waived, and the policy continues. The spouse becomes the sole policyholder."
+    },
+    {
+      "question": "What happens if the secondary life insured (spouse) dies first in a Joint Life policy?",
+      "answer": "The Sum Assured for the secondary life is paid to the primary life insured, who must continue paying any due premiums for the policy to remain in force."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can take a policy loan of up to 80% of the surrender value. The minimum loan amount is Rs. 5,000."
+    },
+    {
+      "question": "When does the policy acquire a surrender value?",
+      "answer": "For Limited Pay policies, the policy acquires a surrender value after premiums for the first two full policy years have been paid. For Single Pay policies, it acquires a surrender value anytime after issuance."
+    },
+    {
+      "question": "What happens if I stop paying my premiums?",
+      "answer": "If you stop paying premiums after the policy has acquired a surrender value, it will be converted into a Reduced Paid-Up (RPU) policy with reduced benefits. If it has not acquired a surrender value, the policy will lapse and all benefits will cease."
+    },
+    {
+      "question": "Can a lapsed or a Reduced Paid-Up policy be revived?",
+      "answer": "Yes, you can revive a lapsed or RPU policy within five years from the due date of the first unpaid premium by paying all outstanding premiums with interest and providing evidence of insurability."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 30 days is allowed for annual, semi-annual, and quarterly modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "Are there any riders available with this plan?",
+      "answer": "Yes, you can enhance your coverage by adding riders like ABSLI Accidental Death Benefit Rider Plus, Critical Illness Rider, Surgical Care Rider, Hospital Care Rider, and Waiver of Premium Rider. Riders are not available if the Joint Life Protection option is chosen."
+    },
+    {
+      "question": "What is the suicide exclusion clause in this policy?",
+      "answer": "If the life insured dies due to suicide within 12 months from the policy's start date or revival date, the benefit will be limited to the higher of the total premiums paid or the surrender value."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 15-day free-look period (30 days for electronic or distance marketing policies) from the date of receiving the policy document to review its terms and conditions. If you are not satisfied, you can return it for a refund."
+    },
+    {
+      "question": "Are there any tax benefits on this plan?",
+      "answer": "Yes, you may be entitled to applicable tax benefits on premiums paid and benefits received under your policy, subject to the prevailing tax laws."
+    },
+    {
+      "question": "Does the maturity benefit increase if I pay a higher premium?",
+      "answer": "Yes, the plan offers a higher maturity benefit for policies with higher premium payments, as benefits vary by premium bands."
+    },
+    {
+      "question": "Can the nominee be different from the legal heir?",
+      "answer": "Yes, the policyholder can nominate a person to receive the policy benefits. In the absence of a nomination, the benefit is paid to the legal heir(s)."
+    },
+    {
+      "question": "What happens to the policy after the maturity benefit is paid?",
+      "answer": "The policy terminates immediately and automatically after the maturity benefit has been paid."
+    },
+    {
+      "question": "Who can be covered under this policy?",
+      "answer": "The policy provides coverage for all individuals, including Male, Female, and Transgender."
+    }
+  ],
+  "source_file": "ABSLI_Assured_Savings_Plan_Brochure_Web_Version_V08_a623a971ac.txt",
+  "category": "LI Plan Brochure"
+}

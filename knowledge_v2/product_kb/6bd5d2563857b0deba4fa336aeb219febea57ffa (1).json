@@ -1,0 +1,144 @@
+{
+  "product_name": "ManipalCigna Sarvah",
+  "product_type": "Health Insurance",
+  "summary": "ManipalCigna Sarvah is a comprehensive health insurance product offering three distinct plans (Pratham, Uttam, and Param) tailored to provide different levels of coverage. The product features wellness benefits, zero waiting periods, unlimited restoration, and coverage up to ₹3 crores for major illnesses.",
+  "coverage": [
+    "Hospitalization coverage up to ₹3 crores for major illnesses",
+    "Unlimited restoration of base sum insured for related and unrelated illness/injury",
+    "Personal accident cover up to ₹3 crores",
+    "Maternity and Newborn hospitalization expenses",
+    "Non-medical expenses coverage including gloves, masks, and durable medical equipment",
+    "Anant Care with unlimited coverage for Heart Conditions, Cancer, Stroke, Major Organ/Bone Marrow Transplant or Accident"
+  ],
+  "waiting_periods": [
+    "Zero waiting period with Tatkal benefit",
+    "Sarathi reduces listed PED waiting period to 30 days from usual 36 months for Pre-Existing diseases such as Asthma, Diabetes, Dyslipidemia, Obesity, Hypertension"
+  ],
+  "room_rent": [],
+  "co_pay": [
+    "No Zonal Co-pay ensuring treatment in any city of choice without additional financial burden"
+  ],
+  "deductible": [],
+  "claims_information": [
+    "Unlimited restoration of Sum Insured multiple times in a policy year",
+    "No limits on claims for major illnesses and accidents with Anant Care",
+    "Surplus benefit provides additional 100% of Sum Insured from day 1 for the first claim each policy year"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is ManipalCigna Sarvah?",
+      "answer": "ManipalCigna Sarvah is a comprehensive health insurance product offering three distinct plans (Pratham, Uttam, and Param) tailored to provide different levels of coverage for your health insurance needs."
+    },
+    {
+      "question": "What are the three plans available under ManipalCigna Sarvah?",
+      "answer": "The three plans available are Sarvah Pratham (Essential Health Insurance Plan), Sarvah Uttam (Infinite Health Insurance Plan), and Sarvah Param (Instant Health Insurance Plan)."
+    },
+    {
+      "question": "What is the maximum hospitalization coverage available?",
+      "answer": "ManipalCigna Sarvah provides hospitalization coverage up to ₹3 crores for major illnesses."
+    },
+    {
+      "question": "What is the Tatkal benefit?",
+      "answer": "Tatkal benefit ensures you have absolutely Zero Waiting Period, allowing you to receive care and coverage right from the start with no delays."
+    },
+    {
+      "question": "How much discount can I get for wellness benefits?",
+      "answer": "You can get up to 20% discount on your premium with wellness benefits by staying healthy and walking."
+    },
+    {
+      "question": "What discount do I get for no-claim years?",
+      "answer": "You can get up to 7.5% discount on a no-claim year."
+    },
+    {
+      "question": "What is the renewal discount offered?",
+      "answer": "You can get an extra 2.5% discount if you renew within 15 days."
+    },
+    {
+      "question": "What is the Sarathi benefit?",
+      "answer": "Sarathi reduces your listed PED (Pre-Existing Disease) waiting period to 30 days from the usual 36 months for conditions such as Asthma, Diabetes, Dyslipidemia, Obesity, and Hypertension."
+    },
+    {
+      "question": "What is the Gullak benefit?",
+      "answer": "Gullak benefit guarantees up to 15x bonus (1500% increase) over the base Sum Insured, irrespective of claims. Your Gullak balance grows by 100% of the Base Sum Insured each year."
+    },
+    {
+      "question": "What is unlimited restoration?",
+      "answer": "Unlimited restoration allows you to restore your Base Sum Insured unlimited times in a policy year for both related and unrelated illnesses or injuries, providing continuous protection."
+    },
+    {
+      "question": "What is the Surplus benefit?",
+      "answer": "Surplus benefit ensures additional 100% of Sum Insured from day 1 for the first claim each policy year, giving you double the protection."
+    },
+    {
+      "question": "What is Anant Care?",
+      "answer": "Anant Care provides unlimited coverage and no limits on claims for major illnesses including Heart Conditions, Cancer, Stroke, Major Organ/Bone Marrow Transplant or Accident."
+    },
+    {
+      "question": "Is there any zonal co-pay?",
+      "answer": "No, there are no zonal co-pay worries, ensuring faster recovery in the city of your choice without any additional financial burden."
+    },
+    {
+      "question": "What is covered under personal accident cover?",
+      "answer": "Personal accident cover provides fixed benefit coverage up to ₹3 crores to protect your family against accidents that can happen anytime, anywhere."
+    },
+    {
+      "question": "Are maternity and newborn expenses covered?",
+      "answer": "Yes, maternity and newborn hospitalization expenses are covered, providing peace of mind during life's precious milestones."
+    },
+    {
+      "question": "What non-medical expenses are covered?",
+      "answer": "Complete coverage is provided for non-medical items and durable medical equipment, including gloves, masks, and more."
+    },
+    {
+      "question": "Which plan includes Anant Care as base cover?",
+      "answer": "Anant Care is available as base cover in ManipalCigna Sarvah Param Plan, and as optional cover in Uttam and Pratham plans."
+    },
+    {
+      "question": "Which plans offer Gullak benefit?",
+      "answer": "Gullak benefit is available as an optional cover on payment of additional premium in ManipalCigna Sarvah Uttam Plan and ManipalCigna Sarvah Pratham Plan."
+    },
+    {
+      "question": "Which plans offer Sarathi benefit?",
+      "answer": "Sarathi benefit is available as an optional cover on payment of additional premium in ManipalCigna Sarvah Uttam Plan and ManipalCigna Sarvah Pratham Plan."
+    },
+    {
+      "question": "Which plans offer Personal Accident Cover?",
+      "answer": "Personal Accident Cover is available as an optional cover on payment of additional premium in all 3 plans."
+    },
+    {
+      "question": "Which plans offer Maternity and Newborn Coverage?",
+      "answer": "Maternity and Newborn Coverage is available as an optional cover on payment of additional premium in all 3 plans."
+    },
+    {
+      "question": "How does the Gullak benefit grow over time?",
+      "answer": "Starting with a base Sum Insured of ₹10L, the total Sum Insured grows by ₹10L each year, reaching ₹1.5 crores after 15 years, providing 15x bonus over the base amount."
+    },
+    {
+      "question": "What is the company's registration number?",
+      "answer": "ManipalCigna Health Insurance Company Limited has IRDAI Registration Number 151 and CIN: U66000MH2012PLC227948."
+    },
+    {
+      "question": "What is the toll-free number for customer support?",
+      "answer": "The toll-free customer support number is 1800-102-4462."
+    },
+    {
+      "question": "What is the UIN for ManipalCigna Sarvah?",
+      "answer": "The UIN for ManipalCigna Sarvah is MCIHLIP26038V022526."
+    },
+    {
+      "question": "Where is the registered office located?",
+      "answer": "The registered office is located at 401/402, 4th Floor, Raheja Titanium, Off Western Express Highway, Goregaon East, Mumbai – 400 063."
+    },
+    {
+      "question": "Has ManipalCigna won any awards?",
+      "answer": "Yes, ManipalCigna won the Health Insurance Category award in June 2025, based on a survey of 1800 people by NielsenIQ."
+    },
+    {
+      "question": "Where can I find detailed policy information?",
+      "answer": "For more details on coverage, waiting periods, exclusions, risk factors, terms and conditions, you can read the sales brochure/Prospectus/Policy Wordings available on the website's Download section."
+    }
+  ],
+  "source_file": "6bd5d2563857b0deba4fa336aeb219febea57ffa (1).txt",
+  "category": "Hi Document"
+}

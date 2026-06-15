@@ -1,0 +1,213 @@
+{
+  "product_name": "Shriram Life Early Cash Plan",
+  "company": "Shriram Life Insurance Company Limited",
+  "product_type": "A Non-linked Participating Life Individual Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "Shriram Life Early Cash Plan is a non-linked, participating individual savings plan designed to provide security and financial well-being. It offers a combination of death benefit, maturity benefit, and survival benefits in the form of cash bonuses. Policyholders can choose between an 'Early Cash Option' for regular income or a 'Super Growth Option' to accumulate bonuses. The plan also offers features like loans, high sum assured rebates, and the option to add riders.",
+  "quick_facts": {
+    "minimum_age": "3 years (age last birthday)",
+    "maximum_age": "55 years (age last birthday)",
+    "sum_insured": "Discounts are applicable for Sum Assured of Rs. 3,00,000 and above.",
+    "policy_term": "The document provides premium rates for policy terms of 10, 12, 15, and 20 years.",
+    "waiting_period": "For minor lives, risk cover starts from the 1st policy anniversary or at the age of attaining 18 years last birthday, whichever is earlier. For death due to suicide, a 12-month waiting period from the date of commencement or revival applies."
+  },
+  "coverage": [
+    {
+      "type": "Death",
+      "description": "Provides a lump sum payment in case of the life assured's death during the policy term."
+    },
+    {
+      "type": "Survival",
+      "description": "Provides regular income through cash bonuses if the 'Early Cash Option' is chosen and the life assured survives."
+    },
+    {
+      "type": "Maturity",
+      "description": "Provides a lump sum payment if the life assured survives until the end of the policy term."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the life assured during the policy term (for an in-force policy), the benefit payable is 'Death Sum Assured' plus accumulated accrued cash bonuses, if any, plus terminal bonus, if any. The Death Benefit will be at least 105% of Total Premiums received till the date of death."
+    },
+    {
+      "name": "Survival Benefit (Early Cash Option)",
+      "description": "If the Early Cash Option is chosen, the annual cash bonus declared will be paid as regular income starting from the end of the first policy year, depending on the chosen frequency. The minimum Cash Bonus payable is guaranteed at 3.52% of the Sum Assured p.a."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the life assured to the end of the policy term, the Basic Sum Assured plus accumulated cash accrued bonuses, if any, plus terminal bonus, if any, will be paid."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan of up to 80% of the surrender value can be availed. Interest accrues on the outstanding loan balance at a rate declared by the Company."
+    },
+    {
+      "name": "Paid-up Value",
+      "description": "If premiums are paid for at least two full years and then stopped, the policy acquires a paid-up value and continues with reduced benefits."
+    },
+    {
+      "name": "High Sum Assured Rebates",
+      "description": "A premium discount is applicable for high sum assured policies, starting from a Sum Assured of Rs. 3,00,000."
+    },
+    {
+      "name": "Rider Benefit",
+      "description": "Policyholders can opt for rider benefits by paying an additional premium. Details are provided in the rider endorsement."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "3 years (age last birthday)"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "55 years (age last birthday)"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "70 years"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee or beneficiary shall be entitled to 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim Process",
+      "description": "The claim must be intimated within 90 days from the date of death. Required documents include the original policy document, proof of death certificate, and identity proof of the nominee(s). Additional documents like FIR, post-mortem report may be required for accidental death."
+    },
+    {
+      "type": "Maturity Claim Process",
+      "description": "Required documents include the original policy document, identity proof of the policyholder, a cancelled cheque leaf or bank passbook copy, an NEFT mandate form, and a duly filled discharge form."
+    },
+    {
+      "type": "Claim Settlement Timelines",
+      "description": "Death claims not requiring investigation will be settled within 15 days of receiving the last required document. Claims requiring investigation will be completed within 45 days. Surrender requests will be processed within 7 days. Free look cancellations are processed within 7 days."
+    },
+    {
+      "type": "Interest on Delayed Claims",
+      "description": "If the company delays claim settlement beyond the stipulated timelines, it will pay interest at a rate which is the bank rate plus 2% above the bank rate prevalent at the beginning of the financial year."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Shriram Life Early Cash Plan?",
+      "answer": "It is a non-linked, participating life insurance individual savings plan that offers death, survival, and maturity benefits."
+    },
+    {
+      "question": "What is the minimum age to be insured under this plan?",
+      "answer": "The minimum age at entry is 3 years (age last birthday)."
+    },
+    {
+      "question": "What is the maximum age to be insured under this plan?",
+      "answer": "The maximum age at entry is 55 years (age last birthday)."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "The death benefit is the 'Death Sum Assured' plus any accumulated accrued cash bonuses and terminal bonus. It will be at least 105% of the total premiums paid till the date of death."
+    },
+    {
+      "question": "How is the 'Death Sum Assured' defined?",
+      "answer": "The 'Death Sum Assured' is defined as the highest of: 10 times the Annualized Premium (for age up to 50 years) or 7 times the Annualized Premium (for age above 50 years), or 105% of Total Premiums received till the date of death."
+    },
+    {
+      "question": "What happens if the policyholder commits suicide?",
+      "answer": "If death by suicide occurs within 12 months from the policy's commencement or revival date, the nominee will receive 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "What is the maturity benefit?",
+      "answer": "If the life assured survives till the end of the policy term, the Basic Sum Assured plus any accumulated cash accrued bonuses and terminal bonus will be paid."
+    },
+    {
+      "question": "What is the 'Early Cash Option' for survival benefits?",
+      "answer": "Under the Early Cash Option, the annual cash bonus declared is paid out as regular income starting from the end of the first policy year."
+    },
+    {
+      "question": "Is there a guaranteed bonus with the Early Cash Option?",
+      "answer": "Yes, a minimum Cash Bonus is guaranteed at 3.52% of the Sum Assured per annum."
+    },
+    {
+      "question": "What is the 'Super Growth Option'?",
+      "answer": "Under the Super Growth Option, declared bonuses are not paid out but are accrued under the policy to accumulate as a corpus, which becomes payable at the end of the policy term, on death, or on surrender."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "A grace period of 30 days is allowed for yearly, half-yearly, and quarterly premium payment modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "What happens if I miss a premium payment and the grace period expires?",
+      "answer": "If the policy has not acquired a surrender value, it will lapse. If it has acquired a surrender value (by paying premiums for at least 2 full years), it will become a paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within a period of five consecutive years from the date of the first unpaid premium by paying all outstanding premiums with interest."
+    },
+    {
+      "question": "When does the policy acquire a surrender value?",
+      "answer": "The policy acquires a Guaranteed Surrender Value after all due premiums for at least two full years have been paid. It acquires a Special Surrender Value after the completion of the first policy year if at least one full year's premium has been paid."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, you can take a loan up to a maximum of 80% of the surrender value."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "The policyholder has a free look period of 30 days from the date of receiving the policy document to review its terms and conditions."
+    },
+    {
+      "question": "What happens if I return the policy during the Free Look period?",
+      "answer": "If you return the policy stating your reasons, you will receive a refund of the premium paid, subject to a deduction for proportionate risk premium for the period of cover, medical examination expenses, and stamp duty charges."
+    },
+    {
+      "question": "What documents are required to make a death claim?",
+      "answer": "The primary documents are the original policy document, proof of death/death certificate, and identity proof of the nominee. Additional documents may be needed depending on the cause of death."
+    },
+    {
+      "question": "What documents are required for a maturity claim?",
+      "answer": "The required documents are the original policy document, identity proof of the policyholder, a cancelled cheque or bank passbook copy, an NEFT mandate form, and a duly filled discharge form."
+    },
+    {
+      "question": "What is the timeline for the company to settle a death claim?",
+      "answer": "A death claim that does not require investigation must be paid or rejected within 15 days from receipt of the last required document. If an investigation is required, it should be completed within 45 days."
+    },
+    {
+      "question": "When does the risk cover start for a minor life assured?",
+      "answer": "For minor lives, the risk cover starts from the 1st policy anniversary or upon attaining 18 years of age (last birthday), whichever is earlier."
+    },
+    {
+      "question": "What happens if a minor life assured dies before the risk cover commences?",
+      "answer": "In case of death of the minor life assured before the risk cover commences, the total premiums paid will be refunded, and the policy will be terminated."
+    },
+    {
+      "question": "Can I change my premium payment frequency during the policy term?",
+      "answer": "Yes, a change of mode (premium payment frequency) during the premium paying term is allowed under this plan."
+    },
+    {
+      "question": "What should I do if my contact address changes?",
+      "answer": "You must submit your new contact details along with address proof to the nearest branch, divisional office, or contact customer care via email or the toll-free number."
+    },
+    {
+      "question": "What happens if the age of the life assured was stated incorrectly in the proposal?",
+      "answer": "The policy benefits will be revised based on the correct age. If the correct age makes the life assured ineligible for the policy, the contract will be terminated by paying the surrender value, if any."
+    },
+    {
+      "question": "How do I make a nomination for this policy?",
+      "answer": "Nomination should be made in the proposal form as per Section 39 of The Insurance Act, 1938. If not done at the time of proposal, it can be done later through the Divisional Office where the policy is serviced."
+    },
+    {
+      "question": "How can I get a duplicate policy document if I lose the original?",
+      "answer": "You must submit a duly notarized indemnity bond. A processing fee of Rs. 100 and applicable stamp duty will be payable."
+    }
+  ],
+  "source_file": "SLI  early cash plan policy_document_offline_ecp_v03.txt",
+  "category": "LI Policy Bond Documents"
+}

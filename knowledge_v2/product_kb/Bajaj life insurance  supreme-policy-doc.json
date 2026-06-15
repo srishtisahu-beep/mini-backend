@@ -1,0 +1,177 @@
+{
+  "product_name": "Bajaj Life Supreme A Unit Linked Non-Participating Individual Life Savings Insurance Plan",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "Unit Linked Non-Participating Individual Life Savings Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "A unit-linked, non-participating individual life savings insurance plan that is market-linked and provides life insurance coverage. The policy offers death and maturity benefits, with premiums invested in a choice of funds. It includes loyalty benefits such as Loyalty Additions, Return of Mortality Charges, and a Guaranteed Wealth Booster. The plan comes in nine variants and provides flexibilities like partial withdrawals, top-up premiums, and the ability to alter the policy term.",
+  "quick_facts": {
+    "minimum_age": "Not specified, but a policy can be issued on the life of a Minor.",
+    "maximum_age": "Not specified.",
+    "sum_insured": "As chosen by the policyholder.",
+    "policy_term": "As chosen by the policyholder, with an option to increase it during the policy duration.",
+    "waiting_period": "A 5-year Lock-In Period applies, during which surrender proceeds are not paid out and partial withdrawals are not allowed. A 12-month waiting period applies for death due to suicide from the date of commencement or revival."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On the death of the Life Assured during the policy term, the benefit paid is the higher of the Fund Value, 105% of all premiums paid, or the Sum Assured. Any partial withdrawals made in the two years prior to the date of death will be reduced from the Sum Assured at the time of claim."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the Life Assured to the maturity date of the policy, the Fund Value as on the date of maturity will be paid."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "At the end of every year starting from the 16th policy year, 0.25% of the average Fund Value of the last three years is added to the fund, provided all due premiums have been paid."
+    },
+    {
+      "name": "Return of Mortality Charges (ROMC)",
+      "description": "At the end of the 15th policy year, all mortality charges deducted until then are added back to the Fund Value. Subsequently, charges are returned every 5th policy year, with the balance returned at maturity."
+    },
+    {
+      "name": "Guaranteed Wealth Booster (GWB)",
+      "description": "At the end of the 15th policy year, an amount is added to the Fund Value, calculated by accumulating the Premium Allocation Charges at a guaranteed rate of 7% compounded annually."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "On maturity or death, the policyholder or nominee can choose to receive the benefit in instalments over a maximum period of 5 years."
+    }
+  ],
+  "eligibility": [
+    {
+      "condition": "Minor Life Assured",
+      "description": "The policy can be purchased for a Minor. Upon the Life Assured attaining the age of 18, the policy automatically vests in them, making them the Policyholder."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the Life Assured dies due to suicide within 12 months from the date of commencement of the policy or from the date of the latest revival, the nominee or beneficiary will be entitled to the fund value as available on the date of intimation of death. Any charges other than Fund Management Charges recovered subsequent to the date of death shall be added back to the fund value."
+    }
+  ],
+  "claims_information": [
+    {
+      "title": "Death Claim Process",
+      "description": "To make a claim for death benefits, a written intimation of death must be provided to the company along with the required documents."
+    },
+    {
+      "title": "Required Documents for Death Claim",
+      "description": "The following documents are required: 1. Written Notice of Intimation of Death; 2. Original Death Certificate; 3. Medical cause of death certificate; 4. Copy of FIR (First Information Report) and PMR (Post-Mortem Report) if death is due to unnatural causes; 5. Any other documents that may be requested by the company for investigation."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What kind of insurance plan is the Bajaj Life Supreme Plan?",
+      "answer": "It is a unit-linked, non-participating, individual life savings insurance plan. This means it is a market-linked plan that does not participate in the insurance company's profits."
+    },
+    {
+      "question": "What is the 'Lock-In Period' for this policy?",
+      "answer": "The Lock-In Period is the first five policy years. During this period, you cannot make partial withdrawals, and if you surrender the policy, the funds will be held until the end of the lock-in period before being paid out."
+    },
+    {
+      "question": "What is the 'Grace Period' for paying premiums?",
+      "answer": "The Grace Period is an additional period to pay your premium after the due date. It is 15 days for monthly premium payments and 30 days for all other payment frequencies (quarterly, bi-annual, annual)."
+    },
+    {
+      "question": "What happens if I don't pay my premium within the grace period?",
+      "answer": "If you fail to pay the premium within the grace period, the policy will either be converted to a Discontinued Policy (if within the first 5 years) or a Paid-Up Policy (if after 5 years)."
+    },
+    {
+      "question": "What is a 'Discontinued Policy'?",
+      "answer": "If premiums are not paid within the grace period during the first five policy years, the policy becomes Discontinued. The Fund Value is transferred to the Discontinued Policy Fund, and the policy has limited or no benefits until revived or surrendered."
+    },
+    {
+      "question": "Can I revive a policy after I've missed premium payments?",
+      "answer": "Yes, a policy can be revived within 3 years from the date of the first unpaid premium. This requires paying all arrears of premiums and may require undergoing medical examinations at your own expense."
+    },
+    {
+      "question": "What is the Free Look Period?",
+      "answer": "You have a 30-day Free Look Period from the date you receive the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for a refund, subject to certain deductions."
+    },
+    {
+      "question": "Can I surrender my policy at any time?",
+      "answer": "Yes, you can surrender the policy at any time. The payout depends on whether you surrender during or after the 5-year lock-in period."
+    },
+    {
+      "question": "What is the payout if I surrender my policy during the first five years?",
+      "answer": "If you surrender during the first five policy years (Lock-In Period), the Fund Value will be moved to the Discontinued Policy Fund, and the amount will be paid out only after the end of the Lock-In Period, after deducting surrender charges."
+    },
+    {
+      "question": "What is the payout if I surrender my policy after five years?",
+      "answer": "If you surrender after the first five policy years, the Fund Value as on the date of surrender will be paid out to you."
+    },
+    {
+      "question": "Am I allowed to make partial withdrawals from my fund?",
+      "answer": "Yes, you can make partial withdrawals from your fund anytime after the 5-year lock-in period, subject to certain conditions like minimum withdrawal amount and maintaining a minimum fund balance."
+    },
+    {
+      "question": "What is the minimum amount I can withdraw partially?",
+      "answer": "The minimum partial withdrawal amount is ₹5,000."
+    },
+    {
+      "question": "Can I invest additional money into this policy?",
+      "answer": "Yes, you can pay additional Top-Up premiums anytime except in the last 5 years of the policy, provided all due premiums are paid. The minimum Top-Up premium is ₹5,000."
+    },
+    {
+      "question": "What are the main charges applicable to this policy?",
+      "answer": "The policy has several charges, including Premium Allocation Charges, Policy Administration Charges, Fund Management Charges, Discontinuance/Surrender Charges, Mortality Charges, and Miscellaneous Charges."
+    },
+    {
+      "question": "Are the charges in this policy fixed?",
+      "answer": "The Premium Allocation Charges and Mortality Charges are guaranteed throughout the policy term. However, the company may revise other charges like Fund Management and Policy Administration charges up to a specified maximum limit, with prior approval from IRDAI and a three-month notice to the policyholder."
+    },
+    {
+      "question": "What are the investment portfolio strategies available?",
+      "answer": "The plan offers five portfolio strategies: Wheel of Life Portfolio Strategy – II, Automatic Transfer Portfolio Strategy, Capital Preservation Oriented Strategy, Trigger Based Portfolio Strategy – II, and Investor Selectable Portfolio Strategy."
+    },
+    {
+      "question": "Can I choose my own funds for investment?",
+      "answer": "Yes, you can select your own funds and the proportion of investment under the 'Investor Selectable Portfolio Strategy'."
+    },
+    {
+      "question": "Can I change my policy term?",
+      "answer": "Yes, you can request to increase your policy term anytime during the policy's duration, subject to underwriting approval."
+    },
+    {
+      "question": "Is it possible to reduce my premium amount?",
+      "answer": "Yes, after paying premiums for 5 years, you can reduce the premium by up to 50%, subject to the product’s minimum premium rules. However, once reduced, it cannot be increased again."
+    },
+    {
+      "question": "What happens if my policy's fund value drops below a certain level?",
+      "answer": "If the fund value drops below one annualized premium (for regular premium policies), the policy may be Foreclosed. The company will first give you an option to pay due premiums or Top-Ups to continue the policy."
+    },
+    {
+      "question": "How is the Return of Mortality Charges (ROMC) benefit paid?",
+      "answer": "At the end of the 15th policy year, all mortality charges deducted are added back to the Fund Value. If the policy continues, charges are returned every 5th policy year thereafter, and the remaining balance is returned at maturity."
+    },
+    {
+      "question": "When is the Guaranteed Wealth Booster (GWB) paid?",
+      "answer": "The Guaranteed Wealth Booster (GWB) is added to the Fund Value at the end of the 15th policy year."
+    },
+    {
+      "question": "What is a 'Paid-Up Policy'?",
+      "answer": "If premiums are discontinued after the first five policy years, the policy becomes a Paid-Up Policy. The death benefit is reduced proportionately to the number of premiums paid, and all applicable charges continue to be deducted."
+    },
+    {
+      "question": "Can I change my premium payment frequency, for example from annual to monthly?",
+      "answer": "Yes, you can alter the premium payment frequency at any time, provided the change meets the minimum premium conditions. A miscellaneous charge of Rs. 100 will apply."
+    },
+    {
+      "question": "What is the Settlement Option?",
+      "answer": "The Settlement Option allows you or your nominee to receive the maturity or death benefit in instalments over a maximum period of 5 years, instead of a lump sum. You can choose the frequency of these instalments."
+    },
+    {
+      "question": "What happens if the life assured dies during the settlement period after maturity?",
+      "answer": "If the settlement option was chosen on maturity and the life assured dies during this period, a lump sum payout equal to the higher of 105% of total premiums paid or the outstanding fund value will be payable."
+    },
+    {
+      "question": "Are partial withdrawals allowed during the settlement period?",
+      "answer": "No, partial withdrawals are not allowed if the settlement option has been chosen for receiving benefits."
+    }
+  ],
+  "source_file": "Bajaj life insurance  supreme-policy-doc.txt",
+  "category": "LI Policy Bond Documents"
+}

@@ -1,0 +1,209 @@
+{
+  "product_name": "HDFC Life Sanchay Plus",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "An individual non-participating, non-linked savings life insurance plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "HDFC Life Sanchay Plus is a non-participating, non-linked savings life insurance plan that offers guaranteed returns for you and your family. It provides financial security for key life stages with the flexibility of choosing lump sum or regular income benefits, including options for lifelong income.",
+  "quick_facts": {
+    "minimum_age": "30 days",
+    "maximum_age": "65 years",
+    "sum_insured": "No limit, subject to Board Approved Underwriting Policy (BAUP)",
+    "policy_term": "Varies by option, from 5 to 30 years",
+    "waiting_period": "Risk cover starts from the date of commencement of the policy."
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable upon survival of the life assured at the end of the policy term, provided all due premiums have been paid. The benefit payout depends on the chosen plan option: Guaranteed Maturity (lump sum), Guaranteed Income (fixed income for 10 or 12 years), Life Long Income (income till age 99), or Long Term Income (income for 25 or 30 years)."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Assured during the policy term, a death benefit is payable to the nominee. The Sum Assured on Death is the highest of: 10 times the Annualized Premium / 1.25 times the Single Premium, 105% of Total Premiums paid, Sum Assured on Maturity, or an absolute amount assured to be paid on death."
+    },
+    {
+      "name": "Optional Riders",
+      "description": "Enhance protection coverage by adding optional riders on payment of additional premium. Available riders include HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Protect Plus Rider, HDFC Life Health Plus Rider, and HDFC Life Waiver of Premium Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Benefits",
+      "description": "The plan offers assured returns, provided all due premiums have been paid and the policy is in force."
+    },
+    {
+      "name": "Flexibility",
+      "description": "Choose to receive guaranteed benefits as a lump sum or as regular income through four different plan options."
+    },
+    {
+      "name": "Life Long Income Option",
+      "description": "Provides a guaranteed income stream until the policyholder reaches age 99 years."
+    },
+    {
+      "name": "Long Term Income Option",
+      "description": "Offers a guaranteed income for a fixed term of 25 to 30 years."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "You may be eligible for tax benefits as per prevailing tax laws."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policy loan up to 80% of the surrender value can be availed once the policy has acquired a surrender value."
+    },
+    {
+      "name": "Shorter Premium Paying Terms",
+      "description": "The plan offers shorter premium paying terms for income options."
+    },
+    {
+      "name": "Single Pay Option",
+      "description": "A single premium payment option is available."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "Minimum: 30 days. Maximum: Up to 65 years, depending on the plan option chosen."
+    },
+    {
+      "criteria": "Age at Maturity",
+      "details": "Minimum: 18 years. Maximum: Up to 85 years, depending on the plan option chosen."
+    },
+    {
+      "criteria": "Minimum Premium",
+      "details": "Single Pay: ₹30,000; Annual: ₹30,000; Half-yearly: ₹15,000; Quarterly: ₹7,500; Monthly: ₹2,500."
+    },
+    {
+      "criteria": "Maximum Premium",
+      "details": "No limit, subject to Board Approved Underwriting Policy (BAUP). For POSP Variant, maximum premium is subject to a maximum Sum Assured on Death of ₹25,00,000."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival, the nominee or beneficiary shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Grievance Redressal",
+      "details": "For any concerns, you can contact HDFC Life through their helpline (022-68446530), email (service@hdfclife.com), by visiting a branch, or through their website."
+    },
+    {
+      "type": "Claim during Grace Period",
+      "details": "In case of a valid claim during the grace period before payment of the due premium, the claim shall be payable after deducting the due modal premium."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Sanchay Plus?",
+      "answer": "HDFC Life Sanchay Plus is an individual, non-participating, non-linked savings life insurance plan that offers guaranteed returns for you and your family."
+    },
+    {
+      "question": "Are the benefits under this plan guaranteed?",
+      "answer": "Yes, the plan offers guaranteed benefit payouts, provided all due premiums have been paid and the policy is in force."
+    },
+    {
+      "question": "What are the different benefit options available under this plan?",
+      "answer": "There are four benefit options: Guaranteed Maturity, Guaranteed Income, Life Long Income, and Long Term Income."
+    },
+    {
+      "question": "Can I change the benefit option after purchasing the policy?",
+      "answer": "No, the option once chosen cannot be altered throughout the policy term."
+    },
+    {
+      "question": "What is the Guaranteed Maturity option?",
+      "answer": "This option offers a maturity benefit payable as a lump sum at the end of the policy term. The benefit is equal to the Sum Assured on Maturity plus accrued Guaranteed Additions."
+    },
+    {
+      "question": "How does the Guaranteed Income option work?",
+      "answer": "This option pays a maturity benefit in the form of a guaranteed income for a fixed term of 10 or 12 years after the policy term ends."
+    },
+    {
+      "question": "What is the Life Long Income option?",
+      "answer": "This option provides a guaranteed income up to age 99 years and a return of total premiums paid at the end of the payout period."
+    },
+    {
+      "question": "What does the Long Term Income option offer?",
+      "answer": "This option offers a guaranteed income for a fixed term of 25 or 30 years and a return of total premiums paid at the end of the payout period."
+    },
+    {
+      "question": "What is the minimum age to be insured under this policy?",
+      "answer": "The minimum age at entry is 30 days."
+    },
+    {
+      "question": "What is the maximum age at which one can enter this policy?",
+      "answer": "The maximum age at entry depends on the plan option and can be up to 65 years."
+    },
+    {
+      "question": "What are the minimum premium payment amounts?",
+      "answer": "The minimum premium is ₹30,000 for Single and Annual pay, ₹15,000 for Half-yearly, ₹7,500 for Quarterly, and ₹2,500 for Monthly modes."
+    },
+    {
+      "question": "Can I enhance my coverage with riders?",
+      "answer": "Yes, you can enhance your protection with optional riders like HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Protect Plus Rider, and others by paying an additional premium."
+    },
+    {
+      "question": "What happens if the life assured dies during the policy term?",
+      "answer": "In case of death during the policy term, the death benefit, which is the Sum Assured on Death, will be paid to the nominee and the policy will terminate."
+    },
+    {
+      "question": "What happens if the life assured dies during the income payout period?",
+      "answer": "If the life assured dies during the payout period, the nominee will continue to receive the guaranteed income as scheduled. The nominee will also have an option to receive the future income as a lump sum."
+    },
+    {
+      "question": "Can I get my future income payouts as a single lump sum?",
+      "answer": "Yes, on the maturity date or at any point during the payout period, you have an option to receive the future income as a lump sum, which will be the present value of the future payouts."
+    },
+    {
+      "question": "What is the grace period for premium payments?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other frequencies. There is no grace period for Single Premium policies."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums after the grace period, the policy will either lapse (if it has not acquired a surrender value) or become a reduced paid-up policy (if it has acquired a surrender value)."
+    },
+    {
+      "question": "When can I surrender the policy?",
+      "answer": "You can surrender the policy anytime during the policy term. The policy acquires a Guaranteed Surrender Value upon payment of the Single Premium, or after payment of at least two years' premiums for Limited/Regular Pay policies."
+    },
+    {
+      "question": "Is there a loan facility available with this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "How can a lapsed policy be revived?",
+      "answer": "A lapsed policy can be revived within five years from the due date of the first unpaid premium by paying all due premiums and other charges, subject to continued insurability."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a free-look period of 30 days from the date of receipt of the policy to review the terms and conditions. If you are not satisfied, you can return the policy for a refund of premium, subject to certain deductions."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, a change of premium payment frequency is allowed."
+    },
+    {
+      "question": "Is there any extra benefit for higher premium amounts?",
+      "answer": "Yes, the plan offers an enhanced benefit for policies with an Annual/Single Premium of more than ₹1.5 lakhs."
+    },
+    {
+      "question": "What happens in case of death due to suicide?",
+      "answer": "If death by suicide occurs within 12 months of policy commencement or revival, the nominee is entitled to at least 80% of total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "What is the POSP Variant of this plan?",
+      "answer": "The POSP (Point of Sale Person) Variant has slightly different eligibility criteria, with a maximum Sum Assured on Death of ₹25,00,000 and no riders available."
+    },
+    {
+      "question": "How are Guaranteed Additions calculated in the Guaranteed Maturity option?",
+      "answer": "Guaranteed Additions (GA) accrue at every policy anniversary, starting from a specific year depending on the Premium Payment Term (PPT). For instance, for a 5-year PPT, GAs start accruing from year 6 onwards."
+    },
+    {
+      "question": "Can I change the frequency of my income payouts?",
+      "answer": "Yes, you can choose to receive the annual income at semi-annual, quarterly, or monthly intervals. The payout amount will be adjusted accordingly."
+    }
+  ],
+  "source_file": "HDFC Life Insurance  Sanchay-Plus-brochure.txt",
+  "category": "LI Plan Brochure"
+}

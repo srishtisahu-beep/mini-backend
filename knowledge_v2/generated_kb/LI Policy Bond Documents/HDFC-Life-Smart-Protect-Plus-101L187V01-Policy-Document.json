@@ -1,0 +1,201 @@
+{
+  "product_name": "HDFC Life Smart Protect Plus",
+  "company": "HDFC Life Insurance Company Limited",
+  "product_type": "Unit Linked Insurance Product (ULIP)",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual, Non-Participating, Savings",
+  "summary": "HDFC Life Smart Protect Plus is a Unit Linked Non-Participating Individual Life Insurance Savings Policy where the investment risk in the investment portfolio is borne by the policyholder. It offers four plan options providing a combination of life insurance cover and market-linked returns. The policy features death and maturity benefits, various loyalty additions, and has a mandatory lock-in period of five years.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document. Mortality charge table starts from age 0.",
+    "maximum_age": "Not specified in the document.",
+    "sum_insured": "The Minimum Basic Sum Assured is equal to 10 times the Annualized Premium.",
+    "policy_term": "As stated in the Policy Schedule.",
+    "waiting_period": "A lock-in period of five consecutive completed years from the policy commencement date applies. During this period, proceeds of discontinued policies cannot be paid out, except in case of death."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the policy term. The amount is the highest of Sum Assured (less recent partial withdrawals), Fund Value, or 105% of total premiums paid. Top-up death benefit is also payable if applicable."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable upon survival of the Life Assured until the maturity date. The benefit is the Fund Value plus any applicable Loyalty Additions. For plans with Capital Guarantee, it is the higher of the Fund Value plus Loyalty Additions or the Guaranteed Maturity Benefit."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Plan Options",
+      "description": "The policy offers four distinct plan options to choose from at inception: Level Cover, Level Cover with Capital Guarantee, Decreasing Cover, and Decreasing Cover with Capital Guarantee."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "The policy offers several loyalty additions in the form of extra units, including Return of Mortality Charge, Return of Premium Allocation Charge, Return of Fund Management Charge (FMC), Return of Guarantee Charge, and a Maturity Booster."
+    },
+    {
+      "name": "Partial Withdrawals",
+      "description": "Allowed any time after the first 5 policy years, provided the Life Assured is at least 18 years of age. Minimum withdrawal amount is Rs. 10,000. Systematic (recurring) withdrawals are also available."
+    },
+    {
+      "name": "Top-Up Premiums",
+      "description": "Policyholders can pay Top-Up Premiums anytime, provided the policy is in force and all due premiums have been paid. Top-ups are not permitted during the last 5 years of the contract."
+    },
+    {
+      "name": "Fund Switches",
+      "description": "The policyholder can switch investments from one fund to another available under the product. Unlimited switches are allowed. This is available for Level Cover and Decreasing Cover options."
+    },
+    {
+      "name": "Premium Redirection",
+      "description": "Policyholders can change the allocation of their future premiums to different funds. This is available for Level Cover and Decreasing Cover options."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Both maturity and death benefits can be received in periodical instalments over a period of up to 5 years, instead of a lump sum."
+    },
+    {
+      "name": "Capital Guarantee",
+      "description": "Available under 'Level Cover with Capital Guarantee' and 'Decreasing Cover with Capital Guarantee' options. It ensures the maturity benefit is at least equal to the total premiums paid less total partial withdrawals made."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Policyholder",
+      "details": "The person who holds the policy, as stated in the Policy Schedule."
+    },
+    {
+      "criteria": "Life Assured",
+      "details": "The person on whose life the policy is issued. The Life Assured can also be the Policyholder."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Death Benefit Exclusions",
+      "description": "The document states that the Death Benefit is subject to exclusions set out in Part F of the policy document. The specific details of these exclusions are not provided in the supplied text."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Recipient of Benefits",
+      "description": "The Death Benefit is payable to the registered Nominee(s) if the Policyholder and Life Assured are the same, or to the Policyholder if the Life Assured is different. All other benefits are payable to the Policyholder. If the policy is assigned, all benefits are payable to the Assignee."
+    },
+    {
+      "process_step": "NAV for Death Claim",
+      "description": "For a death claim, the Net Asset Value (NAV) of the date of intimation of death is applicable for calculating the Fund Value portion of the benefit."
+    },
+    {
+      "process_step": "Settlement Option on Death",
+      "description": "The nominee has the option to receive the Death Benefit in instalments (yearly, half-yearly, quarterly, or monthly) spread over a maximum period of five years. The investment risk during this period is borne by the nominee."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the HDFC Life Smart Protect Plus policy?",
+      "answer": "It is a Unit Linked Non-Participating Individual Life Insurance Savings Policy. In this policy, the investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "What is the lock-in period for this policy?",
+      "answer": "The lock-in period is five consecutive completed years from the policy commencement date. During this period, you cannot surrender or withdraw monies invested, except in case of death."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have an option to return the policy for cancellation within 30 days from the date of receipt if you are not agreeable to any of its terms and conditions."
+    },
+    {
+      "question": "What are the plan options available under this policy?",
+      "answer": "There are four plan options: A) Level Cover, B) Level Cover with Capital Guarantee, C) Decreasing Cover, and D) Decreasing Cover with Capital Guarantee. The chosen option cannot be altered during the policy term."
+    },
+    {
+      "question": "How is the Death Benefit calculated?",
+      "answer": "The Death Benefit payable is the highest of: (i) Sum Assured less partial withdrawals made in the two years preceding death, (ii) Fund Value, or (iii) 105% of Total Premiums paid up to the date of death."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "Upon survival till the maturity date, the Fund Value plus any applicable Loyalty Additions are paid. For options with Capital Guarantee, the benefit is the higher of this amount or the Guaranteed Maturity Benefit (Total Premiums Paid less Total Partial Withdrawals)."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for monthly premium payments and 30 days for all other frequencies (quarterly, half-yearly, annual)."
+    },
+    {
+      "question": "What happens if I stop paying premiums during the lock-in period?",
+      "answer": "If you stop paying premiums during the lock-in period, the Fund Value, after deducting discontinuance charges, will be moved to the Discontinued Policy Fund. The risk cover will cease. The proceeds will be paid out at the end of the lock-in period."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the lock-in period?",
+      "answer": "The policy will be converted into a reduced paid-up policy. You will have a revival period of three years to revive it. If not revived, the Fund Value will be paid at the end of the revival period."
+    },
+    {
+      "question": "Can I make partial withdrawals from my policy?",
+      "answer": "Yes, you can make partial withdrawals anytime after the first 5 policy years, provided the Life Assured is at least 18 years old. The minimum withdrawal amount is Rs. 10,000."
+    },
+    {
+      "question": "Can I switch my investments between different funds?",
+      "answer": "Yes, you can switch your investment or part of it from one fund to another. Unlimited switches are allowed, and there are no switching charges."
+    },
+    {
+      "question": "Can I pay extra premiums into my policy?",
+      "answer": "Yes, you can pay Top-Up Premiums as long as all due premiums have been paid. Top-ups are not permitted during the last 5 years of the policy term."
+    },
+    {
+      "question": "What is the Capital Guarantee feature?",
+      "answer": "Available under specific plan options, the Capital Guarantee ensures that at maturity, you receive at least the total premiums you have paid, less any partial withdrawals you have made."
+    },
+    {
+      "question": "What are the main charges deducted from the policy?",
+      "answer": "The main charges are Premium Allocation Charge, Policy Administration Charge, Fund Management Charge, and Mortality Charge. Other charges like Discontinuance Charge and Guarantee Charge may apply under specific conditions."
+    },
+    {
+      "question": "What is the Premium Allocation Charge?",
+      "answer": "This is a percentage of the premium deducted before allocating the remaining amount to purchase units. For annual mode, it is 12.5% in year 1, 7% in year 2, 6% in year 3, 3.5% in year 4, and 0% from year 5 onwards."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "This is a charge levied daily as a percentage of the fund's assets for managing the investment fund. The FMC for all funds, other than the Discontinued Policy Fund, is 1.35% per annum of the Fund Value."
+    },
+    {
+      "question": "What is the Mortality Charge?",
+      "answer": "This is the cost of the life insurance cover, deducted monthly from the fund value by cancelling units. It is based on the Sum at Risk and the attained age of the Life Assured."
+    },
+    {
+      "question": "Can the death or maturity benefit be paid in instalments?",
+      "answer": "Yes, the policy offers a Settlement Option where the maturity or death benefit can be received in periodical instalments over a period that may extend up to 5 years."
+    },
+    {
+      "question": "Can I revive a discontinued policy?",
+      "answer": "Yes, you have a revival period of three consecutive complete years from the date of the first unpaid premium to revive a discontinued policy by paying all due premiums."
+    },
+    {
+      "question": "Is there a loan facility available on this policy?",
+      "answer": "No, there is no facility of loan available from the company under this policy."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "These are extra units added to your fund at various points in the policy term as a reward for staying invested. They include returns of mortality charges, premium allocation charges, fund management charges, and more."
+    },
+    {
+      "question": "How does the 'Return of Mortality Charge' loyalty addition work?",
+      "answer": "Starting from policy year 11, a multiple (2 or 3 times) of the mortality charge deducted 120 months prior is added back to your fund each month."
+    },
+    {
+      "question": "What is Premium Redirection?",
+      "answer": "It is an option that allows you to change the allocation of your future premiums into a different fund or set of funds available under the policy."
+    },
+    {
+      "question": "Can I reduce my Sum Assured during the policy term?",
+      "answer": "Yes, at any policy anniversary, you have the option to reduce the Sum Assured, subject to the minimum sum assured limits under the policy."
+    },
+    {
+      "question": "What is the 'Maturity Booster' loyalty addition?",
+      "answer": "At maturity, a multiple of the Annualized Premium (1x or 2x depending on the premium payment term) is payable as a loyalty addition. This is not applicable if the Sum Assured is less than or equal to 30 times the Annualized Premium."
+    },
+    {
+      "question": "Who receives the death benefit if the nominee is a minor?",
+      "answer": "If the nominee is a minor, the death benefit is paid to the Appointee named by the policyholder in the nomination schedule."
+    },
+    {
+      "question": "Are there any charges for partial withdrawals or fund switches?",
+      "answer": "No, the document states there are no Partial Withdrawal Charges and no Switching Charges under this policy."
+    }
+  ],
+  "source_file": "HDFC-Life-Smart-Protect-Plus-101L187V01-Policy-Document.txt",
+  "category": "LI Policy Bond Documents"
+}

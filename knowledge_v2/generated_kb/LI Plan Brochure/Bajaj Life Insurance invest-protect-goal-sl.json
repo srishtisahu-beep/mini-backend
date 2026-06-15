@@ -1,0 +1,209 @@
+{
+  "product_name": "Bajaj Life Invest Protect Goal III",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "Unit Linked Insurance Plan (ULIP)",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Investment and Life Cover",
+  "summary": "Bajaj Life Invest Protect Goal III is a Unit Linked Life Insurance product designed to secure the financial future of your loved ones by providing life cover throughout the policy term, along with market-linked returns on invested premiums. It offers features like return of charges, loyalty additions, and a fund maintenance booster to help grow your corpus.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum 7 times the Annualised Premium. Maximum as per Board Approved Underwriting Policy.",
+    "policy_term": "Minimum 20 years, Maximum 40 years",
+    "waiting_period": "Suicide exclusion: 12 months from commencement or revival. Lock-in period: 5 years for surrender or withdrawal."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "On death of the Life Assured, the benefit payable is the higher of Prevailing Sum Assured or Regular Premium Fund Value, PLUS the higher of Top-up Premium fund value or Top-up premium Sum Assured. The total death benefit will not be less than 105% of the total premiums paid."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the Life Assured to the maturity date, the Total Fund Value as on the date of Maturity shall be payable."
+    },
+    {
+      "name": "Rider Coverage",
+      "description": "Option to enhance protection by opting for riders: Bajaj Life Linked Accident Protection Rider II, Bajaj Life Care Plus Rider, and Bajaj Life Linked New Critical Illness Benefit Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Market-Linked Returns",
+      "description": "Helps to grow your invested corpus through returns linked to capital market performance."
+    },
+    {
+      "name": "Return of Premium Allocation Charge (ROAC)",
+      "description": "At the end of the 15th Policy year, all premium allocation charges for Regular/Limited premiums are added back to your fund."
+    },
+    {
+      "name": "Return of Mortality Charge (ROMC)",
+      "description": "Mortality charges deducted during the policy term are added back to the fund in a staggered manner at the end of specific policy years."
+    },
+    {
+      "name": "Loyalty Addition",
+      "description": "A percentage of the average Regular Premium Fund Value is added to your fund at the end of policy years 10, 20, 30, and 40 as a reward for staying invested."
+    },
+    {
+      "name": "Fund Maintenance Booster (FMB)",
+      "description": "From the 4th policy year, if the Total Fund Value falls below one Annualized Premium, the company adds the shortfall to the Regular Premium Fund Value."
+    },
+    {
+      "name": "Family Benefit",
+      "description": "If a family member is an existing policyholder, a benefit of 1% of the average of the previous three years' daily Regular Premium Fund Value is added to the fund on maturity."
+    },
+    {
+      "name": "Tax Benefit",
+      "description": "Tax benefits are available as per applicable tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "Minimum 18 years, Maximum 60 years"
+    },
+    {
+      "criteria": "Age at Maturity",
+      "details": "Minimum 38 years, Maximum 100 years"
+    },
+    {
+      "criteria": "Policy Term",
+      "details": "Minimum 20 years, Maximum 40 years"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "Limited Pay (5, 6, 7, 8, 9, 10, 11, 12 years) or Regular Pay (Equal to Policy Term)"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement or revival of the policy, the nominee will be entitled to the Total Fund Value as available on the date of intimation of death. Any charges other than Fund Management Charges recovered after the date of death will be added back."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Death Claim",
+      "description": "On the unfortunate death of the life assured, the nominee will receive the Death Benefit. The benefit is calculated as on the date of intimation of death."
+    },
+    {
+      "type": "Maturity Claim",
+      "description": "On survival to the end of the policy term, the Maturity Benefit is payable to the policyholder."
+    },
+    {
+      "type": "Contact for Claims",
+      "description": "For claims and assistance, contact Bajaj Life Insurance via phone (020-67121212), email (customercare@bajajlife.com), or post at the company's registered address."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What type of product is Bajaj Life Invest Protect Goal III?",
+      "answer": "It is a Unit Linked Insurance Plan (ULIP) that offers a combination of life insurance cover and market-linked investment returns."
+    },
+    {
+      "question": "Who bears the investment risk in this policy?",
+      "answer": "In this ULIP policy, the investment risk in the investment portfolio is borne entirely by the policyholder."
+    },
+    {
+      "question": "Can I withdraw money during the first five years of the policy?",
+      "answer": "No, the policy has a lock-in period of five years. You will not be able to surrender or withdraw the invested money, completely or partially, until the end of the fifth year."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum age at entry for the life assured is 18 years, and the maximum age is 60 years."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "You can choose a policy term for a minimum of 20 years and a maximum of 40 years."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is the higher of the prevailing Sum Assured or Regular Premium Fund Value, plus the higher of the Top-up Premium fund value or Top-up premium Sum Assured. The total benefit will be at least 105% of all premiums paid."
+    },
+    {
+      "question": "What will I receive if I survive until the policy maturity date?",
+      "answer": "On surviving to the maturity date, you will receive the Total Fund Value as on that date."
+    },
+    {
+      "question": "What is the Loyalty Advantage feature?",
+      "answer": "The Loyalty Advantage rewards you for regular premium payments. It includes the Return of Premium Allocation Charge (ROAC) at the end of the 15th year and the Return of Mortality Charge (ROMC) at specified policy milestones."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are extra units added to your fund at the end of policy years 10, 20, 30, and 40, calculated as a percentage of the average of your previous three years' daily Regular Premium Fund Value."
+    },
+    {
+      "question": "What is the Fund Maintenance Booster (FMB)?",
+      "answer": "From the 4th policy year, if your Total Fund Value falls below one Annualized Premium, the company will add an amount (FMB) to your Regular Premium Fund Value to bring it up to one Annualized Premium."
+    },
+    {
+      "question": "What are the major charges in this policy?",
+      "answer": "The policy has several charges, including Premium Allocation Charge, Mortality Charge, Fund Management Charge, Policy Administration Charge, Miscellaneous Charge, and Discontinuance/Surrender Charge."
+    },
+    {
+      "question": "What is the minimum premium I can pay?",
+      "answer": "The minimum premium depends on the premium payment term (PPT) and frequency. For a PPT of 8 years and above, the minimum yearly premium is ₹18,000."
+    },
+    {
+      "question": "Can I enhance my protection with riders?",
+      "answer": "Yes, you can opt for riders like the Bajaj Life Linked Accident Protection Rider II, Bajaj Life Care Plus Rider, and Bajaj Life Linked New Critical Illness Benefit Rider for enhanced protection."
+    },
+    {
+      "question": "What investment strategies are available?",
+      "answer": "You can choose between two portfolio strategies: the Investor Selectable Portfolio Strategy, where you select your funds, and the Automatic Transfer Strategy, which systematically transfers money from a lower-risk to higher-risk funds over time."
+    },
+    {
+      "question": "Can I switch between funds?",
+      "answer": "Yes, if you have chosen the Investor Selectable Portfolio Strategy, you can make unlimited free switches between funds. The minimum switching amount is ₹5,000."
+    },
+    {
+      "question": "Is partial withdrawal allowed from the fund?",
+      "answer": "Yes, partial withdrawals are allowed from the 6th policy year onwards. The minimum withdrawal amount is ₹5,000, and certain conditions regarding the minimum fund balance apply."
+    },
+    {
+      "question": "Can I change my Sum Assured during the policy term?",
+      "answer": "Yes, you can request to increase or decrease your Sum Assured at any policy anniversary, subject to underwriting policies and minimum limits. This will not change your premium but will affect your mortality charges."
+    },
+    {
+      "question": "Can I pay extra premiums?",
+      "answer": "Yes, you can pay Top-Up premiums at any time during the policy term, except during the last five years. The minimum Top-Up premium is ₹5,000."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first 5 years?",
+      "answer": "If you discontinue premiums within the first 5 years, the policy becomes a Discontinued Life Policy. The fund value, less charges, is moved to the Discontinued Life Policy Fund, and risk cover ceases. You have a 3-year period to revive it."
+    },
+    {
+      "question": "What is the free look period for this policy?",
+      "answer": "You get a free look period of 30 days from the date you receive the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for cancellation and a refund."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 30 days is available for yearly, half-yearly, and quarterly premium payment modes, and 15 days for the monthly mode, starting from the premium due date."
+    },
+    {
+      "question": "Can a discontinued policy be revived?",
+      "answer": "Yes, a policy that has been discontinued or made paid-up due to non-payment of premiums can be revived within 3 years from the date of the first unpaid premium, subject to company approval and payment of all due premiums."
+    },
+    {
+      "question": "What is the Family Benefit?",
+      "answer": "If any of your family members (spouse, children, parents, etc.) is an existing Bajaj Life policyholder, you are entitled to a Family Benefit of 1% of the average of your previous three years' daily Regular Premium Fund Value, which is added to your fund at maturity."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If death due to suicide occurs within 12 months from the policy's commencement date or the date of its latest revival, the nominee will only be entitled to receive the Total Fund Value as on the date of death intimation."
+    },
+    {
+      "question": "Are there tax benefits with this plan?",
+      "answer": "Yes, tax benefits may be available as per the applicable tax laws in India. You are advised to consult your tax consultant for specific details."
+    },
+    {
+      "question": "What happens if I surrender the policy after the 5-year lock-in period?",
+      "answer": "If you surrender the policy after the lock-in period, the surrender value will be the Total Fund Value as on the date of surrender. The policy will terminate upon this payment."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the 5-year lock-in period?",
+      "answer": "If premiums are discontinued after 5 years, the policy automatically converts to a Paid-up Policy with a reduced Sum Assured. You will have a 3-year period to revive it, after which the surrender value will be paid out."
+    }
+  ],
+  "source_file": "Bajaj Life Insurance invest-protect-goal-sl.txt",
+  "category": "LI Plan Brochure"
+}

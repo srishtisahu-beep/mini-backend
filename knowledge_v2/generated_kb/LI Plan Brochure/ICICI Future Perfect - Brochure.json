@@ -1,0 +1,191 @@
+{
+  "product_name": "ICICI Pru Future Perfect",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Savings and Protection Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Limited Pay",
+  "summary": "An ideal savings and protection oriented plan to help fulfill goals like purchasing a flat, securing children’s future, and retirement planning. It provides a combination of life cover for the entire policy term and savings with guaranteed benefits at maturity, along with tax benefits and flexibility in choosing terms.",
+  "quick_facts": {
+    "minimum_age": "91 days (subject to premium payment term)",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum Basic Sum Assured on Death is ₹3,00,000",
+    "policy_term": "10 to 30 years (depending on premium payment term)",
+    "waiting_period": "Not specified for general coverage. A 12-month waiting period applies to the suicide clause."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On death of the life assured during the policy term, the benefit payable is the higher of A or B. A = Sum Assured on Death, plus subsisting bonuses already accrued, plus accrued guaranteed additions. B = 105% of all premiums received till the date of death. The Sum Assured on Death is defined as the highest of the Guaranteed Maturity Benefit (GMB), 10 times the Annualised Premium, or 105% of all premiums received till death."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of the life assured till the maturity date, the benefit payable includes: Guaranteed Maturity Benefit (GMB), accrued Guaranteed Additions (GAs), subsisting reversionary bonuses (if any), and terminal bonus (if any). The total benefit is subject to a minimum of 100.1% of the annualized premium."
+    },
+    {
+      "type": "Surrender Benefit",
+      "description": "The policy can be surrendered after payment of at least one full year's premium. The surrender value will be the higher of the Guaranteed Surrender Value (GSV) or the Special Surrender Value (SSV)."
+    },
+    {
+      "type": "Paid-up Benefit",
+      "description": "If premiums are discontinued after at least one full year's premium has been paid, the policy converts to a 'Paid-up' policy and continues with reduced benefits."
+    }
+  ],
+  "benefits": [
+    "Savings with Guarantees: Provides a Guaranteed Maturity Benefit (GMB) and accrued Guaranteed Additions (GAs).",
+    "Bonuses: Opportunity to receive vested reversionary bonuses and terminal bonus, based on company performance.",
+    "Protection: Provides a life cover for the entire policy term to protect the family's future.",
+    "Tax Benefits: Tax benefits may be available on premiums paid and benefits received as per prevailing tax laws.",
+    "Flexibility: Allows choice of premium payment term, premium payment frequency, premium amount, and policy term.",
+    "Loan Facility: Policyholders can avail a loan of up to 80% of the policy's Surrender Value."
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "91 days to 3 years, depending on the premium payment term."
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "60 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "85 years"
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "5, 7, 10, 12, 15, or 20 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "10 to 30 years, depending on the chosen PPT."
+    },
+    {
+      "criteria": "Minimum Annual Premium",
+      "value": "₹30,000"
+    },
+    {
+      "criteria": "Premium Paying Frequency",
+      "value": "Annual, Half-yearly, or Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "If the Life Assured commits suicide within 12 months from the date of commencement of risk or within one year from the date of revival, the benefit payable will be the higher of 80% of total premiums paid or the surrender value available on the date of death."
+    }
+  ],
+  "claims_information": [
+    "For any clarification or assistance, you may contact your advisor or call the customer service representative between 10:00 a.m. and 7:00 p.m., Monday to Saturday (excluding national holidays) at 1800 2660.",
+    "If you are not satisfied with the resolution, you may contact the designated grievance redressal officer (GRO) at gro@iciciprulife.com or 1800-2660.",
+    "If the issue remains unresolved, you can escalate it to the internal grievance redressal committee at ICICI Prudential Life Insurance Company Limited, Unit No. 901A, 901B, 1001A & 1002B, Prism Towers, Mindspace, Link Road, Goregaon (West), Mumbai- 400104, Maharashtra.",
+    "You may also approach the Grievance Cell of the IRDAI at complaints@irdai.gov.in or call 155255 / 1800 4254 732."
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru Future Perfect?",
+      "answer": "It is a savings and protection oriented plan from ICICI Prudential Life Insurance that helps you achieve your goals by offering life cover, guaranteed maturity benefits, and bonuses."
+    },
+    {
+      "question": "What are the key benefits of this plan?",
+      "answer": "The key benefits are: savings with guaranteed maturity benefits and additions, life protection for the entire policy term, tax benefits as per prevailing laws, and flexibility to choose policy terms and premium payment options."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "The Death Benefit is the higher of (A) Sum Assured on Death plus accrued bonuses and guaranteed additions, or (B) 105% of all premiums paid till the date of death."
+    },
+    {
+      "question": "What will I receive at maturity?",
+      "answer": "On survival till maturity, you will receive the Guaranteed Maturity Benefit (GMB), accrued Guaranteed Additions (GAs), vested reversionary bonuses, and any terminal bonus."
+    },
+    {
+      "question": "Are the returns under this plan guaranteed?",
+      "answer": "The plan offers a Guaranteed Maturity Benefit (GMB) and Guaranteed Additions (GAs) which are guaranteed. However, reversionary bonuses and terminal bonus are not guaranteed and depend on the company's performance."
+    },
+    {
+      "question": "What are Guaranteed Additions (GAs)?",
+      "answer": "Guaranteed Additions (GAs) accrue on premium payment during the premium payment term and at the beginning of each policy year after the premium payment term. The percentage of GA depends on the policy year and the premium payment term chosen."
+    },
+    {
+      "question": "Who is eligible to buy this policy?",
+      "answer": "The minimum entry age is 91 days and the maximum is 60 years, depending on the chosen premium payment term. The maximum age at maturity can be up to 85 years."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "The available policy terms range from 10 to 30 years, depending on the premium payment term you choose."
+    },
+    {
+      "question": "What are the premium payment term (PPT) options?",
+      "answer": "You can choose a premium payment term of 5, 7, 10, 12, 15, or 20 years."
+    },
+    {
+      "question": "Is there a minimum premium amount?",
+      "answer": "Yes, the minimum annual premium is ₹30,000."
+    },
+    {
+      "question": "What premium payment frequencies are available?",
+      "answer": "You can pay your premiums annually, half-yearly, or monthly."
+    },
+    {
+      "question": "What happens if I miss a premium payment?",
+      "answer": "A grace period of 15 days for monthly mode and 30 days for other modes is provided. If the premium is not paid within the grace period, the policy may lapse or become a paid-up policy, depending on how many years' premiums have been paid."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the first year?",
+      "answer": "If you discontinue premiums after paying for at least one full year, your policy will be converted to a 'Paid-up' policy and will continue with reduced benefits."
+    },
+    {
+      "question": "What is a 'Paid-up' policy?",
+      "answer": "A paid-up policy is one where premium payments have been stopped but the policy continues with reduced benefits, such as a paid-up Sum Assured, paid-up GMB, and paid-up GAs. It does not accrue future reversionary bonuses."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a policy which has discontinued payment of premiums may be revived within 5 years from the due date of the first unpaid premium."
+    },
+    {
+      "question": "What is the procedure for reviving a policy?",
+      "answer": "To revive a policy, you must submit an application, pay all arrears of premiums with interest, and furnish satisfactory evidence of health as required by the company."
+    },
+    {
+      "question": "Can I surrender the policy?",
+      "answer": "Yes, you can surrender the policy any time after payment of at least one full year's premiums."
+    },
+    {
+      "question": "How is the surrender value calculated?",
+      "answer": "The surrender value is the higher of the Guaranteed Surrender Value (GSV) and the Special Surrender Value (SSV)."
+    },
+    {
+      "question": "Can I take a loan on this policy?",
+      "answer": "Yes, you can avail a loan of up to 80% of the surrender value, provided the policy has acquired a positive surrender value."
+    },
+    {
+      "question": "What is the interest rate on the policy loan?",
+      "answer": "The applicable interest rate is linked to the prevailing yield on 10-year Government Securities plus 150 basis points. The rate is reviewed monthly."
+    },
+    {
+      "question": "What is the exclusion for suicide under this policy?",
+      "answer": "If the life assured commits suicide within 12 months of the policy's start date or revival date, the benefit is limited to the higher of 80% of total premiums paid or the surrender value."
+    },
+    {
+      "question": "Are there tax benefits with this plan?",
+      "answer": "Yes, tax benefits may be available on premiums paid and benefits received as per the prevailing conditions and provisions of the Income Tax Act."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 30-day free-look period from the date you receive the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for a refund."
+    },
+    {
+      "question": "Can I change my premium payment term or policy term after the policy is issued?",
+      "answer": "No, the premium payment term and policy term chosen at the inception of the policy cannot be changed later."
+    },
+    {
+      "question": "What happens if the policy is on the life of a minor?",
+      "answer": "If the policy is on a minor's life, it will automatically vest in him/her upon attaining the age of 18. The life assured will then become the policyholder."
+    },
+    {
+      "question": "What happens if the premium is not paid within the grace period?",
+      "answer": "If the premium is not paid within the grace period before completion of one full year's premium, the policy will lapse and cover will cease. If at least one full year's premium has been paid, it will become a paid-up policy."
+    }
+  ],
+  "source_file": "ICICI Future Perfect - Brochure.txt",
+  "category": "LI Plan Brochure"
+}

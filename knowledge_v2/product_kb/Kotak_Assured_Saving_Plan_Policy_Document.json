@@ -1,0 +1,201 @@
+{
+  "product_name": "Kotak Assured Savings Plan",
+  "company": "Kotak Mahindra Life Insurance Company Limited",
+  "product_type": "Non- Participating Endowment Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Endowment",
+  "summary": "A non-participating endowment plan that combines savings with life insurance cover. It offers guaranteed benefits on maturity and in the unfortunate event of death. The plan provides Guaranteed Yearly Additions during the premium payment term and a Guaranteed Loyalty Addition at maturity.",
+  "quick_facts": {
+    "minimum_age": "3 years at entry",
+    "maximum_age": "60 years at entry",
+    "sum_insured": "Referred to as Basic Sum Assured, which is determined based on the Policy Term, Premium Paying Term, and the Age of the Life Insured.",
+    "policy_term": "The document provides examples of policy terms such as 10, 12, 14, 15, 18, and 20 years.",
+    "waiting_period": "There is a one-year suicide exclusion period from the date of commencement of risk or date of major revival."
+  },
+  "coverage": [
+    {
+      "name": "Maturity Benefit",
+      "description": "On survival of the Life Insured till the end of the Policy term, the Guaranteed Maturity Benefit is paid. This benefit is the sum of the Basic Sum Assured, all Accrued Guaranteed Yearly Additions, and the Guaranteed Loyalty Addition."
+    },
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the Life Insured during the term of the policy, the benefit payable is the sum of the Basic Death Benefit and the Guaranteed Yearly Additions accrued as on the date of death."
+    },
+    {
+      "name": "Rider Benefits",
+      "description": "Policyholder can opt for optional riders at any time during the Policy Term. Available riders include: Kotak Term Benefit Rider, Kotak Life Guardian Benefit, Kotak Accidental Disability Guardian Benefit, and Kotak Critical Illness Plus Benefit Rider."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Yearly Additions",
+      "description": "Accrues throughout the Premium Payment Term as a percentage of cumulative Annualised Premiums paid. The percentage is based on the chosen Premium Payment Term (e.g., 7% for 5 years PPT, 10% for 10 years PPT)."
+    },
+    {
+      "name": "Guaranteed Loyalty Addition",
+      "description": "Payable at maturity and calculated as a percentage of the Basic Sum Assured. The rate depends on the Premium Payment Term (e.g., 10% for 5 years PPT, 20% for 10 years PPT)."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan can be granted for a minimum of Rs. 10,000 and up to a maximum of 50% of the policy's surrender value. The policy must be assigned to the company as security."
+    },
+    {
+      "name": "Surrender Value",
+      "description": "The policy acquires a Surrender Value after premiums for at least 2 full policy years have been paid. The value paid is the higher of the Guaranteed Surrender Value and the Special Surrender Value."
+    },
+    {
+      "name": "Reduced Paid-Up Option",
+      "description": "If premium payments are stopped after the policy has acquired a surrender value, it automatically converts into a Reduced Paid-Up Policy with reduced benefits. Future Guaranteed Yearly Additions and Guaranteed Loyalty Additions will not be applicable."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "3 years"
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "60 years"
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years"
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "75 years"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "If the Life Insured commits suicide within one year of the date of commencement of risk, no death benefit is payable. However, 80% of the total premiums paid till the date of death will be payable to the nominee/beneficiary. In case of suicide within 1 year of a major revival, the benefit payable will be the higher of 80% of total premiums paid or the surrender value."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Process",
+      "description": "To file a claim, a written intimation must be sent to the company in the required format. The intimation should include policy details, date and place of the event, and the claimant's bank account details."
+    },
+    {
+      "name": "Required Documents for Death Claim",
+      "description": "Primary documents include: Claim intimation form, original death certificate, original policy document, proof of age of the insured (if not previously admitted), recent photograph of the beneficiary, ID and address proof of the beneficiary, and a photocopy of the beneficiary's bank passbook or statement."
+    },
+    {
+      "name": "Claim Payment",
+      "description": "The benefit will be paid to the Nominee, Legal Heir, Life Insured, or to such person(s) as directed by a court of competent jurisdiction in India."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Kotak Assured Savings Plan?",
+      "answer": "It is a non-participating endowment plan that offers guaranteed benefits on maturity and death, combining savings and life insurance."
+    },
+    {
+      "question": "What is the minimum age to purchase this policy?",
+      "answer": "The minimum age of the Life Insured at entry is 3 years."
+    },
+    {
+      "question": "What is the maximum entry age for this policy?",
+      "answer": "The maximum age of the Life Insured at entry is 60 years."
+    },
+    {
+      "question": "What is the death benefit payable under this plan?",
+      "answer": "The death benefit is the sum of the Basic Death Benefit and the Guaranteed Yearly Additions accrued as on the date of death."
+    },
+    {
+      "question": "What will I receive if I survive until the policy matures?",
+      "answer": "On survival till the end of the policy term, you will receive the Guaranteed Maturity Benefit, which is the sum of the Basic Sum Assured, all Accrued Guaranteed Yearly Additions, and the Guaranteed Loyalty Addition."
+    },
+    {
+      "question": "What is the grace period for paying the premium?",
+      "answer": "The grace period is 30 days for annual, half-yearly, and quarterly premium payment modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "What happens if I stop paying premiums within the first two years?",
+      "answer": "If premiums are discontinued anytime during the first two policy years, the policy will lapse at the end of the grace period, and no benefits will be payable."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed policy can be revived by making an application within a period of five years from the due date of the first unpaid premium and before the date of maturity."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "The policy acquires a Surrender Value after premiums for at least two full policy years have been paid in full. Once it acquires a surrender value, you can apply for surrender."
+    },
+    {
+      "question": "Is there a loan facility available with this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can avail a loan for a minimum amount of Rs. 10,000 and up to a maximum of 50% of the surrender value."
+    },
+    {
+      "question": "What is the Free Look period?",
+      "answer": "You have an option to return the policy within 15 days from the date of receipt (30 days for Distance Marketing policies) if you are not agreeable to its provisions."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If the Life Insured commits suicide within one year of the policy's commencement of risk, no death benefit is paid. In this case, 80% of the total premiums paid will be returned."
+    },
+    {
+      "question": "What are Guaranteed Yearly Additions?",
+      "answer": "These are additions calculated as a percentage of the cumulative Annualised Premiums paid each year during the Premium Payment Term. They are paid out on maturity or on earlier death."
+    },
+    {
+      "question": "What is the Guaranteed Loyalty Addition?",
+      "answer": "It is an additional benefit, calculated as a percentage of the Basic Sum Assured, which is payable only at maturity."
+    },
+    {
+      "question": "What happens if I stop paying premiums after paying for more than two years?",
+      "answer": "If subsequent premiums are not paid after the policy has acquired a surrender value, it will automatically be converted into a Reduced Paid-Up Policy with reduced benefits."
+    },
+    {
+      "question": "Can I add riders to this plan?",
+      "answer": "Yes, you can opt for riders like Kotak Term Benefit Rider, Kotak Life Guardian Benefit, Kotak Accidental Disability Guardian Benefit, and Kotak Critical Illness Plus Benefit Rider anytime during the policy term."
+    },
+    {
+      "question": "What does 'Annualised Premium' mean?",
+      "answer": "It refers to the total of all premiums payable in one policy year, excluding underwriting extra premiums, loadings for modal premium, Goods and Services Tax, Cess, and any rider premiums."
+    },
+    {
+      "question": "What documents are required to file a death claim?",
+      "answer": "The primary documents required are a written claim intimation, the original death certificate, the original policy document, proof of age (if not admitted), and the beneficiary's ID, address proof, and bank details."
+    },
+    {
+      "question": "How is the Basic Death Benefit calculated for an insured person with an entry age below 50 years?",
+      "answer": "It is the highest of: 11 times the Annualised Premium, the Guaranteed Minimum Death Benefit, or 105% of total premiums paid (excluding extra premiums)."
+    },
+    {
+      "question": "How is the Basic Death Benefit calculated for an insured person with an entry age of 50 years or more?",
+      "answer": "It is the highest of: 7 times the Annualised Premium, the Guaranteed Minimum Death Benefit, or 105% of total premiums paid (excluding extra premiums)."
+    },
+    {
+      "question": "What happens to a policy that was taken for a minor?",
+      "answer": "When the minor Life Insured turns 18, the policy automatically vests in them, and they become the policyholder."
+    },
+    {
+      "question": "What premium payment frequencies are available?",
+      "answer": "You can pay premiums Annually, Half-yearly, Quarterly, or Monthly."
+    },
+    {
+      "question": "What happens if the age declared in the proposal is found to be incorrect?",
+      "answer": "The policy benefits will be adjusted based on the correct age. The company may recover or refund the premium difference. If the correct age is outside the eligibility criteria, the policy may be cancelled."
+    },
+    {
+      "question": "Can I assign this policy?",
+      "answer": "Yes, the policy can be assigned in accordance with Section 38 of the Insurance Act, 1938."
+    },
+    {
+      "question": "Can I change the nominee for my policy?",
+      "answer": "Yes, you can change the nomination at any time before the policy matures by providing a written notice to the company."
+    },
+    {
+      "question": "What maturity benefit is paid for a 'Reduced Paid-Up' policy?",
+      "answer": "The benefit payable on maturity will be the sum of the Reduced Paid-Up Basic Sum Assured and the Accrued Guaranteed Yearly Additions up to the date the policy became paid-up."
+    },
+    {
+      "question": "How can I raise a complaint or grievance?",
+      "answer": "You can first contact Customer Care, then the Grievance Redressal Officer. If you are still not satisfied, you can approach the IRDAI or the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "Kotak_Assured_Saving_Plan_Policy_Document.txt",
+  "category": "LI Policy Bond Documents"
+}

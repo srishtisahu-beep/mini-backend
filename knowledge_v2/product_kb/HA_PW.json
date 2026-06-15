@@ -1,0 +1,181 @@
+{
+  "product_name": "ICICI Lombard Health AdvantEdge",
+  "product_type": "Health Insurance",
+  "summary": "ICICI Lombard Health AdvantEdge is a comprehensive health insurance policy that provides coverage for in-patient treatment, day care procedures, AYUSH treatment, and various additional benefits. The policy offers features like restore benefit, guaranteed cumulative bonus, and optional covers for maternity, OPD, and air ambulance services.",
+  "coverage": [
+    "In-patient Treatment - Hospital room rent, nursing, ICU charges, operation theatre charges, medical practitioner's charges, diagnostic tests, medicines, drugs, blood, oxygen, prosthetics and implants",
+    "Pre-hospitalization Medical Expenses - Up to specified days prior to hospitalization",
+    "Post-hospitalization Medical Expenses - Up to specified days after discharge from hospital",
+    "Organ Donor expenses - Harvesting expenses, screening, post donation fitness test, complications from harvesting",
+    "Day Care Treatment - Medical treatment under general or local anesthesia in less than 24 hours",
+    "AYUSH Treatment - Treatment under Ayurveda, Yoga, Naturopathy, Unani, Siddha and Homeopathy systems",
+    "Restore Benefit - 100% reinstatement of Sum Insured after first claim utilization",
+    "Animal Bite Vaccination - OPD treatment for vaccinations post animal bite",
+    "Guaranteed Cumulative Bonus - 20% of Sum Insured per claim-free year, maximum up to 100%",
+    "Surface Ambulance Charges - Transport by ambulance to hospital or between hospitals",
+    "Health Check-up - Annual health check-up for insured persons above 18 years",
+    "Convalescence Benefit - Fixed allowance for hospitalization of 10 days or more",
+    "Bariatric Surgery Cover - For severe obesity with specified comorbidities",
+    "Domiciliary Hospitalization - Home treatment for conditions requiring hospital care"
+  ],
+  "waiting_periods": [
+    "Pre-existing Disease waiting period - 48 months prior to policy effective date",
+    "Maternity Cover waiting period - 9 months",
+    "Any one Illness includes relapse within 45 days from last consultation"
+  ],
+  "room_rent": [
+    "Prime Plan - Hospital room rent subject to maximum 1% of Sum Insured per day",
+    "ICU/ICCU expenses subject to maximum 2% of Sum Insured per day",
+    "Proportionate deduction applies if room rent exceeds eligible limits",
+    "Formula: (Eligible Room Rent limit / Room Rent actually incurred) * total Associated Medical Expenses",
+    "Pharmacy, consumables, implants, medical devices and diagnostics reimbursed at actuals",
+    "No proportionate deduction on ICU charges or hospitals not following differential billing"
+  ],
+  "co_pay": [
+    "Co Payment means cost sharing requirement where policy holder bears specified percentage of admissible claims amount",
+    "Co payment does not reduce the Sum Insured"
+  ],
+  "deductible": [
+    "Deductible is cost-sharing requirement per event/claim",
+    "Insurer not liable for specified rupee amount before benefits are payable",
+    "Deductible does not reduce the Sum Insured"
+  ],
+  "claims_information": [
+    "Cashless facility available at network providers with pre-authorization",
+    "Reimbursement available for non-network providers",
+    "Minimum 24 hours hospitalization required except for specified procedures",
+    "Pre-hospitalization and post-hospitalization expenses covered as part of main Sum Insured",
+    "Claims must be notified within specified timelines",
+    "Daily patient records must be accessible to insurance company representatives"
+  ],
+  "exclusions": [
+    "Treatment for less than 3 days under Domiciliary Hospitalization",
+    "Pre-Post hospitalization expenses under Domiciliary Hospitalization",
+    "Specific medical conditions under Domiciliary: Asthma, Bronchitis, Tonsillitis, Upper Respiratory Tract infections, Arthritis, Gout, Rheumatism, Chronic Nephritis, Diarrhoea, Diabetes, Epilepsy, Hypertension, Psychiatric disorders, Pyrexia of unknown origin",
+    "Ectopic Pregnancy under Maternity Cover",
+    "Return transportation under Domestic Air Ambulance",
+    "Bariatric surgery for reasons other than specified eligibility criteria",
+    "Treatment by family members as Medical Practitioners",
+    "Costs associated with acquisition of donor's organ"
+  ],
+  "faqs": [
+    {
+      "question": "What is the minimum hospitalization period required for in-patient treatment coverage?",
+      "answer": "The insured person should have been hospitalized as an in-patient for a minimum period of 24 consecutive hours, except for specified procedures where admission could be for less than 24 consecutive hours."
+    },
+    {
+      "question": "What is covered under the Restore Benefit?",
+      "answer": "Restore Benefit provides 100% reinstatement of Sum Insured after the first claim utilization during the policy year. It can be used once per policy year and is triggered upon partial or full utilization of Sum Insured."
+    },
+    {
+      "question": "How does the Guaranteed Cumulative Bonus work?",
+      "answer": "If no claim is made in a policy year, the company offers 20% of Sum Insured as Guaranteed Cumulative Bonus, maximum up to 100% of expiring policy Sum Insured. Once accrued, it remains guaranteed for life and does not reduce on subsequent renewals or claims."
+    },
+    {
+      "question": "What is the room rent limit under Prime Plan?",
+      "answer": "Under Prime Plan, hospital room rent is subject to maximum 1% of Sum Insured per day, and ICU/ICCU expenses are subject to maximum 2% of Sum Insured per day."
+    },
+    {
+      "question": "What happens if I choose a room category higher than my eligibility?",
+      "answer": "If you are admitted to a room with rent higher than eligible limits, reimbursement will be proportionate using the formula: (Eligible Room Rent limit / Room Rent actually incurred) * total Associated Medical Expenses."
+    },
+    {
+      "question": "Are pre and post hospitalization expenses covered?",
+      "answer": "Yes, pre-hospitalization expenses up to specified days prior to admission and post-hospitalization expenses up to specified days after discharge are covered, provided they are for the same condition requiring hospitalization."
+    },
+    {
+      "question": "What is covered under Day Care Treatment?",
+      "answer": "Day Care Treatment covers medical treatment and/or surgical procedures undertaken under general or local anesthesia in a hospital/day care centre in less than 24 hours due to technological advancement, which would have otherwise required hospitalization of more than 24 hours."
+    },
+    {
+      "question": "Is AYUSH treatment covered under this policy?",
+      "answer": "Yes, AYUSH treatment under Ayurveda, Yoga, Naturopathy, Unani, Siddha and Homeopathy systems is covered for in-patient hospitalization only. Cashless facility is not available for AYUSH treatment."
+    },
+    {
+      "question": "What is covered under Organ Donor benefit?",
+      "answer": "Organ Donor benefit covers hospitalization expenses for harvesting organs donated to the insured person, screening expenses of donor, post donation fitness test, and medical expenses from complications arising from harvesting, provided donation conforms to The Transplantation of Human Organs Act 1994."
+    },
+    {
+      "question": "What is the waiting period for maternity coverage?",
+      "answer": "Maternity coverage has a waiting period of 9 months with the company and is limited to maximum three deliveries or terminations during the lifetime of female insured person between ages 18 to 45 years."
+    },
+    {
+      "question": "What is Domiciliary Hospitalization?",
+      "answer": "Domiciliary Hospitalization covers medical treatment at home for illness/disease/injury that would normally require hospital care, when patient cannot be moved to hospital or due to non-availability of hospital room. Treatment must be for more than 3 days."
+    },
+    {
+      "question": "What conditions are excluded under Domiciliary Hospitalization?",
+      "answer": "Excluded conditions include Asthma, Bronchitis, Tonsillitis, Upper Respiratory Tract infections, Arthritis, Gout, Rheumatism, Chronic Nephritis, Diarrhoea, Diabetes, Epilepsy, Hypertension, Psychiatric disorders, and Pyrexia of unknown origin."
+    },
+    {
+      "question": "What is the eligibility criteria for Bariatric Surgery Cover?",
+      "answer": "For adults aged 18 years or older with BMI greater than or equal to 40 along with severe comorbidities like coronary heart disease, medically refractory hypertension, or Type 2 diabetes mellitus."
+    },
+    {
+      "question": "How does the Convalescence Benefit work?",
+      "answer": "If hospitalized continuously for 10 days or more for a valid claim, a fixed allowance is paid as mentioned in Schedule of Benefits. This benefit is payable only once during the policy year."
+    },
+    {
+      "question": "What is covered under Animal Bite benefit?",
+      "answer": "The policy covers medical expenses for OPD treatment including vaccinations or immunizations for treatment post an animal bite, available only on reimbursement basis."
+    },
+    {
+      "question": "Are ambulance charges covered?",
+      "answer": "Yes, surface ambulance charges for transport to hospital or between hospitals for treatment are covered subject to sub-limits per hospitalization claim within overall Sum Insured."
+    },
+    {
+      "question": "Is health check-up covered under the policy?",
+      "answer": "Yes, the cost of health check-up is covered per policy as per plan eligibility. Only insured persons who have attained minimum age of 18 years are eligible for health check-up."
+    },
+    {
+      "question": "What is the definition of Pre-existing Disease?",
+      "answer": "Pre-existing Disease means any condition diagnosed by a physician or for which medical advice/treatment was received within 48 months prior to the effective date of the policy."
+    },
+    {
+      "question": "What is cashless facility?",
+      "answer": "Cashless facility means payments for treatment costs are directly made to network providers by the insurer to the extent of pre-authorization approved, in accordance with policy terms and conditions."
+    },
+    {
+      "question": "What is the definition of 'Any one Illness'?",
+      "answer": "Any one Illness means continuous period of illness and includes a relapse within 45 days from the date of last consultation with the hospital/nursing home where treatment may have been taken."
+    },
+    {
+      "question": "What is covered under New Born Baby Cover?",
+      "answer": "Medical expenses for medically necessary treatment while newborn baby is hospitalized during first 90 days of birth. This benefit is applicable only if Maternity benefit is opted and a maternity claim is accepted."
+    },
+    {
+      "question": "Are vaccinations for newborn baby covered?",
+      "answer": "Yes, vaccinations for newborn baby up to one year of age are covered up to 1% of Sum Insured or up to Rs. 10,000 whichever is lesser, provided Maternity benefit is opted and maternity claim is accepted."
+    },
+    {
+      "question": "What is covered under OPD for Medical and Dental optional benefit?",
+      "answer": "OPD benefit covers in-network doctor consultation, pharmacy expenses, diagnostics, and physiotherapy on reimbursement basis, subject to specified limits over and above base sum insured."
+    },
+    {
+      "question": "What is Domestic Air Ambulance coverage?",
+      "answer": "This optional benefit covers expenses of transportation in airplane or helicopter certified as ambulance for emergency care requiring immediate transportation to nearest hospital, only when required medical treatment is not available in the city of first occurrence."
+    },
+    {
+      "question": "What is the grace period for policy renewal?",
+      "answer": "Grace period is the specified time immediately following premium due date during which payment can be made to renew policy without loss of continuity benefits like waiting periods and pre-existing disease coverage. Coverage is not available for the period with no premium received."
+    },
+    {
+      "question": "What does 'Medically Necessary' treatment mean?",
+      "answer": "Medically Necessary treatment is required for medical management of illness/injury, must not exceed necessary level of care, must be prescribed by medical practitioner, and must conform to professional standards accepted in international medical practice or by medical community in India."
+    },
+    {
+      "question": "What is the definition of Hospital under this policy?",
+      "answer": "Hospital means institution established for in-patient and day care treatment, registered with local authorities, having qualified nursing staff round the clock, at least 10-15 in-patient beds depending on city population, qualified medical practitioners round the clock, equipped operation theatre, and maintaining daily patient records."
+    },
+    {
+      "question": "What is the policy on room rent proportionate deduction?",
+      "answer": "Proportionate deduction applies when room rent exceeds eligible limits, but does not apply to pharmacy, consumables, implants, medical devices, diagnostics, ICU charges, or hospitals not following differential billing."
+    },
+    {
+      "question": "Can the Restore Benefit be carried forward to next policy year?",
+      "answer": "No, if the Regain Sum Insured is not utilized in a policy year, it cannot be carried forward to any subsequent policy year. The Regain Sum Insured is only allowed once during a policy year."
+    }
+  ],
+  "source_file": "HA_PW.txt",
+  "category": "Hi Document"
+}

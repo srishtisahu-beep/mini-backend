@@ -1,0 +1,188 @@
+{
+  "product_name": "ReAssure 2.0",
+  "product_type": "Health Insurance",
+  "summary": "ReAssure 2.0 is a comprehensive health insurance policy covering Allopathic and AYUSH treatments taken in India only. The policy offers multiple sum insured options with benefits like unlimited coverage through ReAssure+ or ReAssureX, Booster+ accumulation, modern treatments, pre and post hospitalization expenses, and various optional benefits.",
+  "coverage": [
+    "Road Ambulance expenses up to Sum Insured",
+    "Air Ambulance up to INR 2,50,000 per hospitalization in emergency cases",
+    "Hospitalization expenses for treatment (minimum 2 hours admission, 24 hours for AYUSH)",
+    "Modern treatments including Robotic surgeries, Immunotherapy, Stem cell therapy",
+    "Pre-hospitalization expenses for 60 days before admission",
+    "Post-hospitalization expenses for 180 days after discharge",
+    "Home Care/Domiciliary Treatment",
+    "Organ donor expenses for harvesting",
+    "Annual Health Checkup once per policy year",
+    "Day Care Treatment procedures"
+  ],
+  "waiting_periods": [
+    "Pre-existing Disease: 36 months of continuous coverage",
+    "Specified disease/procedure: 24 months (not applicable for accidents or cancer after 30 days)",
+    "30-day waiting period for any illness except accidents",
+    "Personal Waiting Period: up to 48 months for specified conditions"
+  ],
+  "room_rent": [
+    "No specific room rent limit mentioned - choose room judiciously to protect Sum Insured",
+    "ICU admission always paid up to Base Sum Insured regardless of room type chosen",
+    "Room Type Modification available - can choose between Single Private Room and Sharing Room"
+  ],
+  "co_pay": [
+    "Co-payment is percentage of admissible claim amount that insured must bear",
+    "Co-payment does not apply to Annual Health Check-up, Live Healthy, Second Medical Opinion, Shared Accommodation Cash, e-consultation, Personal Accident, Hospital Daily Cash benefits",
+    "Co-payment does not reduce the Sum Insured"
+  ],
+  "deductible": [
+    "Annual Aggregate Deductible available as option",
+    "Deductible amount must be payable as per policy terms and conditions",
+    "Deductible does not apply to Annual Health Check-up, Live Healthy, Second Medical Opinion, Shared Accommodation Cash, e-consultation, Personal Accident, Hospital Daily Cash benefits",
+    "Deductible does not reduce the Sum Insured"
+  ],
+  "claims_information": [
+    "Cashless facility available at network providers",
+    "Claims paid for hospitalization of minimum 2 hours (24 hours for AYUSH treatment)",
+    "Pre-authorization required for cashless facility",
+    "Notification of claim through recognized modes of communication",
+    "Claims not paid for admissions primarily for diagnostics and evaluation only"
+  ],
+  "exclusions": [
+    "Pre-existing diseases for 36 months",
+    "Specified diseases/procedures for 24 months",
+    "30-day waiting period for illness",
+    "Investigation and evaluation expenses",
+    "Rest cure, rehabilitation and respite care",
+    "Obesity/Weight control (unless specific conditions met)",
+    "Cosmetic or plastic surgery (unless medically necessary)",
+    "Hazardous or adventure sports",
+    "Breach of law with criminal intent",
+    "Alcoholism, drug or substance abuse",
+    "Refractive error less than 7.5 dioptres",
+    "Sterility and infertility treatments",
+    "Maternity expenses",
+    "External congenital anomaly",
+    "Dental treatment (except due to accidents and cancers)",
+    "Conflict and disaster related injuries"
+  ],
+  "faqs": [
+    {
+      "question": "What does ReAssure 2.0 cover?",
+      "answer": "ReAssure 2.0 covers Allopathic and AYUSH treatments taken in India only, including hospitalization, pre and post hospitalization expenses, modern treatments, and various optional benefits."
+    },
+    {
+      "question": "What is the minimum hospitalization period required for claims?",
+      "answer": "Minimum 2 hours of hospitalization is required for regular treatment, and minimum 24 hours for AYUSH treatment in an AYUSH Hospital."
+    },
+    {
+      "question": "What is ReAssure+ Forever benefit?",
+      "answer": "ReAssure+ Forever provides unlimited Sum Insured once triggered by the first paid claim in the policy's life. Maximum amount paid per single claim is up to Base Sum Insured."
+    },
+    {
+      "question": "How does the Booster+ benefit work?",
+      "answer": "Booster+ carries forward unutilized Base Sum Insured and accumulates up to 3/5/10 times the Base Sum Insured based on the plan chosen."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases have a waiting period of 36 months of continuous coverage from the date of inception of the first policy."
+    },
+    {
+      "question": "Are accidents covered from day one?",
+      "answer": "Yes, accidents are covered from day one and are exempt from most waiting periods including pre-existing disease and specified disease waiting periods."
+    },
+    {
+      "question": "What modern treatments are covered?",
+      "answer": "Covered modern treatments include Robotic surgeries, Immunotherapy, Stem cell therapy, Stereotactic radio surgeries, Deep Brain stimulation, and others as specified in the policy."
+    },
+    {
+      "question": "How long are pre and post hospitalization expenses covered?",
+      "answer": "Pre-hospitalization expenses are covered for 60 days before admission and post-hospitalization expenses for 180 days after discharge, if related to the hospitalization condition."
+    },
+    {
+      "question": "What is the Annual Health Checkup benefit?",
+      "answer": "Annual Health Checkup is available once every policy year from day 1, must be booked through digital assets, available only on cashless basis with specified list of tests."
+    },
+    {
+      "question": "What is the Lock the Clock feature?",
+      "answer": "Lock the Clock locks your age at policy entry for premium calculation until a claim is paid. After a claim, premium is charged as per current age."
+    },
+    {
+      "question": "Are AYUSH treatments covered?",
+      "answer": "Yes, AYUSH treatments (Ayurveda, Yoga, Naturopathy, Unani, Sidha, Homeopathy) are covered when taken at qualified AYUSH hospitals with minimum 24-hour admission."
+    },
+    {
+      "question": "What is the Live Healthy benefit?",
+      "answer": "Live Healthy offers up to 30% renewal discount by walking and earning health points through the recommended mobile app. 1000 steps earn one health point."
+    },
+    {
+      "question": "Are organ donor expenses covered?",
+      "answer": "Yes, hospitalization expenses of organ donors for harvesting are covered when the recipient's hospitalization claim is paid, and expenses for organ donation by insured are also covered."
+    },
+    {
+      "question": "What is the difference between Safeguard and Safeguard+?",
+      "answer": "Safeguard covers non-payable items from List I and protects Booster+ up to INR 50,000. Safeguard+ covers Lists I-IV and protects Booster+ up to INR 1,00,000."
+    },
+    {
+      "question": "Is there a free look period?",
+      "answer": "Yes, there is a 30-day free look period from receipt of policy document to review terms and return the policy if not satisfied."
+    },
+    {
+      "question": "Can the policy be cancelled?",
+      "answer": "Yes, policyholder can cancel anytime with 7 days written notice. Proportionate premium refund available if no claims made during the policy period."
+    },
+    {
+      "question": "What is Day Care Treatment?",
+      "answer": "Day Care Treatment is medical treatment or surgical procedure under anesthesia in less than 24 hours due to technological advancement, which would otherwise require longer hospitalization."
+    },
+    {
+      "question": "Are cosmetic surgeries covered?",
+      "answer": "Cosmetic surgeries are excluded unless for reconstruction following accident, burns, cancer, or as medically necessary treatment certified by attending medical practitioner."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period is 15 days for monthly premium payment mode and 30 days for all other payment modes."
+    },
+    {
+      "question": "Are dental treatments covered?",
+      "answer": "Dental treatments are excluded except when due to accidents and cancers."
+    },
+    {
+      "question": "What is Domiciliary Hospitalization?",
+      "answer": "Domiciliary Hospitalization is medical treatment at home which would normally require hospital care, when patient cannot be moved to hospital or due to room unavailability."
+    },
+    {
+      "question": "Is there coverage for air ambulance?",
+      "answer": "Yes, air ambulance is covered only in emergency cases up to maximum INR 2,50,000 per hospitalization, paid only if hospitalization claim is paid."
+    },
+    {
+      "question": "What is the Personal Accident benefit?",
+      "answer": "Personal Accident benefit covers Accidental Death, Permanent Total Disability, and Permanent Partial Disability within 365 days of accident during policy period."
+    },
+    {
+      "question": "Are maternity expenses covered?",
+      "answer": "Maternity expenses are excluded, including childbirth, complicated deliveries, caesarean sections, except ectopic pregnancy."
+    },
+    {
+      "question": "What happens if I don't use my Annual Health Checkup?",
+      "answer": "Unutilized amount from Annual Health Checkup will not be carried forward to the next policy year."
+    },
+    {
+      "question": "Can I get a second medical opinion?",
+      "answer": "Yes, once per policy year you can get a second medical opinion from any medical practitioner for conditions where hospitalization claim was paid."
+    },
+    {
+      "question": "What is the Hospital Cash benefit?",
+      "answer": "Hospital Cash is an optional benefit paying fixed amount for each day of hospitalization for maximum 30 days, available if hospitalized for 48 hours or more continuously."
+    },
+    {
+      "question": "Are adventure sports injuries covered?",
+      "answer": "No, expenses from participation as professional in hazardous or adventure sports like para-jumping, rock climbing, motor racing are excluded."
+    },
+    {
+      "question": "What is the Shared Accommodation Cash Benefit?",
+      "answer": "If you opt for a shared room for which hospitalization claim is paid, an additional amount is paid for each day of hospitalization (24 continuous hours)."
+    },
+    {
+      "question": "Can I enhance my Sum Insured?",
+      "answer": "Yes, you can enhance Sum Insured. When enhanced, accumulated Booster+ continues and grows more, but certain waiting periods may apply afresh to the increased amount."
+    }
+  ],
+  "source_file": "ReAssure-2.0-Policy-Wording.txt",
+  "category": "Hi Document"
+}

@@ -1,0 +1,996 @@
+
+
+====================================================================================================
+QUERY: What is term insurance?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Who can be covered under this policy?
+
+Answer:
+Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+
+
+
+====================================================================================================
+QUERY: What is life insurance?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Are pre-existing diseases covered?
+
+Answer:
+Information regarding pre-existing disease coverage could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is health insurance?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Who can be covered under this policy?
+
+Answer:
+Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+
+
+
+====================================================================================================
+QUERY: What is ULIP?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Is there a waiting period for specific illnesses?
+
+Answer:
+Details regarding waiting periods could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is endowment plan?
+====================================================================================================
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+
+TOP RESULT:
+
+Product: Kotak Platinum
+
+Question:
+Can I take a loan against this policy?
+
+Answer:
+No, the loan option is not available under this policy.
+
+
+
+
+====================================================================================================
+QUERY: What is money back policy?
+====================================================================================================
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+
+TOP RESULT:
+
+Product: Kotak Fortune Maximiser
+
+Question:
+Are loans available under this policy?
+
+Answer:
+No, there are no loans provided under this policy.
+
+
+
+
+====================================================================================================
+QUERY: What is whole life insurance?
+====================================================================================================
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+
+TOP RESULT:
+
+Product: Kotak Fortune Maximiser
+
+Question:
+Are loans available under this policy?
+
+Answer:
+No, there are no loans provided under this policy.
+
+
+
+
+====================================================================================================
+QUERY: What is retirement plan?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the available sum insured options?
+
+Answer:
+The sum insured options could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is pension plan?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the key features?
+
+Answer:
+Feature details could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is child insurance plan?
+====================================================================================================
+PRODUCT: Bajaj Life Magnum Fortune Plus III
+TYPE: faq
+SOURCE: Bajaj life insurance magnum-fortune-plus-sl brochure.json
+
+TOP RESULT:
+
+Product: Bajaj Life Magnum Fortune Plus III
+
+Question:
+Is a loan available against this policy?
+
+Answer:
+No, there is no loan facility available under this plan.
+
+
+
+
+====================================================================================================
+QUERY: What is death benefit?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+What are the tenure options available?
+
+Answer:
+Tenure options are 1/2/3 Years
+
+
+
+
+====================================================================================================
+QUERY: What is maturity benefit?
+====================================================================================================
+PRODUCT: Bajaj Life Assured Wealth Goal
+TYPE: faq
+SOURCE: Bajaj Life Insurance  awg-brochure.json
+
+TOP RESULT:
+
+Product: Bajaj Life Assured Wealth Goal
+
+Question:
+Is this product available for purchase online?
+
+Answer:
+Yes, the product is available for sale through the online mode.
+
+
+
+
+====================================================================================================
+QUERY: What is survival benefit?
+====================================================================================================
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+
+TOP RESULT:
+
+Product: Kotak Platinum
+
+Question:
+Can I take a loan against this policy?
+
+Answer:
+No, the loan option is not available under this policy.
+
+
+
+
+====================================================================================================
+QUERY: What is accidental death benefit?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Are health check-ups covered?
+
+Answer:
+Information on health check-up benefits could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is critical illness benefit?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Is there a free-look period?
+
+Answer:
+Information about the free-look period could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is terminal illness benefit?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Is there a waiting period for specific illnesses?
+
+Answer:
+Details regarding waiting periods could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is waiver of premium?
+====================================================================================================
+PRODUCT: HDFC Life Click 2 Achieve
+TYPE: faq
+SOURCE: HDFC-Life-Click-2-Achieve-Policy-Bond-07.json
+
+TOP RESULT:
+
+Product: HDFC Life Click 2 Achieve
+
+Question:
+What is the Waiver of Premium (WOP) benefit?
+
+Answer:
+The Waiver of Premium benefit ensures that if the policyholder dies, suffers a total and permanent disability, or is diagnosed with a covered critical illness during the premium paying term, all future premiums are waived by the company and the policy continues with its benefits.
+
+
+
+
+====================================================================================================
+QUERY: What is income benefit?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Is there a waiting period for specific illnesses?
+
+Answer:
+Details regarding waiting periods could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is loyalty addition?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the available sum insured options?
+
+Answer:
+The sum insured options could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is guaranteed return?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Who can be covered under this policy?
+
+Answer:
+Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+
+
+
+====================================================================================================
+QUERY: What is deductible?
+====================================================================================================
+PRODUCT: Care Supreme
+TYPE: faq
+SOURCE: care-supreme---policy-terms-&-conditions-(effective-from-19-march-2025) (1).json
+
+TOP RESULT:
+
+Product: Care Supreme
+
+Question:
+How does the deductible option work?
+
+Answer:
+Deductible option provides premium discount, where the claim amount is reduced by the specified deductible amount, and the company pays only when the deductible is exhausted.
+
+
+
+
+====================================================================================================
+QUERY: What is co-pay?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+What is Health Services Discount Connect?
+
+Answer:
+It provides discounts on services such as consultations, diagnostics, maternity etc. at the network
+
+
+
+
+====================================================================================================
+QUERY: What is waiting period?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Who can be covered under this policy?
+
+Answer:
+Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+
+
+
+====================================================================================================
+QUERY: What is room rent limit?
+====================================================================================================
+PRODUCT: Kotak Platinum
+TYPE: faq
+SOURCE: Kotak platinum 107L067V03_2015-16.json
+
+TOP RESULT:
+
+Product: Kotak Platinum
+
+Question:
+Can I take a loan against this policy?
+
+Answer:
+No, the loan option is not available under this policy.
+
+
+
+
+====================================================================================================
+QUERY: What is restoration benefit?
+====================================================================================================
+PRODUCT: Tata AIA Sampoorna Raksha Promise
+TYPE: faq
+SOURCE: TATA AIA Sampoorna_Raksha_Promise_V5_Brochure_0d7c498383.json
+
+TOP RESULT:
+
+Product: Tata AIA Sampoorna Raksha Promise
+
+Question:
+Is a loan available against this policy?
+
+Answer:
+No, a policy loan facility is not available under this plan.
+
+
+
+
+====================================================================================================
+QUERY: What is no claim bonus?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Is there a free-look period?
+
+Answer:
+Information about the free-look period could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is cumulative bonus?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the available sum insured options?
+
+Answer:
+The sum insured options could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is cashless hospitalization?
+====================================================================================================
+PRODUCT: Care Supreme
+TYPE: faq
+SOURCE: care-supreme---policy-terms-&-conditions-(effective-from-19-march-2025).json
+
+TOP RESULT:
+
+Product: Care Supreme
+
+Question:
+What is cashless facility?
+
+Answer:
+Cashless facility is where payments for treatment costs are directly made to the network provider by the insurer to the extent pre-authorization is approved.
+
+
+
+
+====================================================================================================
+QUERY: What is pre-existing disease?
+====================================================================================================
+PRODUCT: Health Companion
+TYPE: faq
+SOURCE: Health-Companion_Variant-1-2-3-EFF_Policy-Wording.json
+
+TOP RESULT:
+
+Product: Health Companion
+
+Question:
+What defines a pre-existing disease?
+
+Answer:
+Pre-existing disease means any condition diagnosed by a physician or for which medical advice/treatment was received not more than 36 months prior to policy commencement date.
+
+
+
+
+====================================================================================================
+QUERY: What is network hospital?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Who can be covered under this policy?
+
+Answer:
+Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in law, grandfather, grandmother can be covered
+
+
+
+
+====================================================================================================
+QUERY: How do I file a claim?
+====================================================================================================
+PRODUCT: Tata AIA Shubh Flexi Income Plan
+TYPE: faq
+SOURCE: Shubh-Flexi-Income-Plan-Policy-document-V1 (1).json
+
+TOP RESULT:
+
+Product: Tata AIA Shubh Flexi Income Plan
+
+Question:
+How can I file a claim?
+
+Answer:
+You can intimate a claim online, via email (claims@tataaia.com), by calling the helpline, visiting a branch, or contacting your agent. You must notify the company of a death claim within 90 days.
+
+
+
+
+====================================================================================================
+QUERY: How does cashless claim work?
+====================================================================================================
+PRODUCT: Comprehensive Personal Accident Cover with TTD plus
+TYPE: faq
+SOURCE: secure-plus---brochure.json
+
+TOP RESULT:
+
+Product: Comprehensive Personal Accident Cover with TTD plus
+
+Question:
+How can claims be filed?
+
+Answer:
+Claims can be filed through cashless service at network hospitals, reimbursement option, or through the claim genie portal by notifying and sending specified documents.
+
+
+
+
+====================================================================================================
+QUERY: How does reimbursement claim work?
+====================================================================================================
+PRODUCT: MediShield Gold
+TYPE: faq
+SOURCE: BALIC-eTouch-brochure.json
+
+TOP RESULT:
+
+Product: MediShield Gold
+
+Question:
+What is the procedure for a reimbursement claim?
+
+Answer:
+For a reimbursement claim, you can get treated at any hospital, pay the bills, and then submit the original documents like bills and reports to us within 15 days of discharge to claim the amount.
+
+
+
+
+====================================================================================================
+QUERY: What documents are required for claim settlement?
+====================================================================================================
+PRODUCT: Tata AIA Life Insurance Diamond Savings Plan
+TYPE: faq
+SOURCE: TATA AIA Diamond-Savings-Plan-110N133V01-TandC.json
+
+TOP RESULT:
+
+Product: Tata AIA Life Insurance Diamond Savings Plan
+
+Question:
+What documents are required for a death claim?
+
+Answer:
+The required documents include claim forms, death certificate, medical records, original policy document, claimant's KYC, and bank details. For accidental deaths, police reports and a post-mortem report are also needed.
+
+
+
+
+====================================================================================================
+QUERY: How long does claim settlement take?
+====================================================================================================
+PRODUCT: Health Companion
+TYPE: faq
+SOURCE: Health-Companion-Variant2022-PolicyWording (1).json
+
+TOP RESULT:
+
+Product: Health Companion
+
+Question:
+How long does claim settlement take?
+
+Answer:
+The Company shall settle or reject a claim within 15 days from the claim submission date.
+
+
+
+
+====================================================================================================
+QUERY: What is sum assured?
+====================================================================================================
+PRODUCT: Bajaj Life Assured Wealth Goal
+TYPE: faq
+SOURCE: Bajaj Life Insurance  awg-brochure.json
+
+TOP RESULT:
+
+Product: Bajaj Life Assured Wealth Goal
+
+Question:
+Is this product available for purchase online?
+
+Answer:
+Yes, the product is available for sale through the online mode.
+
+
+
+
+====================================================================================================
+QUERY: What is sum insured?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the available sum insured options?
+
+Answer:
+The sum insured options could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is premium?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What is the policy term?
+
+Answer:
+The policy term could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is policy term?
+====================================================================================================
+PRODUCT: Tata AIA Sampoorna Raksha Promise
+TYPE: faq
+SOURCE: TATA AIA Sampoorna_Raksha_Promise_V5_Brochure_0d7c498383.json
+
+TOP RESULT:
+
+Product: Tata AIA Sampoorna Raksha Promise
+
+Question:
+Is a loan available against this policy?
+
+Answer:
+No, a policy loan facility is not available under this plan.
+
+
+
+
+====================================================================================================
+QUERY: What is grace period?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Is there any room rent restriction?
+
+Answer:
+No, all category rooms are allowed
+
+
+
+
+====================================================================================================
+QUERY: What is free look period?
+====================================================================================================
+PRODUCT: FAMILY SHIELD
+TYPE: faq
+SOURCE: FS_PW.json
+
+TOP RESULT:
+
+Product: FAMILY SHIELD
+
+Question:
+What is the company's website?
+
+Answer:
+The company website is www.icicilombard.com
+
+
+
+
+====================================================================================================
+QUERY: What is surrender value?
+====================================================================================================
+PRODUCT: CARE
+TYPE: faq
+SOURCE: Care Supreme PPT 2025.json
+
+TOP RESULT:
+
+Product: CARE
+
+Question:
+Is there any room rent restriction?
+
+Answer:
+No, all category rooms are allowed
+
+
+
+
+====================================================================================================
+QUERY: What is policy lapse?
+====================================================================================================
+PRODUCT: Kotak Fortune Maximiser
+TYPE: faq
+SOURCE: Kotak_Fortune_Maximiser_Policy_Document.json
+
+TOP RESULT:
+
+Product: Kotak Fortune Maximiser
+
+Question:
+Are loans available under this policy?
+
+Answer:
+No, there are no loans provided under this policy.
+
+
+
+
+====================================================================================================
+QUERY: What is nominee?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+Who is the underwriter for this policy?
+
+Answer:
+The company and underwriter details could not be extracted because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is rider?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the available sum insured options?
+
+Answer:
+The sum insured options could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What is Bajaj Capital?
+====================================================================================================
+PRODUCT: Information not available. Source document was not provided.
+TYPE: faq
+SOURCE: max-life-star-ulip.json
+
+TOP RESULT:
+
+Product: Information not available. Source document was not provided.
+
+Question:
+What are the available sum insured options?
+
+Answer:
+The sum insured options could not be determined because the source document was missing.
+
+
+
+
+====================================================================================================
+QUERY: What services does Bajaj Capital provide?
+====================================================================================================
+PRODUCT: BAJAJ LIFE ACE
+TYPE: summary
+SOURCE: Bajaj life insurance  ace-brochure.json
+
+TOP RESULT:
+
+Product: BAJAJ LIFE ACE
+
+Summary:
+
+Bajaj Life ACE is a flexible life insurance savings plan from Bajaj Life Insurance Limited that allows you to design your own financial plan. It offers the choice to receive returns as income, a lump sum, or both. The plan features four distinct options: Deferred Income, Early Income, Increasing Income, and Wealth, along with life cover protection for your loved ones for the entire policy term, up to 100 years.
+
+
+
+
+====================================================================================================
+QUERY: Does Bajaj Capital help with claims?
+====================================================================================================
+PRODUCT: Bajaj Life Magnum Fortune Plus III
+TYPE: faq
+SOURCE: Bajaj life insurance magnum-fortune-plus-pd.json
+
+TOP RESULT:
+
+Product: Bajaj Life Magnum Fortune Plus III
+
+Question:
+Are there any charges for partial withdrawal?
+
+Answer:
+No, there are no charges for partial withdrawal from the policy.
+
+
+
+
+====================================================================================================
+QUERY: Can Bajaj Capital help choose insurance plans?
+====================================================================================================
+PRODUCT: Bajaj Life Magnum Fortune Plus III
+TYPE: benefits
+SOURCE: Bajaj life insurance magnum-fortune-plus-sl brochure.json
+
+TOP RESULT:
+
+Product: Bajaj Life Magnum Fortune Plus III
+
+Benefits:
+
+{'name': 'Life Insurance Cover', 'description': 'Provides life insurance cover throughout the policy term for financial protection.'}
+{'name': 'Wide range of funds and portfolio strategy', 'description': 'Choose from a wide range of funds and three portfolio strategies: Investor Selectable, Target Asset Allocation, and Automatic Transfer Portfolio Strategy.'}
+{'name': 'Loyalty Additions', 'description': 'Additional units are allocated to the policy from the end of the 10th policy year annually, as a percentage of the average fund value of
+
+
+
+
+====================================================================================================
+QUERY: Why should I buy insurance through Bajaj Capital?
+====================================================================================================
+PRODUCT: BAJAJ LIFE ACE
+TYPE: summary
+SOURCE: Bajaj life insurance  ace-brochure.json
+
+TOP RESULT:
+
+Product: BAJAJ LIFE ACE
+
+Summary:
+
+Bajaj Life ACE is a flexible life insurance savings plan from Bajaj Life Insurance Limited that allows you to design your own financial plan. It offers the choice to receive returns as income, a lump sum, or both. The plan features four distinct options: Deferred Income, Early Income, Increasing Income, and Wealth, along with life cover protection for your loved ones for the entire policy term, up to 100 years.
+
+

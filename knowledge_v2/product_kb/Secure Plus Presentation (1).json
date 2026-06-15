@@ -1,0 +1,189 @@
+{
+  "product_name": "",
+  "product_type": "Personal Accident Insurance",
+  "summary": "A personal accident insurance policy offering coverage up to Rs. 1 Crore with multiple sum insured options (30L, 50L, 1Cr). The policy covers accidental death, permanent total disablement, permanent partial disablement, temporary total disablement, and various other accident-related benefits including hospitalization, fractures, burns, and child education support.",
+  "coverage": [
+    "Accidental Death - 100% of Sum Insured",
+    "Permanent Total Disablement (PTD) - Up to PTD SI as per PTD Table",
+    "Permanent Total Disablement (PTD) Improvement - Additional amount up to PTD SI as per PTD Table",
+    "Permanent Partial Disablement (PPD) - Up to PPD SI as per PPD Table",
+    "Permanent Partial Disablement (PPD) Improvement - Additional amount up to PPD SI as per PPD Table",
+    "Temporary Total Disablement Plus - 1% of SI per week, maximum 100 weeks, maximum up to 50 lac",
+    "Fractures - Up to Rs. 1lac/2lac/3lac as per Fracture Table based on SI",
+    "Child Education - 10% of Sum Insured",
+    "Major Diagnostic Tests - Up to Rs. 15,000/25,000/50,000 based on SI",
+    "Disappearance - 100% of SI",
+    "Mobility Cover - Up to Rs. 15,000/25,000/50,000 based on SI",
+    "Burns - Up to Rs. 10,00,000/20,00,000/25,00,000 as per Table based on SI",
+    "Domestic Road Ambulance - Up to Rs. 5,000 (for 50L and 1Cr plans)",
+    "Nursing Care - Rs. 1000/1500 per day, Max 15 days per Claim (for 50L and 1Cr plans)",
+    "Reconstructive Surgery - Up to Rs. 10,00,000/20,00,000 (for 50L and 1Cr plans)",
+    "Repatriation of Mortal Remains - Lower of 2% of the SI or Rs 1L (for 50L and 1Cr plans)",
+    "Accidental Hospitalization - Up to 3lac/5L/5lac based on SI",
+    "Loyalty Benefit - 5% of the SI every renewal; Max. up to 50% of SI"
+  ],
+  "waiting_periods": [],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Weekly Compensation amount settled will be 1% of SI for Temporary Total Disablement",
+    "Customer will have to submit proof of Temporary Total disablement due to Accident",
+    "Weekly compensation is payable for Max 100 weeks",
+    "Total amount paid under Temporary Total Disablement Plus will not exceed 50L",
+    "Original Bills need to be submitted for Major Diagnostic Tests reimbursement",
+    "Diagnostic tests to be undertaken on the written advice of a Medical Practitioner",
+    "Diagnostic tests are conducted within 3 months from the date of Accident",
+    "Qualified Nurse should be hired within 1 week of discharge from hospital for Nursing Care",
+    "Reconstructive surgery has to be carried out within 30 days from the date of Accident",
+    "Guardians have to submit a valid document establishing the Age of child and relationship between the child and the customer at the time of claim"
+  ],
+  "exclusions": [
+    "People working in Mines & Oil and Gas Industry",
+    "Crew Employed In Ships (Merchant Navy when in Duty)",
+    "Labourers working in the Construction Industry or Daily wagers",
+    "Professional Sports Persons or Professional Drivers",
+    "People Associated with Racing & Adventure Sports",
+    "Armed forces (Army, Navy, Air force including armed guards) or People working with Explosives and Firecrackers",
+    "Chemical Industry Workers",
+    "Glass workers including Workers working in Glass Furnaces or Furnace Operators",
+    "People working Underground or at heights",
+    "Farmers, Gardner's"
+  ],
+  "faqs": [
+    {
+      "question": "What are the sum insured options available?",
+      "answer": "The policy offers three sum insured options: Rs. 30 Lakhs, Rs. 50 Lakhs, and Rs. 1 Crore."
+    },
+    {
+      "question": "What is the minimum and maximum entry age?",
+      "answer": "Minimum entry age is 18 years and maximum entry age is 64 years."
+    },
+    {
+      "question": "What is the maximum renewal age?",
+      "answer": "The policy can be renewed lifelong with no maximum renewal age limit."
+    },
+    {
+      "question": "What policy tenure options are available?",
+      "answer": "Policy can be taken for 1, 2, or 3 years."
+    },
+    {
+      "question": "What is covered under Accidental Death benefit?",
+      "answer": "Accidental Death benefit provides 100% of Sum Insured in case of death due to accident."
+    },
+    {
+      "question": "How much compensation is provided for Temporary Total Disablement?",
+      "answer": "1% of Sum Insured per week is provided, for maximum 100 weeks, with total amount not exceeding Rs. 50 lakhs."
+    },
+    {
+      "question": "What is the Child Education benefit amount?",
+      "answer": "Child Education benefit provides 10% of Sum Insured for all sum insured options."
+    },
+    {
+      "question": "What conditions apply for Child Education benefit?",
+      "answer": "The child must be financially dependent on the customer, have no independent sources of income, and not have attained 25 years of age."
+    },
+    {
+      "question": "What is the Major Diagnostic Tests coverage?",
+      "answer": "Coverage is up to Rs. 15,000 for 30L plan, Rs. 25,000 for 50L plan, and Rs. 50,000 for 1Cr plan."
+    },
+    {
+      "question": "What diagnostic tests are covered?",
+      "answer": "Major diagnostic tests like CT Scan, MRI etc. are covered when undertaken on written advice of a Medical Practitioner."
+    },
+    {
+      "question": "What is the time limit for diagnostic tests after accident?",
+      "answer": "Diagnostic tests must be conducted within 3 months from the date of accident."
+    },
+    {
+      "question": "What is covered under Disappearance benefit?",
+      "answer": "Disappearance benefit provides 100% of Sum Insured for all sum insured options."
+    },
+    {
+      "question": "What is the Burns coverage amount?",
+      "answer": "Burns coverage is up to Rs. 10,00,000 for 30L plan, Rs. 20,00,000 for 50L plan, and Rs. 25,00,000 for 1Cr plan."
+    },
+    {
+      "question": "Is Domestic Road Ambulance covered in all plans?",
+      "answer": "No, Domestic Road Ambulance coverage of up to Rs. 5,000 is available only in 50L and 1Cr plans."
+    },
+    {
+      "question": "What is the Nursing Care benefit?",
+      "answer": "Rs. 1000 per day for 50L plan and Rs. 1500 per day for 1Cr plan, maximum 15 days per claim."
+    },
+    {
+      "question": "When should a Qualified Nurse be hired for Nursing Care benefit?",
+      "answer": "Qualified Nurse should be hired within 1 week of discharge from hospital."
+    },
+    {
+      "question": "What is the time limit for Reconstructive Surgery?",
+      "answer": "Reconstructive surgery has to be carried out within 30 days from the date of accident."
+    },
+    {
+      "question": "What is covered under Repatriation of Mortal Remains?",
+      "answer": "Transportation expenses of customer's body from place of death to city of last known address, limited to lower of 2% of SI or Rs. 1 lakh."
+    },
+    {
+      "question": "How does the Loyalty Benefit work?",
+      "answer": "Coverage amount of AD & PTD is enhanced by flat 5% of Sum Insured on cumulative basis as Loyalty Bonus on renewal, maximum up to 50% of SI."
+    },
+    {
+      "question": "What happens to Loyalty Bonus if policy is not renewed?",
+      "answer": "The entire Loyalty Bonus will be forfeited if the Policy is not continued/renewed."
+    },
+    {
+      "question": "What is the premium for 30L sum insured?",
+      "answer": "The premium is Rs. 7,575 (inclusive of 18% GST) for ages 18-64 years."
+    },
+    {
+      "question": "What is the premium for 50L sum insured?",
+      "answer": "The premium is Rs. 13,625 (inclusive of 18% GST) for ages 18-64 years."
+    },
+    {
+      "question": "What is the premium for 1Cr sum insured?",
+      "answer": "The premium is Rs. 25,451 (inclusive of 18% GST) for ages 18-64 years."
+    },
+    {
+      "question": "What income multiplier applies for salaried persons?",
+      "answer": "For salaried persons, the income multiplier is 20 times Gross Income."
+    },
+    {
+      "question": "What income multiplier applies for business income persons?",
+      "answer": "For persons with business income, the income multiplier is 25 times Net Income."
+    },
+    {
+      "question": "What income multiplier applies for pensioners?",
+      "answer": "For persons with passive income like pensioners, the income multiplier is 10 times Net Income."
+    },
+    {
+      "question": "What financial documents are required for sum insured above Rs. 1 crore?",
+      "answer": "Last 3 years ITR filed including computation of Income, Business P&L audited statement (for business), and Net-worth Statement."
+    },
+    {
+      "question": "What percentage is paid for total loss of sight of both eyes under PTD?",
+      "answer": "100% of Sum Insured is paid for total and irrecoverable loss of sight of both eyes."
+    },
+    {
+      "question": "What percentage is paid for loss of one eye under PTD?",
+      "answer": "50% of Sum Insured is paid for total and irrecoverable loss of sight of one eye."
+    },
+    {
+      "question": "What percentage is paid for loss of hearing in both ears under PPD?",
+      "answer": "75% of Sum Insured is paid for total and irrecoverable loss of hearing in both ears."
+    },
+    {
+      "question": "What percentage is paid for third degree burns of 30% or more body surface?",
+      "answer": "100% of the Burns coverage amount is paid for third degree burns of 30% or more of total body surface area."
+    },
+    {
+      "question": "What is the maximum payout for Hip or Pelvis compound fractures?",
+      "answer": "100% of the Fractures Sum Insured is paid for Hip or Pelvis multiple fractures with at least one Compound Fracture and one Complete Fracture."
+    },
+    {
+      "question": "Can the policy cover family members?",
+      "answer": "The policy is individual cover type, and the proposer has to be insured (Self coverage only)."
+    }
+  ],
+  "source_file": "Secure Plus Presentation (1).txt",
+  "category": "Hi Document"
+}

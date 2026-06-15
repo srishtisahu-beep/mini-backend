@@ -1,0 +1,209 @@
+{
+  "product_name": "ICICI Pru Gold",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Participating Non-Linked Life Individual Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "ICICI Pru Gold is a participating, non-linked life insurance savings product designed to provide both life cover and savings benefits. It offers three distinct plan variants: 'Immediate Income', 'Immediate Income with Booster', and 'Deferred Income'. The policy provides a Death Benefit to protect the family in case of the life assured's demise, Survival Benefits in the form of regular income (Guaranteed Income and non-guaranteed Cash Bonuses), and a lump sum Maturity Benefit on surviving the policy term.",
+  "quick_facts": {
+    "minimum_age": "",
+    "maximum_age": "",
+    "sum_insured": "Sum Assured on Death is the highest of 7 times the Annualized Premium, 105% of the Total Premiums Paid, or a multiple of Annualized Premium based on age. Sum Assured on Maturity is the sum of all Annualized Premiums payable under the policy.",
+    "policy_term": "The period between the Policy Acceptance Date and the Date of Maturity as specified in the Policy Schedule.",
+    "waiting_period": "No specific waiting period for claims. However, the 'Deferred Income' plan has a 'Deferment Period' before the Survival Benefit becomes payable."
+  },
+  "coverage": [
+    {
+      "type": "Death",
+      "description": "Provides a Death Benefit to the claimant on the death of the Life Assured during the policy term."
+    },
+    {
+      "type": "Survival",
+      "description": "Provides a regular Survival Benefit (comprising Guaranteed Income and Cash Bonus, if declared) on survival of the Life Assured during the income term."
+    },
+    {
+      "type": "Maturity",
+      "description": "Provides a lump sum Maturity Benefit on the Life Assured surviving till the end of the policy term."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Death Benefit",
+      "description": "On death of the Life Assured during the Policy term, the Death Benefit payable is the 'Sum Assured on Death', plus 'Interim Survival Benefit' (if any), plus 'Terminal Bonus' (if declared). The Sum Assured on Death is the highest of: 7 times the Annualized Premium, 105% of the Total Premiums Paid as on the Date of Death, or a Death Benefit multiple times the Annualized Premium, where the multiple varies based on the age of the Life Assured."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Payable on survival of the Life Assured. The benefit depends on the plan chosen: 1) Immediate Income Plan: Guaranteed Income (GI) + Cash Bonus (CB), if declared. 2) Immediate Income with Booster Plan: GI + Guaranteed Booster (GB) every 5th policy year + CB, if declared. 3) Deferred Income Plan: GI + CB, if declared, payable after a chosen Deferment Period."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "For a fully-paid policy, on survival of the Life Assured till the Date of Maturity, a lump sum Maturity Benefit is payable. This benefit is the sum of 'Sum Assured on Maturity' and 'Terminal Bonus' (if declared). The Sum Assured on Maturity is the sum of all Annualized Premiums payable under the policy."
+    },
+    {
+      "name": "Bonuses",
+      "description": "The policy may be eligible for non-guaranteed bonuses such as Cash Bonus (part of Survival Benefit), Interim Cash Bonus (paid on death), Terminal Bonus (paid on death, surrender or maturity), and Contingent Terminal Bonus (for paid-up policies)."
+    },
+    {
+      "name": "Loan Facility",
+      "description": "A loan of up to 80% of the Surrender Value can be availed once the policy acquires a positive surrender value. The policy must be assigned to the company to avail the loan."
+    },
+    {
+      "name": "Savings Wallet",
+      "description": "An option to accumulate Survival Benefits instead of receiving them as periodic payments. The balance in the wallet accrues interest daily, linked to the Reverse Repo Rate published by the RBI. The balance can be withdrawn anytime or used to offset premium payments."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age",
+      "details": "Age means age of the Life Assured in completed years as on Date of Commencement of Risk of Policy. The policy can be issued on the life of a minor, and it will vest on him/her upon attaining the age of 18."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide within 12 months from the Date of Commencement of Risk or from the date of revival, the Claimant shall be entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date of death, whichever is higher, provided the Policy is in force. The policy terminates after this payment."
+    }
+  ],
+  "claims_information": [
+    {
+      "process_name": "Death Claim Process",
+      "description": "To process a death claim, the claimant must submit a duly filled and signed Claimant Statement Form along with required documents. The company may conduct an investigation in exceptional circumstances if all documents cannot be provided."
+    },
+    {
+      "process_name": "Documents for Death Claim",
+      "description": "Core documents include Death Certificate, claimant's address and photo ID proof, recent photograph, PAN card, and bank account details. Additional documents are required based on the cause of death. For unnatural causes (accident, suicide, etc.), FIR, Post Mortem Report, and Police Investigation Report are needed. For natural causes, medical records and certificates are required."
+    },
+    {
+      "process_name": "Maturity or Survival Benefit Claim Process",
+      "description": "To process a maturity or survival benefit claim, a Cancelled Cheque for electronic payment and KYC of the policy proposer are required."
+    },
+    {
+      "process_name": "Grievance Redressal",
+      "description": "For any grievance, customers can first contact the customer service desk. If unsatisfied, they can escalate the issue to the Grievance Redressal Officer (GRO), then to an internal committee, followed by the IRDAI's Grievance Cell (BIMA BHAROSA), and finally, the Insurance Ombudsman."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru Gold?",
+      "answer": "ICICI Pru Gold is a Participating Non-Linked Life Individual Savings Product. It is a contract of insurance between you and ICICI Prudential Life Insurance Company Limited that provides life cover and savings benefits."
+    },
+    {
+      "question": "What are the different plan options available under ICICI Pru Gold?",
+      "answer": "There are three plan variants available: Immediate Income, Immediate Income with Booster, and Deferred Income."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "Annualized Premium is the premium amount payable in a Policy Year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums, if any."
+    },
+    {
+      "question": "What is the Death Benefit payable under this policy?",
+      "answer": "On the death of the Life Assured during the policy term, the Death Benefit paid is the Sum Assured on Death, plus Interim Survival Benefit (if any), plus Terminal Bonus (if declared)."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' calculated?",
+      "answer": "The Sum Assured on Death is the highest of: 7 times the Annualized Premium, 105% of the Total Premiums Paid as on the Date of Death, or a Death Benefit multiple times the Annualized Premium, where the multiple is based on the Life Assured's age."
+    },
+    {
+      "question": "What is the Survival Benefit and how does it work?",
+      "answer": "The Survival Benefit is a payout on survival of the Life Assured, provided the policy is in force. It consists of a Guaranteed Income (GI) and a non-guaranteed Cash Bonus (CB), if declared. The payout timing and components depend on the plan variant chosen."
+    },
+    {
+      "question": "What is the difference between the 'Immediate Income' and 'Immediate Income with Booster' plans?",
+      "answer": "Both plans provide a Survival Benefit from the first policy year. The 'Immediate Income with Booster' plan provides an additional 'Guaranteed Booster' equal to 100% of the Guaranteed Income, which is payable every 5th Policy Year."
+    },
+    {
+      "question": "What is the 'Deferred Income' plan?",
+      "answer": "Under the 'Deferred Income' plan, the payment of the Survival Benefit (Guaranteed Income and Cash Bonus) starts after a specified 'Deferment Period', instead of from the first policy year."
+    },
+    {
+      "question": "What is the Maturity Benefit?",
+      "answer": "If the Life Assured survives until the policy maturity date, a lump sum Maturity Benefit is paid. It consists of the Sum Assured on Maturity plus any declared Terminal Bonus. The Sum Assured on Maturity is the sum of all Annualized Premiums paid."
+    },
+    {
+      "question": "Are the bonuses under this policy guaranteed?",
+      "answer": "No, all bonuses such as Cash Bonus and Terminal Bonus are non-guaranteed. Their declaration is at the discretion of the Company. However, once a bonus is declared, it becomes guaranteed to be paid as per policy terms."
+    },
+    {
+      "question": "What types of bonuses are available?",
+      "answer": "The policy may be eligible for Cash Bonus, Interim Cash Bonus, Terminal Bonus, and Contingent Terminal Bonus. The applicability depends on the policy status and events like death, surrender, or maturity."
+    },
+    {
+      "question": "What is the grace period for paying my premium?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for all other frequencies (yearly, half-yearly)."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If you stop paying premiums before paying for at least one full year, the policy will lapse and no benefits will be payable. If you stop after paying at least one full year's premium, the policy will acquire a 'paid-up' status with reduced benefits."
+    },
+    {
+      "question": "What is a 'paid-up' policy?",
+      "answer": "A policy becomes paid-up if you discontinue premium payments after paying for at least one full year. The policy continues with reduced benefits (Paid-up Sum Assured, Paid-up GI) but will not be entitled to any future bonuses."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, you can apply to revive a policy within 5 years from the due date of the first unpaid premium. Revival is subject to underwriting, satisfactory evidence of health, and payment of all arrears of premiums with interest."
+    },
+    {
+      "question": "What is the revival period?",
+      "answer": "The revival period is five consecutive complete years from the date of the first unpaid premium, during which you are entitled to revive a lapsed or paid-up policy."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy has acquired a surrender value, you can avail a loan of up to 80% of the surrender value. The policy must be assigned to the Company for this purpose."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a 30-day free-look period from the date of receipt of the policy document to review its terms and conditions. If you are not satisfied, you can return the policy for a refund, subject to deductions for stamp duty, risk premium, and medical expenses."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "You can surrender the policy anytime after the payment of at least one full policy year’s premium. No surrender value is payable before that."
+    },
+    {
+      "question": "What is the suicide clause in this policy?",
+      "answer": "If the Life Assured dies by suicide within 12 months from the policy's start date or revival date, the claimant will receive at least 80% of the total premiums paid or the surrender value, whichever is higher. The policy then terminates."
+    },
+    {
+      "question": "What is the process to file a death claim?",
+      "answer": "The claimant must submit a duly filled and signed Claimant Statement Form along with a copy of the Death Certificate, claimant's KYC documents (address proof, photo ID), PAN card, and bank details."
+    },
+    {
+      "question": "What additional documents are needed to file a death claim for unnatural death?",
+      "answer": "For unnatural deaths such as accidents or suicide, additional documents like the First Information Report (FIR), Post Mortem Report (PMR), Final Police Investigation Report, and Medico-legal cause of death certificate are required."
+    },
+    {
+      "question": "What is the 'Savings Wallet' feature?",
+      "answer": "It is an option to accumulate your Survival Benefits instead of receiving them as periodic payments. The money in the wallet grows with interest linked to the RBI's Reverse Repo Rate. You can opt-in or opt-out of this feature at any time during the income term."
+    },
+    {
+      "question": "How can I use the funds in the 'Savings Wallet'?",
+      "answer": "You can withdraw the balance from the wallet, partially or completely, at any time. You can also use the balance to offset any due premium payments by submitting a request to the company."
+    },
+    {
+      "question": "What is the 'Save the Date' feature?",
+      "answer": "If you pay premiums annually, you can choose to receive your annual Survival Benefit on a 'Special Date' of your choice during the policy year. This option must be selected at policy inception and cannot be changed later."
+    },
+    {
+      "question": "What happens if the nominee is a minor?",
+      "answer": "If the nominee is a minor, you can appoint an 'Appointee' who is authorized to receive the policy benefits on behalf of the minor until the nominee attains the age of majority."
+    },
+    {
+      "question": "Can I change my premium payment frequency?",
+      "answer": "Yes, you can request a change in your premium payment frequency (e.g., from yearly to half-yearly) during the Premium Payment Term. This change can only be made on a policy anniversary."
+    },
+    {
+      "question": "How do I update my contact details with the company?",
+      "answer": "You are expected to immediately inform the company about any change in your address or contact details. You can do so by contacting the customer service desk or visiting a branch."
+    },
+    {
+      "question": "Who can receive the policy benefits?",
+      "answer": "Policy benefits are payable to the Policyholder, the Assignee (if the policy is assigned), or the Nominee (in case of death benefit), as per the recorded endorsements and applicable laws."
+    },
+    {
+      "question": "Where can I file a grievance if I am not satisfied with the service?",
+      "answer": "You can start by contacting customer service. If the issue is not resolved, you can escalate it to the Grievance Redressal Officer (GRO), then an internal committee, IRDAI's Grievance Cell (BIMA BHAROSA), and finally the Insurance Ombudsman."
+    }
+  ],
+  "source_file": "ICICI_Pru_Gold_07032025_to_till_date_105N190V04.txt",
+  "category": "LI Policy Bond Documents"
+}

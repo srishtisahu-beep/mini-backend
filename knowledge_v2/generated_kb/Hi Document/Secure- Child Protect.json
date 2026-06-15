@@ -1,0 +1,166 @@
+{
+  "product_name": "Child Protection Plan",
+  "product_type": "Personal Accident Insurance",
+  "summary": "A unique plan designed to cover your child's monthly expenses in your absence, providing fixed monthly income for child or spouse for 100 months post accidental death/disappearance of insured person",
+  "coverage": [
+    "Accidental Death/Disappearance - Monthly Fixed Income for 100 months",
+    "Permanent Total Disablement - Up to 100% of Sum Insured",
+    "Permanent Partial Disablement - Up to 100% of Sum Insured as per PPD Table",
+    "Temporary Total Disablement Plus - 1% of SI per week, maximum 100 weeks, max up to 50 lac",
+    "Child Education - 10% of Sum Insured over and above Accidental Death Coverage",
+    "Fractures - Up to Rs. 1-2 lac as per Fracture Table",
+    "Major Diagnostic Test - Up to Rs. 15,000-25,000 over and above AD SI",
+    "Mobility Cover - Up to Rs. 15,000-25,000 over and above AD SI",
+    "Burns - Up to Rs. 10-20 lac as per Burns Table",
+    "Domestic Road Ambulance - Up to Rs. 5,000 over and above AD SI",
+    "Nursing Care - Rs. 1000 per day, Max 15 days per claim",
+    "Reconstructive Surgery - Up to Rs. 10 lac over and above AD SI",
+    "Repatriation of Mortal Remains - Lower of 2% of SI or Rs 1L",
+    "Accidental Hospitalization - Up to 3-5 lac",
+    "Loyalty Benefit - 5% of SI every renewal, Max up to 50% of SI"
+  ],
+  "waiting_periods": [],
+  "room_rent": [],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "For Accidental Death/Disappearance: Nominee will get fixed monthly amount for next 100 months",
+    "Nominee can be either child or spouse",
+    "If child is less than 18 years, proposer will have to appoint an appointee to receive policy benefits",
+    "For Temporary Total Disablement: Weekly compensation amount is 1% of SI, customer must submit proof of TTD due to accident",
+    "Weekly compensation payable for max 100 weeks",
+    "Total amount paid under TTD Plus will not exceed 50L",
+    "For Major Diagnostic Tests: Original bills need to be submitted for reimbursement",
+    "Diagnostic tests must be undertaken on written advice of Medical Practitioner",
+    "Diagnostic tests must be conducted within 3 months from date of accident",
+    "For Nursing Care: Medical Practitioner must certify necessity of Qualified Nurse services",
+    "Qualified Nurse must be hired within 1 week of discharge from hospital",
+    "For Reconstructive Surgery: Must be carried out within 30 days from date of accident",
+    "Must be carried with written Medical Advice of Medical Practitioner"
+  ],
+  "exclusions": [],
+  "faqs": [
+    {
+      "question": "What is the Child Protection Plan?",
+      "answer": "It is a unique plan designed to cover your child's monthly expenses in your absence, providing fixed monthly income for child or spouse for 100 months post accidental death/disappearance of insured person."
+    },
+    {
+      "question": "What are the coverage amount options available?",
+      "answer": "The policy offers four coverage options: Rs. 30 lac (Rs. 30,000 per month), Rs. 50 lac (Rs. 50,000 per month), Rs. 1 crore (Rs. 1,00,000 per month), and Rs. 3 crore (Rs. 3,00,000 per month) for 100 months."
+    },
+    {
+      "question": "What is the minimum and maximum entry age?",
+      "answer": "Minimum entry age is 18 years and maximum entry age is 64 years."
+    },
+    {
+      "question": "What is the maximum renewal age?",
+      "answer": "The policy can be renewed lifelong."
+    },
+    {
+      "question": "What is the policy tenure?",
+      "answer": "The policy tenure is 5 years."
+    },
+    {
+      "question": "Who can be covered under this policy?",
+      "answer": "Only self can be covered (proposer has to be insured) and it is an individual policy."
+    },
+    {
+      "question": "How much monthly income will be paid in case of accidental death?",
+      "answer": "Monthly fixed income will be paid to spouse or child for 100 months following the death of insured member, ranging from Rs. 30,000 to Rs. 3,00,000 depending on the coverage option chosen."
+    },
+    {
+      "question": "What is covered under Permanent Total Disablement?",
+      "answer": "Insured is eligible for up to 100% of Sum Insured with Permanent Total Disablement as per PTD Table."
+    },
+    {
+      "question": "What percentage is paid for total loss of sight of both eyes?",
+      "answer": "100% of the Sum Insured is payable for total and irrecoverable loss of sight of both eyes."
+    },
+    {
+      "question": "What percentage is paid for loss of one entire hand?",
+      "answer": "50% of the Sum Insured is payable for total and irrecoverable loss of sight of one eye, or actual loss by physical separation of one entire hand or one entire foot."
+    },
+    {
+      "question": "What is the benefit for Temporary Total Disablement?",
+      "answer": "1% of Sum Insured per week is paid, maximum for 100 weeks, with maximum limit up to 50 lac."
+    },
+    {
+      "question": "What is the Child Education benefit?",
+      "answer": "10% of Sum Insured is provided for child education, which is over and above Accidental Death Coverage."
+    },
+    {
+      "question": "What is the maximum amount for fractures benefit?",
+      "answer": "Up to Rs. 1 lac for lower coverage options and up to Rs. 2 lac for higher coverage options as per Fracture Table."
+    },
+    {
+      "question": "What is covered under Major Diagnostic Test benefit?",
+      "answer": "Up to Rs. 15,000-25,000 for major diagnostic tests like CT Scan/MRI, which is over and above AD Sum Insured."
+    },
+    {
+      "question": "What is the Burns coverage amount?",
+      "answer": "Up to Rs. 10 lac for lower coverage options and up to Rs. 20 lac for higher coverage options as per Burns Table."
+    },
+    {
+      "question": "What percentage is paid for third degree burns of 30% or more of body surface?",
+      "answer": "100% of the coverage amount specified against Burns is payable for third degree burns of 30% or more of total body surface area."
+    },
+    {
+      "question": "What is the Loyalty Benefit?",
+      "answer": "5% of the Sum Insured is added every renewal on cumulative basis, with maximum up to 50% of Sum Insured, applicable on Accidental Death and PTD."
+    },
+    {
+      "question": "What happens to Loyalty Bonus if policy is not renewed?",
+      "answer": "The entire Loyalty Bonus will be forfeited if the Policy is not continued/renewed."
+    },
+    {
+      "question": "What is the income multiplier for salaried persons?",
+      "answer": "For salaried persons aged 0-64 years, the income multiplier is 20 times gross income."
+    },
+    {
+      "question": "What is the income multiplier for business persons?",
+      "answer": "For persons with business income aged 0-64 years, the income multiplier is 25 times net income."
+    },
+    {
+      "question": "What documents are required for Sum Insured above Rs. 1 crore?",
+      "answer": "Last 3 years ITR filed including computation of income, business P&L audited statement (for business), and net-worth statement."
+    },
+    {
+      "question": "Who can be the nominee for monthly income benefit?",
+      "answer": "Nominee can be either child or spouse."
+    },
+    {
+      "question": "What if the child nominee is less than 18 years?",
+      "answer": "If child is less than 18 years, proposer will have to appoint an appointee to receive policy benefits."
+    },
+    {
+      "question": "What is the time limit for diagnostic tests after accident?",
+      "answer": "Diagnostic tests must be conducted within 3 months from the date of accident."
+    },
+    {
+      "question": "What is the time limit for reconstructive surgery?",
+      "answer": "Reconstructive surgery has to be carried out within 30 days from the date of accident."
+    },
+    {
+      "question": "What is the daily amount for nursing care benefit?",
+      "answer": "Rs. 1000 per day for maximum 15 days per claim, and the amount is over and above AD Sum Insured."
+    },
+    {
+      "question": "When should qualified nurse be hired for nursing care benefit?",
+      "answer": "Qualified nurse should be hired within 1 week of discharge from hospital."
+    },
+    {
+      "question": "What is the percentage paid for loss of hearing in both ears?",
+      "answer": "75% of the Sum Insured is payable for total and irrecoverable loss of hearing in both ears."
+    },
+    {
+      "question": "What is the percentage paid for loss of all toes?",
+      "answer": "20% of the Sum Insured is payable for loss of all toes."
+    },
+    {
+      "question": "What conditions must be met for child education benefit?",
+      "answer": "Child must be financially dependent on customer, should not have independent sources of income, and must not have attained 25 years of age."
+    }
+  ],
+  "source_file": "Secure- Child Protect.txt",
+  "category": "Hi Document"
+}

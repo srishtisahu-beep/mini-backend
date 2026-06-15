@@ -1,0 +1,213 @@
+{
+  "product_name": "ICICI Pru GIFT Select",
+  "company": "ICICI Prudential Life Insurance Company Limited",
+  "product_type": "Life Insurance Savings Product",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Guaranteed Income Savings Plan",
+  "summary": "ICICI Pru GIFT Select is a life insurance savings product designed to provide financial security. It combines life insurance protection with a guaranteed income stream, which can serve as a supplementary source of income, support retirement, fund major life events, or act as a safety net for unexpected situations.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum Sum Assured on Death starts from ₹3,50,000 and varies based on the premium payment term. Maximum Sum Assured is subject to the Board Approved Underwriting Policy. For the POS variant, the maximum Sum Assured on Death is ₹25,00,000.",
+    "policy_term": "17 to 50 years, depending on the premium payment term.",
+    "waiting_period": "Not specified in the document. A 12-month waiting period applies for the suicide clause."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "If the Life Assured passes away during the policy term, a lump sum Death Benefit is paid to the claimant. The benefit is the highest of: a) Sum Assured on Death (defined as Death Benefit multiple X Annualized Premium), b) 105% of the total premiums paid up to the date of death, or c) Surrender value payable as on the date of death. Upon payment of the Death Benefit, the policy will terminate."
+    },
+    {
+      "name": "Life Cover",
+      "description": "The policy provides a life insurance cover for the entire duration of the policy term."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Instant Cashback Benefit",
+      "description": "An option to receive a percentage of the Annualized Premium as a cashback on policy issuance. This is paid within seven working days of the first year's premium realization. This benefit is available only with yearly premium payment frequency and when the income term starts from the second policy year or later."
+    },
+    {
+      "name": "Guaranteed Income Benefit",
+      "description": "Receive a guaranteed regular income from your chosen start date until maturity. You can choose between a 'Level Guaranteed Income' which remains constant, or an 'Increasing Guaranteed Income' which increases every policy year at a rate of 5% p.a. on a compounding basis."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "An option to receive a lump sum benefit on the date of maturity, which is a percentage of the sum of all Annualized Premiums payable under the policy. This must be selected at policy inception."
+    },
+    {
+      "name": "Low Cover Income Booster",
+      "description": "An option at the start of the policy to choose a lower life cover in order to receive a higher guaranteed income."
+    },
+    {
+      "name": "High Premium Benefit",
+      "description": "An additional guaranteed income benefit is payable for policies with an Annualized Premium of more than ₹50,000."
+    },
+    {
+      "name": "Flexi Save Option",
+      "description": "During the income term, you can choose to accumulate the Guaranteed Income payouts instead of receiving them. These accumulated funds earn a loyalty addition daily at the Reverse Repo Rate published by RBI."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "You can take a loan of up to 80% of the surrender value once the policy acquires a positive surrender value."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be applicable on premiums paid and benefits received as per the prevailing tax laws, which are subject to amendments."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum/Maximum Age at Entry",
+      "value": "0 / 60 years"
+    },
+    {
+      "criteria": "Minimum/Maximum Age at Maturity",
+      "value": "18 / 99 years"
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "value": "2, 3, 4, 5, 6, 7, 8, 9, 10-15 years"
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "17 to 50 years"
+    },
+    {
+      "criteria": "Income Term",
+      "value": "Minimum 1 year; Maximum equal to policy term"
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "value": "Starts from ₹50,000 and varies based on the premium payment term."
+    },
+    {
+      "criteria": "Premium Payment Frequency",
+      "value": "Annual, Half-Yearly, Monthly"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Clause",
+      "description": "In case of the Life Assured's death due to suicide within 12 months from the date of commencement of risk or from the date of revival, the claimant will receive 80% of the total premiums paid till the date of death or the surrender value available, whichever is higher. Any cashback or income already paid out will be deducted from this amount."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claims Process",
+      "description": "The document does not detail a step-by-step claims process. In the event of death, the Death Benefit is paid out as a lump sum to the claimant specified in the policy. For assistance, policyholders can contact their advisor or the customer service representative."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ICICI Pru GIFT Select?",
+      "answer": "It is a life insurance savings product that combines protection for your loved ones with a guaranteed income stream to support your financial goals."
+    },
+    {
+      "question": "Can I receive any benefit immediately after purchasing the policy?",
+      "answer": "Yes, you can opt for the 'Instant Cashback Benefit', which is a percentage of the Annualized Premium, paid within seven working days of the first year's premium realization, subject to certain conditions."
+    },
+    {
+      "question": "How does the Guaranteed Income benefit work?",
+      "answer": "You receive a guaranteed regular income from a chosen start date until the policy matures. This provides a steady stream of income regardless of market fluctuations."
+    },
+    {
+      "question": "Can my guaranteed income increase to combat inflation?",
+      "answer": "Yes, you have the option to choose 'Increasing Guaranteed Income', where your income will increase every policy year at a rate of 5% p.a. on a compounding basis."
+    },
+    {
+      "question": "Is there a lump sum payment at the end of the policy term?",
+      "answer": "Yes, you can opt for a 'Maturity Benefit' at policy inception to receive a percentage of the sum of all annualized premiums as a lump sum on the date of maturity."
+    },
+    {
+      "question": "What happens if the Life Assured dies during the policy term?",
+      "answer": "A lump sum Death Benefit is paid to the claimant. The benefit is the highest of the Sum Assured on Death, 105% of total premiums paid, or the surrender value."
+    },
+    {
+      "question": "What is the minimum age to be eligible for this policy?",
+      "answer": "The minimum age at entry is 0 years."
+    },
+    {
+      "question": "What is the maximum age at which one can purchase this policy?",
+      "answer": "The maximum age at entry is 60 years."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "The premium payment terms available are 2, 3, 4, 5, 6, 7, 8, 9, and 10 to 15 years."
+    },
+    {
+      "question": "What is the 'Low Cover Income Booster' feature?",
+      "answer": "It is an option you can choose at the beginning of the policy to opt for a lower life cover in exchange for a higher guaranteed income."
+    },
+    {
+      "question": "What is the 'Flexi Save Option'?",
+      "answer": "This feature allows you to accumulate your Guaranteed Income payouts instead of receiving them. The accumulated amount grows over time with a loyalty addition."
+    },
+    {
+      "question": "Can I take a loan against my ICICI Pru GIFT Select policy?",
+      "answer": "Yes, you can take a policy loan of up to 80% of the surrender value, provided the policy has acquired a positive surrender value."
+    },
+    {
+      "question": "What happens if I miss paying a premium?",
+      "answer": "A grace period of 15 days for monthly mode and 30 days for other modes is provided. If you have paid premiums for at least one full year, the policy will become 'paid-up' with reduced benefits. If not, the policy will lapse."
+    },
+    {
+      "question": "Is it possible to revive a lapsed or paid-up policy?",
+      "answer": "Yes, you can revive your policy within five years from the due date of the first unpaid premium by paying all due premiums with interest and providing satisfactory evidence of health."
+    },
+    {
+      "question": "Can I surrender the policy before maturity?",
+      "answer": "Yes, you can surrender the policy anytime after payment of at least one full policy year's premium. You will receive a Surrender Value, which is the higher of the Guaranteed Surrender Value (GSV) or Special Surrender Value (SSV)."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a 30-day free-look period from the date of receipt of the policy document to review its terms and conditions. If you are not satisfied, you can cancel the policy."
+    },
+    {
+      "question": "What is the policy's suicide exclusion clause?",
+      "answer": "If the Life Assured dies by suicide within 12 months of policy start or revival, the claimant will get 80% of total premiums paid or the surrender value, whichever is higher, after deducting any benefits already paid."
+    },
+    {
+      "question": "Are there any tax benefits associated with this plan?",
+      "answer": "Yes, tax benefits may be available on premiums paid and benefits received as per the prevailing tax laws, which are subject to change."
+    },
+    {
+      "question": "What are the frequency options for receiving the Guaranteed Income?",
+      "answer": "You can choose to receive income 'Annually in arrears' or 'Monthly in arrears'. If you pay premiums annually, you also have the option of 'Annual in advance'."
+    },
+    {
+      "question": "Can I change my premium payment frequency during the policy term?",
+      "answer": "Yes, you have the flexibility to change the frequency of premium payment, but only on a policy anniversary."
+    },
+    {
+      "question": "Which options, once chosen, cannot be changed later?",
+      "answer": "Premium Payment Term, Policy Term, Income Term, Instant CashBack percentage, Guaranteed Income Start Year, choice of Level or Increasing GI, frequency of GI, Maturity Benefit percentage, and the Low Cover Income Booster option cannot be changed after policy inception."
+    },
+    {
+      "question": "Is there a benefit for paying a higher premium?",
+      "answer": "Yes, for policies with an Annualized Premium of more than ₹50,000, an additional guaranteed income benefit is payable."
+    },
+    {
+      "question": "What is the difference between the regular plan and the POS variant?",
+      "answer": "The POS (Point of Sale) variant has different eligibility criteria, such as a lower maximum age at maturity (65 years) and a maximum Sum Assured on Death of ₹25,00,000. Policies sourced through the POS channel will not have any medical examination."
+    },
+    {
+      "question": "What happens if a minor is the Life Assured?",
+      "answer": "When the minor attains the age of 18, the policy will vest in him/her, and they will become the policyholder."
+    },
+    {
+      "question": "What if the Policyholder and Life Assured are different people and the Policyholder dies?",
+      "answer": "If the Life Assured is a minor, the policy vests on their guardian. If the Life Assured is a major, the policy vests on the Life Assured, who then becomes the new Policyholder."
+    },
+    {
+      "question": "Is this policy available for online purchase?",
+      "answer": "Yes, the product is also available for sale through online mode."
+    },
+    {
+      "question": "Are there extra charges for paying premiums monthly or half-yearly?",
+      "answer": "Yes, additional loadings are applied for non-annual modes. For monthly mode, the loading is 4.5% of the annual premium, and for half-yearly, it is 2.5%."
+    }
+  ],
+  "source_file": "ICICI_Pru_GIFT_Select_Brochure.txt",
+  "category": "LI Plan Brochure"
+}

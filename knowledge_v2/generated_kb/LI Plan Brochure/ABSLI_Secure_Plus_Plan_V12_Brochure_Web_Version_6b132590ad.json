@@ -1,0 +1,237 @@
+{
+  "product_name": "Aditya Birla Sun Life Insurance SecurePlus Plan",
+  "company": "Aditya Birla Sun Life Insurance Company Limited",
+  "product_type": "Non-Linked Non-Participating Individual Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Individual Savings",
+  "summary": "A non-linked non-participating individual savings life insurance plan that provides the benefit of a comprehensive life insurance cover along with regular income, to ensure fulfilment of your family’s financial goals and aspirations. It offers guaranteed income, loyalty additions, and the flexibility to customize the plan with multiple riders.",
+  "quick_facts": {
+    "minimum_age": "1 year",
+    "maximum_age": "60 years",
+    "sum_insured": "Minimum: ₹ 3,50,000; Maximum: No Limit (subject to Board Approved Underwriting Policy)",
+    "policy_term": "Varies based on the Premium Payment Term (PPT) chosen. For a 6-year PPT, PT can be 6-11 years. For an 8-year PPT, PT can be 8-13 years. For a 10-year PPT, PT can be 10-15 years. For a 12-year PPT, PT can be 12-17 years.",
+    "waiting_period": ""
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In case of death of the Life Insured during the Policy Term, the 'Sum Assured on Death' is paid to the nominee/beneficiary. This is defined as the higher of 150% of Total Premiums paid till the date of death or the Sum Assured."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "On surviving the policy term, an Income Benefit is payable for the chosen Benefit Payout Period. The benefit includes an Income Benefit (as a percentage of Annualized Premium) and a Loyalty Addition."
+    },
+    {
+      "type": "Rider Benefits",
+      "description": "Option to enhance risk coverage by adding riders for Accidental Death, Critical Illness, Surgical Care, Hospital Care, and Waiver of Premium at a nominal extra cost. Riders are not available for policies purchased through the POS channel."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Income",
+      "description": "Provides a regular flow of guaranteed income for the chosen Benefit Payout Period, applicable only if all due premiums are paid."
+    },
+    {
+      "name": "Loyalty Additions",
+      "description": "An additional amount added to the Income Benefit payout each year during the Benefit Payout Period, provided all premiums have been paid."
+    },
+    {
+      "name": "Commutation Option",
+      "description": "Flexibility to receive a discounted value of future survival benefits as a lump sum instead of periodic payouts."
+    },
+    {
+      "name": "Customizable Benefits",
+      "description": "Option to enhance insurance cover through various available riders at a nominal extra cost."
+    },
+    {
+      "name": "Staggered Death Benefit Option",
+      "description": "The nominee can choose to receive the Death Benefit in annual or monthly installments over a period of 5 years."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Facility to take a loan of up to 80% of the surrender value once the policy acquires a surrender value. The minimum loan amount is Rs. 5,000."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Applicable on premiums paid and benefits received as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "value": "Minimum 1 year, Maximum 60 years."
+    },
+    {
+      "criteria": "Maturity Age",
+      "value": "Minimum 18 years, Maximum 77 years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "6, 8, 10, or 12 years."
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "value": "Varies from 6 to 17 years depending on the chosen PPT."
+    },
+    {
+      "criteria": "Benefit Payout Period",
+      "value": "6, 8, 10, or 12 years."
+    },
+    {
+      "criteria": "Premium Payment Frequency",
+      "value": "Annual, Semi-Annual, Quarterly, Monthly."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "value": "₹ 50,000."
+    },
+    {
+      "criteria": "Maximum Annualized Premium",
+      "value": "No Limit (subject to Board Approved Underwriting Policy)."
+    },
+    {
+      "criteria": "Minimum Sum Assured",
+      "value": "₹ 3,50,000."
+    },
+    {
+      "criteria": "Individuals Covered",
+      "value": "All Individuals (Male | Female | Transgender)."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "If the Life Insured dies by suicide within 12 months of the effective date of commencement of risk or the date of revival of the policy, the policy shall terminate. In such cases, the Company shall pay the higher of the Surrender Value or the total premiums paid (with some adjustments), and the policy terminates."
+    }
+  ],
+  "claims_information": [
+    {
+      "process": "Death Claim",
+      "details": "In case of death of the Life Insured during the Policy Term, the 'Sum Assured on Death' is paid to the nominee/beneficiary. The nominee/beneficiary can opt to receive this as a lump sum or in installments over 5 years via the Staggered Death Benefit Option."
+    },
+    {
+      "process": "Survival Claim",
+      "details": "On survival till the end of the Policy Term, the Income Benefit and Loyalty Addition are paid to the policyholder during the Benefit Payout Period as per the chosen frequency."
+    },
+    {
+      "process": "Claim during Payout Period",
+      "details": "If the Life Insured dies during the Benefit Payout Period, the Survival Benefit (Income Benefit and Loyalty Addition) will continue to be paid to the nominee/beneficiary for the remainder of the term."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ABSLI SecurePlus Plan?",
+      "answer": "It is a non-linked, non-participating, individual savings life insurance plan from Aditya Birla Sun Life Insurance."
+    },
+    {
+      "question": "What are the key features of this plan?",
+      "answer": "The key features are Guaranteed Income, Loyalty Additions, a Commutation Option for survival benefits, and the option to add riders for enhanced coverage."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum entry age is 1 year and the maximum is 60 years."
+    },
+    {
+      "question": "What are the available Premium Payment Terms (PPT)?",
+      "answer": "You can choose a Premium Payment Term of 6, 8, 10, or 12 years."
+    },
+    {
+      "question": "Can I change my Premium Payment Term or Policy Term after the policy is issued?",
+      "answer": "No, the Premium Payment Term (PPT) and Policy Term (PT) once chosen at policy inception cannot be changed."
+    },
+    {
+      "question": "What is the minimum annual premium required?",
+      "answer": "The minimum annualized premium is ₹ 50,000."
+    },
+    {
+      "question": "What is the Death Benefit payable under this plan?",
+      "answer": "The Death Benefit is the 'Sum Assured on Death', which is defined as the higher of 150% of total premiums paid until death or the Sum Assured."
+    },
+    {
+      "question": "How is the Sum Assured determined?",
+      "answer": "The Sum Assured is a multiple of the Annualized Premium, and the multiple depends on the Life Insured's age at the start of the policy."
+    },
+    {
+      "question": "Can the Death Benefit be received in installments?",
+      "answer": "Yes, the nominee can opt for the 'Staggered Death Benefit Option' to receive the benefit in annual or monthly installments over a 5-year period."
+    },
+    {
+      "question": "What benefit do I receive if I survive the entire policy term?",
+      "answer": "If you survive the policy term, you will receive a Survival Benefit, which includes an Income Benefit and a Loyalty Addition, paid out during the chosen Benefit Payout Period."
+    },
+    {
+      "question": "What is the Benefit Payout Period?",
+      "answer": "It is the period after the Policy Term during which the Survival Benefit is paid. You can choose a period of 6, 8, 10, or 12 years at inception."
+    },
+    {
+      "question": "What are Loyalty Additions?",
+      "answer": "Loyalty Additions are an extra amount paid to enhance your Income Benefit every year during the Benefit Payout Period, provided all due premiums have been paid. The percentage depends on the premium band."
+    },
+    {
+      "question": "What is the Commutation Option?",
+      "answer": "This option gives you the flexibility to receive a discounted value of your future outstanding survival benefits as a lump sum instead of regular payouts."
+    },
+    {
+      "question": "Can I enhance my coverage with riders?",
+      "answer": "Yes, you can add riders like ABSLI Accidental Death Benefit Rider Plus, ABSLI Critical Illness Rider, and others for a nominal extra cost to enhance your coverage."
+    },
+    {
+      "question": "Are riders available if I buy the policy through a POS channel?",
+      "answer": "No, for policies purchased through the POS (Point of Sale) channel, riders are not available."
+    },
+    {
+      "question": "Is there a loan facility available with this plan?",
+      "answer": "Yes, you can take a loan against the policy once it has acquired a surrender value. The maximum loan amount is 80% of the then applicable surrender value."
+    },
+    {
+      "question": "What is the grace period for paying the premium?",
+      "answer": "A grace period of 30 days is allowed for annual, semi-annual, and quarterly modes, and 15 days for the monthly mode."
+    },
+    {
+      "question": "What happens if I stop paying premiums before the policy acquires a surrender value?",
+      "answer": "The policy will lapse, and all benefits, including the insurance cover, will cease."
+    },
+    {
+      "question": "What happens if I stop paying premiums after the policy has acquired a surrender value?",
+      "answer": "The policy will become a Reduced Paid Up (RPU) policy, and the benefits will be reduced proportionally. Loyalty Additions will not be payable on RPU policies."
+    },
+    {
+      "question": "Can I revive a policy that has lapsed?",
+      "answer": "Yes, you can revive a lapsed policy within a revival period of five years from the due date of the first unpaid premium by paying all outstanding premiums with interest and providing evidence of insurability."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "You have a free-look period of 30 days from the date you receive the policy document to review its terms and conditions. If you disagree, you can return the policy for a refund."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life insured dies by suicide within 12 months from the policy's start date or revival date, the policy terminates. A specified amount, typically the premiums paid or surrender value, will be returned to the nominee."
+    },
+    {
+      "question": "What happens if the insured person dies during the Benefit Payout Period?",
+      "answer": "The Income Benefit and Loyalty Addition will continue to be paid to the nominee or beneficiary for the remainder of the Benefit Payout Period."
+    },
+    {
+      "question": "Can I change the frequency of my Survival Benefit payouts?",
+      "answer": "Yes, you have the flexibility to change the Benefit Payout Frequency (e.g., from annual to monthly) during the Policy Term or even during the Benefit Payout Period."
+    },
+    {
+      "question": "What are the available premium payment frequencies?",
+      "answer": "You can pay premiums Annually, Semi-Annually, Quarterly, or Monthly."
+    },
+    {
+      "question": "What is a Reduced Paid Up (RPU) policy?",
+      "answer": "An RPU policy is what your policy becomes if you stop paying premiums after it has acquired a surrender value. It continues with reduced benefits (RPU Sum Assured on Death and RPU Income Benefit) and no loyalty additions."
+    },
+    {
+      "question": "How is the Income Benefit calculated?",
+      "answer": "The Income Benefit is expressed as a percentage of the Annualized Premium and varies based on your age at entry, premium amount, Premium Payment Term, and Benefit Payout Period."
+    },
+    {
+      "question": "What happens to the policy if the outstanding loan amount exceeds the surrender value?",
+      "answer": "If the outstanding policy loan balance exceeds the Surrender Value for other than in-force and fully paid up policies, the company will send a 90-day notice to repay. If not repaid, the policy will be terminated."
+    }
+  ],
+  "source_file": "ABSLI_Secure_Plus_Plan_V12_Brochure_Web_Version_6b132590ad.txt",
+  "category": "LI Plan Brochure"
+}

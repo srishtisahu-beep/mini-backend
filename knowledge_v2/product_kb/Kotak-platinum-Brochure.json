@@ -1,0 +1,221 @@
+{
+  "product_name": "Kotak Platinum",
+  "company": "Kotak Mahindra Life Insurance Company Ltd.",
+  "product_type": "Unit Linked Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Unit linked non-participating endowment plan",
+  "summary": "Kotak Platinum is a unit-linked, non-participating endowment life insurance plan designed for wealth maximization with low charges. It offers flexibility through three distinct investment strategies (Self Managed, Age Based, Systematic Switching), Survival Units for long-term savings, and liquidity options like partial withdrawals after five years. The plan provides life cover and a maturity benefit equal to the fund value, with the investment risk being borne by the policyholder.",
+  "quick_facts": {
+    "minimum_age": "0 years",
+    "maximum_age": "65 years (60 years for limited pay)",
+    "sum_insured": "Varies based on age, policy term, and premium payment term. Minimum Sum Assured is the higher of 7 or 10 times Annualized Premium or a multiple of Policy Term and Annualized Premium. Maximum Sum Assured can be up to 25 times the Annualized Premium, depending on age.",
+    "policy_term": "10 to 30 years",
+    "waiting_period": "The plan has a lock-in period of five years. The policyholder cannot withdraw or surrender the monies invested, completely or partially, until the end of the fifth year from inception."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "In the event of the life insured's death, the benefit payable is the highest of: Basic Sum Assured (less applicable partial withdrawals), 105% of the total premiums paid, or the Fund Value in the Main Account. Additionally, for each Top-Up premium paid, the benefit is the highest of: Top-Up Sum Assured, 105% of the Top-Up premium paid, or the Fund Value in the Top-Up Account."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival till the end of the policy term, the maturity benefit payable is the Fund Value, inclusive of all Survival Units and the Fund Value in Top-Up Account(s), if any."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Optional riders are available for enhanced protection: Kotak Accidental Death Benefit Rider (Linked) and Kotak Permanent Disability Benefit Rider (Linked)."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Wealth Maximization with Low Charges",
+      "description": "The plan has low charges, with premium allocation ranging from 95% to 98.5%, ensuring most of the premium is invested in the chosen funds for superior returns."
+    },
+    {
+      "name": "Multiple Investment Strategies",
+      "description": "Flexibility to choose from 3 investment strategies: Self Managed Strategy, Age Based Strategy, and Systematic Switching Strategy (SSS)."
+    },
+    {
+      "name": "Survival Units",
+      "description": "To reward long-term savings, the plan adds Survival Units every 5 years starting from the end of the 10th policy year. These units are equal to 2% of the average Fund Value of the preceding three years."
+    },
+    {
+      "name": "Flexible Terms",
+      "description": "Choice of policy terms from 10 to 30 years and premium payment terms including Regular Pay and Limited Pay (5 or 10 years). Premiums can be paid yearly, half-yearly, quarterly, or monthly."
+    },
+    {
+      "name": "Liquidity",
+      "description": "Partial withdrawals are allowed after the completion of 5 policy years to meet unexpected expenses."
+    },
+    {
+      "name": "Top-Up Premiums",
+      "description": "Option to invest surplus funds as Top-Up premiums to increase your investment."
+    },
+    {
+      "name": "Alteration of Sum Assured",
+      "description": "Flexibility to alter the Basic Sum Assured on policy anniversaries, subject to limits and underwriting."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Option to receive maturity proceeds in periodic installments (yearly, half-yearly, quarterly) over a maximum period of 5 years."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Tax benefits may be available under sections 80C and 10(10D) of the Income-tax Act, 1961, subject to prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Entry Age (Last Birthday)",
+      "value": "Minimum: 0 years; Maximum: 65 years (60 years for limited pay)."
+    },
+    {
+      "criteria": "Maturity Age (Last Birthday)",
+      "value": "Minimum: 18 years; Maximum: 75 years."
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "10 to 30 years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "Regular Pay: Equal to policy term. Limited Pay: 5 years for a 10-year policy term; 10 years for policy terms of 15 to 30 years."
+    },
+    {
+      "criteria": "Premium Payment Mode",
+      "value": "Yearly, Half-yearly, Quarterly, and Monthly."
+    },
+    {
+      "criteria": "Minimum Annual Premium",
+      "value": "₹99,000."
+    },
+    {
+      "criteria": "Maximum Premium",
+      "value": "No limit."
+    },
+    {
+      "criteria": "Top-Up Premium",
+      "value": "Minimum: ₹10,000. Total Top-Up premiums cannot exceed the sum of all regular premiums paid."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Clause",
+      "description": "If the Life Insured commits suicide within one year of the date of commencement of risk, only the Fund Value in the Main Account and Top-Up Accounts (if any) as on the date of death is payable. The Basic Sum Assured and Top-Up Sum Assured are not payable. Different conditions apply for suicide after policy revival."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Process",
+      "description": "The Death Benefit is payable provided all premiums are paid up to date. The Maturity Benefit is paid at the end of the policy term. For assistance and to initiate claims, contact Kotak Life Insurance."
+    },
+    {
+      "type": "Contact",
+      "description": "Email: clientservicedesk@kotak.com | Toll-Free No: 1800 209 8800."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Kotak Platinum?",
+      "answer": "It is a unit-linked life insurance plan from Kotak Life Insurance that combines life cover with investment, offering low charges and flexible investment strategies to maximize wealth."
+    },
+    {
+      "question": "Who bears the investment risk in this plan?",
+      "answer": "The investment risk in the investment portfolio is borne by the policyholder."
+    },
+    {
+      "question": "Can I withdraw my money in the first few years?",
+      "answer": "No, the plan has a lock-in period of five years. You cannot withdraw or surrender the money, either completely or partially, until the end of the fifth year."
+    },
+    {
+      "question": "What are the investment strategies available in this plan?",
+      "answer": "Kotak Platinum offers three investment strategies: Self Managed Strategy, Age Based Strategy, and Systematic Switching Strategy (SSS)."
+    },
+    {
+      "question": "What is the Self Managed Strategy?",
+      "answer": "This strategy allows you to manage your investments on your own by choosing from a range of available fund options, such as Classic Opportunities Fund, Frontline Equity Fund, Balanced Fund, etc."
+    },
+    {
+      "question": "How does the Age Based Strategy work?",
+      "answer": "This strategy automatically allocates your funds between an equity fund (Classic Opportunities Fund) and a debt fund (Dynamic Bond Fund) based on your age and chosen risk appetite (Aggressive, Moderate, or Conservative). The equity exposure decreases as you get older."
+    },
+    {
+      "question": "What is the Systematic Switching Strategy (SSS)?",
+      "answer": "SSS allows you to invest your premium in the Money Market Fund and then systematically transfer a pre-defined amount every month into an equity fund (either Classic Opportunities Fund or Frontline Equity Fund), helping you manage market volatility."
+    },
+    {
+      "question": "Can I change my investment strategy during the policy term?",
+      "answer": "Yes, you can choose to exit your opted strategy and select another one, which will become effective from the next policy anniversary."
+    },
+    {
+      "question": "What are Survival Units?",
+      "answer": "Survival Units are additional units added to your policy fund every 5 years, starting from the end of the 10th policy year. They are equal to 2% of the average Fund Value in the main account in the immediately preceding three years, rewarding long-term investment."
+    },
+    {
+      "question": "What is the death benefit payable under this plan?",
+      "answer": "In case of death, the nominee receives the highest of: Basic Sum Assured (less partial withdrawals), 105% of total premiums paid, or the Fund Value. A similar calculation applies to any Top-Up accounts."
+    },
+    {
+      "question": "What do I receive on maturity of the policy?",
+      "answer": "On surviving the policy term, you will receive the total Fund Value, which includes all Survival Units and the value of any Top-Up Accounts."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum entry age is 0 years and the maximum entry age is 65 years (or 60 years for limited pay options)."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "You can choose a policy term ranging from 10 to 30 years."
+    },
+    {
+      "question": "Can I make partial withdrawals from my policy?",
+      "answer": "Yes, partial withdrawals are allowed after the completion of the five-year lock-in period. The minimum withdrawal amount is ₹10,000."
+    },
+    {
+      "question": "Are there any charges for making a partial withdrawal?",
+      "answer": "Yes, a charge of ₹250 is applicable for each partial withdrawal from the Main Account."
+    },
+    {
+      "question": "Can I invest additional funds into my policy?",
+      "answer": "Yes, you can invest surplus money through Top-Up Premiums. The minimum Top-Up amount is ₹10,000."
+    },
+    {
+      "question": "What are the major charges in the Kotak Platinum plan?",
+      "answer": "The plan has several charges, including Premium Allocation Charge, Policy Administration Charge, Fund Management Charge (FMC), Switching Charge, Partial Withdrawal Charge, and Discontinuance Charges."
+    },
+    {
+      "question": "What is the Fund Management Charge (FMC)?",
+      "answer": "It is a charge for managing the funds, levied as a percentage of the Fund Value. It varies for different funds, for example, 1.35% p.a. for Classic Opportunities Fund and 0.60% p.a. for Money Market Fund."
+    },
+    {
+      "question": "Are there any optional riders available with this plan?",
+      "answer": "Yes, you can enhance your protection by opting for two linked riders: Kotak Accidental Death Benefit Rider and Kotak Permanent Disability Benefit Rider."
+    },
+    {
+      "question": "What happens if I miss paying my premiums?",
+      "answer": "You get a grace period of 30 days (for annual, half-yearly, quarterly modes) or 15 days (for monthly mode) to pay the premium. If not paid, the policy may be discontinued as per the policy terms and conditions."
+    },
+    {
+      "question": "Does this policy have a free-look period?",
+      "answer": "Yes, there is a 15-day free-look period (30 days for policies sold via Distance Marketing) from the date of policy receipt, during which you can return the policy if you disagree with the terms and conditions."
+    },
+    {
+      "question": "Can I change my Sum Assured during the policy term?",
+      "answer": "Yes, you can increase or decrease your Basic Sum Assured on policy anniversaries, subject to limits and underwriting, without any change in your premium amount."
+    },
+    {
+      "question": "What is the Settlement Option for maturity benefits?",
+      "answer": "The Settlement Option allows you to receive your maturity benefit in periodic installments (yearly, half-yearly, or quarterly) over a maximum period of 5 years, instead of receiving it as a single lump sum."
+    },
+    {
+      "question": "What is the suicide exclusion clause in this policy?",
+      "answer": "If the life insured commits suicide within one year of the policy's commencement, the Sum Assured is not payable. Only the Fund Value as on the date of death will be paid to the nominee."
+    },
+    {
+      "question": "What is the minimum annual premium for this plan?",
+      "answer": "The minimum annual premium required to purchase this plan is ₹99,000."
+    }
+  ],
+  "source_file": "Kotak-platinum-Brochure.txt",
+  "category": "LI Plan Brochure"
+}

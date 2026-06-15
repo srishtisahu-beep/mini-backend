@@ -1,0 +1,198 @@
+{
+  "product_name": "Aspire",
+  "product_type": "Health Insurance",
+  "summary": "Aspire is a comprehensive health insurance policy that covers Allopathic treatments anywhere in the world and AYUSH treatments in India only. The policy offers multiple sum insured options with benefits like unlimited coverage through ReAssure+/ReAssureX, accumulating benefits through Booster+, maternity coverage through M-iracle, and various optional benefits.",
+  "coverage": [
+    "Road Ambulance up to Base Sum Insured",
+    "Air Ambulance in case of Emergency up to Base Sum Insured",
+    "Hospitalization expenses for treatment (minimum 2 hours, 24 hours for AYUSH)",
+    "Day Care Treatments",
+    "Modern treatments including Uterine Artery Embolization, HIFU, Immunotherapy, Robotic surgeries, etc.",
+    "Pre-hospitalization expenses for 60 days",
+    "Post-hospitalization expenses for 180 days",
+    "Home Care/Domiciliary Treatment",
+    "Organ donor expenses",
+    "Annual Health Checkup from day 1",
+    "Maternity expenses through M-iracle benefit",
+    "Personal Accident coverage",
+    "Second Medical Opinion unlimited times",
+    "Unlimited e-consultations"
+  ],
+  "waiting_periods": [
+    "30-day waiting period for Illness (except accidents)",
+    "Pre-existing Disease waiting period: 12/24/36 months as per variant selected",
+    "Specified disease/procedure waiting period: 12/24 months as per variant selected",
+    "Cancer covered after 30-day waiting period",
+    "M-iracle waiting period as per variant chosen"
+  ],
+  "room_rent": [
+    "No room rent limit - choose any room judiciously to protect Sum Insured",
+    "Room Type Modification available: Standard Single Room or Shared Room",
+    "ICU admission always paid up to Sum Insured regardless of room type",
+    "Co-payment applies if treatment taken in higher room category than eligible"
+  ],
+  "co_pay": [
+    "Optional Co-payment benefit available",
+    "Percentage of admissible claim amount to be borne by insured",
+    "Co-payment does not apply to M-iracle, Cash-Bag, WellConsult (OPD), Annual Health Check-up, Live Healthy, Second Medical Opinion, e-consultation, Personal Accident, Hospital Daily Cash, Borderless benefits",
+    "Co-Payment and Annual Aggregate Deductible cannot be opted together",
+    "Room category co-payment: Shared to Standard Single Room (10%), Shared to Deluxe/Suite (25%), Standard Single to Deluxe/Suite (15%)",
+    "Borderless benefit offers co-payment options: 0%, 20%, 30%, 40% & 50%",
+    "WellConsult (OPD) has flat 20% co-payment for reimbursement"
+  ],
+  "deductible": [
+    "Optional Annual Aggregate Deductible available",
+    "Aggregate amount per year on specified expenses that insurer will not pay",
+    "Applies to: Expenses in reaching Hospital, Hospitalization, Pre & Post hospitalization, Home Care/Domiciliary Treatment, Organ Donor",
+    "Does not apply to: M-iracle, Cash-Bag, WellConsult (OPD), Annual Health Check-up, Live Healthy, Second Medical Opinion, e-consultation, Personal Accident, Hospital Daily Cash, Borderless benefits",
+    "Deductible amount must be payable as per policy terms and conditions",
+    "Cannot be opted together with Co-Payment"
+  ],
+  "claims_information": [
+    "Cashless facility available at Network Providers",
+    "Reimbursement available at Non-Network Providers",
+    "Notification of Claim through recognized modes of communication",
+    "Pre-authorization required for cashless facility",
+    "Daily records maintained and accessible to insurer's authorized personnel",
+    "Claims must be for Medically Necessary Treatment",
+    "Reasonable and Customary Charges apply"
+  ],
+  "exclusions": [
+    "Pre-existing Diseases until expiry of waiting period (12/24/36 months)",
+    "Specified diseases/procedures until expiry of waiting period (12/24 months)",
+    "30-day waiting period for Illness (except accidents)",
+    "Investigation & Evaluation - admissions primarily for diagnostics only",
+    "Rest Cure, rehabilitation and respite care",
+    "Obesity/Weight Control unless specific conditions met",
+    "Cosmetic or plastic Surgery unless for reconstruction following Accident, Burns or Cancer",
+    "Hazardous or Adventure activities",
+    "Expenses not linked to treatment like food, beverage, toiletries and cosmetics",
+    "Investigations only without treatment",
+    "Automation machine for peritoneal dialysis",
+    "Medical & ambulatory devices used at home"
+  ],
+  "faqs": [
+    {
+      "question": "What is the Product UIN for Aspire?",
+      "answer": "The Product UIN for Aspire is NBHHLIP24129V012324."
+    },
+    {
+      "question": "Where are Allopathic treatments covered under Aspire?",
+      "answer": "Allopathic treatments are covered anywhere in the world under this policy."
+    },
+    {
+      "question": "Where are AYUSH treatments covered?",
+      "answer": "AYUSH treatments are covered in India only."
+    },
+    {
+      "question": "What is the minimum hospitalization period required for coverage?",
+      "answer": "The minimum hospitalization period is 2 hours or more for general treatment, and minimum 24 hours for AYUSH treatment in an AYUSH Hospital."
+    },
+    {
+      "question": "Are Day Care Treatments covered?",
+      "answer": "Yes, all Day Care Treatments are covered as the policy covers hospitalization for 2 hours or more."
+    },
+    {
+      "question": "What is the Pre-hospitalization coverage period?",
+      "answer": "Pre-hospitalization expenses are covered for 60 days before the date of admission if related to the condition for which hospitalization claim is paid."
+    },
+    {
+      "question": "What is the Post-hospitalization coverage period?",
+      "answer": "Post-hospitalization expenses are covered for 180 days after date of discharge if related to the condition for which hospitalization claim is paid."
+    },
+    {
+      "question": "When is the Annual Health Checkup benefit available?",
+      "answer": "Annual Health Checkup is available once every Policy Year, from day 1 of the policy."
+    },
+    {
+      "question": "How should Annual Health Checkup be booked?",
+      "answer": "The tests must be booked through digital assets (e.g. Mobile App) and are available only on cashless basis with no reimbursement allowed."
+    },
+    {
+      "question": "What is ReAssure+ Forever?",
+      "answer": "ReAssure+ Forever provides unlimited Sum Insured. The first paid claim in the life of the policy triggers ReAssure Forever, and once triggered it stays for life provided the policy is renewed without break."
+    },
+    {
+      "question": "What is Lock the Clock feature?",
+      "answer": "Lock the Clock locks your age at entry when you buy the policy, till a claim is paid. You keep paying the premium applicable for your entry age at each renewal until a claim is paid."
+    },
+    {
+      "question": "What is Booster+ benefit?",
+      "answer": "Booster+ allows unutilized Base Sum Insured to carry forward. Maximum accumulation is up to 10 times of the Base Sum Insured, based on variant chosen and entry age."
+    },
+    {
+      "question": "What does M-iracle benefit cover?",
+      "answer": "M-iracle covers maternity expenses including antenatal check-ups, vaccines for expecting mother, delivery, surrogacy, assisted reproduction, termination of pregnancy, infertility treatment, and adoption charges."
+    },
+    {
+      "question": "How does Live Healthy benefit work?",
+      "answer": "Simply walk and earn up to 30% discount at renewal by downloading the recommended mobile App. 1000 steps help you earn one health point."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is fifteen days where premium payment mode is monthly and thirty days in all other cases."
+    },
+    {
+      "question": "What is a Pre-existing Disease as per this policy?",
+      "answer": "Pre-existing Disease means any condition diagnosed by a physician not more than 36 months prior to policy commencement, or for which medical advice or treatment was received not more than 36 months prior to policy commencement."
+    },
+    {
+      "question": "What is the waiting period for Pre-existing Diseases?",
+      "answer": "The waiting period for Pre-existing Diseases is 12/24/36 months of continuous coverage as per the variant selected."
+    },
+    {
+      "question": "What is the 30-day waiting period?",
+      "answer": "Expenses related to treatment of any Illness within 30 days from first Policy commencement date are excluded, except claims arising due to an Accident."
+    },
+    {
+      "question": "Are organ donor expenses covered?",
+      "answer": "Yes, if you undergo an organ transplant, hospitalization expenses of the donor for harvesting the organ are paid when your hospitalization claim is paid. If you donate organs, expenses for harvesting are also covered."
+    },
+    {
+      "question": "What modern treatments are specifically covered?",
+      "answer": "Modern treatments covered include Uterine Artery Embolization, HIFU, Immunotherapy, Robotic surgeries, Stereotactic radio Surgeries, Deep Brain stimulation, Balloon Sinuplasty, Oral Chemotherapy, and others as specified."
+    },
+    {
+      "question": "Is there any room rent limit?",
+      "answer": "There is no room rent limit. You can choose the room you like, but should choose judiciously to protect your Sum Insured."
+    },
+    {
+      "question": "What is Domiciliary Hospitalization?",
+      "answer": "Domiciliary Hospitalization means medical treatment at home which would normally require hospital care, either because the patient cannot be moved to hospital or due to non-availability of room in hospital."
+    },
+    {
+      "question": "What is Cashless Facility?",
+      "answer": "Cashless Facility is where payments for treatment costs are directly made to the network provider by the insurer to the extent pre-authorization is approved."
+    },
+    {
+      "question": "What is the difference between Safeguard and Safeguard+?",
+      "answer": "Safeguard covers non-payable items in List I of Annexure I and protects Booster+ up to INR 50,000 claims. Safeguard+ covers non-payable items in Lists I,II,III,IV and protects Booster+ up to INR 1,00,000 claims."
+    },
+    {
+      "question": "Can Co-payment and Annual Aggregate Deductible be opted together?",
+      "answer": "No, Co-Payment and Annual Aggregate Deductible cannot be opted together."
+    },
+    {
+      "question": "What is the Future Ready benefit?",
+      "answer": "Future Ready allows you to add your future spouse to the plan, and all waiting periods completed by you will be passed on to your future spouse when they are added to the policy."
+    },
+    {
+      "question": "What is Borderless benefit?",
+      "answer": "Borderless allows you to get emergency or planned treatments anywhere in the world with co-payment options of 0%, 20%, 30%, 40% & 50%. It's available under both cashless and reimbursement."
+    },
+    {
+      "question": "What expenses are not covered during hospitalization?",
+      "answer": "Expenses not linked to treatment like food, beverage, toiletries and cosmetics are not covered. Also, admissions only for investigations without treatment are not covered."
+    },
+    {
+      "question": "How does the Sum Insured utilization sequence work?",
+      "answer": "Sum Insured is utilized in this sequence: 1. Base Sum Insured, 2. Booster+ Sum Insured, 3. Safeguard/Safeguard+ Sum Insured, 4. ReAssure+/ReAssureX."
+    },
+    {
+      "question": "What is WellConsult (OPD) benefit?",
+      "answer": "WellConsult (OPD) provides complete wellness and OPD benefits including tele/video consultations, physical consultations, prescribed diagnostics, pharmacy, emotional wellness sessions, diet coaching, and fitness coaching."
+    }
+  ],
+  "source_file": "Aspire_Policy_Wordings.txt",
+  "category": "Hi Document"
+}

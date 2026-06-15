@@ -1,0 +1,233 @@
+{
+  "product_name": "Tata AIA Life Insurance Fortune Guarantee Plus",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Individual, Non-Linked, Non-Participating",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "An individual, non-linked, non-participating life insurance savings plan designed to provide financial protection and a guaranteed regular income. It offers flexibility with two plan options: Regular Income or Regular Income with an inbuilt Critical Illness benefit. The plan also returns the total premiums paid at the end of the income period, helping you plan for future needs while protecting your loved ones.",
+  "quick_facts": {
+    "minimum_age": "1 year (for Option 1)",
+    "maximum_age": "60 years",
+    "sum_insured": "Basic Sum Assured is a multiple of the premium. Minimum premium for Single Pay is ₹50,000 (Single Life) and for Regular/Limited Pay is ₹24,000 p.a. The maximum is subject to the Board Approved Underwriting Policy (BAUP). For PoS policies, the maximum Death Benefit is ₹25 lakhs.",
+    "policy_term": "5 to 17 years, depending on the premium payment term chosen.",
+    "waiting_period": "For PoS policies: 90 days for death not due to accident. For Option 2 (non-PoS): 90-day waiting period from the first diagnosis for the Critical Illness Benefit."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the life insured during the policy term, the benefit payable is the highest of: 1.25 x Single Premium or 10 x Annualised Premium; 105% of Total Premiums Paid up to date of death; or Basic Sum Assured. For joint life policies, the policy continues after the first death."
+    },
+    {
+      "name": "Guaranteed Annual Income",
+      "description": "After the policy term (maturity), a Guaranteed Annual Income is paid for the chosen Income Period (20 to 45 years). This income is paid irrespective of the survival of the life insured during the income period."
+    },
+    {
+      "name": "Return of Premium Benefit",
+      "description": "The Total Premiums Paid by the policyholder will be returned at the end of the Income Period."
+    },
+    {
+      "name": "Critical Illness Benefit (Option 2 only)",
+      "description": "Upon the first diagnosis of any of the 40 covered major critical illnesses, the Guaranteed Annual Income starts immediately. All future premiums are waived, and the policy continues. The life insured must survive for 30 days post-diagnosis."
+    },
+    {
+      "name": "Joint Life Coverage",
+      "description": "A joint life option is available for the Single Premium payment option, covering two lives."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexibility of Plan Options",
+      "description": "Choice between 'Regular Income' or 'Regular Income with an inbuilt Critical Illness benefit'."
+    },
+    {
+      "name": "Flexible Income Period",
+      "description": "Choose an Income Period from 20 to 45 years."
+    },
+    {
+      "name": "Choice of Income Mode",
+      "description": "Option to receive income annually or monthly."
+    },
+    {
+      "name": "Choice of Premium Payment Term",
+      "description": "Options for Single, Regular, or Limited premium payments."
+    },
+    {
+      "name": "Optional Riders",
+      "description": "Enhance protection with Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider or Comprehensive Health Rider. Riders are not available for PoS policies."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Available as per applicable Income Tax Laws."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "A loan of up to 80% of the Surrender Value can be availed once the policy acquires a surrender value."
+    },
+    {
+      "name": "Commutation Option",
+      "description": "Option to receive the commuted value of future Guaranteed Annual Income plus the Return of Premium Benefit as a lump sum anytime during the Income Period."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry (Minimum)",
+      "details": "Option 1: 1 year. Option 2: 18 years."
+    },
+    {
+      "criteria": "Age at Entry (Maximum)",
+      "details": "Other than PoS: 60 years. For PoS (Option 1 only): 60 years."
+    },
+    {
+      "criteria": "Age at Maturity (Maximum)",
+      "details": "Other than PoS: Option 1: 77 years, Option 2: 70 years. For PoS: 65 years."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "details": "Single Pay: 1 year. Regular Pay: 5 to 12 years. Limited Pay: 5 to 12 years."
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "details": "Varies from 5 to 17 years based on the chosen PPT."
+    },
+    {
+      "criteria": "Premium Payment Mode",
+      "details": "Single, Annual, Half-yearly, Quarterly, Monthly."
+    },
+    {
+      "criteria": "Coverage Type",
+      "details": "Single Life (for all pay types) or Joint Life (for Single pay only)."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide",
+      "description": "If the life insured commits suicide within 12 months from the date of commencement of risk or revival, the nominee will receive at least 80% of the Total Premiums Paid or the surrender value, whichever is higher. The policy will then terminate."
+    }
+  ],
+  "claims_information": [
+    {
+      "name": "Claim Process",
+      "description": "For any information including claims, please contact our Insurance Advisor / Intermediary or visit Tata AIA Life’s nearest branch office or call 1-860-266-9966 or write to us at customercare@tataaia.com."
+    },
+    {
+      "name": "Death Claim during Grace Period",
+      "description": "If a death claim occurs during the grace period, the due premium for the policy year will be deducted from the death claim payout."
+    },
+    {
+      "name": "Critical Illness Claim during Grace Period",
+      "description": "If a critical illness is diagnosed during the grace period, benefits will be paid after deduction of the unpaid premium."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Life Insurance Fortune Guarantee Plus?",
+      "answer": "It is an Individual, Non-Linked, Non-Participating, Life Insurance Savings Plan that provides financial protection for your family and a Guaranteed Regular Income to meet future requirements."
+    },
+    {
+      "question": "What are the two main plan options available?",
+      "answer": "The plan offers two options: Option 1 is Regular Income, and Option 2 is Regular Income with an inbuilt Critical Illness benefit. Option 2 is not available for policies sourced through PoS."
+    },
+    {
+      "question": "Can I choose the plan option after the policy has started?",
+      "answer": "No, the plan option can only be chosen at the inception of the Policy."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum age at entry is 1 year for Option 1 and 18 years for Option 2. The maximum age at entry for both options is 60 years."
+    },
+    {
+      "question": "How does the Guaranteed Annual Income benefit work?",
+      "answer": "Provided the policy is in force, the Guaranteed Annual Income starts after the policy term (maturity) and continues until the end of the chosen Income Period, irrespective of the survival of the life insured."
+    },
+    {
+      "question": "How long can the income period be?",
+      "answer": "For Option 1, the income period can be chosen from 20 to 45 years, in multiples of 5 years. For Option 2, it is fixed at 30 years for a 5-year premium payment term and 25 years for a 10-year premium payment term."
+    },
+    {
+      "question": "Will I get my premiums back?",
+      "answer": "Yes, the Total Premiums Paid by the policyholder will be payable at the end of the Income Period."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "If the life insured dies during the policy term, the death benefit is the highest of: 1.25 times the Single Premium (or 10 times the Annualised Premium), 105% of Total Premiums Paid up to the date of death, or the Basic Sum Assured."
+    },
+    {
+      "question": "Is a joint life option available?",
+      "answer": "Yes, a joint life option is available, but only for the Single Premium payment option."
+    },
+    {
+      "question": "What happens in the case of the first death under a joint life policy?",
+      "answer": "For joint life policies, the policy will continue after the First Death after payment of the death benefit due. The policy terminates upon the Second Death during the policy term."
+    },
+    {
+      "question": "What is the Critical Illness benefit in Option 2?",
+      "answer": "If the insured is diagnosed with any of the 40 covered major critical illnesses before maturity, the Guaranteed Annual Income starts from the end of the policy year/month of diagnosis. All future premiums are also waived off."
+    },
+    {
+      "question": "Is there a survival period to claim the critical illness benefit?",
+      "answer": "Yes, the life insured needs to have survived for a period of 30 days after the diagnosis of the critical illness."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums through Single, Annual, Half-yearly, Quarterly, and Monthly modes."
+    },
+    {
+      "question": "Can I add extra protection through riders?",
+      "answer": "Yes, you can enhance your cover by adding optional riders like the Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider and Comprehensive Health Rider. However, riders are not available for policies purchased from the PoS channel."
+    },
+    {
+      "question": "What is the minimum premium amount for this policy?",
+      "answer": "The minimum premium for Single Pay is ₹50,000 for a single life policy. For Regular/Limited Pay, the minimum annual premium is ₹24,000."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A grace period of 15 days is allowed for monthly mode and 30 days for all other modes from the premium due date."
+    },
+    {
+      "question": "What happens if I stop paying premiums after two years?",
+      "answer": "If full premiums for at least two years have been paid and subsequent premiums are not paid, the policy will be converted into a Reduced Paid-up Policy by default and will provide reduced benefits."
+    },
+    {
+      "question": "Can I take a loan against my policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can apply for a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a free-look period of 15 days from receiving the policy document to review the terms and conditions. This is extended to 30 days if the policy is sourced through electronic or distance marketing mode."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "In case of death due to suicide within 12 months from the policy's start or revival date, the beneficiary will be entitled to at least 80% of the total premiums paid or the surrender value, whichever is higher, and the policy will terminate."
+    },
+    {
+      "question": "Can I receive my income on a monthly basis?",
+      "answer": "Yes, at the inception of the policy, you can opt to receive the Guaranteed Annual Income on a monthly frequency. The monthly payout will be 96% of the Guaranteed Annual Income divided by 12."
+    },
+    {
+      "question": "Can I change my income frequency from annual to monthly during the policy term?",
+      "answer": "No, the option to take income in monthly frequency must be exercised at inception and cannot be altered once chosen."
+    },
+    {
+      "question": "Can I get a lump sum amount instead of the future guaranteed income payments?",
+      "answer": "Yes, you have the option to receive the commuted value of the future Guaranteed Annual Income plus the Return of Premium Benefit as a lump sum anytime during the Income Period."
+    },
+    {
+      "question": "Is there a waiting period for this policy?",
+      "answer": "Yes. For PoS policies, there is a 90-day waiting period for non-accidental death. For Option 2, there is a 90-day waiting period on the first diagnosis of any covered Critical Illness."
+    },
+    {
+      "question": "How is the Basic Sum Assured calculated?",
+      "answer": "The Basic Sum Assured is calculated by multiplying the Annualised/Single Premium by the Death Benefit Multiple (DBM). The DBM varies by the age of the life insured at inception for Limited/Regular Pay policies."
+    },
+    {
+      "question": "What happens if I don't pay the first two years' premiums?",
+      "answer": "If the full premiums for at least two years are not paid within the Grace Period, the policy will lapse from the due date of the first unpaid premium and no benefits will be payable."
+    },
+    {
+      "question": "Can a lapsed policy be revived?",
+      "answer": "Yes, a lapsed policy may be revived within five years from the due date of the first unpaid premium, subject to the company's underwriting policy and payment of all overdue premiums with interest."
+    }
+  ],
+  "source_file": "TATA AIA PRO0381-Fortune-Guarantee-Plus-V2-Brochure-web.txt",
+  "category": "LI Plan Brochure"
+}

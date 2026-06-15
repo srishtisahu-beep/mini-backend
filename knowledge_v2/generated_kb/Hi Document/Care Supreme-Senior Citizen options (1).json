@@ -1,0 +1,160 @@
+{
+  "product_name": "Care Supreme-Senior",
+  "product_type": "Senior Citizen Health Insurance",
+  "summary": "A health insurance plan designed for senior citizens aged 61 and above with no upper age limit, offering premium based on city of residence, cumulative bonus, unlimited automatic recharge, and wellness benefits with up to 30% renewal discount.",
+  "coverage": [
+    "In-Patient Care up to Sum Insured",
+    "Day Care Treatment up to Sum Insured",
+    "Pre-Hospitalization Medical Expenses for 60 Days",
+    "Post Hospitalization Medical Expenses for 180 Days",
+    "AYUSH Treatment up to Sum Insured",
+    "Domiciliary Hospitalization up to Sum Insured",
+    "Organ Donor Cover up to Sum Insured",
+    "Road Ambulance Cover up to Rs.10,000 per year (up to SI for SI>=15L)",
+    "Air Ambulance up to 5L (optional benefit)",
+    "Advance Technology Methods up to Sum Insured",
+    "Unlimited E-Consultations with General Physicians",
+    "Annual Health Check-up once per year for all insured members",
+    "Palliative Care up to Rs.5000 per day, max 1L in policy year",
+    "Home Modification up to Rs.10,000 in policy year"
+  ],
+  "waiting_periods": [
+    "Initial Waiting Period: 30 Days for all Hospitalization except Accidental Hospitalization",
+    "Named Ailment Waiting Period: 24 months",
+    "Pre-Existing Diseases Waiting Period: 48 months"
+  ],
+  "room_rent": [
+    "Most Economical Single Private AC Room",
+    "ICU: No Limit",
+    "Room rent eligibility can be modified using Room Rent Modification optional benefit"
+  ],
+  "co_pay": [
+    "20% Co-Payment applicable on all claims",
+    "Co-payment can be introduced using Co-payment optional benefit",
+    "Care OPD: 10% Co-payment on GP consultation claims",
+    "Care OPD: 5% Co-payment on specialist consultation claims"
+  ],
+  "deductible": [],
+  "claims_information": [
+    "Unlimited Automatic Recharge available for unlimited times for unrelated or same illness",
+    "Recharge amount available from 2nd claim in policy year",
+    "Recharge amount equal to policy Sum Insured",
+    "Max amount from recharge in single claim will not exceed policy Sum Insured",
+    "Recharge can be utilized for same person same disease, same person different disease, different person same disease"
+  ],
+  "exclusions": [
+    "Customers managing Diabetes with Insulin are not eligible for the plan"
+  ],
+  "faqs": [
+    {
+      "question": "What is the minimum entry age for this policy?",
+      "answer": "Minimum entry age is 61 years for individual and floater policies. For floater, the second member can be less than 60 years."
+    },
+    {
+      "question": "Is there a maximum entry age limit?",
+      "answer": "No, there is no upper age limit for adults. Children can be covered up to 24 years entry age."
+    },
+    {
+      "question": "What is the exit age for this policy?",
+      "answer": "Adults can continue lifelong, while children exit at age 25."
+    },
+    {
+      "question": "What are the Sum Insured options available?",
+      "answer": "Sum Insured options are 7L, 10L, 15L, and 25L for both Care Supreme-Senior Super and Care Supreme-Senior Premium variants."
+    },
+    {
+      "question": "What is the tenure option for this policy?",
+      "answer": "Tenure options are 1, 2, or 3 years."
+    },
+    {
+      "question": "How is the premium determined?",
+      "answer": "Premium is determined based on the city of residence, with Zone 1 and Zone 2 pricing."
+    },
+    {
+      "question": "Which cities fall under Zone 1 pricing?",
+      "answer": "Zone 1 includes Delhi NCR, Mumbai Metropolis Area, Gujarat State, Aligarh, and Mathura."
+    },
+    {
+      "question": "What is the Cumulative Bonus benefit?",
+      "answer": "Cumulative Bonus increases coverage by 50% of Sum Insured per year, with maximum increase restricted to 100% of Sum Insured in 2 consecutive renewals. Claims do not affect the bonus accrued."
+    },
+    {
+      "question": "How does the Unlimited Automatic Recharge work?",
+      "answer": "The policy can be recharged unlimited times in a policy year. Recharge amount equals policy Sum Insured and is available from the 2nd claim onwards."
+    },
+    {
+      "question": "What is the waiting period for accidental hospitalization?",
+      "answer": "There is no waiting period for accidental hospitalization. The 30-day initial waiting period applies to all other hospitalizations."
+    },
+    {
+      "question": "What is covered under pre-hospitalization expenses?",
+      "answer": "Pre-hospitalization medical expenses are covered for 60 days before hospitalization."
+    },
+    {
+      "question": "What is covered under post-hospitalization expenses?",
+      "answer": "Post-hospitalization medical expenses are covered for 180 days after discharge."
+    },
+    {
+      "question": "Is AYUSH treatment covered?",
+      "answer": "Yes, AYUSH treatment is covered up to the Sum Insured amount."
+    },
+    {
+      "question": "What is the ambulance cover provided?",
+      "answer": "Road ambulance cover is up to Rs.10,000 per year, or up to Sum Insured for SI>=15L. Air ambulance cover is up to 5L as an optional benefit."
+    },
+    {
+      "question": "Are there any sub-limits in Care Supreme-Senior Premium?",
+      "answer": "No, sub-limits are not applicable in Care Supreme-Senior Premium variant."
+    },
+    {
+      "question": "What sub-limits apply in Care Supreme-Senior Super?",
+      "answer": "Sub-limits apply on cataract, knee replacement, cardiovascular diseases, cancer, renal diseases, hernia surgeries, hysterectomy, BPH surgeries, and renal stone treatments with varying limits based on Sum Insured."
+    },
+    {
+      "question": "How can I avail wellness benefits?",
+      "answer": "Wellness benefits provide up to 30% discount on renewal based on accumulated healthy days (10,000 steps = 1 healthy day) in the first 10 months of policy year."
+    },
+    {
+      "question": "What discount can I get with 270 healthy days?",
+      "answer": "You can get 30% renewal discount with 270 healthy days in a year."
+    },
+    {
+      "question": "Who can be covered under this policy?",
+      "answer": "Self, spouse/live-in partner/same sex partner, son, daughter, father, mother, mother-in-law, father-in-law, grandfather, and grandmother can be covered."
+    },
+    {
+      "question": "What is the maximum number of people that can be covered?",
+      "answer": "Individual policy can cover maximum 6 persons, while floater policy can cover maximum 2 adults and 2 children."
+    },
+    {
+      "question": "Is domiciliary hospitalization covered?",
+      "answer": "Yes, domiciliary hospitalization is covered up to the Sum Insured amount."
+    },
+    {
+      "question": "What is covered under Disease Management Program?",
+      "answer": "It includes 4 physical doctor consultations per year (max Rs.750 per consultation), up to Rs.6000 per year for prescribed pharmacy, and diagnostic tests at company network on cashless basis."
+    },
+    {
+      "question": "What is Palliative Care benefit?",
+      "answer": "Palliative Care is available on diagnosis of terminal illness, providing up to Rs.5000 per day with maximum 1L in a policy year."
+    },
+    {
+      "question": "What is Home Modification benefit?",
+      "answer": "Home modification up to Rs.10,000 in a policy year is provided within 30 days from discharge date for mobility or movement within residence."
+    },
+    {
+      "question": "What does Care OPD cover?",
+      "answer": "Care OPD covers 4 GP consultations (max Rs.1000 each with 10% co-payment), 4 specialist consultations (max Rs.2000 each with 5% co-payment), physiotherapy OPD up to Rs.1000 per year, and psychologist consultation up to Rs.1000 per year."
+    },
+    {
+      "question": "Are customers with insulin-dependent diabetes eligible?",
+      "answer": "No, customers managing diabetes with insulin are not eligible for this plan."
+    },
+    {
+      "question": "What is the difference between Care Supreme-Senior Super and Premium variants?",
+      "answer": "The main difference is that Care Supreme-Senior Super has sub-limits on specified treatments, while Care Supreme-Senior Premium has no sub-limits and is suitable for customers with multiple co-morbidities."
+    }
+  ],
+  "source_file": "Care Supreme-Senior Citizen options (1).txt",
+  "category": "Hi Document"
+}

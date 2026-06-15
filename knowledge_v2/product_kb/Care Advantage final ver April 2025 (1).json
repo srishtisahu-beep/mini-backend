@@ -1,0 +1,159 @@
+{
+  "product_name": "CARE ADVANTAGE",
+  "product_type": "Health Insurance",
+  "summary": "CARE ADVANTAGE is a comprehensive health insurance policy offering coverage up to 6 Cr with automatic recharge facility and global coverage options. It provides hospitalization benefits for claims made in India and out of India with various sum insured options ranging from 25L to 600L.",
+  "coverage": [
+    "In Patient & Day Care Hospitalization Expenses up to Sum Insured",
+    "Room Rent - Most Economical Single PVT AC Room with option to modify to All Category",
+    "ICU Charges - No Limit",
+    "Pre-Hospitalisation Expenses - 30 days",
+    "Post Hospitalisation Expenses - 60 days",
+    "Road Ambulance Cover up to Sum Insured",
+    "Organ Donor Expenses up to Sum Insured",
+    "AYUSH up to Sum Insured",
+    "Automatic Recharge up to Sum Insured once in a Policy Year",
+    "Global Coverage with Worldwide or Worldwide excluding USA & CANADA options",
+    "Air Ambulance coverage for out of India claims",
+    "Repatriation of Mortal Remains up to 5 Lakh for out of India coverage",
+    "Compassionate visit up to Sum Insured with minimum 5 days hospitalization"
+  ],
+  "waiting_periods": [
+    "Initial Wait Period: 30 Days except for treatment of injuries",
+    "Named Ailment Wait Period: 24 Months",
+    "Pre-Existing Disease Wait Period: 36 Months"
+  ],
+  "room_rent": [
+    "Most Economical Single PVT AC Room",
+    "Option to Modify to All Category",
+    "ICU Charges - No Limit",
+    "Out of India coverage - No Limit for room rent/ICU"
+  ],
+  "co_pay": [
+    "20% Co-payment applicable on all claims if Co-payment option is selected",
+    "Additional 20% co-payment applicable if treatment taken outside Smart Select Network when Smart Select is opted",
+    "Co-payment applicable on treatment outside India if opted"
+  ],
+  "deductible": [],
+  "claims_information": [
+    "Claims will have impact on No Claim Bonus",
+    "Automatic Recharge available once in a Policy Year for related and unrelated illness",
+    "Health Services Discount Connect available for discounts on consultations, diagnostics at network",
+    "Favourable Claim Experience Based Discount applicable on policies renewed till age 59 years",
+    "Premium increases by 10% on every renewal for customers with age >=60 years"
+  ],
+  "exclusions": [
+    "Global coverage not offered to NRI/OCI/PIO/Person Staying out of India >182 Days/Foreign National/Person Working Abroad/Merchant Navy/Students registered with Foreign Universities or colleges",
+    "No Claim Bonus not applicable for out of India coverage",
+    "Automatic Recharge not applicable for out of India coverage",
+    "Organ Donor Cover not applicable for lower sum insured out of India coverage",
+    "Air Ambulance not applicable for lower sum insured out of India coverage"
+  ],
+  "faqs": [
+    {
+      "question": "What is the maximum coverage option available under CARE ADVANTAGE?",
+      "answer": "CARE ADVANTAGE offers coverage options up to 6 Cr with sum insured options of 25L/50L/100L/200L/300L/600L."
+    },
+    {
+      "question": "What is the minimum and maximum entry age for CARE ADVANTAGE?",
+      "answer": "Minimum entry age is 5 years for individual and 91 days for floater with at least 1 person of 18 years or above. Maximum entry age is 24 years for child and no age limit for adults."
+    },
+    {
+      "question": "What are the policy term options available?",
+      "answer": "Policy term options are 1/2/3 years."
+    },
+    {
+      "question": "What is the initial waiting period?",
+      "answer": "Initial waiting period is 30 days except for treatment of injuries."
+    },
+    {
+      "question": "What is the waiting period for named ailments?",
+      "answer": "Named ailment wait period is 24 months."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing disease wait period is 36 months."
+    },
+    {
+      "question": "How does the No Claim Bonus work?",
+      "answer": "No Claim Bonus provides 10% increase in sum insured per policy year in case of claim-free year with maximum increase up to 50% of sum insured. Claims will have impact on No Claim Bonus."
+    },
+    {
+      "question": "What is Automatic Recharge benefit?",
+      "answer": "Automatic Recharge provides coverage up to sum insured once in a policy year for related and unrelated illness."
+    },
+    {
+      "question": "What room rent coverage is provided?",
+      "answer": "Room rent coverage is for Most Economical Single PVT AC Room with option to modify to All Category."
+    },
+    {
+      "question": "What is the pre-hospitalization coverage period?",
+      "answer": "Pre-hospitalization expenses are covered for 30 days."
+    },
+    {
+      "question": "What is the post-hospitalization coverage period?",
+      "answer": "Post-hospitalization expenses are covered for 60 days."
+    },
+    {
+      "question": "Is ICU charges coverage limited?",
+      "answer": "No, ICU charges have no limit."
+    },
+    {
+      "question": "What global coverage options are available?",
+      "answer": "Global coverage options include Worldwide or Worldwide excluding USA & CANADA coverage."
+    },
+    {
+      "question": "Who is not eligible for global coverage?",
+      "answer": "Global coverage is not offered to NRI/OCI/PIO/Person Staying out of India >182 Days/Foreign National/Person Working Abroad/Merchant Navy/Students registered with Foreign Universities or colleges."
+    },
+    {
+      "question": "What is the difference in pre-hospitalization coverage for out of India claims?",
+      "answer": "For out of India coverage, pre-hospitalization is 30 days for lower sum insured and 60 days for higher sum insured (200L/300L/600L)."
+    },
+    {
+      "question": "What is the difference in post-hospitalization coverage for out of India claims?",
+      "answer": "For out of India coverage, post-hospitalization is 60 days for lower sum insured and 120 days for higher sum insured (200L/300L/600L)."
+    },
+    {
+      "question": "How does the Favourable Claim Experience Based Discount work?",
+      "answer": "Favourable Claim Experience Based Discount is applicable on policies renewed till age 59 years. It provides discounts based on lifetime score calculated from claim history, ranging from 40% discount for score -5 to no discount for scores 8-10."
+    },
+    {
+      "question": "How is the lifetime score calculated?",
+      "answer": "Lifetime score is calculated based on claim amounts: No Claim (-1), Claim up to INR 100,000 (0), More than INR 1,00,000 up to INR 2,00,000 (1), More than INR 2,00,000 up to INR 300,000 (2), More than 300,000 (3)."
+    },
+    {
+      "question": "What happens to premium for customers aged 60 years and above?",
+      "answer": "For customers with age >=60 years, premium will increase by 10% on every renewal. Favorable Claim Experience Discount is not applicable on renewal on or after 60 years."
+    },
+    {
+      "question": "What is NCB Super optional benefit?",
+      "answer": "NCB Super provides 50% of sum insured increase for every claim-free year with maximum increase limited to 100% of sum insured. The accrued amount will decrease on renewals if claims are made before renewal."
+    },
+    {
+      "question": "What does the Annual Health Check-up benefit include?",
+      "answer": "Annual Health Check-up provides one health check for each insured in a policy year, available at network labs with prior appointments through mobile application, covering pre-defined set of tests based on policy sum insured and age of insured."
+    },
+    {
+      "question": "What is Claim Shield Plus?",
+      "answer": "Claim Shield Plus covers expenses incurred on non-payable items as per List 1, List 2, List 3, List 4 in Annexure 1 in Policy Terms & Conditions. It is offered using ADD-ON Policy Care Advanced."
+    },
+    {
+      "question": "What does Air Ambulance optional benefit cover?",
+      "answer": "Air Ambulance covers expenses up to 5L incurred on emergency transportation of the insured from one hospital to another on written advice of treating doctor, who must justify the emergency and need for emergency transfer."
+    },
+    {
+      "question": "How does Smart Select optional benefit work?",
+      "answer": "Smart Select provides 15% discount on premium if customer agrees to take treatment in Smart Select Network only. 20% co-payment applies on claims made in hospitals not on Smart Select Network, in addition to any other co-payment opted in the policy."
+    },
+    {
+      "question": "Can the Pre-Existing Disease wait period be reduced?",
+      "answer": "Yes, the PED wait period can be modified from 3 years to 2 years through the Reduction in PED Wait Period optional benefit. This can only be added at the time of first purchase of CARE ADVANTAGE policy, not at renewal or migration."
+    },
+    {
+      "question": "What does CARE OPD optional benefit include?",
+      "answer": "CARE OPD includes 4 general physician consultations and 4 specialist consultations per insured per year, with maximum reimbursement of Rs.500 per consultation. It covers specified specialist doctors including cardiologist, neurologist, pediatrician, dermatologist, and others."
+    }
+  ],
+  "source_file": "Care Advantage final ver April 2025 (1).txt",
+  "category": "Hi Document"
+}

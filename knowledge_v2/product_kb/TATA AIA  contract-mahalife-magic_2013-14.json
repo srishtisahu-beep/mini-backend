@@ -1,0 +1,217 @@
+{
+  "product_name": "Tata AIA Life Insurance Mahalife Magic",
+  "product_type": "Limited Premium Paying Non-Linked Participating Endowment Assurance Plan",
+  "summary": "Tata AIA Life Insurance Mahalife Magic is a limited premium paying Non-Linked Participating Endowment Assurance Plan, which matures on the date indicated on the Policy Information Page. It provides death benefit and maturity benefit along with bonus participation.",
+  "definitions": [
+    {
+      "term": "Basic Sum Assured",
+      "definition": "The guaranteed amount of the benefit that is payable on the death of the Insured under this Policy and is mentioned on the Policy Information Page"
+    },
+    {
+      "term": "Annualised Premium",
+      "definition": "The premium paid in a year with respect to the basic sum assured chosen by You, excluding the underwriting extra premiums and loading for modal premiums, if any"
+    },
+    {
+      "term": "Total Premiums Paid",
+      "definition": "Amount equal to the total premiums paid during the premium paying term of the policy, excluding interest, tax, underwriting extra premiums and loading for modal premiums, if any"
+    },
+    {
+      "term": "Premium Payment Term",
+      "definition": "The number of years that premium is payable for and is mentioned in the Policy Information Page"
+    },
+    {
+      "term": "Indebtedness",
+      "definition": "Any unpaid policy loans including accrued interest, unpaid premiums, deductibles and any other amounts owed to the Company"
+    },
+    {
+      "term": "Policy Anniversary",
+      "definition": "Refer to the same date each year as the Policy Date"
+    },
+    {
+      "term": "Policy Year",
+      "definition": "A one year period commencing on the Policy Date or on any Policy Anniversary thereof"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "condition": "Suicide clause",
+      "period": "12 months from date of commencement or reinstatement/revival",
+      "details": "In case of death due to suicide within 12 months, only Total Premiums Paid or higher of Total Premiums Paid or acquired surrender value is payable"
+    },
+    {
+      "condition": "Incontestability",
+      "period": "2 years from Date of Commencement or Reinstatement/Revival Date",
+      "details": "Policy shall be incontestable after it has been in force during the lifetime of the Insured for two years, except for fraud or non-payment of premiums"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "In case of death due to suicide by the Insured, whether sane or insane, within 12 months from the date of commencement or reinstatement/revival, only limited benefits are payable"
+    },
+    {
+      "type": "Fraud and Non-disclosure",
+      "description": "In case of fraud and mis-representation, the policy shall be immediately cancelled by paying surrender value, subject to fraud being established in accordance with Section 45 of the Insurance Act, 1938"
+    }
+  ],
+  "claims_process": [
+    {
+      "step": "Notice of Claim",
+      "description": "All cases of death must be notified immediately in writing, preferably within 90 days"
+    },
+    {
+      "step": "Filing Proof of Claim",
+      "description": "Affirmative proof of death and appropriate forms must be completed and furnished, preferably within 90 days after the date the Insured event happens"
+    },
+    {
+      "step": "Document Submission",
+      "description": "Primary claim documents as listed in the policy must be submitted at claimant's expense"
+    },
+    {
+      "step": "Additional Requirements",
+      "description": "Company reserves the right to require any additional proof and documents in support of the claim"
+    }
+  ],
+  "important_conditions": [
+    {
+      "condition": "Grace Period",
+      "details": "15 days for monthly premium paying mode and 30 days for other modes from the due date for payment of subsequent premiums"
+    },
+    {
+      "condition": "Free Look Period",
+      "details": "15 days to cancel policy and receive refund (extended to 30 days for distance marketing), after deducting proportionate risk premium, stamp duty and medical examination costs"
+    },
+    {
+      "condition": "Policy Loan",
+      "details": "Available up to 65% of Surrender Value, provided policy acquires surrender value and must be assigned to the Company"
+    },
+    {
+      "condition": "Reinstatement/Revival",
+      "details": "Possible within two years after due date of premium in default, subject to written application, health certificate, payment of overdue premiums with interest"
+    },
+    {
+      "condition": "No Plan/Sum Assured Changes",
+      "details": "Increase or Decrease of Sum Assured and Change of plan is not allowed under this Policy"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What type of insurance policy is Tata AIA Life Insurance Mahalife Magic?",
+      "answer": "It is a limited premium paying Non-Linked Participating Endowment Assurance Plan, which matures on the date indicated on the Policy Information Page."
+    },
+    {
+      "question": "What is the maturity benefit under this policy?",
+      "answer": "If the Insured is alive on the Maturity Date and the Policy is in force with all due premiums paid, Minimum Guaranteed Sum Assured on maturity plus Vested Compound Reversionary Bonus plus Terminal Bonus (if any) shall be payable, after deduction of any unpaid premium and indebtedness."
+    },
+    {
+      "question": "What is the death benefit under this policy?",
+      "answer": "Upon death of the insured during the policy term, the Sum Assured on death along with vested Compound Reversionary Bonus and Terminal Bonus (if any) shall be payable, subject to a minimum of 105% of Total Premiums Paid as on date of death."
+    },
+    {
+      "question": "How is the Sum Assured on death calculated?",
+      "answer": "Sum Assured on death shall be higher of: (i) 10 times Annualised Premium, or (ii) Minimum Guaranteed Sum Assured on Maturity, where Minimum Guaranteed Sum Assured on Maturity shall be the Basic Sum Assured."
+    },
+    {
+      "question": "What is Compound Reversionary Bonus?",
+      "answer": "This policy's share of divisible surplus will be determined annually by the Company and vested into the Policy as a Reversionary Bonus on each Policy Anniversary, provided the Policy is in force and all due premiums have been paid. Such Vested Bonus once declared is guaranteed."
+    },
+    {
+      "question": "What is Terminal Bonus and when is it payable?",
+      "answer": "Provided the policy has been in force for 10 years, Terminal Bonus shall be payable on Death or Maturity as a percentage (as declared by the Company) of Vested Compound Reversionary Bonus. Terminal Bonus is not guaranteed."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "A Grace Period of fifteen days for monthly premium paying mode and thirty days for other modes from the due date will be allowed for payment of each subsequent Premium."
+    },
+    {
+      "question": "What happens if I don't pay premium within the grace period?",
+      "answer": "If any Premium remains unpaid at the end of its Grace Period, the Policy shall lapse from the due date of the first unpaid premium. However, if full premium has been paid for the first policy year, the Policy will be converted into a Reduced Paid Up Policy by default."
+    },
+    {
+      "question": "Can I reinstate my lapsed policy?",
+      "answer": "Yes, if a premium is in default beyond the Grace Period, it may be reinstated/revived within two years after the due date of the premium in default, subject to written application, health certificate, payment of overdue premiums with interest, and repayment of any outstanding indebtedness."
+    },
+    {
+      "question": "What is the free look period?",
+      "answer": "If you are not satisfied with the policy terms, you can cancel the policy within 15 days of receiving the policy document (30 days for distance marketing) and receive a refund after deducting proportionate risk premium, stamp duty and medical examination costs."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, provided the policy acquires Surrender Value, you may apply for a policy loan up to 65% of Surrender Value. The Policy must be assigned to the Company."
+    },
+    {
+      "question": "What is the interest rate on policy loans?",
+      "answer": "Interest rate applicable for policy loan will be equal to the prevailing SBI deposit interest rate (for tenure of 1 year to less than 2 years) + 2% and will be reviewed semi-annually."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "The Policy can be surrendered any time during the term of the policy, provided at least the first full years' premium has been paid."
+    },
+    {
+      "question": "How is surrender value calculated?",
+      "answer": "The surrender value payable is higher of Guaranteed Surrender Value or Special Surrender Value, calculated using specific factors provided in the policy annexure."
+    },
+    {
+      "question": "What happens in case of suicide?",
+      "answer": "In case of death due to suicide within 12 months from date of commencement, the nominee shall be entitled to 'Total Premiums Paid'. Within 12 months from reinstatement/revival, the nominee gets higher of 'Total Premiums Paid' or acquired surrender value."
+    },
+    {
+      "question": "Can I change the sum assured or plan?",
+      "answer": "No, increase or decrease of Sum Assured and change of plan is not allowed under this Policy."
+    },
+    {
+      "question": "Can I change the frequency of premium payment?",
+      "answer": "Yes, you may change the frequency of premium payments by written request. Premiums may be paid on annual, semi-annual or monthly mode at applicable premium rates."
+    },
+    {
+      "question": "What happens if age or gender is misstated?",
+      "answer": "If higher premium should have been charged, benefits will be reduced after deducting the difference in premium with interest. If lower premium should have been charged, excess premiums will be refunded without interest."
+    },
+    {
+      "question": "Are there any restrictions on travel, residence or occupation?",
+      "answer": "Unless otherwise specified, this Policy is free from any restrictions upon the Insured as to travel, residence or occupation."
+    },
+    {
+      "question": "Who can exercise the rights under the policy?",
+      "answer": "Only the Policyholder can, during the Policy Term, exercise all rights, privileges and options provided under this Policy subject to any Nominee's vested interest or Assignee's rights."
+    },
+    {
+      "question": "Can I assign this policy?",
+      "answer": "Yes, as per Section 38 of the Insurance Act, 1938, you may assign this policy by giving written notice in prescribed format to the company, before the maturity of the policy."
+    },
+    {
+      "question": "What happens to nomination if I assign the policy?",
+      "answer": "Assignment of policy shall automatically cancel a nomination (unless assigned to the Company)."
+    },
+    {
+      "question": "What is the incontestability clause?",
+      "answer": "Except for fraud or non-payment of premiums, this Policy shall be incontestable after it has been in force during the lifetime of the Insured for two years from the Date of Commencement or Reinstatement/Revival Date, whichever is later."
+    },
+    {
+      "question": "What are the claim notification requirements?",
+      "answer": "All cases of death must be notified immediately in writing, preferably within 90 days. Proof of death and required forms must be furnished preferably within 90 days after the insured event."
+    },
+    {
+      "question": "What happens if the insured is a minor?",
+      "answer": "All benefits belong to the Insured and are paid through the Policyholder while the Insured is under 18 years. When the Insured attains 18 years, they become the new Policyholder with all rights and can appoint or change nominees."
+    },
+    {
+      "question": "What is a Reduced Paid-Up policy?",
+      "answer": "If full premium for first policy year is paid but subsequent premiums remain unpaid, the policy converts to Reduced Paid-Up by default. Benefits are calculated proportionately based on premiums paid versus premiums payable."
+    },
+    {
+      "question": "Will I get bonuses on a Reduced Paid-Up policy?",
+      "answer": "Once the policy becomes paid up, it shall not be entitled to any further Compound Reversionary Bonuses and Terminal bonus. Only vested bonuses declared before becoming paid-up will be payable."
+    },
+    {
+      "question": "In which currency are payments made?",
+      "answer": "All amounts payable either to or by the Company will be paid in Indian currency through negotiable bank draft, cheque, NEFT or electronic clearing systems."
+    },
+    {
+      "question": "Are there any taxes applicable?",
+      "answer": "Service tax is applicable as per governing laws and shall be borne by the policyholder. The Company may recover any levies and duties imposed by the government from time to time."
+    }
+  ],
+  "source_file": "TATA AIA  contract-mahalife-magic_2013-14.txt",
+  "category": "LI Policy Bond Documents"
+}

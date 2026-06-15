@@ -1,0 +1,221 @@
+{
+  "product_name": "Bajaj Life Assured Wealth Goal",
+  "company": "Bajaj Life Insurance Limited",
+  "product_type": "A Non-Linked Non-Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "Bajaj Life Assured Wealth Goal is a non-linked, non-participating, individual life insurance savings plan. It offers various benefits including Death Benefit, Survival Benefit, and Maturity Benefit, structured under six different variants to suit customer needs. The policy can be taken as a Single Life or Joint Life policy and offers flexible premium payment options.",
+  "quick_facts": {
+    "minimum_age": "Not specified in the document",
+    "maximum_age": "Not specified in the document",
+    "sum_insured": "As specified in the Policy Schedule",
+    "policy_term": "As specified in the Policy Schedule",
+    "waiting_period": "In case of death due to suicide within twelve (12) months from the Date of Commencement of Risk or the date of latest revival, the benefit is limited."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the Life Assured during the policy term. The payout method (lump sum or instalments) and amount vary based on the chosen policy variant."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Payable as Income Instalments during the Income Period for Variants 1, 2, 3, and 4, provided the Life Assured is alive and the policy is in-force."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable on the survival of the Life Assured to the Maturity Date. For Variant 5, it is a Guaranteed Maturity Benefit (GMB). For Variant 6, it is paid as Income Instalments and a Return of Premium (ROP) benefit during the Income Period."
+    },
+    {
+      "name": "Return of Premiums (ROP) Benefit",
+      "description": "An amount equal to the Total Premiums Paid is returned at the end of the policy term for Variants 1, 2, & 3, and as part of the Maturity Benefit for Variant 6, if applicable and chosen."
+    }
+  ],
+  "benefits": [
+    {
+      "variant": "Variant 1 – Lifelong Income",
+      "death_benefit": "Sum Assured on Death, paid in equal monthly instalments over five years.",
+      "survival_benefit": "Income Instalments payable during the Income Period.",
+      "maturity_benefit": "Return of Total Premiums Paid (ROP Benefit) at the end of the policy term."
+    },
+    {
+      "variant": "Variant 2 - Second Income",
+      "death_benefit": "Sum Assured on Death, paid in equal monthly instalments over five years.",
+      "survival_benefit": "Income Instalments payable during the Income Period.",
+      "maturity_benefit": "If the ROP option was chosen, Total Premiums Paid are returned at the end of the policy term."
+    },
+    {
+      "variant": "Variant 3 – Step-up Income",
+      "death_benefit": "Sum Assured on Death, paid in equal monthly instalments over five years.",
+      "survival_benefit": "Income Instalments payable during the Income Period, which increase by a simple step-up of 10% of the first instalment every five years.",
+      "maturity_benefit": "Return of Total Premiums Paid (ROP Benefit) at the end of the policy term."
+    },
+    {
+      "variant": "Variant 4 - Extra Income",
+      "death_benefit": "Sum Assured on Death, paid in equal monthly instalments over five years.",
+      "survival_benefit": "Income Instalments payable during the Income Period.",
+      "maturity_benefit": "There is no ROP benefit in this variant."
+    },
+    {
+      "variant": "Variant 5 – Wealth Creation",
+      "death_benefit": "Single Life: Sum Assured on Death as a lump sum. Joint Life: 125% of Total Premiums Paid on first death, and Sum Assured on Death on second death.",
+      "survival_benefit": "Not applicable.",
+      "maturity_benefit": "Guaranteed Maturity Benefit (GMB), which is a percentage of the Total Premiums Paid, payable at the Maturity Date."
+    },
+    {
+      "variant": "Variant 6 – Assured Income",
+      "death_benefit": "Payable as Death Benefit Instalments over the Death Benefit Instalment Period, with a Return of Premiums on Death (ROP on Death) paid with the last instalment. A lump sum option is available.",
+      "survival_benefit": "Not applicable.",
+      "maturity_benefit": "Payable as Income Instalments during the Income Period, with Total Premiums Paid returned as ROP Benefit along with the last income instalment. A lump sum option is available."
+    },
+    {
+      "name": "Rider Benefits",
+      "description": "Policyholders can opt for additional riders such as Bajaj Life Accidental Death Benefit Rider, Bajaj Life Accidental Permanent Total/Partial Disability Rider, Bajaj Life Family Protect Rider, and Bajaj Life New Critical Illness Benefit Rider by paying additional premium."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "details": "As specified in the Policy Schedule. If the Life Assured is a Minor, the policy will vest on them upon attaining the age of 18 years."
+    },
+    {
+      "criteria": "Policy Type",
+      "details": "The policy can be taken on a Single Life or Joint Life basis (Joint Life is available only under Variant 5 with a Single Premium)."
+    }
+  ],
+  "exclusions": [
+    {
+      "condition": "Suicide",
+      "description": "In case of death of the Life Assured due to suicide within twelve (12) months from the Date of Commencement of Risk or the date of latest revival, the claimant shall be entitled to receive the higher of 80% of all Premiums Paid till the date of death or the Surrender Value available. The policy states, 'There are no other exclusions apart from the Suicide Clause.'"
+    }
+  ],
+  "claims_information": [
+    {
+      "process_step": "Claim Intimation",
+      "description": "Written notice of the claim should be provided to the company as soon as possible, preferably within 180 days of the death of the Life Assured."
+    },
+    {
+      "process_step": "Documentation for Unnatural Death",
+      "description": "Required documents include: Claimant's proof of entitlement, Original Policy Document, Original death certificate, Claimant statement, Bank account proof of Nominee, Medical cause of death certificate, a copy of First Information Report (FIR) and Post Mortem Report (PMR)."
+    },
+    {
+      "process_step": "Documentation for Natural Death",
+      "description": "Required documents include: Claimant's proof of entitlement, Original Policy Document, Original death certificate, Claimant statement, Bank account proof of Nominee, and any other document as asked for by the company."
+    },
+    {
+      "process_step": "Claim Settlement",
+      "description": "Upon receipt and verification of all required documents, the company will process the claim and pay the benefits as per the policy terms and conditions. The benefits are payable to the Claimant, which can be the Life Assured, Policyholder, assignee, Nominee, or legal heirs."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Bajaj Life Assured Wealth Goal plan?",
+      "answer": "It is a non-linked, non-participating, individual life insurance savings plan that provides various benefits like Death Benefit, Survival Benefit, and Maturity Benefit, depending on the variant chosen."
+    },
+    {
+      "question": "What is the Free Look Period for this policy?",
+      "answer": "You have a Free Look Period of 30 days from the date of receipt of the Policy Document to review the terms and conditions."
+    },
+    {
+      "question": "What can I do if I am not satisfied with the policy during the Free Look Period?",
+      "answer": "If you disagree with any terms and have not made a claim, you can return the policy for cancellation. You will receive a refund of the premium paid, subject to a deduction of proportionate risk premium, medical examination expenses, and stamp duty charges."
+    },
+    {
+      "question": "What are the different variants available under this plan?",
+      "answer": "There are six variants: Variant 1 – Lifelong Income, Variant 2 - Second Income, Variant 3 – Step-up Income, Variant 4 - Extra Income, Variant 5 – Wealth Creation, and Variant 6 – Assured Income."
+    },
+    {
+      "question": "Can I change the policy variant after it has been issued?",
+      "answer": "No, the variant once chosen at the time of proposal cannot be changed thereafter during the Policy Term."
+    },
+    {
+      "question": "What is the Grace Period for paying my regular premium?",
+      "answer": "The Grace Period is fifteen (15) days for a monthly premium payment frequency and thirty (30) days for all other frequencies."
+    },
+    {
+      "question": "What happens if I fail to pay the premium within the Grace Period?",
+      "answer": "If at least one full policy year's premium has not been paid, the policy will lapse and no benefit will be payable. If the policy has acquired a Surrender Value, it will automatically be converted to a paid-up policy with reduced benefits."
+    },
+    {
+      "question": "Can a lapsed or paid-up policy be revived?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within the Revival Period of five (5) consecutive years from the date of the first unpaid premium, subject to company conditions."
+    },
+    {
+      "question": "What are the conditions for reviving a policy?",
+      "answer": "You must apply for revival within the Revival Period, pay all arrears of premiums with interest, and provide satisfactory evidence of health and insurability at your own expense."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "For a Single Premium policy, you can surrender at any time. For a Regular Premium policy, you can surrender after the completion of the first policy year, provided at least one full year's premium has been paid."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the Life Assured dies by suicide within 12 months from the start of the risk or the date of revival, the beneficiary will receive the higher of 80% of the total premiums paid or the surrender value. The policy will then terminate."
+    },
+    {
+      "question": "Are there any other exclusions besides the suicide clause?",
+      "answer": "The policy document explicitly states, 'There are no other exclusions apart from the Suicide Clause.'"
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, you can take a policy loan if the policy has acquired a Surrender Value. The maximum loan amount is limited to 50% of the available Surrender Value."
+    },
+    {
+      "question": "What happens if my outstanding loan amount exceeds the Surrender Value?",
+      "answer": "If the policy is paid-up and the loan plus interest exceeds the Surrender Value, the policy will be foreclosed after a 30-day notice period. For an in-force policy, it will not be foreclosed on this ground."
+    },
+    {
+      "question": "How is the Death Benefit typically paid in Variants 1 to 4?",
+      "answer": "In Variants 1, 2, 3, and 4, the Death Benefit is paid as Sum Assured on Death in equal monthly instalments over a period of five years."
+    },
+    {
+      "question": "Is it possible to receive the death benefit as a lump sum instead of instalments?",
+      "answer": "Yes. For Variants 1, 2, 3, and 4, the nominee can opt to take the outstanding death benefit instalments as a lump sum. For Variant 6, the nominee has the option at the time of death intimation to take the benefit as a lump sum at a specified discount rate."
+    },
+    {
+      "question": "What is the 'ROP Benefit'?",
+      "answer": "Return of Premiums (ROP) Benefit is an amount equal to the Total Premiums Paid under the policy. It is payable at the end of the policy term under Variants 1, 2, & 3 and as part of the maturity benefit under Variant 6."
+    },
+    {
+      "question": "Does Variant 5 (Wealth Creation) offer a ROP Benefit?",
+      "answer": "No, Variant 5 offers a Guaranteed Maturity Benefit (GMB), which is a percentage of the Total Premiums Paid, instead of a ROP Benefit."
+    },
+    {
+      "question": "What happens if the age of the Life Assured was declared incorrectly in the proposal?",
+      "answer": "The premium and benefits will be adjusted based on the correct age. If the correct age would have made the person uninsurable, the policy may be altered to a different plan or terminated with a refund of premiums less certain expenses."
+    },
+    {
+      "question": "How do I file a death claim?",
+      "answer": "You must provide a written notice to the company as soon as possible, preferably within 180 days of death, and submit the required documents such as the original policy document, death certificate, and claimant's statement."
+    },
+    {
+      "question": "What documents are required for an unnatural death claim?",
+      "answer": "In addition to standard documents, a First Information Report (FIR) and a Post Mortem Report (PMR) are required for an unnatural death claim."
+    },
+    {
+      "question": "Can I change the premium payment frequency?",
+      "answer": "Yes, you can change the Premium Payment Frequency at any Policy Anniversary during the Premium Paying Term, subject to availability and minimum premium rules."
+    },
+    {
+      "question": "What is a Joint Life Policy under this plan?",
+      "answer": "A Joint Life Policy covers two lives (Primary and Secondary Life Assured) and is available only under Variant 5 for a Single Premium policy. It pays a benefit on the first death and another on the second death."
+    },
+    {
+      "question": "What is 'Annualized Premium'?",
+      "answer": "Annualized Premium is the regular premium payable in a year, excluding taxes, Rider Premiums, extra Premiums, and loadings for modal premiums, if any."
+    },
+    {
+      "question": "What are the riders available with this policy?",
+      "answer": "You can opt for riders like the Bajaj Life Accidental Death Benefit Rider, Bajaj Life Accidental Permanent Total/Partial Disability Rider, Bajaj Life Family Protect Rider, and Bajaj Life New Critical Illness Benefit Rider."
+    },
+    {
+      "question": "Who is considered a 'Claimant'?",
+      "answer": "A 'Claimant' is the Life Assured (if alive), Policyholder (if different), assignee, Nominee, or the legal heirs of the Policyholder/Nominee to whom the policy benefit is payable."
+    },
+    {
+      "question": "How does the 'Step-up Income' in Variant 3 work?",
+      "answer": "The Income Instalments in Variant 3 increase every five years by a simple step-up percentage applied on the first Income Instalment. For example, it increases by 10% from year 6 to 10, 20% from year 11 to 15, and so on."
+    }
+  ],
+  "source_file": "Baja life insurance awg-policydoc.txt",
+  "category": "LI Policy Bond Documents"
+}

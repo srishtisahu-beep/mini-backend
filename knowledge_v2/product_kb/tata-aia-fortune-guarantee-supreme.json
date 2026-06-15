@@ -1,0 +1,245 @@
+{
+  "product_name": "Tata AIA Fortune Guarantee Supreme",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Individual, Non-Linked, Non-participating, Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A life insurance savings plan that provides guaranteed returns and life cover throughout the policy tenure. It offers the flexibility to receive benefits as regular income or a lump sum to help achieve financial aspirations like buying a dream home, funding children's education, or taking a vacation.",
+  "quick_facts": {
+    "minimum_age": "30 days",
+    "maximum_age": "65 years",
+    "sum_insured": "Minimum Basic Sum Assured varies by plan option and payment type, starting from ₹6,250. Maximum is subject to the Board Approved Underwriting Policy (BAUP).",
+    "policy_term": "Minimum: 5 years. Maximum: 60 years.",
+    "waiting_period": "For POS variant, a 90-day waiting period from the date of commencement of risk applies for non-accidental death. This is not applicable for death due to accident."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "In case of death of the life insured during the policy term for an in-force policy, the death benefit payable is the highest of the following: 1.25 x Single Premium or 7 x Annualised Premium; 105% of Total Premiums Paid up to date of death; or Basic Sum Assured. For joint life policies, the policy continues after the first death and terminates after the second death."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Payable on survival of life insured during the policy term. Under the 'Immediate Income' option, this is paid as Guaranteed Immediate Income (GII) and Guaranteed Income (GI). Under the 'My Income' option, payouts are flexible as chosen at inception."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Payable on survival of Life Assured till the end of the policy term under the 'My Income' option. This benefit is not applicable for the 'Immediate Income' option."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Guaranteed Returns",
+      "description": "Provides guaranteed benefits either as regular income or a lump sum."
+    },
+    {
+      "name": "Life Cover",
+      "description": "Offers life insurance coverage throughout the entire policy term."
+    },
+    {
+      "name": "Flexible Plan Options",
+      "description": "Choice between 'Immediate Income' and 'My Income' options to suit different financial goals."
+    },
+    {
+      "name": "Sub-Wallet Feature",
+      "description": "Option to accumulate full or part of the benefits in a 'Sub-Wallet' which earns daily loyalty additions, with the flexibility to withdraw anytime."
+    },
+    {
+      "name": "Premium Offset Feature",
+      "description": "Ability to use survival benefit payouts to offset upcoming premium payments, provided the frequency and timing match."
+    },
+    {
+      "name": "Women Special Discount",
+      "description": "A special discount of 2% on the first year's premium for female life assureds."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "Enjoy tax benefits on premiums paid and benefits received, as per prevailing Income Tax Laws."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Facility to take a loan of up to 80% of the surrender value once the policy acquires it."
+    },
+    {
+      "name": "Settlement Option",
+      "description": "Flexibility to receive the maturity benefit in equal instalments for a period of 3 to 5 years."
+    },
+    {
+      "name": "Special Date Payout",
+      "description": "Option to receive annual survival benefits on a chosen special date, like a birthday or anniversary, instead of the policy anniversary."
+    },
+    {
+      "name": "Rider Options",
+      "description": "Flexibility to enhance coverage by adding optional riders like Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider and Health Rider. Riders cannot be attached if the product is purchased under PoS."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Age at Entry",
+      "value": "Minimum: 30 days, Maximum: 65 years (as on last birthday)."
+    },
+    {
+      "criteria": "Age at Maturity",
+      "value": "Minimum: 18 years, Maximum: 100 years (as on last birthday)."
+    },
+    {
+      "criteria": "Premium Payment Term (PPT)",
+      "value": "Varies by plan option. Ranges from Single Pay (1 year) to up to 30 years for Limited/Regular Pay."
+    },
+    {
+      "criteria": "Policy Term (PT)",
+      "value": "Varies by plan option. Ranges from 5 years to 60 years."
+    },
+    {
+      "criteria": "Premium",
+      "value": "Minimum Premium: Single Pay – ₹5,000; Limited/Regular Pay – ₹24,000 p.a. Maximum Premium: No Limit, subject to the Board Approved Underwriting Policy (BAUP)."
+    },
+    {
+      "criteria": "Premium Payment Mode",
+      "value": "Annual, Half-yearly, Quarterly, and Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or date of revival, the nominee shall be entitled to at least 80% of the total premiums paid till the date of death or the surrender value available as on the date of death, whichever is higher, provided the policy is in force."
+    },
+    {
+      "name": "Waiting Period (for POS)",
+      "description": "If death of any of the life insureds occurs during the first 90 days from the Date of commencement of risk (for non-accidental death), the company shall refund Total Premiums Paid and the policy will terminate. This is not applicable for death due to accident."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact Person",
+      "detail": "Insurance Advisor / Intermediary"
+    },
+    {
+      "type": "Visit",
+      "detail": "Tata AIA Life’s nearest branch office"
+    },
+    {
+      "type": "Phone",
+      "detail": "1-860-266-9966 (local charges apply)"
+    },
+    {
+      "type": "Email",
+      "detail": "customercare@tataaia.com"
+    },
+    {
+      "type": "Website",
+      "detail": "www.tataaia.com"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Fortune Guarantee Supreme?",
+      "answer": "It is an individual, non-linked, non-participating, life insurance savings plan that provides guaranteed returns and life cover, with the flexibility to receive benefits as regular income or a lump sum."
+    },
+    {
+      "question": "What are the plan options available under this policy?",
+      "answer": "There are two plan options: 1. Immediate Income, and 2. My Income."
+    },
+    {
+      "question": "How does the 'Immediate Income' option work?",
+      "answer": "Under this option, you receive a Guaranteed Immediate Income (GII) in advance from the 2nd policy year and a Guaranteed Income (GI) in arrears during the policy term, subject to payment of all due premiums."
+    },
+    {
+      "question": "What flexibility does the 'My Income' option offer?",
+      "answer": "It allows you to choose your Policy Term, Premium Payment Term, the amount and payout years for Survival Benefits, and a Maturity Benefit, tailoring the plan to your specific financial goals."
+    },
+    {
+      "question": "Is there a special discount for female customers?",
+      "answer": "Yes, a discount of 2% on the first year's premium is offered to female life assureds. For joint life policies, this discount applies if both lives are female."
+    },
+    {
+      "question": "What is the minimum age to be insured under this plan?",
+      "answer": "The minimum age at entry is 30 days."
+    },
+    {
+      "question": "What is the maximum entry age for this plan?",
+      "answer": "The maximum age at entry is 65 years."
+    },
+    {
+      "question": "What is the 'Sub-Wallet' feature?",
+      "answer": "It's an option to receive full or part of your benefits into a 'Sub-Wallet' where the amount accrues daily loyalty additions. You can withdraw the balance from the Sub-wallet, in part or in full, anytime during the policy term."
+    },
+    {
+      "question": "How does the 'Premium Offset' feature work?",
+      "answer": "This feature allows you to adjust the premium payable against the benefits payable by the company, provided the frequency and timing of the benefit payment match the premium payment."
+    },
+    {
+      "question": "What is the death benefit payable under this policy?",
+      "answer": "The death benefit is the highest of: 1.25 times the Single Premium (or 7 times the Annualised Premium), 105% of Total Premiums Paid up to the date of death, or the Basic Sum Assured."
+    },
+    {
+      "question": "Can I add riders to enhance my coverage?",
+      "answer": "Yes, you can add optional riders like Tata AIA Life Insurance Non-Linked Comprehensive Protection Rider and Health Rider by paying an additional premium. However, riders cannot be attached if the product is purchased under the POS variant."
+    },
+    {
+      "question": "What is the grace period for paying premiums?",
+      "answer": "A grace period of 15 days is allowed for the monthly premium payment mode, and 30 days for all other modes (annual, half-yearly, quarterly)."
+    },
+    {
+      "question": "What happens if I stop paying premiums during the first two policy years?",
+      "answer": "If you discontinue premium payments during the first two policy years, the policy will lapse, and no further benefits will be paid."
+    },
+    {
+      "question": "What happens if I stop paying premiums after paying for at least two full years?",
+      "answer": "The policy will acquire a reduced paid-up benefit, and benefits will be paid in proportion to the premiums paid."
+    },
+    {
+      "question": "Can I revive a lapsed or paid-up policy?",
+      "answer": "Yes, a lapsed or paid-up policy can be revived within five years from the due date of the first unpaid premium, subject to payment of all overdue premiums with interest and submission of health evidence."
+    },
+    {
+      "question": "Can I take a loan against this policy?",
+      "answer": "Yes, once the policy acquires a surrender value, you can apply for a policy loan of up to 80% of the surrender value."
+    },
+    {
+      "question": "What is the Free Look period for this policy?",
+      "answer": "You have a Free Look period of 15 days from the date you receive the policy document (30 days if sourced through electronic or distance marketing) to review the terms and conditions and cancel if you are not satisfied."
+    },
+    {
+      "question": "What is the exclusion for suicide?",
+      "answer": "If the life insured dies due to suicide within 12 months of the policy's commencement or revival, the beneficiary will receive at least 80% of the total premiums paid or the surrender value, whichever is higher. No other death benefit will be paid."
+    },
+    {
+      "question": "Is there a waiting period for the death benefit?",
+      "answer": "For the POS (Point of Sale) variant of the plan, there is a 90-day waiting period from the commencement of risk for death other than by accident. If death occurs during this period, only the premiums paid are refunded."
+    },
+    {
+      "question": "Are the benefits from this plan taxable?",
+      "answer": "Income Tax benefits may be available as per the prevailing Income Tax Laws. It is advisable to consult your own tax consultant for details."
+    },
+    {
+      "question": "What are the available premium payment frequencies?",
+      "answer": "You can pay premiums Annually, Half-yearly, Quarterly, or Monthly."
+    },
+    {
+      "question": "Can I choose a specific date to receive my income benefits?",
+      "answer": "Yes, if you choose an annual frequency for survival benefits, the 'Special Date' feature allows you to select a specific date (like a birthday or anniversary) to receive the payouts instead of the policy anniversary."
+    },
+    {
+      "question": "What is the 'Settlement Option' for maturity benefit?",
+      "answer": "This option allows you to receive the maturity benefit in equal instalments over a period of 3 to 5 years, instead of a single lump sum."
+    },
+    {
+      "question": "Is a medical examination always required to buy this plan?",
+      "answer": "No medical examination is required if you purchase the POS (Point of Sale) variant of this product."
+    },
+    {
+      "question": "Who can be a secondary life in a joint life policy?",
+      "answer": "The Secondary Life can be the spouse, child, parent, grandparent, grandchild, parent-in-law, or sibling of the Primary Life, provided there is an insurable interest."
+    },
+    {
+      "question": "What happens in a joint life policy if one person dies?",
+      "answer": "After the first death, the policy continues, and any income or survival benefits are paid to the surviving life. The policy terminates after the death of the second life, upon which the death benefit is paid."
+    },
+    {
+      "question": "How is the interest rate for a policy loan calculated?",
+      "answer": "The interest rate is linked to the SBI domestic term deposit rate for '1 year to less than 2 years', plus a spread. The spread is lower for policyholders who are MSME owners, especially female MSME owners."
+    }
+  ],
+  "source_file": "tata-aia-fortune-guarantee-supreme.txt",
+  "category": "LI Plan Brochure"
+}

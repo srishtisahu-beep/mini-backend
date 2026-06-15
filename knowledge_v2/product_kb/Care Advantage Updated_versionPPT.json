@@ -1,0 +1,183 @@
+{
+  "product_name": "Care Advantage",
+  "product_type": "Health Insurance",
+  "summary": "Care Advantage is a comprehensive health insurance plan offering higher sum insured at affordable premium with unique features like automatic recharge, all category rooms allowed, no sub-limits on treatments, and optional global coverage. Available with sum insured options from 25L to 600L.",
+  "coverage": [
+    "In Patient & Day Care Treatment Expenses up to Sum Insured",
+    "Room Rent - All Category Rooms allowed",
+    "ICU Charges - No Limit",
+    "Pre-Hospitalisation expenses for 60 days",
+    "Post Hospitalisation expenses for 180 days",
+    "Ambulance Cover up to Sum Insured",
+    "Organ Donor Expenses up to Sum Insured",
+    "AYUSH treatment up to Sum Insured",
+    "Unlimited E-Consultation from General Physician",
+    "Advanced Technology Methods coverage",
+    "Global coverage option available as add-on for planned treatment of diseases diagnosed in India"
+  ],
+  "waiting_periods": [
+    "Initial Wait Period: 30 Days except for treatment of injuries",
+    "Named Ailment Wait Period: 24 Months",
+    "Pre-Existing Disease Wait Period: 48 Months"
+  ],
+  "room_rent": [
+    "All Category Rooms allowed for domestic coverage",
+    "No limit on room rent for global coverage",
+    "No limit on ICU charges"
+  ],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "Automatic Recharge up to Sum Insured once in a policy year for related and unrelated illness",
+    "Global Coverage claim cannot be claimed from Recharge Amount & Accrued NCB/NCB Super",
+    "No Claim Bonus: 10% increase in Sum Insured per claim-free policy year with maximum increase up to 50% of Sum Insured"
+  ],
+  "exclusions": [
+    "Global coverage option not available for NRI/OCI/PIO/Foreign National",
+    "Not available for person planning or studying abroad",
+    "Not available for person working or planning to work outside India",
+    "Not available for employed with merchant navy",
+    "Not available for person on immigration visa",
+    "Optional benefits not applicable for treatments taken out of India"
+  ],
+  "faqs": [
+    {
+      "question": "What are the sum insured options available under Care Advantage?",
+      "answer": "Sum Insured options available are 25L/50L/100L/200L/300L/600L"
+    },
+    {
+      "question": "What is the initial waiting period for Care Advantage?",
+      "answer": "Initial Wait Period is 30 Days except for treatment of injuries"
+    },
+    {
+      "question": "How long is the pre-hospitalisation coverage?",
+      "answer": "Pre-hospitalisation coverage is for 60 days for domestic coverage"
+    },
+    {
+      "question": "How long is the post-hospitalisation coverage?",
+      "answer": "Post-hospitalisation coverage is for 180 days for domestic coverage"
+    },
+    {
+      "question": "What is the waiting period for named ailments?",
+      "answer": "Named Ailment Wait Period is 24 Months"
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-Existing Disease wait Period is 48 Months"
+    },
+    {
+      "question": "Is there any limit on room rent?",
+      "answer": "All Category Rooms are allowed with no specific limit mentioned for domestic coverage"
+    },
+    {
+      "question": "Is there any limit on ICU charges?",
+      "answer": "No, there is no limit on ICU charges"
+    },
+    {
+      "question": "What is the No Claim Bonus benefit?",
+      "answer": "10% increase in Sum Insured per Policy Year in case of claim-free year with maximum increase up to 50% of Sum Insured"
+    },
+    {
+      "question": "What is the Automatic Recharge benefit?",
+      "answer": "Automatic Recharge up to Sum Insured once in a Policy Year for related and unrelated illness"
+    },
+    {
+      "question": "What is the minimum entry age for individual coverage?",
+      "answer": "Minimum Entry Age for Individual is 5 Years"
+    },
+    {
+      "question": "What is the minimum entry age for floater coverage?",
+      "answer": "Minimum Entry Age for Floater is 91 days with at least 1 person of 18 Years or above"
+    },
+    {
+      "question": "What is the maximum entry age for children?",
+      "answer": "Maximum Entry Age for Child is 24 Years"
+    },
+    {
+      "question": "What is the maximum entry age for adults?",
+      "answer": "There is no age limit for adults"
+    },
+    {
+      "question": "What are the policy term options?",
+      "answer": "Policy Term options are 1/2/3 Years"
+    },
+    {
+      "question": "Is global coverage available?",
+      "answer": "Yes, global coverage is available as an add-on for planned treatment of diseases diagnosed in India"
+    },
+    {
+      "question": "What are the geographical coverage options for global coverage?",
+      "answer": "Option to choose Worldwide or World Wide excluding USA & CANADA coverage"
+    },
+    {
+      "question": "Can global coverage claims be made from recharge amount?",
+      "answer": "No, Global Coverage claim cannot be claimed from Recharge Amount & Accrued NCB/NCB Super"
+    },
+    {
+      "question": "Is unlimited e-consultation available?",
+      "answer": "Yes, Unlimited E-Consultation from General Physician using Customer Mobile Application is available"
+    },
+    {
+      "question": "What health services are provided?",
+      "answer": "Health Portal with Doctor on chat, Healthy tips reminder, and Discount Connect for discounts on consultations and diagnostics at network providers"
+    },
+    {
+      "question": "Is AYUSH treatment covered?",
+      "answer": "Yes, AYUSH treatment is covered up to Sum Insured"
+    },
+    {
+      "question": "Is organ donor expense covered?",
+      "answer": "Yes, Organ Donor Expenses are covered up to Sum Insured"
+    },
+    {
+      "question": "What are the premium zones?",
+      "answer": "Zone 1 - Delhi NCR, Surat Mathura, Aligarh; Zone 1A - Mumbai (incl. MMR), Telangana, Rest of Gujarat; Zone 2 - Pune, Nasik, Indore, Bangalore Urban; Zone 3 - Rest of India"
+    },
+    {
+      "question": "Who is not eligible for global coverage?",
+      "answer": "NRI/OCI/PIO/Foreign National/Person planning or studying abroad/person working or planning to work outside India/employed with merchant navy/person on immigration visa are not eligible"
+    },
+    {
+      "question": "What is Care OPD coverage?",
+      "answer": "Care OPD provides 4 Physical Consultations from General Physician per year with max Rs.500 reimbursement per consultation, and 4 consultations from 14 specified specialists per year with same reimbursement limit"
+    },
+    {
+      "question": "Which specialists are covered under Care OPD?",
+      "answer": "Pediatrician, Psychiatrist, Obstetrics and Gynecologist, Cardiologist, Homeopathic Physician, Neurologist, Dietician, Orthopedic Surgeon, Diabetologist, Nephrologist, Dermatologist, ENT Specialist, Pulmonologist, Gastroenterologist"
+    },
+    {
+      "question": "Is day care treatment covered?",
+      "answer": "Yes, Day Care Treatment Expenses are covered up to Sum Insured"
+    },
+    {
+      "question": "Are advanced technology methods covered?",
+      "answer": "Yes, Coverage of Advanced Technology Methods is available"
+    },
+    {
+      "question": "Is there any sub-limit on treatments?",
+      "answer": "No, there is no sub-limit on any treatment"
+    },
+    {
+      "question": "What is the pre-hospitalization coverage period for global coverage?",
+      "answer": "For global coverage, pre-hospitalization is covered for 30 days (25L/50L/100L) or 60 days (200L/300L/600L)"
+    },
+    {
+      "question": "What is the post-hospitalization coverage period for global coverage?",
+      "answer": "For global coverage, post-hospitalization is covered for 60 days (25L/50L/100L) or 120 days (200L/300L/600L)"
+    },
+    {
+      "question": "Is air ambulance covered under global coverage?",
+      "answer": "Air ambulance is covered up to Sum Insured for higher sum insured plans (200L/300L/600L) but not available for lower plans (25L/50L/100L)"
+    },
+    {
+      "question": "What is repatriation of mortal remains coverage?",
+      "answer": "Repatriation of Mortal Remains is covered up to 5 Lakh for higher sum insured plans (200L/300L/600L) under global coverage"
+    },
+    {
+      "question": "What is compassionate visit coverage?",
+      "answer": "Compassionate visit is covered up to Sum Insured with minimum hospitalization requirement of 5 days for higher sum insured plans (200L/300L/600L)"
+    }
+  ],
+  "source_file": "Care Advantage Updated_versionPPT.txt",
+  "category": "Hi Document"
+}

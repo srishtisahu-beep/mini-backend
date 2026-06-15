@@ -1,0 +1,207 @@
+{
+  "product_name": "AXIS MAX LIFE SMART WEALTH ADVANTAGE GROWTH PAR PLAN",
+  "company": "Axis Max Life Insurance Limited",
+  "product_type": "Non-Linked Participating Individual Life Insurance Savings Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings Plan",
+  "summary": "A non-linked participating individual life insurance savings plan designed to offer early income, guaranteed income, enhanced protection, and flexibility. It provides a combination of life cover and savings benefits through various plan variants and features like Policy Continuance Benefit and Accidental Death Benefit.",
+  "quick_facts": {
+    "minimum_age": "91 days (without Policy Continuance Benefit), 18 years (with Policy Continuance Benefit)",
+    "maximum_age": "Up to 65 years, depending on the chosen variant, policy term, premium payment term, and Policy Continuance Benefit option.",
+    "sum_insured": "Minimum Sum Assured on Maturity: Rs. 300,000. Maximum: No limit, subject to board approved underwriting policy.",
+    "policy_term": "10 to 40 years for Insta Income variant; 20 to 40 years for Insta Income Boost & Future Income variants. Options for whole life coverage are also available.",
+    "waiting_period": "Not specified in the document. The risk commencement date of the policy is the same as the date of commencement of the policy."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit (Without Policy Continuance Benefit)",
+      "description": "Payable on the death of the Life Insured. The amount is the higher of: i) 100% of the Sum Assured on Death plus Terminal Bonus (if declared). For Insta Income Boost, this increases to 110% of Sum Assured on Death if death occurs after the premium payment term. ii) 105% of the Total Premiums Paid as on the date of death."
+    },
+    {
+      "type": "Death Benefit (With Policy Continuance Benefit)",
+      "description": "On the death of the Life Insured, a lump sum Death Benefit is paid (calculated similar to the non-PCB option). Additionally, all future Cash Bonuses, Guaranteed Incomes, and the Maturity Benefit are paid to the nominee as and when due, without any need for future premium payments."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "Payable on completion of the policy term. It is the sum of: a) Sum Assured on Maturity, b) Accrued Survival Benefit (if any), c) Additional Benefit on Maturity (for female lives), and d) Terminal Bonus (if declared)."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "Payable during the policy term in the form of Cash Bonus (if declared) and Guaranteed Income (if applicable), which varies depending on the chosen plan variant (Insta Income, Insta Income Boost, Future Income)."
+    },
+    {
+      "type": "Inbuilt Accidental Death Benefit",
+      "description": "An additional amount equal to 50% of the Sum Assured on Death (up to a maximum of Rs. 1 Crore) is payable in case of accidental death occurring after the premium payment term but before policy maturity or age 80. This is available for lives aged 18 years and above."
+    }
+  ],
+  "benefits": [
+    "Early Liquidity: Survival benefits start from the 1st policy year for Insta Income & Insta Income Boost variants.",
+    "Policy Continuance Benefit (PCB): An option to ensure that in case of the life insured's death, the nominee receives the death benefit lump sum, and all future survival and maturity benefits continue without any further premium payments.",
+    "Bonuses: The plan participates in profits through non-guaranteed Cash Bonuses and a Terminal Bonus.",
+    "Additional Benefit for Female Lives: An additional 10% of the Sum Assured on Maturity is payable for female policyholders.",
+    "Flexibility in Payouts: Option to accrue survival benefits, choose payout frequency (annual, semi-annual, quarterly, monthly), and receive maturity benefits in installments (Settlement Period Option).",
+    "'SAVE THE DATE' Option: Flexibility to receive annual survival benefits on a specific date of your choice other than the policy anniversary.",
+    "Premium Offset Option: Option under Insta Income & Insta Income Boost variants to use survival benefits to pay for future premiums.",
+    "High Premium Benefit: Higher cash bonus rates for policies with higher premium amounts.",
+    "Rider Availability: Enhance protection by adding optional riders such as Term Plus Rider, Waiver of Premium Plus Rider, Accidental Death and Dismemberment Rider, and Critical Illness and Disability Rider."
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "value": "91 days (without PCB), 18 years (with PCB)"
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "value": "Varies from 47 to 65 years depending on the plan variant, policy term, and premium payment term chosen. Maximum maturity age is 75 with PCB and 85 without PCB for fixed term policies."
+    },
+    {
+      "criteria": "Policy Term",
+      "value": "Minimum 10 years for Insta Income; Minimum 20 years for Insta Income Boost & Future Income. Maximum term is 40 years, with options for coverage up to age 85 or 100."
+    },
+    {
+      "criteria": "Premium Payment Term",
+      "value": "6, 7, 8, 10, and 12 years."
+    },
+    {
+      "criteria": "Minimum Annualized Premium",
+      "value": "Rs. 25,000"
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "value": "Annual, Semi-annual, Quarterly, Monthly."
+    },
+    {
+      "criteria": "Gender",
+      "value": "Male, Female, and Transgender."
+    }
+  ],
+  "exclusions": [
+    "The brochure does not specify exclusions. It advises to read the prospectus and policy document for details on risk factors, terms, and conditions."
+  ],
+  "claims_information": [
+    {
+      "type": "Customer Helpline",
+      "value": "1860 120 5577"
+    },
+    {
+      "type": "Website",
+      "value": "https://www.axismaxlife.com"
+    },
+    {
+      "type": "Note",
+      "value": "The detailed claims process is not described in this brochure. Please refer to the policy document or contact the company for claims procedures."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the AXIS MAX LIFE SMART WEALTH ADVANTAGE GROWTH PAR PLAN?",
+      "answer": "It is a Non-Linked Participating Individual Life Insurance Savings Plan that offers a combination of life cover and savings benefits, with features like early income, guaranteed income, and enhanced protection."
+    },
+    {
+      "question": "What are the different variants available under this plan?",
+      "answer": "The plan offers three variants: Insta Income, Insta Income Boost, and Future Income."
+    },
+    {
+      "question": "Is this a guaranteed return plan?",
+      "answer": "Some benefits like Guaranteed Income and Sum Assured on Maturity are guaranteed, provided all due premiums are paid. However, benefits like Cash Bonus and Terminal Bonus are not guaranteed as they depend on the performance of the company's participating fund."
+    },
+    {
+      "question": "What is the minimum age to purchase this policy?",
+      "answer": "The minimum entry age is 91 days if the Policy Continuance Benefit is not chosen, and 18 years if it is chosen."
+    },
+    {
+      "question": "What is the maximum age to purchase this policy?",
+      "answer": "The maximum entry age can be up to 65 years, but it varies depending on the plan variant, policy term, and premium payment term selected."
+    },
+    {
+      "question": "What is the minimum policy term I can choose?",
+      "answer": "The minimum policy term is 10 years for the Insta Income variant and 20 years for the Insta Income Boost and Future Income variants."
+    },
+    {
+      "question": "What are the available premium payment terms?",
+      "answer": "You can choose a premium payment term of 6, 7, 8, 10, or 12 years."
+    },
+    {
+      "question": "What is the minimum premium I need to pay?",
+      "answer": "The minimum annualized premium is Rs. 25,000."
+    },
+    {
+      "question": "What is the Policy Continuance Benefit (PCB)?",
+      "answer": "PCB is an option where, upon the death of the life insured, the nominee receives the lump sum death benefit, and all future survival and maturity benefits continue to be paid without any further premium payments."
+    },
+    {
+      "question": "Is the Policy Continuance Benefit available with all options?",
+      "answer": "The Policy Continuance Benefit can be chosen at inception under all variants, except for the whole life term option (100 - age at entry)."
+    },
+    {
+      "question": "What happens if the life insured dies during the policy term?",
+      "answer": "A death benefit is paid, which is the higher of a specified Sum Assured on Death (plus terminal bonus, if any) or 105% of total premiums paid. If PCB is active, future benefits also continue."
+    },
+    {
+      "question": "What will I receive when the policy matures?",
+      "answer": "On maturity, you will receive the Sum Assured on Maturity, any accrued survival benefits, an additional benefit if you are a female life, and a terminal bonus, if declared."
+    },
+    {
+      "question": "Are there any special benefits for female policyholders?",
+      "answer": "Yes, an additional benefit of 10% of the Sum Assured on Maturity is available for female lives."
+    },
+    {
+      "question": "What are survival benefits?",
+      "answer": "Survival benefits are payouts made during the policy term. They consist of Cash Bonus (if declared) and Guaranteed Income (if applicable under your chosen variant)."
+    },
+    {
+      "question": "When do the survival benefit payments start?",
+      "answer": "For the Insta Income and Insta Income Boost variants, survival benefits can start from the 1st policy year. For the Future Income variant, they start from policy year PPT + 1."
+    },
+    {
+      "question": "Can I choose a specific date to receive my survival benefits?",
+      "answer": "Yes, with the 'SAVE THE DATE' option, you can choose to receive your annual survival benefits on any one date of your choice, other than the policy anniversary."
+    },
+    {
+      "question": "Can I change the payout frequency of my survival benefits?",
+      "answer": "Yes, you can choose to receive future payouts (Guaranteed Income and Cash Bonus) at a monthly, quarterly, half-yearly, or annual frequency."
+    },
+    {
+      "question": "What is the Premium Offset Option?",
+      "answer": "Under the Insta Income & Insta Income Boost variants, you have an option to use your receivable survival benefits (Guaranteed Income and Cash Bonus) to pay for future premiums."
+    },
+    {
+      "question": "Does this plan include an Accidental Death Benefit?",
+      "answer": "Yes, there is an inbuilt Accidental Death Benefit for lives aged 18 years and above. It provides an additional payout for accidental death after the premium payment term."
+    },
+    {
+      "question": "How much is the Accidental Death Benefit?",
+      "answer": "It is an additional sum equal to 50% of the Sum Assured on Death, subject to a maximum of Rs. 1 Crore."
+    },
+    {
+      "question": "Are the bonuses in this plan guaranteed?",
+      "answer": "No, the Cash Bonus and Terminal Bonus are not guaranteed. They are declared by the company based on the performance of its participating fund."
+    },
+    {
+      "question": "Can I add extra coverage or riders to this policy?",
+      "answer": "Yes, you can enhance your cover by choosing from available riders like Axis Max Life Term Plus Rider, Waiver of Premium Plus Rider, and others."
+    },
+    {
+      "question": "What happens if the policy is purchased for a minor?",
+      "answer": "The policy shall vest in the life insured when they attain the age of majority, which is 18 years."
+    },
+    {
+      "question": "Can I receive the maturity benefit in installments instead of a lump sum?",
+      "answer": "Yes, the Settlement Period Option allows you to take the maturity benefit as regular monthly or annual income over a period of 5, 10, 15, or 20 years."
+    },
+    {
+      "question": "Are there any discounts on the premium?",
+      "answer": "Yes, discounts on the first-year premium may be applicable for select customer segments such as existing customers, staff, and transgender lives, governed by internal guidelines."
+    },
+    {
+      "question": "How is the death benefit different for the Insta Income Boost variant?",
+      "answer": "For the Insta Income Boost variant, if death occurs after the premium payment term, the death benefit is 110% of the Sum Assured on Death, which is higher than the 100% applicable during the premium payment term."
+    },
+    {
+      "question": "What does 'Early Liquidity' mean in this plan?",
+      "answer": "Early Liquidity refers to the survival benefits which start from the 1st policy year for the Insta Income and Insta Income Boost variants, providing you with an early income stream."
+    }
+  ],
+  "source_file": "max-life-smart-wealth-advantage-growth-par-plan.txt",
+  "category": "LI Plan Brochure"
+}

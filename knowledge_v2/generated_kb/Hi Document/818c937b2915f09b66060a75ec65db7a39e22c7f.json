@@ -1,0 +1,190 @@
+{
+  "product_name": "ManipalCigna Lifetime Health India Plan",
+  "product_type": "Health Insurance",
+  "summary": "A comprehensive health insurance plan designed to cover you and your loved ones at every stage of life with coverage ranging from ₹50 lacs up to ₹3 crores, featuring unlimited restoration, guaranteed cumulative bonus, and worldwide medical emergency coverage.",
+  "coverage": [
+    "Inpatient Hospitalization for more than 24 hours",
+    "Pre-Hospitalization expenses up to 60 days",
+    "Post-Hospitalization expenses up to 180 days",
+    "Road Ambulance Cover",
+    "Donor Expenses",
+    "Robotic and Cyber Knife Surgery",
+    "Modern & Advanced Treatments",
+    "Mental Care Cover",
+    "HIV/AIDS & STD Cover",
+    "Domiciliary Expenses",
+    "Day Care Treatment",
+    "AYUSH Coverages for Alternative Treatments",
+    "Adult Health Check-Up",
+    "Maternity Expenses up to ₹1 Lac for up to 2 deliveries",
+    "Worldwide Medical Emergency Hospitalization"
+  ],
+  "waiting_periods": [
+    "First 30 days waiting period for all illnesses other than accidents",
+    "24 months waiting period for specific ailments",
+    "Pre-existing diseases not covered for 24 months",
+    "90 days waiting period and 30 days survival period for Critical Illness Add-on cover"
+  ],
+  "room_rent": [
+    "Pick any Room Category including Suite for Sum Insured ₹3 crores",
+    "Any room category coverage available with Health 360 Advance package"
+  ],
+  "co_pay": [],
+  "deductible": [],
+  "claims_information": [
+    "100% Restoration of Sum Insured for multiple hospitalizations for unrelated illnesses",
+    "Guaranteed Cumulative Bonus of 15% of India coverage Sum Insured each policy year irrespective of claims",
+    "No maximum limit on cumulative bonus accumulation",
+    "Premium waiver for one full year upon occurrence of listed contingencies to policyholder"
+  ],
+  "exclusions": [
+    "Any illness resulting from the Insured committing any breach of law",
+    "Contamination from Nuclear fuel or radiation",
+    "Foreign invasion or civil war",
+    "Expenses arising from war, war like situations"
+  ],
+  "faqs": [
+    {
+      "question": "What is the coverage amount available under ManipalCigna Lifetime Health India Plan?",
+      "answer": "The plan offers comprehensive coverage from ₹50 lacs up to ₹3 crores."
+    },
+    {
+      "question": "What is the restoration benefit available?",
+      "answer": "Unlimited restoration up to 100% of Sum Insured for multiple hospitalizations for unrelated illnesses in a policy year."
+    },
+    {
+      "question": "What is the guaranteed cumulative bonus?",
+      "answer": "You earn a guaranteed cumulative bonus of 15% of your India coverage Sum Insured each policy year, irrespective of claims, with no capping on accumulation."
+    },
+    {
+      "question": "What is the waiting period for illnesses?",
+      "answer": "First 30 days waiting period is applicable for all illnesses other than accidents."
+    },
+    {
+      "question": "What is the waiting period for pre-existing diseases?",
+      "answer": "Pre-existing diseases will not be covered for 24 months."
+    },
+    {
+      "question": "What is the waiting period for specific ailments?",
+      "answer": "24 months waiting period is applicable on specific ailments."
+    },
+    {
+      "question": "What room categories are covered?",
+      "answer": "You can pick any Room Category including Suite under inpatient hospitalization for Sum Insured ₹3 crores."
+    },
+    {
+      "question": "What is covered under pre-hospitalization?",
+      "answer": "Medical expenses incurred up to 60 days before the date of hospitalization are covered."
+    },
+    {
+      "question": "What is covered under post-hospitalization?",
+      "answer": "Medical expenses incurred post the date of discharge, up to 180 days after hospitalization are covered."
+    },
+    {
+      "question": "Is ambulance service covered?",
+      "answer": "Yes, road ambulance cover for transport expenses incurred for ambulance to the hospital is included."
+    },
+    {
+      "question": "Are AYUSH treatments covered?",
+      "answer": "Yes, medical expenses towards non-allopathic treatments including Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy are covered up to the limit of Sum Insured."
+    },
+    {
+      "question": "Is mental health covered?",
+      "answer": "Yes, mental care cover is provided for medical expenses for conditions caused by or associated to mental illness, stress, anxiety, depression or medical conditions impacting mental health."
+    },
+    {
+      "question": "Is HIV/AIDS covered?",
+      "answer": "Yes, HIV/AIDS & STD cover is provided for medical expenses for conditions caused by or associated to HIV or HIV related illnesses, including AIDS or AIDS Related Complex and sexually transmitted diseases."
+    },
+    {
+      "question": "What is domiciliary treatment coverage?",
+      "answer": "Domiciliary expenses are covered for treatment of a disease, illness or injury at home on the advice of medical practitioner, under specific circumstances, up to 10% of Sum Insured."
+    },
+    {
+      "question": "Is day care treatment covered?",
+      "answer": "Yes, medical expenses towards day care treatment or surgery that requires less than 24 hours of hospitalization are covered."
+    },
+    {
+      "question": "What is the adult health check-up benefit?",
+      "answer": "Once per policy year, insured persons of 18 years or more can avail a comprehensive health check-up at the network starting from first policy year."
+    },
+    {
+      "question": "What is the premium waiver benefit?",
+      "answer": "Upon occurrence of listed contingencies (Accidental death/Permanent Partial Disablement/Permanent Total Disablement/listed Critical Illnesses) to the Policyholder, waiver of one full year premium is provided."
+    },
+    {
+      "question": "What is the maternity coverage?",
+      "answer": "Maternity expenses are covered up to ₹1 Lac for delivery, treatment of the new born baby, and first year's vaccinations, for up to 2 deliveries. Medically necessary termination of pregnancy is also covered."
+    },
+    {
+      "question": "Is infertility treatment covered?",
+      "answer": "Yes, if hospitalized on Doctor's advice for Infertility Treatments, coverage is provided for a maximum of ₹2.5 Lacs, over and above the Maternity Sum Insured."
+    },
+    {
+      "question": "What is surrogacy cover?",
+      "answer": "Medical expenses for a Surrogate Mother are covered up to ₹1 Lac, in case of medically necessary hospitalization for complications due to pregnancy through Surrogacy and Post-Partum Delivery."
+    },
+    {
+      "question": "What is worldwide medical emergency coverage?",
+      "answer": "Medical expenses are covered worldwide, within the selected Area of Cover, for any medical emergency that leads to inpatient hospitalization or day care, including Global Post Hospitalisation and Global Road & Air Ambulance."
+    },
+    {
+      "question": "What are the age limits for entry?",
+      "answer": "Minimum entry age: Child - 91 days, Adult - 18 years. Maximum entry age: Child - 25 years (in family floater), Adult - 65 years."
+    },
+    {
+      "question": "What policy periods are available?",
+      "answer": "Policy periods of 1, 2 and 3 years are available."
+    },
+    {
+      "question": "What premium payment modes are available?",
+      "answer": "Monthly, Quarterly, Half Yearly, Yearly, and Single payment modes are available. Premium loading will apply for Monthly, Quarterly and Half Yearly modes."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "Grace period of 30 days for single yearly, half-yearly and quarterly mode of payment, and 15 days for monthly mode of payment."
+    },
+    {
+      "question": "What is the free-look period?",
+      "answer": "A period of 30 days is provided to cancel the policy. Free look cancellation & refund will be made within 7 days from the date of receipt of request."
+    },
+    {
+      "question": "What discounts are available?",
+      "answer": "Long term discount: 7.5% for 2 years and 10% for 3 years policy term. Loyalty discount: 5% from 4th to 7th policy year, 10% from 8th policy year onwards. Family discount: 15% for covering 2 or more family members. Online renewal discount: 3% p.a. through NACH or Standing Instruction."
+    },
+    {
+      "question": "Who can be covered under individual plan?",
+      "answer": "Individual plan can be bought for self, lawfully wedded spouse, children, parents, siblings, parent in laws, grandparents & grandchildren, son in-law & daughter in-law, uncle, aunt, nephew & niece."
+    },
+    {
+      "question": "Who can be covered under floater plan?",
+      "answer": "Floater plan can cover self, lawfully wedded spouse, children up to age 25 years, parents and parent in laws. Maximum of 2 adults and 3 children under single policy."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Policyholder may cancel by giving 7 days written notice and company shall refund premium for unexpired period. Company may cancel on grounds of misrepresentation, non-disclosure, fraud by giving 15 days written notice."
+    },
+    {
+      "question": "What is the air ambulance cover limit?",
+      "answer": "Air ambulance cover is available up to ₹10 Lacs with maximum one event per policy year for expenses incurred on availing air ambulance services in India in case of emergency."
+    },
+    {
+      "question": "What is the medical devices and non-medical items coverage?",
+      "answer": "Coverage is available up to ₹2 Lacs once in 3 policy years for expenses towards medical devices and non-medical items as prescribed by treating medical practitioner during or after hospitalization."
+    },
+    {
+      "question": "What cash benefits are available under optional packages?",
+      "answer": "Major Illness Hospitalization Cash: ₹2,500 daily for up to 10 days. Chemotherapy/Radiotherapy Cash: ₹2,500 per sitting for up to 12 sittings per year. Accidental Hospitalization Cash: ₹2,500 daily for up to 10 days. Convalescence Benefit: ₹50,000 lump sum for 10+ consecutive days hospitalization."
+    },
+    {
+      "question": "What women-specific benefits are available?",
+      "answer": "Breast Cancer Screening (annual mammography), Cervical Cancer Screening (annual pap smear), Cervical Cancer Vaccination (up to ₹2,500 per dose), Ovarian Cancer Screening (annual ultrasound and CA 125), Osteoporosis Screening (annual DEXA scan), up to 15 gynecological consultations, and up to 5 psychiatric/psychological consultations per year."
+    },
+    {
+      "question": "What is the continuity benefit?",
+      "answer": "Continuity benefit on the entire Sum Insured is available for those with existing base Sum Insured (excluding cumulative bonus) of ₹10 lacs and above."
+    }
+  ],
+  "source_file": "818c937b2915f09b66060a75ec65db7a39e22c7f.txt",
+  "category": "Hi Document"
+}

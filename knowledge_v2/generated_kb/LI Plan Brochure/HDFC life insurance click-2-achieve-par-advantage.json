@@ -1,0 +1,241 @@
+{
+  "product_name": "HDFC Life Click 2 Achieve Par Advantage",
+  "company": "HDFC Life",
+  "product_type": "An Individual Non Linked, Participating, Savings Life Insurance Plan",
+  "insurance_type": "Life Insurance",
+  "plan_category": "Savings",
+  "summary": "An individual, non-linked, participating, savings life insurance plan designed to help achieve life goals like home ownership, child's education, or retirement. It provides life insurance cover for the financial security of your family and offers flexibility through 5 different plan options that can be combined, presenting a spectrum of options to safeguard loved ones' futures and attain financial objectives.",
+  "quick_facts": {
+    "minimum_age": "0 (30 days). In case 'Additional Life' option is selected, minimum entry age shall be 18 years for both lives.",
+    "maximum_age": "65 years for Regular/Limited Pay options.",
+    "sum_insured": "No limit, subject to Board Approved Underwriting Policy (BAUP).",
+    "policy_term": "10 to 40 years.",
+    "waiting_period": "Deferment Period of 0 to 12 years applicable for income/survival benefits in options 2, 3, 4, and 5. Suicide exclusion applies for 12 months from risk commencement or revival."
+  },
+  "coverage": [
+    {
+      "type": "Death Benefit",
+      "description": "On death of the Life Assured during the Policy Term, the benefit payable is the highest of: Sum Assured on Death plus applicable bonuses, or 105% of Total Premiums Paid as on the date of death."
+    },
+    {
+      "type": "Maturity Benefit",
+      "description": "On survival of Life Assured till the end of the Policy Term, a Maturity Benefit is payable. The benefit varies by plan option and generally includes Sum Assured on Maturity plus any applicable bonuses."
+    },
+    {
+      "type": "Survival Benefit",
+      "description": "Payable under Balanced Income, Early Income, Enhanced Income, and Guaranteed Income options during the pay-out period. It consists of cash bonuses and, for the Guaranteed Income option, a guaranteed payout."
+    },
+    {
+      "type": "Guaranteed Payouts",
+      "description": "Under the Guaranteed Income option, a guaranteed pay-out of 10% of Basic Sum Assured is payable every year during the pay-out period."
+    },
+    {
+      "type": "Rider Coverage",
+      "description": "Optional enhanced protection through riders like HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Protect Plus Rider, HDFC Life Health Plus Rider, and HDFC Life Waiver of Premium Rider on payment of additional premium."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Flexibility in Plan Options",
+      "description": "Choose any combination from 5 plan options: Lumpsum, Balanced Income, Early Income, Enhanced Income, and Guaranteed Income."
+    },
+    {
+      "name": "Additional Life Option",
+      "description": "Flexibility to choose additional life option for a spouse. On first death, death benefit is paid and all future premiums are waived."
+    },
+    {
+      "name": "Policy Continuance Benefit (PCB)",
+      "description": "An option where upon the death of the Life Assured, the death benefit is paid as a lump sum, future premiums are waived, and future benefits continue for the nominee."
+    },
+    {
+      "name": "Premium Offset",
+      "description": "Feature to offset your premium against cash bonus and/or guaranteed payouts as applicable."
+    },
+    {
+      "name": "Paid Up Additions (PUA)",
+      "description": "Feature to convert part or full cash bonus payable into Paid-Up Additions, which increases the Sum Assured."
+    },
+    {
+      "name": "Deferral of Survival/Income Benefit",
+      "description": "Feature to accrue the cash bonus and/or guaranteed pay-out and take it as a lump sum when required."
+    },
+    {
+      "name": "Special Milestone Benefit",
+      "description": "Option to receive a benefit on a pre-planned special occasion in the policyholder’s life."
+    },
+    {
+      "name": "Option to decrease premiums",
+      "description": "After the first five policy years, the policyholder can decrease the premium up to 50% of the original Annualized Premium."
+    },
+    {
+      "name": "Policy Loan",
+      "description": "Policy loans are available up to a maximum of 80% of the surrender value."
+    },
+    {
+      "name": "Tax Benefits",
+      "description": "You may be eligible for tax benefits as per prevailing tax laws."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Age at Entry",
+      "value": "0 years (30 days). 18 years if 'Additional Life' option is selected."
+    },
+    {
+      "criteria": "Maximum Age at Entry",
+      "value": "Up to 65 years, depending on the plan option, PCB choice, and premium payment type."
+    },
+    {
+      "criteria": "Minimum Age at Maturity",
+      "value": "18 years."
+    },
+    {
+      "criteria": "Maximum Age at Maturity",
+      "value": "Up to 85 years, depending on the plan option."
+    },
+    {
+      "criteria": "Premium Payment Term (Years)",
+      "value": "Single Pay, 5, 6, 8, 10, 12 years."
+    },
+    {
+      "criteria": "Policy Term (Years)",
+      "value": "10 to 40 years."
+    },
+    {
+      "criteria": "Deferment Period (Years)",
+      "value": "0 to 12 years for applicable income options."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide Exclusion",
+      "description": "In case of death due to suicide within 12 months from the date of commencement of risk or from the date of revival of the policy, the nominee or beneficiary shall be entitled to at least 80% of the total premiums paid till the date of death or surrender value available, whichever is higher."
+    },
+    {
+      "type": "Rider Exclusions",
+      "description": "Specific exclusions apply to optional riders. For example, the Waiver of Premium on Critical Illness (WOP CI) benefit has detailed definitions and exclusions for various listed illnesses. Please refer to the rider brochure for details."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Process",
+      "description": "The document details the benefits payable on events like death, maturity, and survival but does not specify the claims submission process. Policyholders should refer to the policy document for detailed claim procedures."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is HDFC Life Click 2 Achieve Par Advantage?",
+      "answer": "It is an Individual, Non-Linked, Participating, Savings Life Insurance Plan from HDFC Life designed to help you achieve your financial goals while providing life insurance coverage for your family."
+    },
+    {
+      "question": "What are the different plan options available under this policy?",
+      "answer": "There are five plan options to choose from: 1. Lumpsum, 2. Balanced Income, 3. Early Income, 4. Enhanced Income, and 5. Guaranteed Income."
+    },
+    {
+      "question": "Can I choose more than one plan option in a single policy?",
+      "answer": "Yes, you can choose one or more of the available plan options at the time of policy inception."
+    },
+    {
+      "question": "What is the 'Lumpsum' plan option?",
+      "answer": "The 'Lumpsum' option offers a guaranteed lumpsum payable at maturity along with non-guaranteed benefits like regular reversionary bonus and terminal bonus, if declared."
+    },
+    {
+      "question": "How does the 'Guaranteed Income' option work?",
+      "answer": "This option provides a guaranteed pay-out of 10% of the Basic Sum Assured every year during the pay-out period, in addition to non-guaranteed cash and terminal bonuses, if any."
+    },
+    {
+      "question": "What is the 'Additional Life Option'?",
+      "answer": "It is an option to include your spouse as an additional life assured in the policy. On the first death, a death benefit is paid, and all future premiums under the policy are waived."
+    },
+    {
+      "question": "What is the 'Policy Continuance Benefit' (PCB)?",
+      "answer": "PCB is an option that allows the policy to continue even after the death of the life assured. The death benefit is paid as a lump sum, future premiums are waived, and the nominee receives all future benefits as and when they were originally scheduled."
+    },
+    {
+      "question": "What death benefit is payable under this plan?",
+      "answer": "The death benefit is the highest of: a) Sum Assured on Death plus applicable bonuses, or b) 105% of the total premiums paid as on the date of death."
+    },
+    {
+      "question": "What is the minimum age to buy this policy?",
+      "answer": "The minimum entry age is 30 days. However, if the 'Additional Life Option' is selected, the minimum entry age for both lives is 18 years."
+    },
+    {
+      "question": "What are the available policy terms?",
+      "answer": "The policy term can range from 10 to 40 years, depending on the plan option chosen."
+    },
+    {
+      "question": "What are the premium payment term options?",
+      "answer": "You can choose from a Single Premium payment or Limited Premium Payment Terms of 5, 6, 8, 10, or 12 years."
+    },
+    {
+      "question": "Is it possible to take a loan against this policy?",
+      "answer": "Yes, a policy loan is available for up to 80% of the policy's surrender value, subject to terms and conditions."
+    },
+    {
+      "question": "What happens if I forget to pay my premium on time?",
+      "answer": "A grace period of 15 days for monthly premium payments and 30 days for other frequencies is provided. If the premium is not paid within the grace period, the policy may lapse or become a reduced paid-up policy if it has acquired a surrender value."
+    },
+    {
+      "question": "What is the 'Premium Offset' feature?",
+      "answer": "This feature allows you to use your accrued cash bonus and/or guaranteed pay-outs to adjust against the premium you need to pay."
+    },
+    {
+      "question": "Can I defer receiving my income benefits?",
+      "answer": "Yes, the 'Deferral of Survival Benefit' option lets you accumulate your cash bonus and/or guaranteed pay-outs. These accumulated funds will earn interest and can be withdrawn as a lump sum later."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a free-look period of 30 days from the date of receiving the policy document to review its terms and conditions and return it if you are not agreeable."
+    },
+    {
+      "question": "What is the suicide exclusion clause?",
+      "answer": "If the life assured commits suicide within 12 months from the policy's start or revival date, the nominee will receive at least 80% of the total premiums paid or the surrender value, whichever is higher."
+    },
+    {
+      "question": "Are the bonuses mentioned in the illustrations guaranteed?",
+      "answer": "No, the cash bonus, reversionary bonus, and terminal bonus are non-guaranteed as this is a participating plan. Their payment depends on the profits of the company's participating fund."
+    },
+    {
+      "question": "What are 'Paid-Up Additions' (PUA)?",
+      "answer": "This is an option where you can use your cash bonus to purchase additional Sum Assured, thereby increasing the overall value and benefits of your policy."
+    },
+    {
+      "question": "Can I change my premium payment frequency during the policy term?",
+      "answer": "Yes, you can alter the premium payment frequency. The change will be effective from the next policy anniversary."
+    },
+    {
+      "question": "Can I reduce my premium amount later on?",
+      "answer": "Yes, after paying premiums for the first five completed policy years, you can decrease the premium by up to 50% of the original annualized premium. Note that this will reduce your policy benefits proportionately."
+    },
+    {
+      "question": "What is the 'Special Milestone Benefit'?",
+      "answer": "This is an optional feature, chosen at inception, that allows you to receive a benefit payment on a pre-planned special occasion in your life, like a marriage anniversary or a child's birthday."
+    },
+    {
+      "question": "What optional riders can I add to this plan?",
+      "answer": "You can enhance your protection by adding riders like the HDFC Life Income Benefit on Accidental Disability Rider, HDFC Life Protect Plus Rider, and HDFC Life Health Plus Rider for an additional premium."
+    },
+    {
+      "question": "What is the maximum maturity age for this policy?",
+      "answer": "The maximum age at maturity can be up to 85 years, depending on the plan option and premium payment term chosen."
+    },
+    {
+      "question": "What is the minimum premium required for this plan?",
+      "answer": "The minimum premium depends on the payment frequency. For the yearly frequency, it is Rs. 25,000, and for a single premium, it is Rs. 50,000."
+    },
+    {
+      "question": "Can my family receive the death benefit in installments instead of a lump sum?",
+      "answer": "Yes, the policyholder or nominee has the option to receive the death benefit in installments over a chosen period of 5 to 15 years."
+    },
+    {
+      "question": "How is the 'Sum Assured on Death' determined?",
+      "answer": "It is calculated by multiplying the Annualized Premium (for Limited/Regular Pay) or Single Premium (for Single Pay) by a Death Benefit Multiple (DBM) that you choose at the start of the policy."
+    },
+    {
+      "question": "When can I surrender my policy?",
+      "answer": "A single premium policy can be surrendered immediately. A limited/regular premium policy can be surrendered after the completion of the first policy year, provided one full year's premium has been paid."
+    }
+  ],
+  "source_file": "HDFC life insurance click-2-achieve-par-advantage.txt",
+  "category": "LI Plan Brochure"
+}

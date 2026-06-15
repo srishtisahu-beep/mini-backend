@@ -1,0 +1,253 @@
+{
+  "product_name": "Maha Raksha Supreme Select",
+  "company": "Tata AIA Life Insurance Company Limited",
+  "product_type": "Non-Linked, Non-Participating, Pure Risk, Individual Life Insurance Product",
+  "insurance_type": "Term Insurance",
+  "plan_category": "Individual",
+  "summary": "Tata AIA Maha Raksha Supreme Select is a Term insurance plan that provides financial protection to your family. It is a Non-Linked, Non-Participating, pure risk, Individual Life Insurance Product, offering a wide range of choices to fulfill your family’s specific needs of financial protection.",
+  "quick_facts": {
+    "minimum_age": "18 years",
+    "maximum_age": "Up to 65 years, depending on the chosen option (e.g., 65 for Life Secure, 45 for Legacy Secure Plus)",
+    "sum_insured": "Minimum: ₹25,00,000 for most options; ₹1,25,000 (Single Pay) / ₹2,10,000 (Limited Pay) for Legacy Secure Plus. Maximum: No Limit, subject to Board approved underwriting policy.",
+    "policy_term": "Varies by option. Can provide whole of life cover up to 100 years of age.",
+    "waiting_period": "90 days from commencement of risk for non-accidental death. Not applicable for death due to accident. This is applicable only if the product is bought under the PoS variant."
+  },
+  "coverage": [
+    {
+      "name": "Death Benefit",
+      "description": "Payable on the death of the life assured. The amount is the highest of a specified multiple of the premium, 105% of total premiums paid up to the date of death, or the absolute sum assured."
+    },
+    {
+      "name": "Terminal Illness (Payor Accelerator Benefit)",
+      "description": "An inbuilt benefit where a lump sum equal to 50% of the Base Sum Assured is paid on acceptance of a Terminal Illness claim. All future premiums are waived thereafter."
+    },
+    {
+      "name": "Maturity Benefit",
+      "description": "Available under 'Plus' options (Life Secure Plus, Joint Life Secure Plus, Step-Up Secure Plus). An amount equal to 100% of total premiums paid for the base benefit is returned on survival till maturity."
+    },
+    {
+      "name": "Survival Benefit",
+      "description": "Available only under the Legacy Secure Plus option. A percentage of total premiums paid is payable on attaining pre-defined milestone ages."
+    },
+    {
+      "name": "Accidental Death Benefit",
+      "description": "Inbuilt in certain options. Under Joint Life options, an additional Base SA is paid on simultaneous accidental death of both lives. Under Step-Up options, the full Base SA is paid for accidental death during the Step-Up period."
+    }
+  ],
+  "benefits": [
+    {
+      "name": "Choice of 7 Death Benefit Options",
+      "description": "Flexibility to choose from Life Secure, Life Secure Plus, Joint Life Secure, Joint Life Secure Plus, Step-Up Secure, Step-Up Secure Plus, and Legacy Secure Plus."
+    },
+    {
+      "name": "Whole of Life Cover",
+      "description": "The plan offers the option for coverage for the whole of life, up to 100 years of age."
+    },
+    {
+      "name": "Inbuilt Premium Waiver",
+      "description": "On diagnosis and acceptance of a terminal illness claim, all future premiums are waived."
+    },
+    {
+      "name": "Joint Life Option",
+      "description": "Flexibility to cover a spouse under the same policy with the Joint Life Secure and Joint Life Secure Plus options."
+    },
+    {
+      "name": "Cover Enhancement Options",
+      "description": "Option to increase cover through 'Life Stage' benefit on major life events or 'Top-Up SA' to increase cover annually, subject to conditions."
+    },
+    {
+      "name": "Flexible Payout Option",
+      "description": "The death benefit can be received as a lump sum, in instalments (up to 60 months), or a combination of both."
+    },
+    {
+      "name": "FlexiPay Benefit",
+      "description": "Allows deferment of premium payment for up to 12 months after paying premiums for 5 full years, while keeping the policy in-force."
+    },
+    {
+      "name": "Instant Payout on Claim Intimation",
+      "description": "An accelerated payment of ₹3 Lacs within 1 working day of claim registration for eligible policies, to provide interim support to the family."
+    },
+    {
+      "name": "Salaried Discount",
+      "description": "A 5% discount on first-year premiums is offered to salaried customers for regular and limited pay policies with a Base Sum Assured of ₹50 lacs or more."
+    },
+    {
+      "name": "Health Management Services",
+      "description": "Access to optional services like Second Medical Opinion, Personal Medical Case Management, and Medical Consultation from affiliated service providers."
+    },
+    {
+      "name": "Rider Availability",
+      "description": "Option to enhance protection through comprehensive protection and health riders at an additional cost."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "Minimum Entry Age",
+      "details": "18 years (as on last birthday)."
+    },
+    {
+      "criteria": "Maximum Entry Age",
+      "details": "Varies by the chosen option, up to 65 years for Life Secure."
+    },
+    {
+      "criteria": "Maximum Maturity Age",
+      "details": "Up to 100 years (65 years for the PoS variant)."
+    },
+    {
+      "criteria": "Premium Payment Options",
+      "details": "Single Pay (lump sum), Regular Pay (equal to Policy Term), and Limited Pay."
+    },
+    {
+      "criteria": "Premium Payment Modes",
+      "details": "Single, Yearly, Half-Yearly, Quarterly, and Monthly."
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "Suicide",
+      "description": "If the life assured commits suicide within 12 months from the policy commencement or revival date, the nominee is entitled to at least 80% of the total premiums paid till the date of death or the surrender value, whichever is higher."
+    },
+    {
+      "type": "Terminal Illness Benefit",
+      "description": "No claim is payable if the condition arises from an attempted suicide in the first year. Also, the benefit will not commence until two years are completed from the policy issuance date."
+    },
+    {
+      "type": "Accidental Death Benefit",
+      "description": "Not payable for deaths caused directly or indirectly by disease, infection, pre-existing conditions, suicide, substance abuse, war, participation in hazardous activities (like speed racing, bungee jumping), working in underground mines, breach of law, or nuclear contamination."
+    }
+  ],
+  "claims_information": [
+    {
+      "type": "Contact Details",
+      "info": "For claims, contact your Insurance Advisor/Intermediary, call 1-860-266-9966 (local charges apply), or email customercare@tataaia.com."
+    },
+    {
+      "type": "Instant Payout",
+      "info": "An accelerated death benefit of ₹3 Lacs from the Sum Assured is paid within 1 working day of claim registration."
+    },
+    {
+      "type": "Eligibility for Instant Payout",
+      "info": "The policy must be in-force, the claim must be made after 3 policy years from inception or revival, and the minimum Sum Assured must be ₹1 Crore."
+    },
+    {
+      "type": "Documents for Instant Payout Intimation",
+      "info": "Death Certificate, Cancelled Cheque / Bank account details, Claim intimation form, KYC of nominee, and Policy document."
+    },
+    {
+      "type": "Claim Process",
+      "info": "After the instant payout, the remaining death benefit is paid post completion of the claim investigation. The instant payout is an acceleration of the claim amount and not a final acceptance of the claim."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Tata AIA Maha Raksha Supreme Select?",
+      "answer": "It is a Non-Linked, Non-Participating, pure risk, Individual Life Term Insurance Product from Tata AIA Life, designed to provide financial protection to your family with a wide range of choices."
+    },
+    {
+      "question": "What is the minimum and maximum age to buy this policy?",
+      "answer": "The minimum entry age is 18 years. The maximum entry age varies by the chosen plan option, ranging from 45 years to 65 years."
+    },
+    {
+      "question": "Can I get coverage for my entire life?",
+      "answer": "Yes, the plan offers a whole of life cover option, with a maximum maturity age of up to 100 years."
+    },
+    {
+      "question": "Are there different plan options to choose from?",
+      "answer": "Yes, there are seven unique options: Life Secure, Life Secure Plus, Joint Life Secure, Joint Life Secure Plus, Step-Up Secure, Step-Up Secure Plus, and Legacy Secure Plus."
+    },
+    {
+      "question": "Is there any benefit if I survive the policy term?",
+      "answer": "Yes, under the 'Plus' options (Life Secure Plus, Step-Up Secure Plus, Joint Life Secure Plus), 100% of the total premiums paid for the base benefit is payable at the end of the policy term on survival."
+    },
+    {
+      "question": "Can I cover my spouse in the same policy?",
+      "answer": "Yes, the 'Joint Life Secure' and 'Joint Life Secure Plus' options allow you to cover your spouse under the same policy."
+    },
+    {
+      "question": "What happens if I am diagnosed with a terminal illness?",
+      "answer": "The plan includes a 'Payor Accelerator Benefit' where 50% of the Base Sum Assured is paid as a lump sum upon diagnosis of a terminal illness. After this payout, all future premiums are waived."
+    },
+    {
+      "question": "Can I increase my insurance cover after buying the policy?",
+      "answer": "Yes, you can increase your cover through the 'Life Stage' option on specific life events (like marriage, childbirth) or the 'Top-Up SA' option to increase cover annually, subject to terms and conditions."
+    },
+    {
+      "question": "How will my family receive the death benefit? Can they get it in installments?",
+      "answer": "Yes, at inception, you can choose the 'Flexible Payout Option'. The death benefit can be paid as a 100% lump sum, entirely in monthly installments (for up to 60 months), or a combination of both."
+    },
+    {
+      "question": "What is the 'FlexiPay Benefit'?",
+      "answer": "This feature allows you to defer your premium payments for up to 12 months while maintaining full risk cover. This option is available after paying premiums for 5 full years."
+    },
+    {
+      "question": "Is there a discount for salaried individuals?",
+      "answer": "Yes, salaried customers opting for a Base Sum Assured of ₹50 lakhs or more get a 5% discount on first-year premiums for regular and limited pay options."
+    },
+    {
+      "question": "What happens if I stop paying premiums?",
+      "answer": "If premiums are unpaid after the grace period, the policy may either lapse (no benefits payable) or be converted to a Reduced Paid-Up policy with reduced benefits, depending on how many years' premiums have been paid."
+    },
+    {
+      "question": "Can I revive a lapsed policy?",
+      "answer": "Yes, a lapsed policy can be revived within five years from the due date of the first unpaid premium, subject to payment of all overdue premiums with interest and underwriting approval."
+    },
+    {
+      "question": "Is there an 'Instant Payout' on death claims?",
+      "answer": "Yes, for eligible policies (in-force for 3+ years, Sum Assured ≥ ₹1 Crore), an accelerated payment of ₹3 Lakhs is made within one working day of claim registration to provide interim support."
+    },
+    {
+      "question": "Is there a waiting period for this plan?",
+      "answer": "For policies bought under the PoS variant, there is a 90-day waiting period from the date of commencement of risk for non-accidental death. This waiting period is not applicable for death due to an accident."
+    },
+    {
+      "question": "What is the policy on death due to suicide?",
+      "answer": "If death by suicide occurs within 12 months of the policy's commencement or revival, the nominee will receive at least 80% of the total premiums paid till death or the surrender value, whichever is higher."
+    },
+    {
+      "question": "Are there any specific exclusions for the Accidental Death Benefit?",
+      "answer": "Yes, the benefit is not payable for deaths caused by disease, pre-existing conditions, suicide, substance abuse, war, participation in hazardous activities, or breach of law, among other listed exclusions."
+    },
+    {
+      "question": "Can I take a loan against my Maha Raksha Supreme Select policy?",
+      "answer": "No, a policy loan is not available under this plan."
+    },
+    {
+      "question": "What is the free-look period for this policy?",
+      "answer": "You have a 30-day free-look period from the date you receive the policy document to review its terms and conditions. If unsatisfied, you can cancel it for a refund of premiums paid, subject to certain deductions."
+    },
+    {
+      "question": "How does the 'Step-Up Secure' option work?",
+      "answer": "Under this option, the death benefit is a pre-defined percentage of the Base Sum Assured during an initial 'Step-Up period' (1 to 5 years) and increases to 100% of the Base Sum Assured after this period."
+    },
+    {
+      "question": "What is the 'Legacy Secure Plus' option?",
+      "answer": "This is a whole of life option with an increasing life cover throughout the policy term. It also pays out a lump sum survival benefit at two pre-defined milestone ages."
+    },
+    {
+      "question": "What are the available premium payment modes?",
+      "answer": "You can pay premiums through Single Pay, or on a Yearly, Half-Yearly, Quarterly, or Monthly basis for regular and limited pay options."
+    },
+    {
+      "question": "What is the 'Education Secure' option?",
+      "answer": "It is an optional additional life cover to provide for the higher education costs of up to 3 nominated children. It is available with certain plan options on payment of additional premiums."
+    },
+    {
+      "question": "What is the 'Cover Continuation Option' in joint life plans?",
+      "answer": "Under the Joint Life Secure and Joint Life Secure Plus options, if one of the insured persons passes away, the surviving person has the option to take a new Single Premium policy for their own life cover. The premium for this new policy is deducted from the death benefit payout."
+    },
+    {
+      "question": "How is the death benefit calculated?",
+      "answer": "The death benefit is the highest of: a multiple of the Annualised/Single Premium, 105% of Total Premiums Paid up to the date of death, or an absolute amount assured to be paid on death (the Effective Sum Assured)."
+    },
+    {
+      "question": "Can I surrender the policy?",
+      "answer": "Yes, the policy acquires a surrender value under certain conditions, such as after payment of one full year's premium for non-single pay policies. The surrender value will be the higher of Guaranteed Surrender Value (GSV) and Special Surrender Value (SSV)."
+    },
+    {
+      "question": "What is the grace period for premium payment?",
+      "answer": "The grace period is 15 days for the monthly premium payment mode and 30 days for all other modes (Yearly, Half-Yearly, Quarterly)."
+    }
+  ],
+  "source_file": "Tata AIA life  Maha_Raksha_Supreme.txt",
+  "category": "LI Plan Brochure"
+}
